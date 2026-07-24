@@ -1,8 +1,9 @@
 """High-level pipeline API, mirroring sea-g2p's ergonomics.
 
     from africa_g2p import AfricaPipeline
-    pipe = AfricaPipeline(lang="dyu")
-    pipe.run("jakuma bɛ sogo dun")   # -> IPA string
+    pipe = AfricaPipeline(lang="dyu")           # native-orthography phonemes (default)
+    pipe.run("jakuma bɛ sogo dun")
+    AfricaPipeline(lang="dyu", output="ipa").run("jakuma")   # IPA instead
 """
 from __future__ import annotations
 
@@ -13,9 +14,10 @@ from .loader import registry
 
 
 class AfricaPipeline:
-    def __init__(self, lang: str, *, unknown: str = "passthrough"):
+    def __init__(self, lang: str, *, output: str = "grapheme",
+                 unknown: str = "passthrough"):
         self.lang = lang
-        self.g2p = G2P(lang, unknown=unknown)
+        self.g2p = G2P(lang, output=output, unknown=unknown)
         self.info = registry().get(lang, {"code": lang})
 
     def run(self, text: Union[str, List[str]], *, sep: str = ""):

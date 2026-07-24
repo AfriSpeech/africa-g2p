@@ -40,6 +40,31 @@ def fold_confusables(text: str) -> str:
     return text.translate(_CONFUSABLE_TABLE)
 
 
+# Orthographic tone / accent combining marks that must NEVER appear in IPA output.
+# IPA renders tone with tone letters (˥˦˧˨˩) or spacing marks — not with vowel accents.
+# This set deliberately EXCLUDES genuine IPA combining diacritics such as nasalization
+# (U+0303), the affricate tie bar (U+0361/U+035C), extra-short (U+0306), centralized
+# (U+0308), ATR (U+0318/U+0319), voiceless (U+0325), so those are preserved.
+_ORTHOGRAPHIC_ACCENTS = {
+    0x0300,  # grave (low tone)
+    0x0301,  # acute (high tone)
+    0x0302,  # circumflex (falling)
+    0x0304,  # macron (mid tone)
+    0x0309,  # hook above
+    0x030B,  # double acute (extra-high)
+    0x030C,  # caron / haček (rising)
+    0x030F,  # double grave (extra-low)
+    0x0311,  # inverted breve
+}
+
+
+def clean_ipa(text: str) -> str:
+    """Strip orthographic tone/accent marks from IPA output, keeping IPA diacritics."""
+    decomposed = unicodedata.normalize("NFD", text)
+    kept = [c for c in decomposed if ord(c) not in _ORTHOGRAPHIC_ACCENTS]
+    return unicodedata.normalize("NFC", "".join(kept))
+
+
 def normalize_text(text: str, *, lower: bool = True) -> str:
     """Unicode-normalize (NFC), fold confusables, and optionally case-fold."""
     text = unicodedata.normalize("NFC", text)

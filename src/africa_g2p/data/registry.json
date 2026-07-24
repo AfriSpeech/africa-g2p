@@ -3,959 +3,2403 @@
     "code": "abi",
     "name": "Abidji",
     "country": "Côte d'Ivoire",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "abi",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Abiji"
+    ],
+    "glottocode": "abid1235"
   },
   {
     "code": "ada",
     "name": "Dangme (Adangme)",
     "country": "Ghana",
     "family": "Kwa",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "ade",
     "name": "Adele",
     "country": "Togo",
-    "family": "Niger-Congo",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ade",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Bedere",
+      "Bidire",
+      "Gadre",
+      "Gidire"
+    ],
+    "glottocode": "adel1244"
   },
   {
     "code": "adj",
     "name": "Adioukrou",
     "country": "Côte d'Ivoire",
-    "family": "Kru",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "adj",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Adjukru",
+      "Adyoukrou",
+      "Adyukru",
+      "Ajukru"
+    ],
+    "glottocode": "adio1239"
   },
   {
     "code": "aka",
     "name": "Akan",
     "country": "Ghana",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "aka",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Asante",
+      "Fante",
+      "Fante Akan",
+      "Fanti",
+      "Mfantse",
+      "Odschi",
+      "Otyi",
+      "Tuic",
+      "Twi",
+      "Tšwi"
+    ],
+    "glottocode": "akan1250"
   },
   {
     "code": "anc",
     "name": "Angas",
     "country": "Nigeria",
-    "family": "Chadic",
-    "confidence": "high"
+    "family": "Afro-Asiatic",
+    "confidence": "high",
+    "iso639_3": "anc",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Angas",
+      "Karang",
+      "Kerang"
+    ],
+    "glottocode": "ngas1240"
   },
   {
     "code": "any",
     "name": "Agni Sanvi",
     "country": "Côte d'Ivoire",
     "family": "Kwa",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "apd",
     "name": "Arabic (Northern Sudanese Colloquial)",
     "country": "Sudan",
     "family": "Afroasiatic",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "avu",
     "name": "Avokaya",
     "country": "Sudan",
-    "family": "Nilo-Saharan",
-    "confidence": "high"
+    "family": "Central Sudanic",
+    "confidence": "high",
+    "iso639_3": "avu",
+    "regions": [
+      "Central Africa",
+      "East Africa"
+    ],
+    "alt_names": [
+      "Abukeia",
+      "Avukaya"
+    ],
+    "glottocode": "avok1242"
   },
   {
     "code": "bas",
     "name": "Basaa",
     "country": "Cameroon",
-    "family": "Bantu A.40",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "bas",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Basa",
+      "Basaa",
+      "Basaá"
+    ],
+    "glottocode": "basa1284"
   },
   {
     "code": "beh",
     "name": "Biali",
     "country": "Benin",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "beh",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Berba",
+      "Bieri",
+      "Bjerb",
+      "Bjeri",
+      "Burba"
+    ],
+    "glottocode": "bial1238"
   },
   {
     "code": "bhy",
     "name": "Bhele",
     "country": "Zaire",
-    "family": "Border-Bantu",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "bhy",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Bili",
+      "Ebhele",
+      "Ipere",
+      "Kipere",
+      "Kipili",
+      "Pere",
+      "Peri",
+      "Pili",
+      "Piri"
+    ],
+    "glottocode": "bhel1238"
   },
   {
     "code": "bib",
     "name": "Bisa",
     "country": "Burkina Faso",
     "family": "Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": "bib",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Bisa"
+    ],
+    "glottocode": "biss1248"
   },
   {
     "code": "bim",
     "name": "Bimoba",
     "country": "Ghana",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "bim",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Moar",
+      "Moba",
+      "Moor"
+    ],
+    "glottocode": "bimo1239"
   },
   {
     "code": "bin",
     "name": "Edo (Bini)",
     "country": "Nigeria",
     "family": "New Benue-Congo",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "bjo",
     "name": "Banda",
     "country": "Central African Republic",
-    "family": "Adamawa-Ubangi",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "liy",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Banda",
+      "Banda Linda",
+      "Banda of Bambari",
+      "Banda-Linda",
+      "Linda"
+    ],
+    "glottocode": "band1344"
   },
   {
     "code": "bky",
     "name": "Bekwarra",
     "country": "Nigeria",
-    "family": "Benue-Congo",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "bkv",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Bekworra",
+      "Ebekwara",
+      "Yakoro"
+    ],
+    "glottocode": "bekw1241"
   },
   {
     "code": "bom",
     "name": "Berom",
     "country": "Nigeria",
-    "family": "Benue-Congo",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "bom",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "\"Shosho\"",
+      "Aboro",
+      "Afango",
+      "Berum",
+      "Birom",
+      "Boro",
+      "Boro-Aboro",
+      "Cen Berom",
+      "Chenberom",
+      "Gbang",
+      "Kibbo",
+      "Kibbun",
+      "Kibo",
+      "Kibyen"
+    ],
+    "glottocode": "bero1242"
   },
   {
     "code": "boz",
     "name": "Bozo",
     "country": "Mali",
     "family": "Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": "boz",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Boso",
+      "Bozo",
+      "Bozo (Tigemaxo)",
+      "Bozo, Tiéyaxo",
+      "Tie",
+      "Tiemaxo",
+      "Tieyaxo",
+      "Tieyaxo Bozo",
+      "Tigemaxo",
+      "Tiguémakho",
+      "Tiéyakho",
+      "Tiéyaxo",
+      "Tyeyaxo",
+      "Tégué"
+    ],
+    "glottocode": "tiey1235"
   },
   {
     "code": "bsq",
     "name": "Bassa",
     "country": "Liberia",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Kru",
+    "confidence": "high",
+    "iso639_3": "bsq",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [],
+    "glottocode": "nucl1418"
   },
   {
     "code": "bud",
     "name": "Bassar (N'tcham)",
     "country": "Togo",
     "family": "Gur",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "bza",
     "name": "Bandi (Gbande)",
     "country": "Liberia",
     "family": "Southwestern Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "cko",
     "name": "Anufɔ (Tchokossi)",
     "country": "Togo",
     "family": "Kwa",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "cme",
     "name": "Cerma (Gouin)",
     "country": "Burkina Faso",
     "family": "Gur",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "daf",
     "name": "Dan (Yacouba) (Blowo)",
     "country": "Côte d'Ivoire",
     "family": "Southern Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "dag",
     "name": "DAGBANI",
     "country": "GHANA",
-    "family": "GUR",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "dag",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Dagbamba",
+      "Dagbane",
+      "Dagomba"
+    ],
+    "glottocode": "dagb1246"
   },
   {
     "code": "dbq",
     "name": "Daba",
     "country": "Cameroon",
-    "family": "Chadic, Central",
-    "confidence": "high"
+    "family": "Afro-Asiatic",
+    "confidence": "high",
+    "iso639_3": "dbq",
+    "regions": [
+      "Central Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "Dabba",
+      "Kola"
+    ],
+    "glottocode": "nucl1683"
   },
   {
     "code": "dga",
     "name": "Dagaare",
     "country": "Ghana",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "dgd",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Dagaare",
+      "Dagaari",
+      "Dagaari Jula",
+      "Dagara",
+      "Dagari",
+      "Dagari Dyoula",
+      "Dagatri",
+      "Dagatsi",
+      "Jari",
+      "Wa",
+      "Wala",
+      "Yari"
+    ],
+    "glottocode": "daga1272"
   },
   {
     "code": "dgi",
     "name": "Dagara",
     "country": "Burkina Faso",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "dgd",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Dagaare",
+      "Dagaari",
+      "Dagaari Jula",
+      "Dagara",
+      "Dagari",
+      "Dagari Dyoula",
+      "Dagatri",
+      "Dagatsi",
+      "Jari",
+      "Wa",
+      "Wala",
+      "Yari"
+    ],
+    "glottocode": "daga1272"
   },
   {
     "code": "dop-benin",
     "name": "Lokpa (Dompago)",
     "country": "Benin",
     "family": "Gur",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "dop-benin2",
     "name": "Lokpa (Dompago)",
     "country": "Benin",
     "family": "Gur",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "dow",
     "name": "Doayo",
     "country": "Cameroon",
-    "family": "Adamawa-Ubangi, Adamawa 4",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "dow",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "\"Namchi\"",
+      "\"Namci\"",
+      "\"Namshi\"",
+      "Dayãyo",
+      "Doayo",
+      "Donyanyo",
+      "Donyayo",
+      "Doohyaayo",
+      "Doowaayo",
+      "Dooyaa(ng)yo",
+      "Dooyaangyo",
+      "Dooyaayo",
+      "Dooyayo",
+      "Dowayayo",
+      "Dowayo",
+      "Doyaayo",
+      "Doyau",
+      "Namshi",
+      "Nomai",
+      "Tunga",
+      "Tungbo",
+      "Tuuno"
+    ],
+    "glottocode": "doya1240"
   },
   {
     "code": "dug",
     "name": "Duruma",
     "country": "Kenya",
-    "family": "Bantu (E.72D)",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "dug",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Chiduruma"
+    ],
+    "glottocode": "duru1249"
   },
   {
     "code": "dyu",
     "name": "Dioula (Jula)",
     "country": "Côte d'Ivoire",
     "family": "Mande",
-    "confidence": "hand-verified"
+    "confidence": "hand-verified",
+    "iso639_3": null
   },
   {
     "code": "dzg",
     "name": "DAZA",
     "country": "CHAD",
-    "family": "NILO SAHARAN",
-    "confidence": "high"
+    "family": "Afro-Asiatic",
+    "confidence": "high",
+    "iso639_3": "dzd",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Ampika",
+      "Bolanchi",
+      "Bolawa",
+      "Bole",
+      "Bolewa",
+      "Borpika",
+      "Dazawa"
+    ],
+    "glottocode": "daza1244"
   },
   {
     "code": "ema",
     "name": "Emai",
     "country": "Nigeria",
-    "family": "Edoid",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ema",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Emai",
+      "Ivbiosakon",
+      "Kunibum",
+      "Ora (in Nigeria)"
+    ],
+    "glottocode": "emai1241"
   },
   {
     "code": "enn",
     "name": "Engenni",
     "country": "Nigeria",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "enn",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Egene",
+      "Egene, Engene",
+      "Ngene"
+    ],
+    "glottocode": "enge1239"
   },
   {
     "code": "etn",
     "name": "Western Ejagham",
     "country": "Cameroon",
     "family": "Ekoid Bantu",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "ewo",
     "name": "Ewondo",
     "country": "Cameroon",
-    "family": "Bantu, A.70",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ewo",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Ewundu",
+      "Jaunde",
+      "Yaounde",
+      "Yaunde"
+    ],
+    "glottocode": "ewon1239"
   },
   {
     "code": "ffm",
     "name": "Fulfulde (Peul)",
     "country": "Mali",
     "family": "West Atlantic",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "flr",
     "name": "Fuliiru",
     "country": "Zaire",
-    "family": "Niger-Congo, Bantu",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "flr",
+    "regions": [
+      "Central Africa",
+      "East Africa"
+    ],
+    "alt_names": [
+      "Fulero",
+      "Fuliiru people",
+      "Fuliru",
+      "Kifulero",
+      "Kifuliiru"
+    ],
+    "glottocode": "fuli1240"
   },
   {
     "code": "fmp",
     "name": "Fe'efe'e",
     "country": "Cameroon",
-    "family": "Grassfields Bantu, East, Bamileke",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "fmp",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Bafang",
+      "Bamileke-Fe'fe'",
+      "Fe'efe'e",
+      "Fe'fe",
+      "Fe?fe?",
+      "Feefee",
+      "Fefe",
+      "Fotouni",
+      "Nufi"
+    ],
+    "glottocode": "fefe1239"
   },
   {
     "code": "fon",
     "name": "Fon",
     "country": "Benin",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "fon",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Dahomeen",
+      "Djedji",
+      "Fo",
+      "Fogbe",
+      "Fon-Gbe",
+      "Fongbe",
+      "Fonnu"
+    ],
+    "glottocode": "fonn1241"
   },
   {
     "code": "fuc",
     "name": "Pulaar (Fulfulde)",
     "country": "Senegal",
     "family": "West Atlantic",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "gaa",
     "name": "Ga",
     "country": "Ghana",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "gaa",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Accra",
+      "Acra",
+      "Akra",
+      "Amina",
+      "Dangme",
+      "Gain",
+      "Gã"
+    ],
+    "glottocode": "gaaa1244"
   },
   {
     "code": "gej",
     "name": "Gen-Mina",
     "country": "Togo",
     "family": "Kwa",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "gfe",
     "name": "Kpɛlɛwoo",
     "country": "Guinea",
     "family": "Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "gjn",
     "name": "Gonja",
     "country": "Ghana",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "gjn",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Guang",
+      "Ngbanyito"
+    ],
+    "glottocode": "gonj1241"
   },
   {
     "code": "gng",
     "name": "Gangam",
     "country": "Togo",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "gng",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Dye",
+      "Gamgan",
+      "Gangam",
+      "Gangum",
+      "Gbanyang",
+      "Migangam",
+      "Mijiem",
+      "Nbangam",
+      "Ngangan",
+      "Ngãngã"
+    ],
+    "glottocode": "ngan1299"
   },
   {
     "code": "grb",
     "name": "Grebo (Chlehpo Dialect)",
     "country": "Liberia",
     "family": "Kru",
-    "confidence": "medium"
+    "confidence": "medium",
+    "iso639_3": null
   },
   {
     "code": "hag",
     "name": "Hanga",
     "country": "Ghana",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "hag",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Anga"
+    ],
+    "glottocode": "hang1258"
   },
   {
     "code": "hau-niger",
     "name": "Hausa",
     "country": "Niger",
-    "family": "Afro-Asiatic, Chadic",
-    "confidence": "high"
+    "family": "Afro-Asiatic",
+    "confidence": "high",
+    "iso639_3": "hau",
+    "regions": [
+      "Central Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "Abakwariga",
+      "Habe",
+      "Haoussa",
+      "Hausa Group",
+      "Hausawa",
+      "Haussa",
+      "Hawsa",
+      "Kado",
+      "Mgbakpa"
+    ],
+    "glottocode": "haus1257"
   },
   {
     "code": "hau-nigeria",
     "name": "Hausa",
     "country": "Nigeria",
-    "family": "Afro-Asiatic, Chadic",
-    "confidence": "high"
+    "family": "Afro-Asiatic",
+    "confidence": "high",
+    "iso639_3": "hau",
+    "regions": [
+      "Central Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "Abakwariga",
+      "Habe",
+      "Haoussa",
+      "Hausa Group",
+      "Hausawa",
+      "Haussa",
+      "Hawsa",
+      "Kado",
+      "Mgbakpa"
+    ],
+    "glottocode": "haus1257"
   },
   {
     "code": "ibo",
     "name": "Igbo",
     "country": "Nigeria",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ibo",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Ibo"
+    ],
+    "glottocode": "nucl1417"
   },
   {
     "code": "igb",
     "name": "Ebira",
     "country": "Nigeria",
-    "family": "New Benue-Congo",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "igb",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Egbira",
+      "Egbura",
+      "Ibara",
+      "Igbarra",
+      "Igbira",
+      "Igbirra",
+      "Katawa",
+      "Kotokori",
+      "Kwotto"
+    ],
+    "glottocode": "ebir1243"
   },
   {
     "code": "ige",
     "name": "Igede",
     "country": "Nigeria",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ige",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Egede",
+      "Igedde"
+    ],
+    "glottocode": "iged1239"
   },
   {
     "code": "igo",
     "name": "Ahlõ",
     "country": "Togo",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ahl",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Achlo",
+      "Ago",
+      "Ahlon",
+      "Ahlon-Bogo",
+      "Ahlõ",
+      "Ahonlan",
+      "Anlo"
+    ],
+    "glottocode": "igoo1238"
   },
   {
     "code": "kdh",
     "name": "Tem (Kotokoli)",
     "country": "Togo",
     "family": "Gur",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "khq",
     "name": "Songhoy",
     "country": "Mali",
-    "family": "Nilo-Saharan",
-    "confidence": "high"
+    "family": "Songhay",
+    "confidence": "high",
+    "iso639_3": "hmb",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Central Songai",
+      "Hombori Songhay",
+      "Songai",
+      "Songay",
+      "Songay Senni",
+      "Songhai",
+      "Songhay",
+      "Songhay, Humburi Senni",
+      "Songhoy",
+      "Songoi",
+      "Songoy",
+      "Sonrai",
+      "Sonrhai"
+    ],
+    "glottocode": "humb1243"
   },
   {
     "code": "kik",
     "name": "Kikuyu",
     "country": "Kenya",
-    "family": "Bantu",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "kik",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Gekoyo",
+      "Gigikuyu",
+      "Gikuyu"
+    ],
+    "glottocode": "kiku1240"
   },
   {
     "code": "knc",
     "name": "Kanuri",
     "country": "Niger",
-    "family": "Nilo-Saharan",
-    "confidence": "high"
+    "family": "Saharan",
+    "confidence": "high",
+    "iso639_3": "kau",
+    "regions": [
+      "Central Africa",
+      "North Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "Central Kanuri",
+      "Manga Kanuri",
+      "Tumari Kanuri"
+    ],
+    "glottocode": null
   },
   {
     "code": "krb",
     "name": "Karan",
     "country": "Cameroon",
     "family": "Adamawa-Ubangi, Adamawa B",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "kri",
     "name": "Krio",
     "country": "Sierra Leone",
-    "family": "Creole",
-    "confidence": "high"
+    "family": "Indo-European",
+    "confidence": "high",
+    "iso639_3": "kri",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [],
+    "glottocode": "krio1253"
   },
   {
     "code": "kuj",
     "name": "Kuria",
     "country": "Kenya",
-    "family": "Bantu",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "kuj",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Ekiguria",
+      "Igikuria",
+      "Ikikuria",
+      "Kikuria",
+      "Kurya",
+      "Kurye",
+      "Tende"
+    ],
+    "glottocode": "kuri1259"
   },
   {
     "code": "kus",
     "name": "Kusal",
     "country": "Ghana",
     "family": "Gur",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "kyd",
     "name": "Kambari",
     "country": "Nigeria",
-    "family": "Benue-Congo",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "bqx",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Cibaangi",
+      "Kambari"
+    ],
+    "glottocode": "baan1242"
   },
   {
     "code": "lgg",
     "name": "Lugbara",
     "country": "Uganda",
     "family": "Central Sudanic",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": "lgg",
+    "regions": [
+      "Central Africa",
+      "East Africa"
+    ],
+    "alt_names": [
+      "High Lugbara",
+      "Logbara",
+      "Western"
+    ],
+    "glottocode": "lugb1240"
   },
   {
     "code": "lig",
     "name": "Ligbi",
     "country": "Ghana",
     "family": "Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": "lig",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Banda",
+      "Dzowo",
+      "Huela",
+      "Hwela-Numu",
+      "Jogo",
+      "Ligwi",
+      "Namasa",
+      "Nigbi",
+      "Nigwi",
+      "Numu",
+      "Tsie",
+      "Tuba",
+      "Weela",
+      "Weila",
+      "Wiila"
+    ],
+    "glottocode": "ligb1244"
   },
   {
     "code": "lin",
     "name": "Lingala",
     "country": "Congo",
-    "family": "Bantoid, Bantu C.40",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "lin",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Losengo",
+      "Ngala"
+    ],
+    "glottocode": "ling1263"
   },
   {
     "code": "lmp",
     "name": "Limbum",
     "country": "Cameroon",
-    "family": "Grassfields Bantu",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "lmp",
+    "regions": [
+      "Central Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "Bojiin",
+      "Kambu",
+      "Limbom",
+      "Llimbumi",
+      "Ndzungle",
+      "Ndzungli",
+      "Njungene",
+      "Nsungali",
+      "Nsungli",
+      "Nsungni",
+      "Wimbum"
+    ],
+    "glottocode": "limb1268"
   },
   {
     "code": "lns",
     "name": "Nso'",
     "country": "Cameroon",
-    "family": "Grassfields Bantu, Ring",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "lns",
+    "regions": [
+      "Central Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "Bansaw",
+      "Banso",
+      "Banso'",
+      "Lamnso",
+      "Lamnsok",
+      "Lamso",
+      "Nsaw",
+      "Nsho'",
+      "Nso",
+      "Nso'",
+      "Panso"
+    ],
+    "glottocode": "lamn1239"
   },
   {
     "code": "lok",
     "name": "Loko",
     "country": "Sierra Leone",
     "family": "Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": "lok",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Landogo"
+    ],
+    "glottocode": "loko1255"
   },
   {
     "code": "lug",
     "name": "Luganda",
     "country": "Uganda",
-    "family": "Bantu",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "lug",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Luganda"
+    ],
+    "glottocode": "gand1255"
   },
   {
     "code": "maw",
     "name": "Mampruli",
     "country": "Ghana",
-    "family": "Central Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "maw",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Mampelle",
+      "Mamprule",
+      "Mamprusi",
+      "Mamprussi",
+      "Manpelle",
+      "Ngmamperli",
+      "Ŋmampəlli"
+    ],
+    "glottocode": "mamp1244"
   },
   {
     "code": "mcu",
     "name": "Mambila",
     "country": "Cameroon",
-    "family": "Bantoid, Mambiloid",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "mcu",
+    "regions": [
+      "Central Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "Bang",
+      "Bea",
+      "Ble",
+      "Juli",
+      "Lagubi",
+      "Mambere",
+      "Mambila",
+      "Mambila, Cameroon",
+      "Mambilla",
+      "Nor",
+      "Tagbo",
+      "Tongbo",
+      "Torbi"
+    ],
+    "glottocode": "came1252"
   },
   {
     "code": "mdj",
     "name": "Mangbetu (Meje)",
     "country": "Zaire",
     "family": "Central Sudanic",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "mfb",
     "name": "Mbembe",
     "country": "Nigeria",
-    "family": "Benue-Congo, Cross-River",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "nza",
+    "regions": [
+      "Central Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "Akonto",
+      "Akwanto",
+      "Mbembe",
+      "Mbembe, Tigon",
+      "Noale",
+      "Tigim",
+      "Tigon",
+      "Tigong",
+      "Tigum",
+      "Tigun",
+      "Tikun",
+      "Tukun"
+    ],
+    "glottocode": "tigo1236"
   },
   {
     "code": "mfi",
     "name": "Mo",
     "country": "Ghana",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "mzw",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Aculo",
+      "Buro",
+      "Buru",
+      "Degha",
+      "Dɛ",
+      "Janela",
+      "Mmfo",
+      "Mo"
+    ],
+    "glottocode": "degg1238"
   },
   {
     "code": "mkw",
     "name": "Mekaa",
     "country": "Cameroon",
-    "family": "Bantu A.83",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "mcp",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Meka",
+      "Mekaa",
+      "Nyaana",
+      "South Makaa",
+      "South Mekaa",
+      "Toma"
+    ],
+    "glottocode": "maka1304"
   },
   {
     "code": "mmo",
     "name": "Muan",
     "country": "Côte d'Ivoire",
-    "family": "Southern Mande",
-    "confidence": "high"
+    "family": "Mande",
+    "confidence": "high",
+    "iso639_3": "moa",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Mona",
+      "Mouan",
+      "Muan",
+      "Muana",
+      "Mwa"
+    ],
+    "glottocode": "mwan1250"
   },
   {
     "code": "mnf",
     "name": "Mundani",
     "country": "Cameroon",
-    "family": "Grassfields Bantu, Momo",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "mnf",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Cameroon",
+      "Lower Mundani"
+    ],
+    "glottocode": "mund1327"
   },
   {
     "code": "mnk",
     "name": "Mande (Malinke, Mandinka)",
     "country": "Senegal",
     "family": "Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "mur",
     "name": "Murle",
     "country": "Sudan",
-    "family": "Surma, Nilo Saharan",
-    "confidence": "high"
+    "family": "Surmic",
+    "confidence": "high",
+    "iso639_3": "mur",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Adkibba",
+      "Agiba",
+      "Ajibba",
+      "Beir",
+      "Merule",
+      "Mourle",
+      "Murele",
+      "Murelei",
+      "Murule",
+      "Omo-Murle"
+    ],
+    "glottocode": "murl1244"
   },
   {
     "code": "mwe",
     "name": "Metta (Menemo)",
     "country": "Cameroon",
     "family": "Grassfields Bantu, Momo",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "mxd",
     "name": "Moru",
     "country": "Sudan",
-    "family": "Nilo-Saharan",
-    "confidence": "high"
+    "family": "Central Sudanic",
+    "confidence": "high",
+    "iso639_3": "mgd",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Kala Moru"
+    ],
+    "glottocode": "moru1253"
   },
   {
     "code": "myk",
     "name": "Minyanka",
     "country": "Mali",
-    "family": "Senufo, Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "myk",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Mamara",
+      "Mianka",
+      "Minianka",
+      "Miniyanka",
+      "Minya",
+      "Minyanka",
+      "Senoufo, Mamara",
+      "Tupiire"
+    ],
+    "glottocode": "mama1271"
   },
   {
     "code": "mzk",
     "name": "Mambila",
     "country": "Nigeria",
-    "family": "Bantoid, Mambiloid",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "mcu",
+    "regions": [
+      "Central Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "Bang",
+      "Bea",
+      "Ble",
+      "Juli",
+      "Lagubi",
+      "Mambere",
+      "Mambila",
+      "Mambila, Cameroon",
+      "Mambilla",
+      "Nor",
+      "Tagbo",
+      "Tongbo",
+      "Torbi"
+    ],
+    "glottocode": "came1252"
   },
   {
     "code": "naw",
     "name": "Nawdem",
     "country": "Togo",
     "family": "Gur",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "ncu",
     "name": "Chumburung",
     "country": "Ghana",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ncu",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Chumburu",
+      "Chumburung (Yeji)",
+      "Guang",
+      "Kyongborong",
+      "Nchimburu",
+      "Nchumburu",
+      "Nchumburung",
+      "Nchummuru"
+    ],
+    "glottocode": "chum1261"
   },
   {
     "code": "nfr",
     "name": "Nafaanra",
     "country": "Ghana",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "nfr",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Banda",
+      "Dzama",
+      "Gambo",
+      "Nafaara",
+      "Nafana",
+      "Pantera-Fantera"
+    ],
+    "glottocode": "nafa1258"
   },
   {
     "code": "nga",
     "name": "Ngbaka",
     "country": "Zaire",
-    "family": "Adamawa-Ubangi, Ubangi",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "nga",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "'Bofi",
+      "Ali",
+      "Mbaka",
+      "Ngbaka Gbaya",
+      "Ngbaka Minangende",
+      "Ngbaka-Manza",
+      "Ngbaka-Minagende",
+      "Ngbaka-Minangende"
+    ],
+    "glottocode": "ngba1285"
   },
   {
     "code": "ngb-zaire",
     "name": "Ngbandi",
     "country": "Zaire",
-    "family": "Adamawa-Ubangi, Ubangi",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ngb",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Baza",
+      "Dendi",
+      "Mbangi",
+      "Mongwandi",
+      "Ngbandi",
+      "Ngbandi, Northern",
+      "Ngwandi",
+      "Yakoma (Sango)"
+    ],
+    "glottocode": "nort2774"
   },
   {
     "code": "ngb-zaire2",
     "name": "Ngbandi",
     "country": "Zaire",
-    "family": "Adamawa-Ubangi, Ubangi",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ngb",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Baza",
+      "Dendi",
+      "Mbangi",
+      "Mongwandi",
+      "Ngbandi",
+      "Ngbandi, Northern",
+      "Ngwandi",
+      "Yakoma (Sango)"
+    ],
+    "glottocode": "nort2774"
   },
   {
     "code": "nhw",
     "name": "Bèŋ (Ngain)",
     "country": "Côte d'Ivoire",
     "family": "Southern Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "nnh",
     "name": "Ngyembɔɔn",
     "country": "Cameroon",
     "family": "Grassfields Bantu, Bamileke",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "nnw",
     "name": "Nuni",
     "country": "Burkina Faso",
-    "family": "Central Gur, Northern Grusi",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "nuv",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Nibulu",
+      "Nouni",
+      "Nounouma",
+      "Nuna",
+      "Nune",
+      "Nuni",
+      "Nuni (Northern)",
+      "Nuni, Northern",
+      "Nunuma",
+      "Nuruma"
+    ],
+    "glottocode": "nort2784"
   },
   {
     "code": "nwb",
     "name": "Niaboua",
     "country": "Côte d'Ivoire",
     "family": "Kru",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": "nwb",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Niaboua",
+      "Nyaboa",
+      "Nyabwa-Nyédébwa"
+    ],
+    "glottocode": "nyab1255"
   },
   {
     "code": "pbi",
     "name": "Podoko",
     "country": "Cameroon",
-    "family": "Chadic, Central",
-    "confidence": "high"
+    "family": "Afro-Asiatic",
+    "confidence": "high",
+    "iso639_3": "pbi",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Gwadi Parekwa",
+      "Kudala",
+      "Padogo",
+      "Padoko",
+      "Padokwa",
+      "Paduko",
+      "Parekwa",
+      "Pawdawkwa",
+      "Podogo",
+      "Podoko",
+      "Podokwo"
+    ],
+    "glottocode": "park1239"
   },
   {
     "code": "rel",
     "name": "Rendille",
     "country": "Kenya",
-    "family": "Cushitic",
-    "confidence": "high"
+    "family": "Afro-Asiatic",
+    "confidence": "high",
+    "iso639_3": "rel",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Kenyan Rendille",
+      "Randile",
+      "Rendile"
+    ],
+    "glottocode": "rend1243"
   },
   {
     "code": "rex",
     "name": "Jur Mödö",
     "country": "Sudan",
-    "family": "Central Sudanic, Bongo-Bagirmi",
-    "confidence": "high"
+    "family": "Central Sudanic",
+    "confidence": "high",
+    "iso639_3": "bex",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Jur",
+      "Jur Mödö",
+      "Modo",
+      "Morokodo",
+      "Mödö"
+    ],
+    "glottocode": "jurm1239"
   },
   {
     "code": "sag-central_african_republic",
     "name": "Sango",
     "country": "Central African Republic",
-    "family": "Adamawa-Ubangi",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "sag",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Sangho"
+    ],
+    "glottocode": "sang1328"
   },
   {
     "code": "sag-congo",
     "name": "Sango",
     "country": "Congo",
-    "family": "Adamawa-Eastern",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "sag",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Sangho"
+    ],
+    "glottocode": "sang1328"
   },
   {
     "code": "sef-cote_d_ivoire",
     "name": "Senoufo (Senari)",
     "country": "Côte d'Ivoire",
     "family": "Gur",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "sef-cote_d_ivoire2",
     "name": "Senoufo (Senari)",
     "country": "Côte d'Ivoire",
     "family": "Gur",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "sil",
     "name": "Sisaala",
     "country": "Ghana",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ssl",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Busillu Sisala",
+      "Hissala",
+      "Isala",
+      "Issala",
+      "Sisaala",
+      "Sisaala (Western)",
+      "Sisaala, Western",
+      "Sisai",
+      "Sisala"
+    ],
+    "glottocode": "west2465"
   },
   {
     "code": "sld",
     "name": "Sissala",
     "country": "Burkina Faso",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "sld",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Sisaali",
+      "Sisala"
+    ],
+    "glottocode": "siss1242"
   },
   {
     "code": "snk-mali",
     "name": "Soninke",
     "country": "Mali",
     "family": "Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": "snk",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Aswanik",
+      "Diawara",
+      "Gadyaga",
+      "Maraka",
+      "Marka",
+      "Sarahole",
+      "Sarahuli",
+      "Sarakole",
+      "Sarakule",
+      "Sarawule",
+      "Serahuli",
+      "Silabe",
+      "Toubakai",
+      "Wakore",
+      "Walpre"
+    ],
+    "glottocode": "soni1259"
   },
   {
     "code": "snk-senegal",
     "name": "Sooninke (Sarakole)",
     "country": "Senegal",
     "family": "Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "spy",
     "name": "Sabaot",
     "country": "Kenya",
-    "family": "Southern Nilotic",
-    "confidence": "high"
+    "family": "Nilotic",
+    "confidence": "high",
+    "iso639_3": "spy",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Bong'om",
+      "Kony",
+      "Mt. Elgon Maasai",
+      "Pok",
+      "Sore-Sabaut"
+    ],
+    "glottocode": "saba1262"
   },
   {
     "code": "swh",
     "name": "Swahili",
     "country": "Kenya",
-    "family": "Bantu",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "swh",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Arab-Swahili",
+      "Bravanese dialect",
+      "Kisuaheli",
+      "Kisuahili",
+      "Kiswaheli",
+      "Kiswahili",
+      "Suahili",
+      "Swahili"
+    ],
+    "glottocode": "swah1253"
   },
   {
     "code": "tbz",
     "name": "Ditammari",
     "country": "Benin",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "tbz",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "\"Somba\"",
+      "Ditamari",
+      "Soma",
+      "Somba",
+      "Some",
+      "Tamari",
+      "Tamberma"
+    ],
+    "glottocode": "dita1238"
   },
   {
     "code": "ted",
     "name": "Kroumen Tépo",
     "country": "Côte d'Ivoire",
     "family": "Kru",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "tem",
     "name": "Themne",
     "country": "Sierra Leone",
-    "family": "West Atlantic",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "tem",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Baga",
+      "Landoma",
+      "Temen",
+      "Temne",
+      "Themne",
+      "Timene",
+      "Timmannee"
+    ],
+    "glottocode": "timn1235"
   },
   {
     "code": "tik",
     "name": "Tikar",
     "country": "Cameroon",
-    "family": "Bantoid, Bantu",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "tik",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Ndob",
+      "Ndome",
+      "Tikali",
+      "Tikar-East",
+      "Tikari",
+      "Tingkala"
+    ],
+    "glottocode": "tika1246"
   },
   {
     "code": "toq",
     "name": "Toposa",
     "country": "Sudan",
-    "family": "Eastern Nilotic, Teso-Turkana",
-    "confidence": "high"
+    "family": "Nilotic",
+    "confidence": "high",
+    "iso639_3": "toq",
+    "regions": [
+      "East Africa"
+    ],
+    "alt_names": [
+      "Akara",
+      "Kare",
+      "Kumi",
+      "Taposa",
+      "Topotha"
+    ],
+    "glottocode": "topo1242"
   },
   {
     "code": "trc",
     "name": "Tarok (Yergum)",
     "country": "Nigeria",
     "family": "Benue-Congo",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": null
   },
   {
     "code": "tsp",
     "name": "Toussian",
     "country": "Burkina Faso",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "tsp",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Toussian",
+      "Toussian (Northern)",
+      "Toussian (Southern)",
+      "Toussian, Northern",
+      "Tusia",
+      "Tusian"
+    ],
+    "glottocode": "nort2787"
   },
   {
     "code": "ttq",
     "name": "Tamajaq",
     "country": "Niger",
-    "family": "Afro-Asiatic, Berber",
-    "confidence": "high"
+    "family": "Afro-Asiatic",
+    "confidence": "high",
+    "iso639_3": "ttq",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Abinawa",
+      "Amazigh",
+      "Buzu",
+      "Tahoua",
+      "Tahoua Tamajeq",
+      "Tajag",
+      "Tamachek",
+      "Tamajaq",
+      "Tamajaq, Tawallammat",
+      "Tamajeq",
+      "Tamashekin",
+      "Tamasheq",
+      "Tamazheq",
+      "Tawallammat",
+      "Tewellemet",
+      "Tomacheck",
+      "Touareg",
+      "Tourage",
+      "Tuareg"
+    ],
+    "glottocode": "tawa1286"
   },
   {
     "code": "tuq",
     "name": "Teda",
     "country": "Chad",
-    "family": "Nilo-Saharan",
-    "confidence": "high"
+    "family": "Saharan",
+    "confidence": "high",
+    "iso639_3": "tuq",
+    "regions": [
+      "Central Africa",
+      "North Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "Tebou",
+      "Tebu",
+      "Teda",
+      "Tib-bo",
+      "Tibbu",
+      "Toda",
+      "Todaga",
+      "Todga",
+      "Toubou",
+      "Tubu",
+      "Tuda",
+      "Tudaga",
+      "Tū-bu"
+    ],
+    "glottocode": "teda1241"
   },
   {
     "code": "vag",
     "name": "Vagala",
     "country": "Ghana",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "vag",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Kira",
+      "Konosarola",
+      "Paxala",
+      "Siti",
+      "Sitigo",
+      "Vagala"
+    ],
+    "glottocode": "vagl1239"
   },
   {
     "code": "vut",
     "name": "Vute",
     "country": "Cameroon",
-    "family": "Bantoid, Mambiloid",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "vut",
+    "regions": [
+      "Central Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "'Abotee",
+      "'Abwetee",
+      "Baboute",
+      "Babute",
+      "Bamboute",
+      "Boute",
+      "Bubure",
+      "Bule",
+      "Bute",
+      "Buti",
+      "Foute",
+      "Luvure",
+      "Mbute",
+      "Mbutere",
+      "Mfuti",
+      "Nbule",
+      "Pute",
+      "Voute",
+      "Voutere",
+      "Vutere",
+      "Wetere",
+      "Woute",
+      "Wute"
+    ],
+    "glottocode": "vute1244"
   },
   {
     "code": "wan",
     "name": "Wan",
     "country": "Côte d'Ivoire",
-    "family": "Southern Mande",
-    "confidence": "high"
+    "family": "Mande",
+    "confidence": "high",
+    "iso639_3": "wan",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Nwa",
+      "Van"
+    ],
+    "glottocode": "wann1242"
   },
   {
     "code": "wib",
     "name": "Toussian",
     "country": "Burkina Faso",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "tsp",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Toussian",
+      "Toussian (Northern)",
+      "Toussian (Southern)",
+      "Toussian, Northern",
+      "Tusia",
+      "Tusian"
+    ],
+    "glottocode": "nort2787"
   },
   {
     "code": "wol",
     "name": "Wolof",
     "country": "Senegal",
-    "family": "West Atlantic",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "wol",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Dyolof",
+      "Ouolof",
+      "Volof",
+      "Walaf",
+      "Waro-Waro",
+      "Wolof (Dakar)",
+      "Yallof"
+    ],
+    "glottocode": "nucl1347"
   },
   {
     "code": "wwa",
     "name": "Waama",
     "country": "Benin",
-    "family": "Central Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "wwa",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Wama",
+      "Woaba",
+      "Yoabou",
+      "Yoabu"
+    ],
+    "glottocode": "waam1244"
   },
   {
     "code": "xon",
     "name": "Konkomba",
     "country": "Ghana",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "xon",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Kom Komba",
+      "Kpankpam",
+      "Kpəkpam",
+      "Likpakpaln"
+    ],
+    "glottocode": "konk1269"
   },
   {
     "code": "xpe",
     "name": "Kpelle",
     "country": "Liberia",
     "family": "Mande",
-    "confidence": "high"
+    "confidence": "high",
+    "iso639_3": "kpe",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Guinea Kpelle",
+      "Liberia Kpelle"
+    ],
+    "glottocode": null
   },
   {
     "code": "xrb",
     "name": "Karaboro",
     "country": "Burkina Faso",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "kza",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Karaboro",
+      "Karaboro, Western",
+      "Syer-Tenyer",
+      "Tenyer"
+    ],
+    "glottocode": "west2466"
   },
   {
     "code": "xsm-burkina_faso",
     "name": "Kasim",
     "country": "Burkina Faso",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "xsm",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Kasena",
+      "Kasim",
+      "Kassem",
+      "Kassena",
+      "Kassene"
+    ],
+    "glottocode": "kase1253"
   },
   {
     "code": "xsm-ghana",
     "name": "Kasem",
     "country": "Ghana",
-    "family": "Gur",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "xsm",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Kasena",
+      "Kasim",
+      "Kassem",
+      "Kassena",
+      "Kassene"
+    ],
+    "glottocode": "kase1253"
   },
   {
     "code": "yam",
     "name": "Yamba",
     "country": "Cameroon",
-    "family": "Grassfields Bantu, North",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "yam",
+    "regions": [
+      "Central Africa",
+      "West Africa"
+    ],
+    "alt_names": [
+      "\"Kaka\"",
+      "Bebaroe",
+      "Boenga Ko Muzok",
+      "Kakayamba",
+      "Mbem",
+      "Mbubem",
+      "Swe'nga"
+    ],
+    "glottocode": "yamb1251"
   },
   {
     "code": "yat",
     "name": "Yambeta",
     "country": "Cameroon",
-    "family": "Bantu A.60",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "yat",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Njambeta",
+      "Yambetta"
+    ],
+    "glottocode": "yamb1252"
   },
   {
     "code": "ybb",
     "name": "Yemba",
     "country": "Cameroon",
-    "family": "Grassfields Bantu, Bamileke",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "ybb",
+    "regions": [
+      "Central Africa"
+    ],
+    "alt_names": [
+      "Atsang-Bangwa",
+      "Bafou",
+      "Bamileke-Yemba",
+      "Bangwa",
+      "Dschang",
+      "Dschang, Yemba",
+      "Tchang"
+    ],
+    "glottocode": "yemb1246"
   },
   {
     "code": "yor-benin",
     "name": "Yoruba",
     "country": "Benin",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "yor",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Ede-Yoruba",
+      "Yariba",
+      "Yooba"
+    ],
+    "glottocode": "yoru1245"
   },
   {
     "code": "yor-benin2",
     "name": "Yoruba",
     "country": "Benin",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "yor",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Ede-Yoruba",
+      "Yariba",
+      "Yooba"
+    ],
+    "glottocode": "yoru1245"
   },
   {
     "code": "yor-nigeria",
     "name": "Yoruba",
     "country": "Nigeria",
-    "family": "Kwa",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "yor",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Ede-Yoruba",
+      "Yariba",
+      "Yooba"
+    ],
+    "glottocode": "yoru1245"
   },
   {
     "code": "zne",
     "name": "Zande",
     "country": "Central African Republic",
-    "family": "Adamawa-Eastern",
-    "confidence": "high"
+    "family": "Atlantic-Congo",
+    "confidence": "high",
+    "iso639_3": "zne",
+    "regions": [
+      "Central Africa",
+      "East Africa"
+    ],
+    "alt_names": [
+      "Asande",
+      "Azande",
+      "Badjande",
+      "Bazenda",
+      "Pazande",
+      "Sande",
+      "Zande",
+      "Zandi"
+    ],
+    "glottocode": "zand1248"
   }
 ]
