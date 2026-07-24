@@ -1,0 +1,199 @@
+{
+  "code": "flr",
+  "name": "Fuliiru",
+  "country": "Zaire",
+  "family": "Niger-Congo, Bantu",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 47",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "mb": "mb",
+    "n": "n",
+    "nd": "nd",
+    "nz": "nz",
+    "ny": "ɲ",
+    "nj": "ɲʒ",
+    "ng": "ŋɡ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "sh": "ʃ",
+    "j": "ʒ",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {},
+  "tones": {
+    "note": "Tone is not written."
+  },
+  "notes": "Top header line partially cut off in scan, but header suffix '(FULIIRU)' identifies Fuliiru (Zaire / DRC). Converted phoneme /y/ to IPA /j/. Phoneme /p/ note: 'in borrowed words'. Labialization (CwV) and palatalization (CyV) noted. Vowel length represented by doubling vowel letters (VV).",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "ng",
+    "nj",
+    "ny",
+    "nz",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "kaluku",
+      "gloss": "proper name"
+    },
+    {
+      "word": "ibiti",
+      "gloss": "trees"
+    },
+    {
+      "word": "uludaha",
+      "gloss": "bag, pocket"
+    },
+    {
+      "word": "ulugega",
+      "gloss": "big basket for carrying on the back"
+    },
+    {
+      "word": "ifuka",
+      "gloss": "hoe"
+    },
+    {
+      "word": "amagi",
+      "gloss": "eggs"
+    },
+    {
+      "word": "amahemba",
+      "gloss": "millet"
+    },
+    {
+      "word": "amagi",
+      "gloss": "eggs"
+    },
+    {
+      "word": "ulujanga",
+      "gloss": "small fish (sg)"
+    },
+    {
+      "word": "kaluku",
+      "gloss": "proper name"
+    },
+    {
+      "word": "kaluku",
+      "gloss": "proper name"
+    },
+    {
+      "word": "amakala",
+      "gloss": "charcoal"
+    },
+    {
+      "word": "umumbati",
+      "gloss": "cassava"
+    },
+    {
+      "word": "umwana",
+      "gloss": "child"
+    },
+    {
+      "word": "indimu",
+      "gloss": "orange"
+    },
+    {
+      "word": "inganga",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "injanga",
+      "gloss": "small fish"
+    },
+    {
+      "word": "inyumba",
+      "gloss": "house"
+    },
+    {
+      "word": "inzanzagi",
+      "gloss": "woven bag for a man"
+    },
+    {
+      "word": "imikonde",
+      "gloss": "bananas"
+    },
+    {
+      "word": "umupapali",
+      "gloss": "papaya tree"
+    },
+    {
+      "word": "imirondo",
+      "gloss": "clothes"
+    },
+    {
+      "word": "isaabuni",
+      "gloss": "soap"
+    },
+    {
+      "word": "ikishakulo",
+      "gloss": "mortar"
+    },
+    {
+      "word": "ibiti",
+      "gloss": "trees"
+    },
+    {
+      "word": "ulugega",
+      "gloss": "basket"
+    },
+    {
+      "word": "ivuha",
+      "gloss": "bone"
+    },
+    {
+      "word": "wehe",
+      "gloss": "you (sg)"
+    },
+    {
+      "word": "ayanika",
+      "gloss": "he puts out to dry"
+    },
+    {
+      "word": "ikibuzi",
+      "gloss": "sheep"
+    }
+  ]
+}

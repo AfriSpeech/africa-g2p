@@ -1,0 +1,338 @@
+{
+  "page": 48,
+  "is_language_page": true,
+  "language": "Fe'efe'e",
+  "iso639_3": "fmp",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, East, Bamileke",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "ʒ",
+      "grapheme": "zh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "ʉ",
+      "grapheme": "ʉ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "ɑ",
+      "grapheme": "ɑ"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "oo"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+030C",
+      "role": "low-high tone",
+      "ipa": "˩˥"
+    },
+    {
+      "mark": "U+0302",
+      "role": "high-low tone",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low/central": "unmarked",
+    "low-high": "caron",
+    "high-low": "circumflex"
+  },
+  "alphabet": [
+    "a",
+    "ɑ",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "ʉ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "zh",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "a",
+      "gloss": "he"
+    },
+    {
+      "word": "mbawala",
+      "gloss": "whoever"
+    },
+    {
+      "word": "mba'",
+      "gloss": "type of palm tree"
+    },
+    {
+      "word": "ca'si",
+      "gloss": "greeting"
+    },
+    {
+      "word": "ndu'",
+      "gloss": "wine"
+    },
+    {
+      "word": "pe'",
+      "gloss": "house"
+    },
+    {
+      "word": "pəpē'",
+      "gloss": "the good"
+    },
+    {
+      "word": "fʉ",
+      "gloss": "chief"
+    },
+    {
+      "word": "ngoo",
+      "gloss": "girl"
+    },
+    {
+      "word": "ghə",
+      "gloss": "word"
+    },
+    {
+      "word": "hu",
+      "gloss": "remedy"
+    },
+    {
+      "word": "nini",
+      "gloss": "shadow, photo"
+    },
+    {
+      "word": "njam",
+      "gloss": "behind"
+    },
+    {
+      "word": "ko",
+      "gloss": "field, bush"
+    },
+    {
+      "word": "luɑ",
+      "gloss": "bridge"
+    },
+    {
+      "word": "mʉ",
+      "gloss": "me"
+    },
+    {
+      "word": "nam",
+      "gloss": "sun"
+    },
+    {
+      "word": "ŋāmsi",
+      "gloss": "felicitation"
+    },
+    {
+      "word": "o",
+      "gloss": "you (sg)"
+    },
+    {
+      "word": "yɔ̄nshi",
+      "gloss": "song"
+    },
+    {
+      "word": "pom",
+      "gloss": "egg"
+    },
+    {
+      "word": "sisi",
+      "gloss": "crane"
+    },
+    {
+      "word": "shimānko'",
+      "gloss": "turtle"
+    },
+    {
+      "word": "tam",
+      "gloss": "forest"
+    },
+    {
+      "word": "nu",
+      "gloss": "situation"
+    },
+    {
+      "word": "tuū",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "vam",
+      "gloss": "stomach"
+    },
+    {
+      "word": "wenok",
+      "gloss": "human being"
+    },
+    {
+      "word": "yaa",
+      "gloss": "oil press"
+    },
+    {
+      "word": "zēn",
+      "gloss": "name"
+    },
+    {
+      "word": "zhūā",
+      "gloss": "close it!"
+    },
+    {
+      "word": "po'",
+      "gloss": "mushroom"
+    }
+  ],
+  "num_graphemes": 32,
+  "confidence": "high",
+  "notes": "Hartell's /y/ maps to IPA /j/. Prenasalized consonants noted as mb, nd, ng. Vowel length represented as VV. The orthography includes open-alpha (ɑ) as a distinct grapheme."
+}

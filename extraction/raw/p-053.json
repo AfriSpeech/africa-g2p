@@ -1,0 +1,321 @@
+{
+  "page": 53,
+  "is_language_page": true,
+  "language": "Gen-Mina",
+  "iso639_3": "gej",
+  "country": "Togo",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɖ",
+      "grapheme": "ɖ"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "x"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "ɣ"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "˜"
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "ɖ",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "ɣ",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ama",
+      "gloss": "vegetable"
+    },
+    {
+      "word": "ebo",
+      "gloss": "amulet"
+    },
+    {
+      "word": "eco",
+      "gloss": "funeral"
+    },
+    {
+      "word": "edã",
+      "gloss": "snake"
+    },
+    {
+      "word": "aɖi",
+      "gloss": "soap"
+    },
+    {
+      "word": "ege",
+      "gloss": "beard"
+    },
+    {
+      "word": "mɛle",
+      "gloss": "boat"
+    },
+    {
+      "word": "efu",
+      "gloss": "fur"
+    },
+    {
+      "word": "ege",
+      "gloss": "beard"
+    },
+    {
+      "word": "agba",
+      "gloss": "to charge"
+    },
+    {
+      "word": "ɣetri",
+      "gloss": "moon"
+    },
+    {
+      "word": "eha",
+      "gloss": "pig"
+    },
+    {
+      "word": "exa",
+      "gloss": "broom"
+    },
+    {
+      "word": "aɖi",
+      "gloss": "soap"
+    },
+    {
+      "word": "eje",
+      "gloss": "salt"
+    },
+    {
+      "word": "ekɔ",
+      "gloss": "sand"
+    },
+    {
+      "word": "ekpe",
+      "gloss": "rock"
+    },
+    {
+      "word": "lã",
+      "gloss": "meat"
+    },
+    {
+      "word": "ama",
+      "gloss": "vegetable"
+    },
+    {
+      "word": "enu",
+      "gloss": "mouth"
+    },
+    {
+      "word": "enyi",
+      "gloss": "ox"
+    },
+    {
+      "word": "aŋu",
+      "gloss": "thorn"
+    },
+    {
+      "word": "ebo",
+      "gloss": "amulet"
+    },
+    {
+      "word": "esɔ",
+      "gloss": "horse"
+    },
+    {
+      "word": "epu",
+      "gloss": "bone"
+    },
+    {
+      "word": "ajre",
+      "gloss": "quarrel"
+    },
+    {
+      "word": "esɔ",
+      "gloss": "horse"
+    },
+    {
+      "word": "eto",
+      "gloss": "ear"
+    },
+    {
+      "word": "efu",
+      "gloss": "fur"
+    },
+    {
+      "word": "eve",
+      "gloss": "two"
+    },
+    {
+      "word": "ewɔ",
+      "gloss": "flour"
+    },
+    {
+      "word": "aya",
+      "gloss": "comb"
+    },
+    {
+      "word": "ezi",
+      "gloss": "seat"
+    }
+  ],
+  "num_graphemes": 32,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/. Nasalization indicated by tilde on vowels (Ṽ, except /e/ or /o/). Phoneme /l/ corresponds to both 'l' and 'r'."
+}

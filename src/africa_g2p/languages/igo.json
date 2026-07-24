@@ -1,0 +1,212 @@
+{
+  "code": "igo",
+  "name": "Ahlõ",
+  "country": "Togo",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 5",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ɖ": "ɖ",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̀": "˩",
+    "̃": "̃"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent"
+  },
+  "notes": "Phoneme /l/ is mapped to both orthographic graphemes 'l' and 'r'. Standard Hartell representations converted to IPA: /y/ -> /j/, /tʃ/ -> /tʃ/, /dʒ/ -> /dʒ/.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "ɖ",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "kạ",
+      "gloss": "to read"
+    },
+    {
+      "word": "ibi",
+      "gloss": "fire"
+    },
+    {
+      "word": "cé",
+      "gloss": "to sort out"
+    },
+    {
+      "word": "dé",
+      "gloss": "to eclipse"
+    },
+    {
+      "word": "dù",
+      "gloss": "to cover"
+    },
+    {
+      "word": "dè",
+      "gloss": "to receive"
+    },
+    {
+      "word": "dɛ̀",
+      "gloss": "to burn"
+    },
+    {
+      "word": "àfâ",
+      "gloss": "bean"
+    },
+    {
+      "word": "ígā",
+      "gloss": "vegetable"
+    },
+    {
+      "word": "ìgbá",
+      "gloss": "ram"
+    },
+    {
+      "word": "hé",
+      "gloss": "to marry"
+    },
+    {
+      "word": "dì",
+      "gloss": "to descend"
+    },
+    {
+      "word": "jɔ̀",
+      "gloss": "to be pretty"
+    },
+    {
+      "word": "ìkà",
+      "gloss": "meat"
+    },
+    {
+      "word": "kpɛ̀",
+      "gloss": "to be wide"
+    },
+    {
+      "word": "âlā",
+      "gloss": "rocks"
+    },
+    {
+      "word": "mù",
+      "gloss": "to see"
+    },
+    {
+      "word": "nù",
+      "gloss": "to hear"
+    },
+    {
+      "word": "nyà",
+      "gloss": "to become large"
+    },
+    {
+      "word": "ŋà",
+      "gloss": "to walk"
+    },
+    {
+      "word": "dò",
+      "gloss": "to follow"
+    },
+    {
+      "word": "dɔ̀",
+      "gloss": "to pack"
+    },
+    {
+      "word": "ɔ̀pɔ̃́",
+      "gloss": "pillow"
+    },
+    {
+      "word": "nyré",
+      "gloss": "to cut hair"
+    },
+    {
+      "word": "ìsì",
+      "gloss": "drum"
+    },
+    {
+      "word": "ɔ̃́tɔ̃́",
+      "gloss": "ear"
+    },
+    {
+      "word": "dù",
+      "gloss": "to cover"
+    },
+    {
+      "word": "vé",
+      "gloss": "persevere"
+    },
+    {
+      "word": "ùwá",
+      "gloss": "animal"
+    },
+    {
+      "word": "yá",
+      "gloss": "to look at"
+    },
+    {
+      "word": "zè",
+      "gloss": "to like"
+    }
+  ]
+}

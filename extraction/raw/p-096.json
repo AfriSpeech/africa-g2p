@@ -1,0 +1,292 @@
+{
+  "page": 96,
+  "is_language_page": true,
+  "language": "Mo",
+  "iso639_3": "mfi",
+  "country": "Ghana",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "ʌ",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "la",
+      "gloss": "to go"
+    },
+    {
+      "word": "ba",
+      "gloss": "to come"
+    },
+    {
+      "word": "che",
+      "gloss": "to stand"
+    },
+    {
+      "word": "di",
+      "gloss": "to eat"
+    },
+    {
+      "word": "lwe",
+      "gloss": "to go out"
+    },
+    {
+      "word": "lɛ",
+      "gloss": "to get"
+    },
+    {
+      "word": "fog",
+      "gloss": "to pour"
+    },
+    {
+      "word": "ger",
+      "gloss": "lizard"
+    },
+    {
+      "word": "gba",
+      "gloss": "also"
+    },
+    {
+      "word": "hal",
+      "gloss": "egg"
+    },
+    {
+      "word": "lii",
+      "gloss": "to remember"
+    },
+    {
+      "word": "jo",
+      "gloss": "to enter"
+    },
+    {
+      "word": "kaa",
+      "gloss": "to leave"
+    },
+    {
+      "word": "kpɔ",
+      "gloss": "to take"
+    },
+    {
+      "word": "la",
+      "gloss": "to go"
+    },
+    {
+      "word": "mɛɛ",
+      "gloss": "father"
+    },
+    {
+      "word": "na",
+      "gloss": "to see"
+    },
+    {
+      "word": "ŋɔ",
+      "gloss": "to say"
+    },
+    {
+      "word": "nya",
+      "gloss": "mother"
+    },
+    {
+      "word": "hog",
+      "gloss": "bone"
+    },
+    {
+      "word": "lɔ",
+      "gloss": "to hit"
+    },
+    {
+      "word": "pe",
+      "gloss": "yam"
+    },
+    {
+      "word": "berɛ",
+      "gloss": "to return"
+    },
+    {
+      "word": "so",
+      "gloss": "to sit"
+    },
+    {
+      "word": "tɔ",
+      "gloss": "to cover"
+    },
+    {
+      "word": "ku",
+      "gloss": "to break"
+    },
+    {
+      "word": "vog",
+      "gloss": "fetish"
+    },
+    {
+      "word": "we",
+      "gloss": "to hurt"
+    },
+    {
+      "word": "yawɛ",
+      "gloss": "to buy"
+    }
+  ],
+  "num_graphemes": 29,
+  "confidence": "high",
+  "notes": "Vowel nasalization /Ṽ/ is written as Vh, and vowel length /V:/ is written as double vowels VV. Labialization indicated by 'w' digraphs (e.g. bw, kw, lw)."
+}

@@ -1,0 +1,222 @@
+{
+  "code": "mfb",
+  "name": "Mbembe",
+  "country": "Nigeria",
+  "family": "Benue-Congo, Cross-River",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 85",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "tt": "t͈",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "kk": "k͈",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng": "ŋ",
+    "ph": "ɸ",
+    "bh": "β",
+    "fh": "f",
+    "f": "f͈",
+    "v": "v",
+    "z": "z",
+    "s": "s͈",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ẹ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ọ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute",
+    "low": "grave"
+  },
+  "notes": "Examples are from the Adun dialect. Underdots in Hartell's phoneme notation (/ṭ/, /ḳ/, /f̣/, /ṣ/) represent fortis consonants, mapped to graphemes tt, kk, f, s respectively. Underdots on vowels (ẹ, ọ) indicate fortis vowels (/ɛ/, /ɔ/). Labialization (kw, gw, nw) and palatalization (py, by, phy, my) combinations are listed separately on page.",
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "ch",
+    "d",
+    "e",
+    "ẹ",
+    "f",
+    "fh",
+    "g",
+    "gb",
+    "i",
+    "j",
+    "k",
+    "kk",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "ny",
+    "o",
+    "ọ",
+    "p",
+    "ph",
+    "r",
+    "s",
+    "t",
+    "tt",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ana",
+      "gloss": "cooking oil"
+    },
+    {
+      "word": "eba",
+      "gloss": "breast"
+    },
+    {
+      "word": "obho",
+      "gloss": "leg, foot"
+    },
+    {
+      "word": "echi",
+      "gloss": "tree, stick"
+    },
+    {
+      "word": "oda",
+      "gloss": "sleep"
+    },
+    {
+      "word": "eten",
+      "gloss": "meat"
+    },
+    {
+      "word": "edẹ",
+      "gloss": "kind of large fish"
+    },
+    {
+      "word": "efa",
+      "gloss": "power"
+    },
+    {
+      "word": "efha",
+      "gloss": "bush rat"
+    },
+    {
+      "word": "agaana",
+      "gloss": "kind of wild fruit"
+    },
+    {
+      "word": "ogbaare",
+      "gloss": "floor"
+    },
+    {
+      "word": "ibyi",
+      "gloss": "place"
+    },
+    {
+      "word": "eja",
+      "gloss": "sacrifice"
+    },
+    {
+      "word": "oka",
+      "gloss": "fetish"
+    },
+    {
+      "word": "okka",
+      "gloss": "mother"
+    },
+    {
+      "word": "ekpa",
+      "gloss": "bag"
+    },
+    {
+      "word": "lọ",
+      "gloss": "to make noise"
+    },
+    {
+      "word": "imaana",
+      "gloss": "knife"
+    },
+    {
+      "word": "oraanga",
+      "gloss": "river"
+    },
+    {
+      "word": "enya",
+      "gloss": "dressing"
+    },
+    {
+      "word": "opo",
+      "gloss": "weight on fishing net"
+    },
+    {
+      "word": "onọng",
+      "gloss": "person"
+    },
+    {
+      "word": "epa",
+      "gloss": "river bank"
+    },
+    {
+      "word": "ophe",
+      "gloss": "moon, month"
+    },
+    {
+      "word": "irem",
+      "gloss": "punishment"
+    },
+    {
+      "word": "asi",
+      "gloss": "water"
+    },
+    {
+      "word": "ata",
+      "gloss": "stones"
+    },
+    {
+      "word": "etta",
+      "gloss": "quarreling"
+    },
+    {
+      "word": "ewu",
+      "gloss": "day"
+    },
+    {
+      "word": "evu",
+      "gloss": "goat"
+    },
+    {
+      "word": "awa",
+      "gloss": "soup"
+    },
+    {
+      "word": "eya",
+      "gloss": "afternoon"
+    },
+    {
+      "word": "izẹ",
+      "gloss": "blood"
+    }
+  ]
+}

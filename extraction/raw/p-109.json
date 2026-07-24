@@ -1,0 +1,411 @@
+{
+  "page": 109,
+  "is_language_page": true,
+  "language": "Podoko",
+  "iso639_3": "pbi",
+  "country": "Cameroon",
+  "family": "Chadic, Central",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ɗ"
+    },
+    {
+      "phoneme": "ts",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "ts",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dz",
+      "grapheme": "dz"
+    },
+    {
+      "phoneme": "dz",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "ɡʷ",
+      "grapheme": "gw"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "mb",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nd",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "ndz",
+      "grapheme": "ndz"
+    },
+    {
+      "phoneme": "ndz",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋg"
+    },
+    {
+      "phoneme": "ŋʷ",
+      "grapheme": "ŋw"
+    },
+    {
+      "phoneme": "ŋʷ",
+      "grapheme": "ŋgw"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "zh"
+    },
+    {
+      "phoneme": "ɬ",
+      "grapheme": "sl"
+    },
+    {
+      "phoneme": "ɮ",
+      "grapheme": "zl"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "hʷ",
+      "grapheme": "hw"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ɨ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "dz",
+    "ɗ",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gw",
+    "h",
+    "hw",
+    "i",
+    "ɨ",
+    "j",
+    "k",
+    "kw",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "ndz",
+    "nj",
+    "ŋ",
+    "ŋg",
+    "ŋgw",
+    "ŋw",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "sl",
+    "t",
+    "ts",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "zh",
+    "zl"
+  ],
+  "examples": [
+    {
+      "word": "kaya",
+      "gloss": "house"
+    },
+    {
+      "word": "baba",
+      "gloss": "father"
+    },
+    {
+      "word": "ɓiwa",
+      "gloss": "new"
+    },
+    {
+      "word": "cege",
+      "gloss": "cooking pot"
+    },
+    {
+      "word": "damala",
+      "gloss": "my brother"
+    },
+    {
+      "word": "dzaka",
+      "gloss": "to learn"
+    },
+    {
+      "word": "madəɗa",
+      "gloss": "seven"
+    },
+    {
+      "word": "cege",
+      "gloss": "cooking pot"
+    },
+    {
+      "word": "təməzala",
+      "gloss": "stalks"
+    },
+    {
+      "word": "fikwa",
+      "gloss": "whistle"
+    },
+    {
+      "word": "gaga",
+      "gloss": "tree"
+    },
+    {
+      "word": "gwagwa",
+      "gloss": "back"
+    },
+    {
+      "word": "təha",
+      "gloss": "to beat, hit"
+    },
+    {
+      "word": "hwada",
+      "gloss": "wind"
+    },
+    {
+      "word": "tiya",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "slɨsla",
+      "gloss": "egg"
+    },
+    {
+      "word": "jiɓa",
+      "gloss": "tribe"
+    },
+    {
+      "word": "kəda",
+      "gloss": "dog"
+    },
+    {
+      "word": "kwala",
+      "gloss": "to refuse"
+    },
+    {
+      "word": "dala",
+      "gloss": "sauce"
+    },
+    {
+      "word": "daməŋa",
+      "gloss": "his brother"
+    },
+    {
+      "word": "mbula",
+      "gloss": "tamarind"
+    },
+    {
+      "word": "nawa",
+      "gloss": "goat"
+    },
+    {
+      "word": "ndəda",
+      "gloss": "to disgust"
+    },
+    {
+      "word": "ndza",
+      "gloss": "to be seated"
+    },
+    {
+      "word": "njəwe",
+      "gloss": "fly"
+    },
+    {
+      "word": "ŋə",
+      "gloss": "to say"
+    },
+    {
+      "word": "ŋgəla",
+      "gloss": "to defend"
+    },
+    {
+      "word": "ŋgwada",
+      "gloss": "to attach"
+    },
+    {
+      "word": "paraka",
+      "gloss": "light"
+    },
+    {
+      "word": "kara",
+      "gloss": "fire"
+    },
+    {
+      "word": "samata",
+      "gloss": "broom"
+    },
+    {
+      "word": "shishe",
+      "gloss": "shade"
+    },
+    {
+      "word": "sladawa",
+      "gloss": "first wife"
+    },
+    {
+      "word": "taka",
+      "gloss": "thorn"
+    },
+    {
+      "word": "tsəɓa",
+      "gloss": "to kneel"
+    },
+    {
+      "word": "zufa",
+      "gloss": "to drown"
+    },
+    {
+      "word": "vule",
+      "gloss": "spoon"
+    },
+    {
+      "word": "dəwa",
+      "gloss": "young girl"
+    },
+    {
+      "word": "kaya",
+      "gloss": "house"
+    },
+    {
+      "word": "zada",
+      "gloss": "pestle"
+    },
+    {
+      "word": "zhene",
+      "gloss": "ladle"
+    },
+    {
+      "word": "zlagwa",
+      "gloss": "wing"
+    }
+  ],
+  "num_graphemes": 44,
+  "confidence": "high",
+  "notes": "Hartell's /y/ converted to IPA /j/. Labialized symbols /kw/, /gw/, /ŋw/, /hw/ rendered as /kʷ/, /ɡʷ/, /ŋʷ/, /hʷ/. Lateral fricatives rendered as voiceless /ɬ/ (sl) and voiced /ɮ/ (zl)."
+}

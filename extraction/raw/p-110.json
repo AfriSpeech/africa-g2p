@@ -1,0 +1,266 @@
+{
+  "page": 110,
+  "is_language_page": true,
+  "language": "Rendille",
+  "iso639_3": "rel",
+  "country": "Kenya",
+  "family": "Cushitic",
+  "graphemes": [
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "dh"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "ɖ",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng'"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "kh"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h'"
+    },
+    {
+      "phoneme": "ħ",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "Vː",
+      "grapheme": "VV"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    }
+  ],
+  "tones": {
+    "high": "acute",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "dh",
+    "e",
+    "f",
+    "g",
+    "h",
+    "h'",
+    "i",
+    "j",
+    "k",
+    "kh",
+    "l",
+    "m",
+    "n",
+    "ng'",
+    "ny",
+    "o",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "bár",
+      "gloss": "body mark"
+    },
+    {
+      "word": "biché",
+      "gloss": "water"
+    },
+    {
+      "word": "chán",
+      "gloss": "five"
+    },
+    {
+      "word": "dam",
+      "gloss": "drink!"
+    },
+    {
+      "word": "dháb",
+      "gloss": "fire"
+    },
+    {
+      "word": "hér",
+      "gloss": "warriors"
+    },
+    {
+      "word": "fár",
+      "gloss": "finger"
+    },
+    {
+      "word": "gáal",
+      "gloss": "camel"
+    },
+    {
+      "word": "hóól",
+      "gloss": "gazelle"
+    },
+    {
+      "word": "h'óól",
+      "gloss": "problems"
+    },
+    {
+      "word": "mín",
+      "gloss": "house"
+    },
+    {
+      "word": "jíjo",
+      "gloss": "milk container"
+    },
+    {
+      "word": "kokóob",
+      "gloss": "cup"
+    },
+    {
+      "word": "khokhóom",
+      "gloss": "club"
+    },
+    {
+      "word": "lólyo",
+      "gloss": "ox"
+    },
+    {
+      "word": "míris",
+      "gloss": "clouds"
+    },
+    {
+      "word": "náh",
+      "gloss": "we (excl.)"
+    },
+    {
+      "word": "ng'ùr",
+      "gloss": "slash"
+    },
+    {
+      "word": "nyóór",
+      "gloss": "leg bell"
+    },
+    {
+      "word": "tór",
+      "gloss": "plain"
+    },
+    {
+      "word": "ráh",
+      "gloss": "frog"
+    },
+    {
+      "word": "saah",
+      "gloss": "separate!"
+    },
+    {
+      "word": "tuumán",
+      "gloss": "all"
+    },
+    {
+      "word": "búr",
+      "gloss": "hillock"
+    },
+    {
+      "word": "wáákh",
+      "gloss": "God"
+    },
+    {
+      "word": "yáakh",
+      "gloss": "pasture"
+    }
+  ],
+  "num_graphemes": 26,
+  "confidence": "high",
+  "notes": "Hartell uses /ɗ/ for grapheme 'dh' (implosive) and /ɖ/ for grapheme 'd' (retroflex). Grapheme 'h' maps to IPA /ħ/ (pharyngeal fricative), while 'h'' maps to IPA /h/ (glottal fricative). The vowel 'o' is rendered as IPA /ɔ/."
+}

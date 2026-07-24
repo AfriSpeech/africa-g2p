@@ -1,0 +1,235 @@
+{
+  "code": "hau-nigeria",
+  "name": "Hausa",
+  "country": "Nigeria",
+  "family": "Afro-Asiatic, Chadic",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 60",
+  "confidence": "high",
+  "graphemes": {
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "ts": "ts",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "ƙ": "kʼ",
+    "g": "ɡ",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "f": "f",
+    "fy": "fʲ",
+    "s": "s",
+    "z": "z",
+    "sh": "ʃ",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "'y": "ʔj",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "ā": "aː",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {
+    "ā": "ː"
+  },
+  "tones": null,
+  "notes": "Macron ā represents long vowel /aː/, written only when meaning is not obvious. Glottalized y ('y) transcribed as /ʔj/. Labialization (kw, gw, ƙw) and palatalization (ky, gy, ƙy) digraphs are included in the official alphabet list.",
+  "alphabet": [
+    "a",
+    "ā",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "f",
+    "fy",
+    "g",
+    "gw",
+    "gy",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kw",
+    "ky",
+    "ƙ",
+    "ƙw",
+    "ƙy",
+    "l",
+    "m",
+    "n",
+    "o",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "ts",
+    "u",
+    "w",
+    "y",
+    "'y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "al'ada",
+      "gloss": "custom"
+    },
+    {
+      "word": "kāsuwa",
+      "gloss": "market"
+    },
+    {
+      "word": "baba",
+      "gloss": "daddy"
+    },
+    {
+      "word": "ɓace",
+      "gloss": "lost"
+    },
+    {
+      "word": "cika",
+      "gloss": "full"
+    },
+    {
+      "word": "doya",
+      "gloss": "yam"
+    },
+    {
+      "word": "ɗaya",
+      "gloss": "one"
+    },
+    {
+      "word": "keke",
+      "gloss": "machine"
+    },
+    {
+      "word": "fansa",
+      "gloss": "redemption"
+    },
+    {
+      "word": "fyance",
+      "gloss": "to snatch away"
+    },
+    {
+      "word": "gobe",
+      "gloss": "tomorrow"
+    },
+    {
+      "word": "gwanda",
+      "gloss": "pawpaw"
+    },
+    {
+      "word": "gyaɗa",
+      "gloss": "groundnuts"
+    },
+    {
+      "word": "haske",
+      "gloss": "light"
+    },
+    {
+      "word": "ilimi",
+      "gloss": "knowledge"
+    },
+    {
+      "word": "jiki",
+      "gloss": "body"
+    },
+    {
+      "word": "kāsuwa",
+      "gloss": "market"
+    },
+    {
+      "word": "kwai",
+      "gloss": "egg"
+    },
+    {
+      "word": "kyan",
+      "gloss": "beauty"
+    },
+    {
+      "word": "ƙaƙa?",
+      "gloss": "how?"
+    },
+    {
+      "word": "ƙwarai",
+      "gloss": "exceedingly"
+    },
+    {
+      "word": "ƙyale",
+      "gloss": "to ignore"
+    },
+    {
+      "word": "likita",
+      "gloss": "doctor"
+    },
+    {
+      "word": "mama",
+      "gloss": "mother"
+    },
+    {
+      "word": "nama",
+      "gloss": "meat"
+    },
+    {
+      "word": "nono",
+      "gloss": "buttermilk"
+    },
+    {
+      "word": "riba",
+      "gloss": "profit"
+    },
+    {
+      "word": "sata",
+      "gloss": "to steal"
+    },
+    {
+      "word": "shaida",
+      "gloss": "witness"
+    },
+    {
+      "word": "tambaya",
+      "gloss": "question"
+    },
+    {
+      "word": "tsarki",
+      "gloss": "holiness"
+    },
+    {
+      "word": "uba",
+      "gloss": "father"
+    },
+    {
+      "word": "wuka",
+      "gloss": "knife"
+    },
+    {
+      "word": "yan",
+      "gloss": "today"
+    },
+    {
+      "word": "'ya'ya",
+      "gloss": "offspring"
+    },
+    {
+      "word": "zobe",
+      "gloss": "ring"
+    },
+    {
+      "word": "al'ada",
+      "gloss": "custom"
+    }
+  ]
+}

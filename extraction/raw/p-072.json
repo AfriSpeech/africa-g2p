@@ -1,0 +1,494 @@
+{
+  "page": 72,
+  "is_language_page": true,
+  "language": "Moru",
+  "iso639_3": "mxd",
+  "country": "Sudan",
+  "family": "Nilo-Saharan",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "ˀp",
+      "grapheme": "'b"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "bb"
+    },
+    {
+      "phoneme": "ts",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "dz",
+      "grapheme": "dz"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "ˀt",
+      "grapheme": "d'"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "dd"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "ˀc",
+      "grapheme": "d'y"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "dj"
+    },
+    {
+      "phoneme": "ˀɟ",
+      "grapheme": "dy"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "mb",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nd",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "ndz",
+      "grapheme": "nz"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ɲdʒ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ŋmɡb",
+      "grapheme": "ngb"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "θ",
+      "grapheme": "th"
+    },
+    {
+      "phoneme": "ð",
+      "grapheme": "dh"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "hw",
+      "grapheme": "hw"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "ˀw",
+      "grapheme": "'w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "ɨ"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɵ",
+      "grapheme": "ʉ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ø"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+030C",
+      "role": "rising tone",
+      "ipa": "˩˥"
+    }
+  ],
+  "tones": {
+    "high": "acute",
+    "mid": "unmarked",
+    "low": "grave",
+    "rising": "caron"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "bb",
+    "'b",
+    "ch",
+    "d",
+    "dd",
+    "dh",
+    "dj",
+    "dy",
+    "d'y",
+    "dz",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "hw",
+    "i",
+    "ɨ",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "ng",
+    "ngb",
+    "nj",
+    "ny",
+    "nz",
+    "o",
+    "ø",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "th",
+    "ts",
+    "u",
+    "ʉ",
+    "v",
+    "w",
+    "'w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "rà",
+      "gloss": "heaven"
+    },
+    {
+      "word": "bɨ́",
+      "gloss": "moon"
+    },
+    {
+      "word": "'ø-bbɨ",
+      "gloss": "egg"
+    },
+    {
+      "word": "b'ílí",
+      "gloss": "finger"
+    },
+    {
+      "word": "chu",
+      "gloss": "path"
+    },
+    {
+      "word": "le-dà",
+      "gloss": "tongue"
+    },
+    {
+      "word": "ddà",
+      "gloss": "water"
+    },
+    {
+      "word": "d'àdhá",
+      "gloss": "to run"
+    },
+    {
+      "word": "dhè",
+      "gloss": "death"
+    },
+    {
+      "word": "djø",
+      "gloss": "hoe"
+    },
+    {
+      "word": "dyødyø",
+      "gloss": "stars"
+    },
+    {
+      "word": "le-d'yø",
+      "gloss": "horn"
+    },
+    {
+      "word": "dza",
+      "gloss": "house"
+    },
+    {
+      "word": "rè",
+      "gloss": "bird"
+    },
+    {
+      "word": "fǿ",
+      "gloss": "that"
+    },
+    {
+      "word": "gó",
+      "gloss": "forest"
+    },
+    {
+      "word": "gbù",
+      "gloss": "theft"
+    },
+    {
+      "word": "le-hú",
+      "gloss": "wing"
+    },
+    {
+      "word": "hwɨ́",
+      "gloss": "maize"
+    },
+    {
+      "word": "bī",
+      "gloss": "bamboo"
+    },
+    {
+      "word": "bɨ́",
+      "gloss": "moon"
+    },
+    {
+      "word": "ji",
+      "gloss": "image"
+    },
+    {
+      "word": "le-kó",
+      "gloss": "foot"
+    },
+    {
+      "word": "kpà",
+      "gloss": "bone"
+    },
+    {
+      "word": "là",
+      "gloss": "war"
+    },
+    {
+      "word": "mí",
+      "gloss": "papyrus"
+    },
+    {
+      "word": "mbø̀",
+      "gloss": "money"
+    },
+    {
+      "word": "nǒ",
+      "gloss": "kind of bird"
+    },
+    {
+      "word": "ndà",
+      "gloss": "kind of banana"
+    },
+    {
+      "word": "ngø̀",
+      "gloss": "country"
+    },
+    {
+      "word": "ngba",
+      "gloss": "child"
+    },
+    {
+      "word": "njí",
+      "gloss": "work"
+    },
+    {
+      "word": "le-nyǒ",
+      "gloss": "eye"
+    },
+    {
+      "word": "nzǿ",
+      "gloss": "children"
+    },
+    {
+      "word": "njò",
+      "gloss": "fishhook"
+    },
+    {
+      "word": "njø̀",
+      "gloss": "fishing net"
+    },
+    {
+      "word": "pe",
+      "gloss": "pygmy"
+    },
+    {
+      "word": "rù",
+      "gloss": "clothing"
+    },
+    {
+      "word": "sà",
+      "gloss": "machete"
+    },
+    {
+      "word": "shá",
+      "gloss": "white man"
+    },
+    {
+      "word": "ti",
+      "gloss": "honey"
+    },
+    {
+      "word": "thè",
+      "gloss": "locust"
+    },
+    {
+      "word": "le-tsò",
+      "gloss": "mouth"
+    },
+    {
+      "word": "bbù",
+      "gloss": "hole"
+    },
+    {
+      "word": "bbʉ̀",
+      "gloss": "kind of monkey"
+    },
+    {
+      "word": "le-vè",
+      "gloss": "sister"
+    },
+    {
+      "word": "wa",
+      "gloss": "alcoholic drink"
+    },
+    {
+      "word": "le-'we",
+      "gloss": "aunt"
+    },
+    {
+      "word": "ză",
+      "gloss": "meat"
+    },
+    {
+      "word": "'ǿ",
+      "gloss": "chicken"
+    }
+  ],
+  "num_graphemes": 51,
+  "confidence": "high",
+  "notes": "Hartell's /?p/, /?t/, /?c/, /?j/, /?w/ transcribed as pre-glottalized /ˀp/, /ˀt/, /ˀc/, /ˀɟ/, /ˀw/. Vowel symbols /ɩ/ and /ɷ/ converted to IPA /ɪ/ and /ʊ/ respectively. Language title cut off at top of scanned page, but identifiable as Moru (Sudan, Central Sudanic / Nilo-Saharan)."
+}

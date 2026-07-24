@@ -1,0 +1,297 @@
+{
+  "code": "dug",
+  "name": "Duruma",
+  "country": "Kenya",
+  "family": "Bantu (E.72D)",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 38",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "p'": "pʰ",
+    "b": "b",
+    "ts": "t͡s",
+    "ts'": "t͡sʰ",
+    "t": "t",
+    "t'": "tʰ",
+    "d": "d",
+    "dz": "d͡z",
+    "ch": "t͡ʃ",
+    "ch'": "t͡ʃʰ",
+    "j": "d͡ʒ",
+    "k": "k",
+    "k'": "kʰ",
+    "g": "ɡ",
+    "kw": "k͡p",
+    "k'w": "k͡pʰ",
+    "gw": "ɡ͡b",
+    "m": "m",
+    "mb": "m͡b",
+    "mv": "m͡v",
+    "n": "n",
+    "nd": "n͡d",
+    "nz": "n͡z",
+    "ny": "ɲ",
+    "nj": "ɲd͡ʒ",
+    "ng": "ŋ",
+    "ng'": "ŋɡ",
+    "mw": "ŋ͡m",
+    "ngw": "ŋ͡mɡ͡b",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "sh": "ʃ",
+    "zh": "ʒ",
+    "r": "r",
+    "ph": "β",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "ɔ"
+  },
+  "diacritics": {},
+  "tones": {
+    "high": "unmarked",
+    "low": "unmarked"
+  },
+  "notes": "Hartell's phoneme notation converted to standard IPA: labialized/coarticulated stops /kp/, /kph/, /gb/, /ŋm/, /ŋmgb/ rendered as /k͡p/, /k͡pʰ/, /ɡ͡b/, /ŋ͡m/, /ŋ͡mɡ͡b/; aspirates /ph/, /tsh/, /th/, /ch'/, /kh/, /kph/ mapped with ʰ; voiced palatal/alveolar affricates and fricatives mapped to standard IPA symbols.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "ch'",
+    "d",
+    "dz",
+    "e",
+    "f",
+    "g",
+    "gw",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kw",
+    "k'",
+    "k'w",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ng",
+    "ngw",
+    "ng'",
+    "nj",
+    "ny",
+    "nz",
+    "o",
+    "p",
+    "p'",
+    "ph",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "t'",
+    "ts",
+    "ts'",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "zh"
+  ],
+  "examples": [
+    {
+      "word": "ats'a",
+      "gloss": "point"
+    },
+    {
+      "word": "beshe",
+      "gloss": "fish"
+    },
+    {
+      "word": "chihi",
+      "gloss": "chair"
+    },
+    {
+      "word": "ch'ingo",
+      "gloss": "hide (skin)"
+    },
+    {
+      "word": "daba",
+      "gloss": "kerosene tin"
+    },
+    {
+      "word": "dzuwa",
+      "gloss": "sun"
+    },
+    {
+      "word": "embe",
+      "gloss": "mango"
+    },
+    {
+      "word": "fumo",
+      "gloss": "arrow"
+    },
+    {
+      "word": "gogo",
+      "gloss": "log"
+    },
+    {
+      "word": "gwashe",
+      "gloss": "warthog"
+    },
+    {
+      "word": "hiha",
+      "gloss": "bundle"
+    },
+    {
+      "word": "izu",
+      "gloss": "banana"
+    },
+    {
+      "word": "jogolo",
+      "gloss": "cock"
+    },
+    {
+      "word": "kuch'i",
+      "gloss": "mat"
+    },
+    {
+      "word": "kwata",
+      "gloss": "kind of thorn tree"
+    },
+    {
+      "word": "k'uk'u",
+      "gloss": "chicken"
+    },
+    {
+      "word": "k'wek'we",
+      "gloss": "weeds"
+    },
+    {
+      "word": "lungo",
+      "gloss": "woven tray"
+    },
+    {
+      "word": "mazu",
+      "gloss": "bananas"
+    },
+    {
+      "word": "mbuzi",
+      "gloss": "goat"
+    },
+    {
+      "word": "mvarika",
+      "gloss": "female goat"
+    },
+    {
+      "word": "nazi",
+      "gloss": "coconut"
+    },
+    {
+      "word": "ndoso",
+      "gloss": "dream"
+    },
+    {
+      "word": "ngoma",
+      "gloss": "drum"
+    },
+    {
+      "word": "ngwadu",
+      "gloss": "bitter"
+    },
+    {
+      "word": "ng'ombe",
+      "gloss": "ox"
+    },
+    {
+      "word": "njira",
+      "gloss": "path"
+    },
+    {
+      "word": "nyuchi",
+      "gloss": "bee"
+    },
+    {
+      "word": "nzovu",
+      "gloss": "elephant"
+    },
+    {
+      "word": "ocha",
+      "gloss": "roast"
+    },
+    {
+      "word": "payu",
+      "gloss": "papaya"
+    },
+    {
+      "word": "p'anda",
+      "gloss": "catapult"
+    },
+    {
+      "word": "phalu",
+      "gloss": "building pole"
+    },
+    {
+      "word": "renje",
+      "gloss": "pumpkin"
+    },
+    {
+      "word": "saa",
+      "gloss": "clock"
+    },
+    {
+      "word": "shambi",
+      "gloss": "antelope"
+    },
+    {
+      "word": "tumbi",
+      "gloss": "egg"
+    },
+    {
+      "word": "t'indi",
+      "gloss": "tomato"
+    },
+    {
+      "word": "tsere",
+      "gloss": "maize"
+    },
+    {
+      "word": "ts'imba",
+      "gloss": "lion"
+    },
+    {
+      "word": "uha",
+      "gloss": "bow"
+    },
+    {
+      "word": "virahu",
+      "gloss": "shoes"
+    },
+    {
+      "word": "wari",
+      "gloss": "pounded maize"
+    },
+    {
+      "word": "yanga",
+      "gloss": "rattle"
+    },
+    {
+      "word": "ziya",
+      "gloss": "lake"
+    },
+    {
+      "word": "zhogotilo",
+      "gloss": "type of bird"
+    }
+  ]
+}

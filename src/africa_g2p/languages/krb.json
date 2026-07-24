@@ -1,0 +1,237 @@
+{
+  "code": "krb",
+  "name": "Karan",
+  "country": "Cameroon",
+  "family": "Adamawa-Ubangi, Adamawa B",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 70",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "ƴ": "ʄ",
+    "m": "m",
+    "mb": "m͡b",
+    "mgb": "mɡ͡b",
+    "n": "n",
+    "nd": "n͡d",
+    "nz": "n͡z",
+    "ŋ": "ŋ",
+    "ŋg": "ŋɡ",
+    "f": "f",
+    "v": "v",
+    "vb": "v͡b",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "̧": "◌̃",
+    "́": "˥",
+    "̀": "˩",
+    "̌": "˩˥"
+  },
+  "tones": {
+    "high": "acute",
+    "mid": "unmarked",
+    "low": "grave",
+    "rising": "caron"
+  },
+  "notes": "Hartell uses /y/ and hooked /ƴ/ in the phoneme table; /ƴ/ represents a palatal implosive (/ʄ/). Nasalization is marked by a cedilla under the first vowel of the word.",
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "d",
+    "ɗ",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "mgb",
+    "n",
+    "nd",
+    "nz",
+    "ŋ",
+    "ŋg",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "vb",
+    "w",
+    "y",
+    "ƴ",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "mbáy",
+      "gloss": "chief"
+    },
+    {
+      "word": "bɔ̌h",
+      "gloss": "melon"
+    },
+    {
+      "word": "ɓày",
+      "gloss": "word"
+    },
+    {
+      "word": "dùhru",
+      "gloss": "baboon"
+    },
+    {
+      "word": "ɗuh",
+      "gloss": "to pound"
+    },
+    {
+      "word": "fê",
+      "gloss": "thing"
+    },
+    {
+      "word": "fay",
+      "gloss": "father-in-law"
+    },
+    {
+      "word": "gáy",
+      "gloss": "dog"
+    },
+    {
+      "word": "gbàhla",
+      "gloss": "weaver bird"
+    },
+    {
+      "word": "húm",
+      "gloss": "mushroom"
+    },
+    {
+      "word": "híh",
+      "gloss": "woven mat"
+    },
+    {
+      "word": "kúh",
+      "gloss": "gourd"
+    },
+    {
+      "word": "kpéh",
+      "gloss": "yam"
+    },
+    {
+      "word": "sàl",
+      "gloss": "rope"
+    },
+    {
+      "word": "máh",
+      "gloss": "mother"
+    },
+    {
+      "word": "mbìh",
+      "gloss": "water"
+    },
+    {
+      "word": "mgbama",
+      "gloss": "wild cat"
+    },
+    {
+      "word": "nah",
+      "gloss": "uncle"
+    },
+    {
+      "word": "ndɔ̀kɔ",
+      "gloss": "buffalo"
+    },
+    {
+      "word": "nzɔ́kɔ",
+      "gloss": "peanut"
+    },
+    {
+      "word": "nàŋ",
+      "gloss": "millet"
+    },
+    {
+      "word": "ŋgáɓi",
+      "gloss": "large antelope"
+    },
+    {
+      "word": "tòm",
+      "gloss": "salt"
+    },
+    {
+      "word": "nzɔ́kɔ",
+      "gloss": "peanut"
+    },
+    {
+      "word": "púh",
+      "gloss": "village"
+    },
+    {
+      "word": "làri",
+      "gloss": "silver"
+    },
+    {
+      "word": "sá̧w",
+      "gloss": "root"
+    },
+    {
+      "word": "tôm",
+      "gloss": "salt"
+    },
+    {
+      "word": "túl",
+      "gloss": "head"
+    },
+    {
+      "word": "vùl",
+      "gloss": "hut"
+    },
+    {
+      "word": "vbòl",
+      "gloss": "sorceress"
+    },
+    {
+      "word": "wáka",
+      "gloss": "field"
+    },
+    {
+      "word": "yáh",
+      "gloss": "friend"
+    },
+    {
+      "word": "yah",
+      "gloss": "to look for"
+    },
+    {
+      "word": "zuh",
+      "gloss": "to flee"
+    }
+  ]
+}

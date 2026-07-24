@@ -1,0 +1,179 @@
+{
+  "code": "mnk",
+  "name": "Mande (Malinke, Mandinka)",
+  "country": "Senegal",
+  "family": "Mande",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 91",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ñ": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "s": "s",
+    "x": "x",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "é": "e",
+    "e": "ɛ",
+    "a": "a",
+    "u": "u",
+    "ó": "o",
+    "o": "ɔ"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Hartell uses 'e' for /ɛ/ and 'é' for /e/, as well as 'o' for /ɔ/ and 'ó' for /o/. ISO 639-3 mnk proposed for Mandinka in Senegal.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "é",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ñ",
+    "ŋ",
+    "o",
+    "ó",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "x",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "faa",
+      "gloss": "father"
+    },
+    {
+      "word": "bato",
+      "gloss": "gourd"
+    },
+    {
+      "word": "caabó",
+      "gloss": "key"
+    },
+    {
+      "word": "dabo",
+      "gloss": "hoe"
+    },
+    {
+      "word": "beño",
+      "gloss": "arrow"
+    },
+    {
+      "word": "keeké",
+      "gloss": "fresh milk"
+    },
+    {
+      "word": "fentaŋ",
+      "gloss": "poor"
+    },
+    {
+      "word": "galo",
+      "gloss": "type of pearl"
+    },
+    {
+      "word": "haajo",
+      "gloss": "need"
+    },
+    {
+      "word": "sillo",
+      "gloss": "path, way"
+    },
+    {
+      "word": "jio",
+      "gloss": "water"
+    },
+    {
+      "word": "keloo",
+      "gloss": "war"
+    },
+    {
+      "word": "loolo",
+      "gloss": "star"
+    },
+    {
+      "word": "muso",
+      "gloss": "woman"
+    },
+    {
+      "word": "nono",
+      "gloss": "milk"
+    },
+    {
+      "word": "ñaa",
+      "gloss": "eye"
+    },
+    {
+      "word": "kuŋo",
+      "gloss": "head"
+    },
+    {
+      "word": "dolo",
+      "gloss": "fermented drink"
+    },
+    {
+      "word": "dókó",
+      "gloss": "stick"
+    },
+    {
+      "word": "purpura",
+      "gloss": "type of bird"
+    },
+    {
+      "word": "foro",
+      "gloss": "free man"
+    },
+    {
+      "word": "sembo",
+      "gloss": "power"
+    },
+    {
+      "word": "tato",
+      "gloss": "fortress"
+    },
+    {
+      "word": "buló",
+      "gloss": "arm"
+    },
+    {
+      "word": "wolo",
+      "gloss": "type of bird"
+    },
+    {
+      "word": "xaró",
+      "gloss": "moon"
+    },
+    {
+      "word": "yiró",
+      "gloss": "tree, medicine"
+    }
+  ]
+}

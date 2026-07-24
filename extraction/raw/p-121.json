@@ -1,0 +1,257 @@
+{
+  "page": 121,
+  "is_language_page": true,
+  "language": "Ditammari",
+  "iso639_3": "tbz",
+  "country": "Benin",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid 1": "unmarked",
+    "mid 2": "unmarked",
+    "low": "grave accent",
+    "note": "Only the high and low tones are marked."
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "m",
+    "n",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "nca",
+      "gloss": "woman"
+    },
+    {
+      "word": "kubaku",
+      "gloss": "arms"
+    },
+    {
+      "word": "cɛ̀",
+      "gloss": "to sweep"
+    },
+    {
+      "word": "dɛbirɛ",
+      "gloss": "child"
+    },
+    {
+      "word": "ipɛ",
+      "gloss": "sheep"
+    },
+    {
+      "word": "tɛkotɛ",
+      "gloss": "chicken"
+    },
+    {
+      "word": "dɛfitirɛ",
+      "gloss": "lamp"
+    },
+    {
+      "word": "muhau",
+      "gloss": "to dance"
+    },
+    {
+      "word": "ditori",
+      "gloss": "spoon"
+    },
+    {
+      "word": "yɛkorɛ",
+      "gloss": "necklace"
+    },
+    {
+      "word": "kpa",
+      "gloss": "to quarrel"
+    },
+    {
+      "word": "tɛmɔtɛ",
+      "gloss": "dog"
+    },
+    {
+      "word": "diswónnì",
+      "gloss": "lizard"
+    },
+    {
+      "word": "ŋau",
+      "gloss": "I dance"
+    },
+    {
+      "word": "dikūŋmɛnni",
+      "gloss": "morning"
+    },
+    {
+      "word": "tɛkotɛ",
+      "gloss": "chicken"
+    },
+    {
+      "word": "yɛkorɛ",
+      "gloss": "necklace"
+    },
+    {
+      "word": "kupaku",
+      "gloss": "millet"
+    },
+    {
+      "word": "dɛfitirɛ",
+      "gloss": "lamp"
+    },
+    {
+      "word": "sɛu",
+      "gloss": "to pound"
+    },
+    {
+      "word": "iti",
+      "gloss": "mouse"
+    },
+    {
+      "word": "didúù",
+      "gloss": "water pot"
+    },
+    {
+      "word": "tɛwãatɛ",
+      "gloss": "pen, pencil"
+    },
+    {
+      "word": "siyii",
+      "gloss": "fish"
+    }
+  ],
+  "num_graphemes": 24,
+  "confidence": "high",
+  "notes": "Hartell uses /tʃ/ for orthographic 'c' and /y/ for orthographic 'y' (mapped to IPA /j/). Nasalization is indicated with a tilde on vowels except /e/ and /o/. Labialization (pw, bw, tw, dw, cw, kw, mw, nw, fw, sw) and Palatalization (py, by, ty, dy, cy, my, ny, fy, sy) sequences are listed explicitly."
+}

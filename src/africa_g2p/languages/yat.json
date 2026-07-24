@@ -1,0 +1,178 @@
+{
+  "code": "yat",
+  "name": "Yambeta",
+  "country": "Cameroon",
+  "family": "Bantu A.60",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 143",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "ə": "ə",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "unmarked"
+  },
+  "notes": "Hartell's phoneme notation /y/ mapped to IPA /j/.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "ɛ",
+    "f",
+    "g",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "ambaan",
+      "gloss": "feet"
+    },
+    {
+      "word": "kɛbɛt",
+      "gloss": "fog"
+    },
+    {
+      "word": "ncɛm",
+      "gloss": "oath"
+    },
+    {
+      "word": "udúk",
+      "gloss": "night"
+    },
+    {
+      "word": "póey",
+      "gloss": "yesterday"
+    },
+    {
+      "word": "uŋŋə́ní",
+      "gloss": "termite"
+    },
+    {
+      "word": "odɛ",
+      "gloss": "forest"
+    },
+    {
+      "word": "ofáan",
+      "gloss": "wing"
+    },
+    {
+      "word": "nɛgɔy",
+      "gloss": "plantain"
+    },
+    {
+      "word": "kidun",
+      "gloss": "bush"
+    },
+    {
+      "word": "njo'",
+      "gloss": "elephant"
+    },
+    {
+      "word": "əkúú",
+      "gloss": "villages"
+    },
+    {
+      "word": "nilu",
+      "gloss": "knee"
+    },
+    {
+      "word": "móón",
+      "gloss": "child"
+    },
+    {
+      "word": "níín",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "nomóny",
+      "gloss": "mosquito"
+    },
+    {
+      "word": "aŋo",
+      "gloss": "voices"
+    },
+    {
+      "word": "oto",
+      "gloss": "head"
+    },
+    {
+      "word": "nodɔ",
+      "gloss": "intestine"
+    },
+    {
+      "word": "otap",
+      "gloss": "branch"
+    },
+    {
+      "word": "sé",
+      "gloss": "father"
+    },
+    {
+      "word": "toɛt",
+      "gloss": "throw!"
+    },
+    {
+      "word": "pusú",
+      "gloss": "fishes"
+    },
+    {
+      "word": "wóós",
+      "gloss": "sun"
+    },
+    {
+      "word": "yook",
+      "gloss": "house"
+    },
+    {
+      "word": "unu'",
+      "gloss": "mouth"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "code": "bib",
+  "name": "Bisa",
+  "country": "Burkina Faso",
+  "family": "Mande",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 17",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "t͡ʃ",
+    "j": "d͡ʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ɩ": "ɪ",
+    "e": "e",
+    "ɛ": "ɛ",
+    "ə": "ə",
+    "a": "a",
+    "u": "u",
+    "ʊ": "ʊ",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent",
+    "high low": "circumflex accent"
+  },
+  "notes": "Hartell uses /y/ for IPA /j/, /ɩ/ for IPA /ɪ/, and /tʃ/, /dʒ/ for affricates /t͡ʃ/, /d͡ʒ/. Length /V:/ is indicated by double vowels VV, and nasalization /Ṽ/ by digraph Vn.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "ɛ",
+    "f",
+    "g",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ka",
+      "gloss": "arrow"
+    },
+    {
+      "word": "basɩ",
+      "gloss": "eggplant"
+    },
+    {
+      "word": "cir",
+      "gloss": "chief"
+    },
+    {
+      "word": "da",
+      "gloss": "mother"
+    },
+    {
+      "word": "ser",
+      "gloss": "sheep"
+    },
+    {
+      "word": "fəm",
+      "gloss": "hare"
+    },
+    {
+      "word": "lɛ",
+      "gloss": "mouth"
+    },
+    {
+      "word": "fu",
+      "gloss": "white"
+    },
+    {
+      "word": "ga",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "hɛ",
+      "gloss": "calabash"
+    },
+    {
+      "word": "ji",
+      "gloss": "clay"
+    },
+    {
+      "word": "hɩ",
+      "gloss": "to say"
+    },
+    {
+      "word": "jeer",
+      "gloss": "court"
+    },
+    {
+      "word": "kaara",
+      "gloss": "maize"
+    },
+    {
+      "word": "la",
+      "gloss": "rain"
+    },
+    {
+      "word": "maasɩ",
+      "gloss": "broom"
+    },
+    {
+      "word": "noom",
+      "gloss": "folktale"
+    },
+    {
+      "word": "nyɩ",
+      "gloss": "child"
+    },
+    {
+      "word": "ŋua",
+      "gloss": "bull"
+    },
+    {
+      "word": "woso",
+      "gloss": "sun"
+    },
+    {
+      "word": "wɔ",
+      "gloss": "hand"
+    },
+    {
+      "word": "pɛɛra",
+      "gloss": "cloth"
+    },
+    {
+      "word": "bar",
+      "gloss": "rope"
+    },
+    {
+      "word": "sisi",
+      "gloss": "horse"
+    },
+    {
+      "word": "tur",
+      "gloss": "car"
+    },
+    {
+      "word": "muku",
+      "gloss": "worm"
+    },
+    {
+      "word": "kur",
+      "gloss": "chicken"
+    },
+    {
+      "word": "vɔŋgɔ",
+      "gloss": "branch"
+    },
+    {
+      "word": "woso",
+      "gloss": "sun"
+    },
+    {
+      "word": "yɛ",
+      "gloss": "salt"
+    },
+    {
+      "word": "zɔɔn",
+      "gloss": "bee"
+    }
+  ]
+}

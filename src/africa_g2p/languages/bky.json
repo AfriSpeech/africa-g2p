@@ -1,0 +1,181 @@
+{
+  "code": "bky",
+  "name": "Bekwarra",
+  "country": "Nigeria",
+  "family": "Benue-Congo",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 20",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng": "ŋ",
+    "f": "f",
+    "sh": "ʃ",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "VV": "Vː"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "unmarked",
+    "low": "grave accent"
+  },
+  "notes": "Converted Hartell /y/ to IPA /j/. Labialization (pw, bw, mw, chw, jw, nyw, shw, kw, gw, ngw) and palatalization (py, by, my, ty, dy, ny, ly) notes are explicitly rendered on page. Long vowels are represented by double vowels VV. Although the text states 27 graphemes, 26 items are listed in the ALPHABET row.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "ny",
+    "o",
+    "p",
+    "r",
+    "sh",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "faa",
+      "gloss": "to roast"
+    },
+    {
+      "word": "àbó",
+      "gloss": "arm"
+    },
+    {
+      "word": "ìrichì",
+      "gloss": "eye"
+    },
+    {
+      "word": "dè",
+      "gloss": "to say"
+    },
+    {
+      "word": "bé",
+      "gloss": "to come"
+    },
+    {
+      "word": "faà",
+      "gloss": "to teach"
+    },
+    {
+      "word": "gógó",
+      "gloss": "well"
+    },
+    {
+      "word": "ìgben",
+      "gloss": "time"
+    },
+    {
+      "word": "hàrà",
+      "gloss": "to answer"
+    },
+    {
+      "word": "ìrijí",
+      "gloss": "food"
+    },
+    {
+      "word": "ji",
+      "gloss": "to eat"
+    },
+    {
+      "word": "ùkáá",
+      "gloss": "stone"
+    },
+    {
+      "word": "àkpà",
+      "gloss": "box"
+    },
+    {
+      "word": "ológo",
+      "gloss": "cassava"
+    },
+    {
+      "word": "mù",
+      "gloss": "to fall"
+    },
+    {
+      "word": "nè",
+      "gloss": "to see"
+    },
+    {
+      "word": "ngá",
+      "gloss": "[particle]"
+    },
+    {
+      "word": "nyùng",
+      "gloss": "to shake"
+    },
+    {
+      "word": "olúgo",
+      "gloss": "cassava"
+    },
+    {
+      "word": "pia",
+      "gloss": "to go far"
+    },
+    {
+      "word": "ìrìshì",
+      "gloss": "door"
+    },
+    {
+      "word": "shì",
+      "gloss": "to make"
+    },
+    {
+      "word": "tìbì",
+      "gloss": "to weave"
+    },
+    {
+      "word": "ùchù",
+      "gloss": "compound"
+    },
+    {
+      "word": "wam",
+      "gloss": "to remove"
+    },
+    {
+      "word": "yi",
+      "gloss": "to be"
+    }
+  ]
+}

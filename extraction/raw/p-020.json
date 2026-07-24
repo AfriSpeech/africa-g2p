@@ -1,0 +1,272 @@
+{
+  "page": 20,
+  "is_language_page": true,
+  "language": "Bekwarra",
+  "iso639_3": "bky",
+  "country": "Nigeria",
+  "family": "Benue-Congo",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "Vː",
+      "grapheme": "VV"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "unmarked",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "ny",
+    "o",
+    "p",
+    "r",
+    "sh",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "faa",
+      "gloss": "to roast"
+    },
+    {
+      "word": "àbó",
+      "gloss": "arm"
+    },
+    {
+      "word": "ìrichì",
+      "gloss": "eye"
+    },
+    {
+      "word": "dè",
+      "gloss": "to say"
+    },
+    {
+      "word": "bé",
+      "gloss": "to come"
+    },
+    {
+      "word": "faà",
+      "gloss": "to teach"
+    },
+    {
+      "word": "gógó",
+      "gloss": "well"
+    },
+    {
+      "word": "ìgben",
+      "gloss": "time"
+    },
+    {
+      "word": "hàrà",
+      "gloss": "to answer"
+    },
+    {
+      "word": "ìrijí",
+      "gloss": "food"
+    },
+    {
+      "word": "ji",
+      "gloss": "to eat"
+    },
+    {
+      "word": "ùkáá",
+      "gloss": "stone"
+    },
+    {
+      "word": "àkpà",
+      "gloss": "box"
+    },
+    {
+      "word": "ológo",
+      "gloss": "cassava"
+    },
+    {
+      "word": "mù",
+      "gloss": "to fall"
+    },
+    {
+      "word": "nè",
+      "gloss": "to see"
+    },
+    {
+      "word": "ngá",
+      "gloss": "[particle]"
+    },
+    {
+      "word": "nyùng",
+      "gloss": "to shake"
+    },
+    {
+      "word": "olúgo",
+      "gloss": "cassava"
+    },
+    {
+      "word": "pia",
+      "gloss": "to go far"
+    },
+    {
+      "word": "ìrìshì",
+      "gloss": "door"
+    },
+    {
+      "word": "shì",
+      "gloss": "to make"
+    },
+    {
+      "word": "tìbì",
+      "gloss": "to weave"
+    },
+    {
+      "word": "ùchù",
+      "gloss": "compound"
+    },
+    {
+      "word": "wam",
+      "gloss": "to remove"
+    },
+    {
+      "word": "yi",
+      "gloss": "to be"
+    }
+  ],
+  "num_graphemes": 27,
+  "confidence": "high",
+  "notes": "Converted Hartell /y/ to IPA /j/. Labialization (pw, bw, mw, chw, jw, nyw, shw, kw, gw, ngw) and palatalization (py, by, my, ty, dy, ny, ly) notes are explicitly rendered on page. Long vowels are represented by double vowels VV. Although the text states 27 graphemes, 26 items are listed in the ALPHABET row."
+}

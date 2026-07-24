@@ -1,0 +1,354 @@
+{
+  "page": 61,
+  "is_language_page": true,
+  "language": "Igbo",
+  "iso639_3": "ibo",
+  "country": "Nigeria",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "t͡ʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "ɡʷ",
+      "grapheme": "gw"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ṅ"
+    },
+    {
+      "phoneme": "ŋʷ",
+      "grapheme": "nw"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ị"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ụ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ọ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "underdot (-ATR vowel indicator)",
+      "ipa": null
+    },
+    {
+      "mark": "U+0307",
+      "role": "dot above (velar nasal indicator)",
+      "ipa": null
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "gw",
+    "h",
+    "i",
+    "ị",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "nw",
+    "ny",
+    "ṅ",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "ụ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ala",
+      "gloss": "land"
+    },
+    {
+      "word": "abọ",
+      "gloss": "basket"
+    },
+    {
+      "word": "ubọchị",
+      "gloss": "day"
+    },
+    {
+      "word": "ida",
+      "gloss": "to fall"
+    },
+    {
+      "word": "mbe",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "ifa",
+      "gloss": "to shriek"
+    },
+    {
+      "word": "iga",
+      "gloss": "to go"
+    },
+    {
+      "word": "igba",
+      "gloss": "to run"
+    },
+    {
+      "word": "eghu",
+      "gloss": "goat"
+    },
+    {
+      "word": "igwe",
+      "gloss": "iron"
+    },
+    {
+      "word": "ahụhụ",
+      "gloss": "suffering"
+    },
+    {
+      "word": "isi",
+      "gloss": "head"
+    },
+    {
+      "word": "ntị",
+      "gloss": "ear"
+    },
+    {
+      "word": "njọ",
+      "gloss": "bad"
+    },
+    {
+      "word": "ịka",
+      "gloss": "to be more"
+    },
+    {
+      "word": "akpa",
+      "gloss": "sac"
+    },
+    {
+      "word": "ịkwa",
+      "gloss": "to cry"
+    },
+    {
+      "word": "ụlọ",
+      "gloss": "house"
+    },
+    {
+      "word": "ọma",
+      "gloss": "good, beautiful"
+    },
+    {
+      "word": "ịna",
+      "gloss": "to receive"
+    },
+    {
+      "word": "onye",
+      "gloss": "someone"
+    },
+    {
+      "word": "nwa",
+      "gloss": "child"
+    },
+    {
+      "word": "ịṅụ",
+      "gloss": "to drink"
+    },
+    {
+      "word": "oke",
+      "gloss": "rat"
+    },
+    {
+      "word": "ọzọ",
+      "gloss": "other"
+    },
+    {
+      "word": "ịpa",
+      "gloss": "to carry"
+    },
+    {
+      "word": "ụra",
+      "gloss": "sleep"
+    },
+    {
+      "word": "ịsa",
+      "gloss": "to wash"
+    },
+    {
+      "word": "isha",
+      "gloss": "shrimp"
+    },
+    {
+      "word": "ite",
+      "gloss": "pot"
+    },
+    {
+      "word": "uche",
+      "gloss": "mind, sense"
+    },
+    {
+      "word": "ụmụ",
+      "gloss": "children"
+    },
+    {
+      "word": "ivu",
+      "gloss": "load"
+    },
+    {
+      "word": "ịwa",
+      "gloss": "to split"
+    },
+    {
+      "word": "ya",
+      "gloss": "his/her"
+    },
+    {
+      "word": "ịza",
+      "gloss": "to answer"
+    }
+  ],
+  "num_graphemes": 36,
+  "confidence": "high",
+  "notes": "Hartell uses voiceless and voiced implosive symbols (/ƥ/ and /ɓ/) for kp and gb, converted to standard labial-velar stops /k͡p/ and /ɡ͡b/. Converted orthographic /y/ to IPA /j/. Converted /kw/, /gw/, /nw/ to labialized phonemes /kʷ/, /ɡʷ/, /ŋʷ/."
+}

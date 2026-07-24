@@ -1,0 +1,336 @@
+{
+  "page": 81,
+  "is_language_page": true,
+  "language": "Mampruli",
+  "iso639_3": "maw",
+  "country": "Ghana",
+  "family": "Central Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "ky"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "gy"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "iː",
+      "grapheme": "ii"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "eː",
+      "grapheme": "ee"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "aː",
+      "grapheme": "aa"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "uː",
+      "grapheme": "uu"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "ɔ"
+    },
+    {
+      "phoneme": "oː",
+      "grapheme": "oo"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "aa",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "ee",
+    "f",
+    "g",
+    "'",
+    "gb",
+    "gy",
+    "h",
+    "i",
+    "ii",
+    "k",
+    "kp",
+    "ky",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "oo",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "uu",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "m ba",
+      "gloss": "my father"
+    },
+    {
+      "word": "baasi",
+      "gloss": "dogs"
+    },
+    {
+      "word": "daasi",
+      "gloss": "markets"
+    },
+    {
+      "word": "deaai",
+      "gloss": "to get"
+    },
+    {
+      "word": "bɛ ni",
+      "gloss": "is there"
+    },
+    {
+      "word": "feesi",
+      "gloss": "to wipe"
+    },
+    {
+      "word": "gaasi",
+      "gloss": "Diospyros fruits"
+    },
+    {
+      "word": "sɛ'asi",
+      "gloss": "to prepare"
+    },
+    {
+      "word": "gbaasi",
+      "gloss": "to catch (many)"
+    },
+    {
+      "word": "gyaasi",
+      "gloss": "twins"
+    },
+    {
+      "word": "halaali",
+      "gloss": "pure (loanword)"
+    },
+    {
+      "word": "bibila",
+      "gloss": "small child"
+    },
+    {
+      "word": "diisi",
+      "gloss": "to feed"
+    },
+    {
+      "word": "kaasi",
+      "gloss": "to cry"
+    },
+    {
+      "word": "kpaasi",
+      "gloss": "nails"
+    },
+    {
+      "word": "kyeesi",
+      "gloss": "parrots"
+    },
+    {
+      "word": "laasi",
+      "gloss": "bowls"
+    },
+    {
+      "word": "maasim",
+      "gloss": "shade"
+    },
+    {
+      "word": "naasi",
+      "gloss": "four"
+    },
+    {
+      "word": "nyaari",
+      "gloss": "chests"
+    },
+    {
+      "word": "ŋobi",
+      "gloss": "to chew"
+    },
+    {
+      "word": "ŋmaasi",
+      "gloss": "to break (many)"
+    },
+    {
+      "word": "doaai",
+      "gloss": "to get up"
+    },
+    {
+      "word": "bɔ...?",
+      "gloss": "what?"
+    },
+    {
+      "word": "doosi",
+      "gloss": "to week"
+    },
+    {
+      "word": "paasi",
+      "gloss": "to add"
+    },
+    {
+      "word": "daari",
+      "gloss": "sticks"
+    },
+    {
+      "word": "saasi",
+      "gloss": "rains"
+    },
+    {
+      "word": "taasi",
+      "gloss": "to send"
+    },
+    {
+      "word": "bu",
+      "gloss": "to beat"
+    },
+    {
+      "word": "buusi",
+      "gloss": "goats"
+    },
+    {
+      "word": "vaari",
+      "gloss": "leaves"
+    },
+    {
+      "word": "waasi",
+      "gloss": "dances"
+    },
+    {
+      "word": "yaari",
+      "gloss": "fishing"
+    },
+    {
+      "word": "zaasim",
+      "gloss": "fishes"
+    }
+  ],
+  "num_graphemes": 37,
+  "confidence": "high",
+  "notes": "Hartell uses /c/ for palatal stop [c], /ɟ/ for [ɟ], and /y/ for [j]. Allophones listed in brackets in original text: /d/ [r] -> d, r; /g/ [ʔ] -> g, '; /s/ [ʃ] [h] -> s, h; /z/ [ʒ] -> z. Vowel length /V:/ is represented orthographically by doubling the letter (VV)."
+}

@@ -1,0 +1,232 @@
+{
+  "page": 68,
+  "is_language_page": true,
+  "language": "Kuria",
+  "iso639_3": "kuj",
+  "country": "Kenya",
+  "family": "Bantu",
+  "graphemes": [
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ⁿd",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋɡ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "β",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "rr"
+    },
+    {
+      "phoneme": "ɾ",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ë"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ö"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0308",
+      "role": "open-mid vowel indicator",
+      "ipa": null
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "e",
+    "ë",
+    "g",
+    "h",
+    "i",
+    "k",
+    "m",
+    "n",
+    "nd",
+    "ny",
+    "ng'",
+    "o",
+    "ö",
+    "r",
+    "rr",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "ahase",
+      "gloss": "place"
+    },
+    {
+      "word": "obota",
+      "gloss": "bow"
+    },
+    {
+      "word": "omosaacha",
+      "gloss": "man"
+    },
+    {
+      "word": "irigena",
+      "gloss": "stone"
+    },
+    {
+      "word": "omogëni",
+      "gloss": "visitor"
+    },
+    {
+      "word": "ekegabo",
+      "gloss": "basket"
+    },
+    {
+      "word": "omohëënë",
+      "gloss": "righteous man"
+    },
+    {
+      "word": "iriiso",
+      "gloss": "eye"
+    },
+    {
+      "word": "urukui",
+      "gloss": "firewood"
+    },
+    {
+      "word": "amatui",
+      "gloss": "ears"
+    },
+    {
+      "word": "omonënë",
+      "gloss": "fat man"
+    },
+    {
+      "word": "cenda",
+      "gloss": "belly"
+    },
+    {
+      "word": "inyaamu",
+      "gloss": "cat"
+    },
+    {
+      "word": "eng'öömbë",
+      "gloss": "cow"
+    },
+    {
+      "word": "omote",
+      "gloss": "tree"
+    },
+    {
+      "word": "omööna",
+      "gloss": "child"
+    },
+    {
+      "word": "urusiko",
+      "gloss": "day"
+    },
+    {
+      "word": "irrëkö",
+      "gloss": "shoulder"
+    },
+    {
+      "word": "eseese",
+      "gloss": "dog"
+    },
+    {
+      "word": "agatimo",
+      "gloss": "small spear"
+    },
+    {
+      "word": "umumura",
+      "gloss": "young man"
+    },
+    {
+      "word": "ekeweere",
+      "gloss": "wildebeest"
+    },
+    {
+      "word": "ekebaayi",
+      "gloss": "weeding hoe"
+    }
+  ],
+  "num_graphemes": 23,
+  "confidence": "high",
+  "notes": "Note on page: 'N.B.: This orthography is still under development.' The orthographic symbol for /ŋɡ/ is listed as 'ng' in the phoneme table, but 'ng'' in the alphabet and examples. Phoneme /y/ is mapped to IPA /j/, /ç/ is mapped to IPA /c/, /nd/ to /ⁿd/, and /r/ phonemes [r] and /r/ are mapped to /r/ (trill) and /ɾ/ (tap)."
+}

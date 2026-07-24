@@ -1,0 +1,298 @@
+{
+  "page": 22,
+  "is_language_page": true,
+  "language": "Berom",
+  "iso639_3": "bom",
+  "country": "Nigeria",
+  "family": "Benue-Congo",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "t͡ʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "t͡s",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [],
+  "tones": {},
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "ts",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ba",
+      "gloss": "knife"
+    },
+    {
+      "word": "bot",
+      "gloss": "frog"
+    },
+    {
+      "word": "congot",
+      "gloss": "fowl"
+    },
+    {
+      "word": "duk",
+      "gloss": "hut"
+    },
+    {
+      "word": "kwet",
+      "gloss": "arrow"
+    },
+    {
+      "word": "kwɛt",
+      "gloss": "calabash"
+    },
+    {
+      "word": "fei",
+      "gloss": "rabbit"
+    },
+    {
+      "word": "gubu",
+      "gloss": "spoon"
+    },
+    {
+      "word": "gbin",
+      "gloss": "elephant"
+    },
+    {
+      "word": "hwong",
+      "gloss": "girl"
+    },
+    {
+      "word": "kyit",
+      "gloss": "yam"
+    },
+    {
+      "word": "ju",
+      "gloss": "blow"
+    },
+    {
+      "word": "kat",
+      "gloss": "monkey"
+    },
+    {
+      "word": "kpatak",
+      "gloss": "sandals"
+    },
+    {
+      "word": "lang",
+      "gloss": "branch"
+    },
+    {
+      "word": "mala",
+      "gloss": "handbag"
+    },
+    {
+      "word": "narang",
+      "gloss": "spider"
+    },
+    {
+      "word": "ngas",
+      "gloss": "breast"
+    },
+    {
+      "word": "yo:n",
+      "gloss": "guitar"
+    },
+    {
+      "word": "yɔm",
+      "gloss": "show off"
+    },
+    {
+      "word": "pwɛl",
+      "gloss": "crescent moon"
+    },
+    {
+      "word": "rɔndɔng",
+      "gloss": "cow"
+    },
+    {
+      "word": "sɔng",
+      "gloss": "grass"
+    },
+    {
+      "word": "shila",
+      "gloss": "beans"
+    },
+    {
+      "word": "tɔk",
+      "gloss": "fish"
+    },
+    {
+      "word": "tsung",
+      "gloss": "pot"
+    },
+    {
+      "word": "cu",
+      "gloss": "rat"
+    },
+    {
+      "word": "vwu",
+      "gloss": "dog"
+    },
+    {
+      "word": "wal",
+      "gloss": "machete"
+    },
+    {
+      "word": "yɔrɔ",
+      "gloss": "grasshopper"
+    },
+    {
+      "word": "zɛbɛrɛng",
+      "gloss": "mosquito"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "Hartell's phoneme notations converted to IPA: /tʃ/ -> t͡ʃ, /dʒ/ -> d͡ʒ, /ts/ -> t͡s, /kp/ -> k͡p, /gb/ -> ɡ͡b, /y/ -> j, /ŋ/ -> ŋ."
+}

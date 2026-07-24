@@ -1,0 +1,391 @@
+{
+  "page": 78,
+  "is_language_page": true,
+  "language": "Nso'",
+  "iso639_3": "lns",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, Ring",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "bv",
+      "grapheme": "bv"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "ts",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "dz",
+      "grapheme": "dz"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "kf"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɡv",
+      "grapheme": "gv"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "mv",
+      "grapheme": "mv"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "ɣv",
+      "grapheme": "ghv"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0302",
+      "role": "high falling tone",
+      "ipa": "˥˩"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+030C",
+      "role": "low-high tone",
+      "ipa": "˩˥"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "high falling": "circumflex accent",
+    "high rising": "unmarked",
+    "mid": "unmarked",
+    "mid-falling": "unmarked",
+    "low": "grave accent",
+    "low-falling": "grave accent",
+    "low-high": "caron"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "bv",
+    "c",
+    "d",
+    "dz",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "ghv",
+    "gv",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kf",
+    "kp",
+    "l",
+    "m",
+    "mv",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "ts",
+    "u",
+    "v",
+    "w",
+    "y",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "kibán",
+      "gloss": "pounded yam"
+    },
+    {
+      "word": "bíy",
+      "gloss": "cola nut"
+    },
+    {
+      "word": "bváy",
+      "gloss": "goat"
+    },
+    {
+      "word": "kicí",
+      "gloss": "tree"
+    },
+    {
+      "word": "déŋ",
+      "gloss": "horse tail"
+    },
+    {
+      "word": "dzén",
+      "gloss": "to dance"
+    },
+    {
+      "word": "bé'",
+      "gloss": "to carry"
+    },
+    {
+      "word": "sɔ",
+      "gloss": "fish"
+    },
+    {
+      "word": "faáy",
+      "gloss": "compound chief"
+    },
+    {
+      "word": "go'",
+      "gloss": "to remain"
+    },
+    {
+      "word": "gbu",
+      "gloss": "to fall"
+    },
+    {
+      "word": "ghán",
+      "gloss": "to travel"
+    },
+    {
+      "word": "ghvəm",
+      "gloss": "ten"
+    },
+    {
+      "word": "gvə́tí",
+      "gloss": "to bow"
+    },
+    {
+      "word": "haàn",
+      "gloss": "I don't know"
+    },
+    {
+      "word": "kíy",
+      "gloss": "fireplace"
+    },
+    {
+      "word": "jum",
+      "gloss": "to chase"
+    },
+    {
+      "word": "kán",
+      "gloss": "monkey"
+    },
+    {
+      "word": "kfə̀'",
+      "gloss": "weevil"
+    },
+    {
+      "word": "kpú",
+      "gloss": "to die"
+    },
+    {
+      "word": "lá'",
+      "gloss": "compound"
+    },
+    {
+      "word": "ma'",
+      "gloss": "to throw"
+    },
+    {
+      "word": "mvən",
+      "gloss": "arrow"
+    },
+    {
+      "word": "nà'",
+      "gloss": "cow"
+    },
+    {
+      "word": "nyám",
+      "gloss": "animal"
+    },
+    {
+      "word": "ŋár",
+      "gloss": "to lift"
+    },
+    {
+      "word": "kóm",
+      "gloss": "to peel"
+    },
+    {
+      "word": "pan",
+      "gloss": "pan, dish"
+    },
+    {
+      "word": "ru'",
+      "gloss": "raffia"
+    },
+    {
+      "word": "su",
+      "gloss": "to wash"
+    },
+    {
+      "word": "shuu",
+      "gloss": "mouth"
+    },
+    {
+      "word": "tán",
+      "gloss": "hat"
+    },
+    {
+      "word": "tsóy",
+      "gloss": "to knock"
+    },
+    {
+      "word": "kún",
+      "gloss": "tail"
+    },
+    {
+      "word": "vín",
+      "gloss": "breast"
+    },
+    {
+      "word": "wán",
+      "gloss": "child"
+    },
+    {
+      "word": "yí",
+      "gloss": "to eat"
+    },
+    {
+      "word": "tú'",
+      "gloss": "potatoes"
+    }
+  ],
+  "num_graphemes": 38,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA [j]. Bracketed items [bv], [ts], [dz], [gv], [mv] indicate phonetic/affricate variants. /k/ is transcribed with graphemes k and kf. The source note lists labialized sequences (kw, shw, gw, jw, ŋw) and prenasalized sequences (mf, ngw, mb, nd, ndz, nj, njw, ns, nsh, nshw, nt, nts, ng, ngw, nk, nkw)."
+}

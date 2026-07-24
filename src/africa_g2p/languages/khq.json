@@ -1,0 +1,173 @@
+{
+  "code": "khq",
+  "name": "Songhoy",
+  "country": "Mali",
+  "family": "Nilo-Saharan",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 114",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "t͡ʃ",
+    "j": "d͡ʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "s": "s",
+    "š": "ʃ",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Hartell /y/ mapped to IPA /j/. Phoneme /p/ occurs in borrowed words only. Long vowels /V:/ represented orthographically by doubling the vowel symbol (VV). Nasalized vowels /Ṽ/ represented by Vn. Prenasalization is noted as: mb, nd, nt, ng, nj. Note that the example column in the original printed source contains 'ize' (son) under both 'e' and 'i'.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "š",
+    "t",
+    "u",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "Agali",
+      "gloss": "man's name"
+    },
+    {
+      "word": "baba",
+      "gloss": "father"
+    },
+    {
+      "word": "ciiri",
+      "gloss": "salt"
+    },
+    {
+      "word": "deene",
+      "gloss": "tongue"
+    },
+    {
+      "word": "ize",
+      "gloss": "son"
+    },
+    {
+      "word": "faari",
+      "gloss": "ricefield"
+    },
+    {
+      "word": "gaasu",
+      "gloss": "calabash"
+    },
+    {
+      "word": "hari",
+      "gloss": "water"
+    },
+    {
+      "word": "ize",
+      "gloss": "son"
+    },
+    {
+      "word": "jiiri",
+      "gloss": "year"
+    },
+    {
+      "word": "koyra",
+      "gloss": "village"
+    },
+    {
+      "word": "lati",
+      "gloss": "flute"
+    },
+    {
+      "word": "moo",
+      "gloss": "ricefield"
+    },
+    {
+      "word": "nongu",
+      "gloss": "part, place"
+    },
+    {
+      "word": "nya",
+      "gloss": "mother"
+    },
+    {
+      "word": "ŋa",
+      "gloss": "to eat"
+    },
+    {
+      "word": "hommo",
+      "gloss": "sorghum"
+    },
+    {
+      "word": "pakupaku",
+      "gloss": "moped"
+    },
+    {
+      "word": "ramata",
+      "gloss": "woman's name"
+    },
+    {
+      "word": "senni",
+      "gloss": "word"
+    },
+    {
+      "word": "šanbu",
+      "gloss": "weaving trade"
+    },
+    {
+      "word": "tuuri",
+      "gloss": "tree"
+    },
+    {
+      "word": "turyan",
+      "gloss": "braiding"
+    },
+    {
+      "word": "waaru",
+      "gloss": "fissure"
+    },
+    {
+      "word": "yoo",
+      "gloss": "camel"
+    },
+    {
+      "word": "zuru",
+      "gloss": "to run"
+    }
+  ]
+}

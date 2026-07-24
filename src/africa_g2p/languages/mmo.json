@@ -1,0 +1,210 @@
+{
+  "code": "mmo",
+  "name": "Muan",
+  "country": "Côte d'Ivoire",
+  "family": "Southern Mande",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 92",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "bh": "ɓ",
+    "m": "ɓ",
+    "t": "t",
+    "d": "d",
+    "c": "c",
+    "j": "ɟ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "kw": "kʷ",
+    "gw": "ɡʷ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "n": "l",
+    "r": "l",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "ng": "ŋ",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": {
+    "high": "apostrophe before syllable ('M)",
+    "mid": "unmarked",
+    "low": "hyphen before syllable (-M)",
+    "glide": "equals sign before syllable (=M)",
+    "2d tone lower": "hyphen after syllable (M-)",
+    "2d tone higher": "apostrophe after syllable (M')"
+  },
+  "notes": "Vn represents nasalized vowels except for /e/ and /o/. Phoneme /ɓ/ is written as 'bh' or 'm'. Phoneme /l/ is written as 'l', 'n', or 'r'.",
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "gw",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "'sa",
+      "gloss": "arch, bow"
+    },
+    {
+      "word": "bu",
+      "gloss": "grave"
+    },
+    {
+      "word": "bhlɛ",
+      "gloss": "rope"
+    },
+    {
+      "word": "can",
+      "gloss": "folktale"
+    },
+    {
+      "word": "du",
+      "gloss": "buffalo"
+    },
+    {
+      "word": "gbe",
+      "gloss": "son"
+    },
+    {
+      "word": "wɛ",
+      "gloss": "salt"
+    },
+    {
+      "word": "fe",
+      "gloss": "mound"
+    },
+    {
+      "word": "gu",
+      "gloss": "wildcat"
+    },
+    {
+      "word": "gbe",
+      "gloss": "son"
+    },
+    {
+      "word": "-gwa",
+      "gloss": "kind of tree"
+    },
+    {
+      "word": "zi",
+      "gloss": "path"
+    },
+    {
+      "word": "jan",
+      "gloss": "word"
+    },
+    {
+      "word": "kaa",
+      "gloss": "fish"
+    },
+    {
+      "word": "kpe",
+      "gloss": "chair"
+    },
+    {
+      "word": "kwa",
+      "gloss": "clay"
+    },
+    {
+      "word": "le",
+      "gloss": "woman"
+    },
+    {
+      "word": "maa",
+      "gloss": "chicken"
+    },
+    {
+      "word": "na",
+      "gloss": "wife"
+    },
+    {
+      "word": "'kong",
+      "gloss": "canoe"
+    },
+    {
+      "word": "zo",
+      "gloss": "lizard"
+    },
+    {
+      "word": "zɔ",
+      "gloss": "pick"
+    },
+    {
+      "word": "pɛ",
+      "gloss": "thing"
+    },
+    {
+      "word": "dri",
+      "gloss": "ox"
+    },
+    {
+      "word": "se",
+      "gloss": "palm nut"
+    },
+    {
+      "word": "'tɛ",
+      "gloss": "fire"
+    },
+    {
+      "word": "du",
+      "gloss": "buffalo"
+    },
+    {
+      "word": "-vɛ",
+      "gloss": "kind of tree"
+    },
+    {
+      "word": "wɛ",
+      "gloss": "salt"
+    },
+    {
+      "word": "ye",
+      "gloss": "work"
+    },
+    {
+      "word": "zɔ",
+      "gloss": "pick"
+    }
+  ]
+}

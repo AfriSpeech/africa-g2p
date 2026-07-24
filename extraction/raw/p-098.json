@@ -1,0 +1,295 @@
+{
+  "page": 98,
+  "is_language_page": true,
+  "language": "Chumburung",
+  "iso639_3": "ncu",
+  "country": "Ghana",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ky"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "gy"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ẹ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ọ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "near-close / -ATR vowel quality (vertical line/dot below)",
+      "ipa": "ɪ, ʊ"
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ẹ",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "gy",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "ky",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ọ",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "sa",
+      "gloss": "to give"
+    },
+    {
+      "word": "boŋ",
+      "gloss": "to be square"
+    },
+    {
+      "word": "kwadu",
+      "gloss": "banana"
+    },
+    {
+      "word": "lee",
+      "gloss": "to take out"
+    },
+    {
+      "word": "dabẹ",
+      "gloss": "big"
+    },
+    {
+      "word": "nɛɛnɛɛ",
+      "gloss": "well [adv]"
+    },
+    {
+      "word": "fa",
+      "gloss": "to think"
+    },
+    {
+      "word": "gari",
+      "gloss": "cassava flour"
+    },
+    {
+      "word": "gbaa",
+      "gloss": "also"
+    },
+    {
+      "word": "gyono",
+      "gloss": "dog"
+    },
+    {
+      "word": "hama",
+      "gloss": "hammer"
+    },
+    {
+      "word": "buwi",
+      "gloss": "to search for"
+    },
+    {
+      "word": "kano",
+      "gloss": "mouth"
+    },
+    {
+      "word": "kpa",
+      "gloss": "to love"
+    },
+    {
+      "word": "kyaŋ",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "loŋ",
+      "gloss": "house"
+    },
+    {
+      "word": "mɛnaŋ",
+      "gloss": "quickly"
+    },
+    {
+      "word": "narẹ",
+      "gloss": "to walk"
+    },
+    {
+      "word": "kanye",
+      "gloss": "night"
+    },
+    {
+      "word": "loŋ",
+      "gloss": "house"
+    },
+    {
+      "word": "gyono",
+      "gloss": "dog"
+    },
+    {
+      "word": "kowọrẹ",
+      "gloss": "cloud"
+    },
+    {
+      "word": "kano",
+      "gloss": "mouth"
+    },
+    {
+      "word": "pipee",
+      "gloss": "red"
+    },
+    {
+      "word": "karẹ",
+      "gloss": "to read"
+    },
+    {
+      "word": "sa",
+      "gloss": "to give"
+    },
+    {
+      "word": "teŋpa",
+      "gloss": "cat"
+    },
+    {
+      "word": "kuruma",
+      "gloss": "donkey"
+    },
+    {
+      "word": "buwi",
+      "gloss": "to search for"
+    },
+    {
+      "word": "yuri",
+      "gloss": "coldness"
+    }
+  ],
+  "num_graphemes": 30,
+  "confidence": "high",
+  "notes": "Hartell uses /ɩ/ for IPA /ɪ/, /ɷ/ for IPA /ʊ/, and /y/ for IPA /j/. Letters e and o with subscript vertical tick/dot are represented with U+0323. Asterisks on g and h indicate loan words only."
+}

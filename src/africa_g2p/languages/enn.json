@@ -1,0 +1,201 @@
+{
+  "code": "enn",
+  "name": "Engenni",
+  "country": "Nigeria",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 42",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ḅ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ḍ": "ɗ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ị": "ɪ",
+    "e": "e",
+    "ẹ": "ɛ",
+    "a": "ə",
+    "ạ": "a",
+    "u": "u",
+    "ụ": "ʊ",
+    "o": "o",
+    "ọ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": {
+    "high": "unmarked lexically",
+    "low": "unmarked lexically",
+    "upstepped high": "unmarked lexically"
+  },
+  "notes": "Hartell uses /ɩ/ for /ɪ/ and /ɷ/ for /ʊ/. /y/ is standard IPA /j/. Subdot under dot-open vowels is only written word-initially due to vowel harmony rules. No lexical tone is marked in orthography, only 3 clause tone patterns (negative, subjunctive, narrative).",
+  "alphabet": [
+    "a",
+    "ạ",
+    "b",
+    "ḅ",
+    "d",
+    "ḍ",
+    "e",
+    "ẹ",
+    "f",
+    "g",
+    "gb",
+    "i",
+    "ị",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ụ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "aswa",
+      "gloss": "hoe"
+    },
+    {
+      "word": "ạbina",
+      "gloss": "plantain"
+    },
+    {
+      "word": "obila",
+      "gloss": "pitcher"
+    },
+    {
+      "word": "eḅufumu",
+      "gloss": "ash"
+    },
+    {
+      "word": "edei",
+      "gloss": "man"
+    },
+    {
+      "word": "aḍu",
+      "gloss": "eye"
+    },
+    {
+      "word": "eseni",
+      "gloss": "fish"
+    },
+    {
+      "word": "ẹkasyi",
+      "gloss": "chair"
+    },
+    {
+      "word": "ọfai",
+      "gloss": "new"
+    },
+    {
+      "word": "egadiga",
+      "gloss": "fish-trap"
+    },
+    {
+      "word": "igbo",
+      "gloss": "fish-net"
+    },
+    {
+      "word": "imo",
+      "gloss": "children"
+    },
+    {
+      "word": "ịba",
+      "gloss": "you (pl)"
+    },
+    {
+      "word": "eki",
+      "gloss": "market"
+    },
+    {
+      "word": "ạkpukuro",
+      "gloss": "cassava"
+    },
+    {
+      "word": "olilo",
+      "gloss": "bottle"
+    },
+    {
+      "word": "ạmo",
+      "gloss": "child"
+    },
+    {
+      "word": "ẹnumani",
+      "gloss": "eight"
+    },
+    {
+      "word": "okubo",
+      "gloss": "box"
+    },
+    {
+      "word": "ọmu",
+      "gloss": "house"
+    },
+    {
+      "word": "opilopo",
+      "gloss": "pig"
+    },
+    {
+      "word": "ạvuramu",
+      "gloss": "woman"
+    },
+    {
+      "word": "ẹsaru",
+      "gloss": "mosquito"
+    },
+    {
+      "word": "ọta",
+      "gloss": "time"
+    },
+    {
+      "word": "utomu",
+      "gloss": "head"
+    },
+    {
+      "word": "ụkari",
+      "gloss": "power"
+    },
+    {
+      "word": "ạvuvo",
+      "gloss": "bat"
+    },
+    {
+      "word": "iwo",
+      "gloss": "you (sg)"
+    },
+    {
+      "word": "yila",
+      "gloss": "to stand"
+    },
+    {
+      "word": "za",
+      "gloss": "to remain"
+    }
+  ]
+}

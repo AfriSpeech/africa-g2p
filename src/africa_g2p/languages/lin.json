@@ -1,0 +1,153 @@
+{
+  "code": "lin",
+  "name": "Lingala",
+  "country": "Congo",
+  "family": "Bantoid, Bantu C.40",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 76",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng": "ŋ",
+    "f": "f",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̂": "˥˩"
+  },
+  "tones": null,
+  "notes": "Converted Hartell /y/ to IPA /j/.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ng",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "tatà",
+      "gloss": "father"
+    },
+    {
+      "word": "ebelé",
+      "gloss": "much,many"
+    },
+    {
+      "word": "lodéfa",
+      "gloss": "to borrow"
+    },
+    {
+      "word": "ebelé",
+      "gloss": "much,many"
+    },
+    {
+      "word": "pɛtɛ pɛtɛ",
+      "gloss": "two, soft"
+    },
+    {
+      "word": "fufû",
+      "gloss": "manioc flour"
+    },
+    {
+      "word": "nini",
+      "gloss": "what?"
+    },
+    {
+      "word": "kàké",
+      "gloss": "thunder"
+    },
+    {
+      "word": "lilàla",
+      "gloss": "orange"
+    },
+    {
+      "word": "mamà",
+      "gloss": "mother"
+    },
+    {
+      "word": "nina",
+      "gloss": "electric fish"
+    },
+    {
+      "word": "nyòka",
+      "gloss": "snake"
+    },
+    {
+      "word": "ngonga",
+      "gloss": "clock"
+    },
+    {
+      "word": "lokolo",
+      "gloss": "leg"
+    },
+    {
+      "word": "mbɔngɔ",
+      "gloss": "silver"
+    },
+    {
+      "word": "pipà",
+      "gloss": "thickness"
+    },
+    {
+      "word": "sasapi",
+      "gloss": "immediately"
+    },
+    {
+      "word": "tatà",
+      "gloss": "father"
+    },
+    {
+      "word": "kulutu",
+      "gloss": "oldest child"
+    },
+    {
+      "word": "wanà",
+      "gloss": "there"
+    },
+    {
+      "word": "mayɛ́ɛ",
+      "gloss": "intelligence"
+    },
+    {
+      "word": "zolo",
+      "gloss": "nose"
+    }
+  ]
+}

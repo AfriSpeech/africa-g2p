@@ -1,0 +1,255 @@
+{
+  "page": 118,
+  "is_language_page": true,
+  "language": "Sooninke (Sarakole)",
+  "iso639_3": "snk",
+  "country": "Senegal",
+  "family": "Mande",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "q",
+      "grapheme": "q"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ñ"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "x"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [],
+  "tones": {
+    "note": "Tone is not written."
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ñ",
+    "ŋ",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "x",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "abada",
+      "gloss": "always"
+    },
+    {
+      "word": "baade",
+      "gloss": "mourning"
+    },
+    {
+      "word": "cakka",
+      "gloss": "necklace"
+    },
+    {
+      "word": "daba",
+      "gloss": "mat"
+    },
+    {
+      "word": "benne",
+      "gloss": "horn"
+    },
+    {
+      "word": "fillo",
+      "gloss": "two"
+    },
+    {
+      "word": "gaare",
+      "gloss": "lie"
+    },
+    {
+      "word": "saha",
+      "gloss": "health"
+    },
+    {
+      "word": "si",
+      "gloss": "horse"
+    },
+    {
+      "word": "ji",
+      "gloss": "water"
+    },
+    {
+      "word": "kabu",
+      "gloss": "nine"
+    },
+    {
+      "word": "labo",
+      "gloss": "knife"
+    },
+    {
+      "word": "marafa",
+      "gloss": "gun"
+    },
+    {
+      "word": "naxato",
+      "gloss": "four"
+    },
+    {
+      "word": "ñeru",
+      "gloss": "seven"
+    },
+    {
+      "word": "ŋaame",
+      "gloss": "flood"
+    },
+    {
+      "word": "sokke",
+      "gloss": "straw"
+    },
+    {
+      "word": "pitolle",
+      "gloss": "trap"
+    },
+    {
+      "word": "feqe",
+      "gloss": "armpit"
+    },
+    {
+      "word": "ri",
+      "gloss": "to come"
+    },
+    {
+      "word": "suuge",
+      "gloss": "song"
+    },
+    {
+      "word": "toro",
+      "gloss": "ear"
+    },
+    {
+      "word": "dulle",
+      "gloss": "hunger"
+    },
+    {
+      "word": "wulle",
+      "gloss": "dog"
+    },
+    {
+      "word": "xana",
+      "gloss": "friend"
+    },
+    {
+      "word": "yugo",
+      "gloss": "man"
+    }
+  ],
+  "num_graphemes": 26,
+  "confidence": "high",
+  "notes": "Vowel length is written as digraph VV (/V:/ -> VV). Gemination is represented by doubled consonant letters (pp, tt, dd, kk, qq, mm, nn, ŋŋ, ll)."
+}

@@ -1,0 +1,209 @@
+{
+  "code": "nfr",
+  "name": "Nafaanra",
+  "country": "Ghana",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 99",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "sh": "ʃ",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Vowel length is represented by double vowels (VV). Nasalization (/Ṽ/) is written as Vn (except for /e/ and /o/). Nasalization is marked by presence to a contiguous nasal, e.g. in /nu/ the vowel is nasalized. Where necessary, /n/ at the end of the syllable also marks nasalization, e.g. kaa 'chew', kaan 'stick'. When nasalization of a vowel already contiguous to a nasal is not wanted, a stop is inserted after the nasal, as in: ndɔɔ 'owl', ŋga 'this', mba 'I won't', nyjirɛ 'cloth pad for head load'.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "katoo",
+      "gloss": "compound"
+    },
+    {
+      "word": "boŋgrɛ",
+      "gloss": "groundnut"
+    },
+    {
+      "word": "chɔ",
+      "gloss": "pot"
+    },
+    {
+      "word": "dugu",
+      "gloss": "yam"
+    },
+    {
+      "word": "sepe",
+      "gloss": "spider"
+    },
+    {
+      "word": "ŋgobɛɛlɛ",
+      "gloss": "baby chicks"
+    },
+    {
+      "word": "fufla",
+      "gloss": "hawk"
+    },
+    {
+      "word": "genifun",
+      "gloss": "man (strutting)"
+    },
+    {
+      "word": "gbolo",
+      "gloss": "large calabash"
+    },
+    {
+      "word": "hanyini",
+      "gloss": "bird (small)"
+    },
+    {
+      "word": "chirɛ",
+      "gloss": "small calabash"
+    },
+    {
+      "word": "jese",
+      "gloss": "thread"
+    },
+    {
+      "word": "kojua",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "kpawrɛ",
+      "gloss": "shoe"
+    },
+    {
+      "word": "lete",
+      "gloss": "line street"
+    },
+    {
+      "word": "flom",
+      "gloss": "yam mound"
+    },
+    {
+      "word": "naa",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "nyjirɛ",
+      "gloss": "cloth headpad"
+    },
+    {
+      "word": "duŋu",
+      "gloss": "termite"
+    },
+    {
+      "word": "ŋmaa",
+      "gloss": "nail"
+    },
+    {
+      "word": "ofa",
+      "gloss": "uncle"
+    },
+    {
+      "word": "ndɔɔ",
+      "gloss": "owl"
+    },
+    {
+      "word": "pɔɔ",
+      "gloss": "sweep"
+    },
+    {
+      "word": "vavaara",
+      "gloss": "spider web"
+    },
+    {
+      "word": "see",
+      "gloss": "farm"
+    },
+    {
+      "word": "shunshun",
+      "gloss": "fly"
+    },
+    {
+      "word": "taya",
+      "gloss": "catapult"
+    },
+    {
+      "word": "fufu",
+      "gloss": "pounded yam"
+    },
+    {
+      "word": "vavaara",
+      "gloss": "spider web"
+    },
+    {
+      "word": "wangra",
+      "gloss": "world"
+    },
+    {
+      "word": "Yaa",
+      "gloss": "woman's name"
+    },
+    {
+      "word": "zeere",
+      "gloss": "scrubber for kitchen or bath use"
+    }
+  ]
+}

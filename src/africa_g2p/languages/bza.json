@@ -1,0 +1,207 @@
+{
+  "code": "bza",
+  "name": "Bandi (Gbande)",
+  "country": "Liberia",
+  "family": "Southwestern Mande",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 26",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "ɓ",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "mb": "m͡b",
+    "n": "n",
+    "nd": "n͡d",
+    "nj": "n͡dʒ",
+    "ng": "ŋɡ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "ɣ": "ɣ",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̂": "˥˩",
+    "̃": "̃"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent",
+    "falling": "circumflex accent",
+    "downstepped high": "exclamation mark before syllable with high tone"
+  },
+  "notes": "Hartell uses /ɓ/ (implosive b) for orthographic 'b', and /y/ for orthographic 'y' (rendered as IPA /j/). Vowel length is indicated by doubling vowels (/V:/ -> VV), and vowel nasalization is marked with a tilde (/Ṽ/ -> Ṽ).",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "ɣ",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "nj",
+    "ng",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "tâá",
+      "gloss": "town"
+    },
+    {
+      "word": "bàndí",
+      "gloss": "Bandi"
+    },
+    {
+      "word": "dùgbáí",
+      "gloss": "cannon"
+    },
+    {
+      "word": "sẽ́í",
+      "gloss": "to set down"
+    },
+    {
+      "word": "mɛ̀",
+      "gloss": "to eat"
+    },
+    {
+      "word": "fɛ̀",
+      "gloss": "to give"
+    },
+    {
+      "word": "í góóhù",
+      "gloss": "your stomach center"
+    },
+    {
+      "word": "dùgbáí",
+      "gloss": "cannon"
+    },
+    {
+      "word": "kɛ̂ɛ̀ɣɛ̀",
+      "gloss": "father"
+    },
+    {
+      "word": "hẽ́í",
+      "gloss": "to sit down"
+    },
+    {
+      "word": "sí",
+      "gloss": "this"
+    },
+    {
+      "word": "kòòhù",
+      "gloss": "stomach's center"
+    },
+    {
+      "word": "kpààlà",
+      "gloss": "farm"
+    },
+    {
+      "word": "kààlì",
+      "gloss": "snake"
+    },
+    {
+      "word": "màmàí",
+      "gloss": "old lady"
+    },
+    {
+      "word": "mbàlá",
+      "gloss": "friend"
+    },
+    {
+      "word": "nɛ̀ɛ̀",
+      "gloss": "sweet"
+    },
+    {
+      "word": "ndâá",
+      "gloss": "mouth"
+    },
+    {
+      "word": "njàlá",
+      "gloss": "lion"
+    },
+    {
+      "word": "ngàlá",
+      "gloss": "god"
+    },
+    {
+      "word": "ŋàní",
+      "gloss": "thing"
+    },
+    {
+      "word": "kóó",
+      "gloss": "stomach"
+    },
+    {
+      "word": "kɔ̀",
+      "gloss": "war"
+    },
+    {
+      "word": "pìlí",
+      "gloss": "to throw"
+    },
+    {
+      "word": "sìɛ́",
+      "gloss": "man"
+    },
+    {
+      "word": "tì",
+      "gloss": "they"
+    },
+    {
+      "word": "mbù",
+      "gloss": "under"
+    },
+    {
+      "word": "vílí",
+      "gloss": "to run"
+    },
+    {
+      "word": "wíâ",
+      "gloss": "to wash"
+    },
+    {
+      "word": "yélê",
+      "gloss": "to"
+    }
+  ]
+}

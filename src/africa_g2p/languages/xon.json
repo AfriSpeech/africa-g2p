@@ -1,0 +1,187 @@
+{
+  "code": "xon",
+  "name": "Konkomba",
+  "country": "Ghana",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 137",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": {
+    "note": "Tone is not written"
+  },
+  "notes": "Hartell uses /y/ for IPA /j/. Long vowels /V:/ are written by doubling the vowel letter (VV).",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "nkalaman",
+      "gloss": "maize"
+    },
+    {
+      "word": "ban",
+      "gloss": "to look for"
+    },
+    {
+      "word": "kichaŋ",
+      "gloss": "back"
+    },
+    {
+      "word": "dan",
+      "gloss": "to come"
+    },
+    {
+      "word": "arebersa",
+      "gloss": "onion"
+    },
+    {
+      "word": "tifar",
+      "gloss": "leaves"
+    },
+    {
+      "word": "gii",
+      "gloss": "to cut"
+    },
+    {
+      "word": "gbii",
+      "gloss": "full"
+    },
+    {
+      "word": "upiih",
+      "gloss": "sheep"
+    },
+    {
+      "word": "tidir",
+      "gloss": "rooms"
+    },
+    {
+      "word": "kijook",
+      "gloss": "evening"
+    },
+    {
+      "word": "kun",
+      "gloss": "to go home"
+    },
+    {
+      "word": "kpo",
+      "gloss": "to die"
+    },
+    {
+      "word": "likekeln",
+      "gloss": "cloth"
+    },
+    {
+      "word": "imii",
+      "gloss": "fires"
+    },
+    {
+      "word": "-na",
+      "gloss": "mother"
+    },
+    {
+      "word": "nyoo",
+      "gloss": "deep"
+    },
+    {
+      "word": "ŋan",
+      "gloss": "good"
+    },
+    {
+      "word": "uŋmal",
+      "gloss": "month"
+    },
+    {
+      "word": "ko",
+      "gloss": "to hoe"
+    },
+    {
+      "word": "nnyɔk",
+      "gloss": "medicine"
+    },
+    {
+      "word": "pam",
+      "gloss": "very"
+    },
+    {
+      "word": "timoor",
+      "gloss": "grass"
+    },
+    {
+      "word": "kisaak",
+      "gloss": "farm"
+    },
+    {
+      "word": "ŋitafal",
+      "gloss": "cars"
+    },
+    {
+      "word": "du",
+      "gloss": "here"
+    },
+    {
+      "word": "wii",
+      "gloss": "to call"
+    },
+    {
+      "word": "yi",
+      "gloss": "to call"
+    }
+  ]
+}

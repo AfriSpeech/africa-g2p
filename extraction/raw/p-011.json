@@ -1,0 +1,446 @@
+{
+  "page": 11,
+  "is_language_page": true,
+  "language": "Avokaya",
+  "iso639_3": "avu",
+  "country": "Sudan",
+  "family": "Nilo-Saharan",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "'b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "tɹ",
+      "grapheme": "tr"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "'d"
+    },
+    {
+      "phoneme": "dɹ",
+      "grapheme": "dr"
+    },
+    {
+      "phoneme": "ts",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dz",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "mb",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "mv",
+      "grapheme": "mv"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nd",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "ndɹ",
+      "grapheme": "ndr"
+    },
+    {
+      "phoneme": "ndz",
+      "grapheme": "ndz"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋg",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ŋmɡ͡b",
+      "grapheme": "ngb"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "ʔw",
+      "grapheme": "'w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "ʔj",
+      "grapheme": "'y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "ị"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ạ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "vowel quality (underdot)",
+      "ipa": ""
+    },
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0302",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0303",
+      "role": "low tone / nasalization",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute (´)",
+    "mid": "circumflex (ˆ) / macron (¯)",
+    "low": "tilde (˜)",
+    "rising": "tilde-circumflex (~^) on VV"
+  },
+  "alphabet": [
+    "a",
+    "ạ",
+    "b",
+    "'b",
+    "c",
+    "d",
+    "'d",
+    "dr",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ị",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ndr",
+    "ng",
+    "ngb",
+    "nj",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "tr",
+    "u",
+    "v",
+    "w",
+    "'w",
+    "y",
+    "'y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "ã̄rówã̄",
+      "gloss": "hippopotamus"
+    },
+    {
+      "word": "ātúbú",
+      "gloss": "pigeon"
+    },
+    {
+      "word": "bã̄",
+      "gloss": "breast"
+    },
+    {
+      "word": "'bí",
+      "gloss": "feather"
+    },
+    {
+      "word": "cõfó",
+      "gloss": "lung"
+    },
+    {
+      "word": "dālé",
+      "gloss": "to pour"
+    },
+    {
+      "word": "'dí'dí",
+      "gloss": "porridge"
+    },
+    {
+      "word": "drālē",
+      "gloss": "to die"
+    },
+    {
+      "word": "ērékôwá",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "fê",
+      "gloss": "tree"
+    },
+    {
+      "word": "gīípírí",
+      "gloss": "mosquito"
+    },
+    {
+      "word": "gbārã̄kã̄",
+      "gloss": "bed"
+    },
+    {
+      "word": "hûwạ̄",
+      "gloss": "open"
+    },
+    {
+      "word": "nīlí",
+      "gloss": "to go"
+    },
+    {
+      "word": "nīlị́",
+      "gloss": "to know"
+    },
+    {
+      "word": "jó",
+      "gloss": "house"
+    },
+    {
+      "word": "kã̄mị̄",
+      "gloss": "lion"
+    },
+    {
+      "word": "kpá",
+      "gloss": "also"
+    },
+    {
+      "word": "ālô",
+      "gloss": "one"
+    },
+    {
+      "word": "mányárã̄",
+      "gloss": "giraffe"
+    },
+    {
+      "word": "ã̄mbá",
+      "gloss": "large"
+    },
+    {
+      "word": "mvá",
+      "gloss": "child"
+    },
+    {
+      "word": "nâ",
+      "gloss": "three"
+    },
+    {
+      "word": "ndálé",
+      "gloss": "to search"
+    },
+    {
+      "word": "ĩ̄ndrị̄",
+      "gloss": "goat"
+    },
+    {
+      "word": "ngá",
+      "gloss": "thing"
+    },
+    {
+      "word": "ã̄ngbã̄",
+      "gloss": "frog"
+    },
+    {
+      "word": "njââ",
+      "gloss": "ready"
+    },
+    {
+      "word": "nyālē",
+      "gloss": "to eat"
+    },
+    {
+      "word": "ŋōlé",
+      "gloss": "to cut"
+    },
+    {
+      "word": "ôtógôwá",
+      "gloss": "hare"
+    },
+    {
+      "word": "pá",
+      "gloss": "foot"
+    },
+    {
+      "word": "rị̄",
+      "gloss": "two"
+    },
+    {
+      "word": "sárámạ́ndị̄",
+      "gloss": "peanut"
+    },
+    {
+      "word": "tị̄",
+      "gloss": "mouth"
+    },
+    {
+      "word": "trôlé",
+      "gloss": "to carry"
+    },
+    {
+      "word": "ūkūkū",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "vūlí",
+      "gloss": "to throw"
+    },
+    {
+      "word": "wālē",
+      "gloss": "to jump over"
+    },
+    {
+      "word": "ã̄'wá",
+      "gloss": "meat"
+    },
+    {
+      "word": "âyó",
+      "gloss": "yam"
+    },
+    {
+      "word": "f'yá",
+      "gloss": "arrow"
+    },
+    {
+      "word": "ôzê",
+      "gloss": "rain"
+    },
+    {
+      "word": "'ã̄'î",
+      "gloss": "knee"
+    }
+  ],
+  "num_graphemes": 43,
+  "confidence": "high",
+  "notes": "Hartell uses /ɩ/ for /ɪ/. In the phoneme table, /ndz/ is listed with orthographic symbol 'ndz'; however, the alphabet row and examples use 'nj'. Vowels with underdot (ị, ạ) mark retracted tongue root or specific vowel quality."
+}

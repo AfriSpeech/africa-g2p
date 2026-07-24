@@ -1,0 +1,151 @@
+{
+  "code": "aka",
+  "name": "Akan",
+  "country": "Ghana",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 6",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "g": "ɡ",
+    "kw": "kʷ",
+    "m": "m",
+    "n": "n",
+    "nw": "nʷ",
+    "f": "f",
+    "s": "s",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "ɪ",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "ʊ",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Hartell lists Palatalization (ky, gy, ny, hy) and Labial-palatalization (tw, dw, nw, hw) below the phoneme table. Letter l is noted as Asante only. Phonemes /y/, /I/, and /υ/ converted to standard IPA /j/, /ɪ/, and /ʊ/ respectively.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "saw",
+      "gloss": "to dance"
+    },
+    {
+      "word": "bu",
+      "gloss": "to break"
+    },
+    {
+      "word": "da",
+      "gloss": "day"
+    },
+    {
+      "word": "gye",
+      "gloss": "to receive"
+    },
+    {
+      "word": "sɛw",
+      "gloss": "to spread out"
+    },
+    {
+      "word": "fi",
+      "gloss": "to go out"
+    },
+    {
+      "word": "gow",
+      "gloss": "to be soft"
+    },
+    {
+      "word": "hu",
+      "gloss": "to see"
+    },
+    {
+      "word": "sie",
+      "gloss": "to hide"
+    },
+    {
+      "word": "kɔ",
+      "gloss": "to go"
+    },
+    {
+      "word": "lɔre",
+      "gloss": "lorry"
+    },
+    {
+      "word": "mba",
+      "gloss": "children"
+    },
+    {
+      "word": "nim",
+      "gloss": "to know"
+    },
+    {
+      "word": "ngo",
+      "gloss": "palm oil"
+    },
+    {
+      "word": "sɔw",
+      "gloss": "to catch"
+    },
+    {
+      "word": "petu",
+      "gloss": "to pretend"
+    },
+    {
+      "word": "frɛ",
+      "gloss": "to visit"
+    },
+    {
+      "word": "nsuo",
+      "gloss": "water"
+    },
+    {
+      "word": "tɔ",
+      "gloss": "to buy"
+    },
+    {
+      "word": "gua",
+      "gloss": "market"
+    },
+    {
+      "word": "ɛwɔ",
+      "gloss": "honey"
+    },
+    {
+      "word": "yi",
+      "gloss": "to remove"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "page": 136,
+  "is_language_page": true,
+  "language": "Waama",
+  "iso639_3": "wwa",
+  "country": "Benin",
+  "family": "Central Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "particle high tone marker",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": {
+    "very_high": "unwritten",
+    "high": "unwritten (except acute accent on certain particles)",
+    "low": "unwritten"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "i",
+    "k",
+    "kp",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "waaro",
+      "gloss": "hunter"
+    },
+    {
+      "word": "bika",
+      "gloss": "child"
+    },
+    {
+      "word": "caabu",
+      "gloss": "porridge"
+    },
+    {
+      "word": "daama",
+      "gloss": "millet beer"
+    },
+    {
+      "word": "pe",
+      "gloss": "woman"
+    },
+    {
+      "word": "cɛɛbu",
+      "gloss": "soap"
+    },
+    {
+      "word": "faaka",
+      "gloss": "stream"
+    },
+    {
+      "word": "yiro",
+      "gloss": "man"
+    },
+    {
+      "word": "kaama",
+      "gloss": "wound"
+    },
+    {
+      "word": "kpere",
+      "gloss": "hard"
+    },
+    {
+      "word": "muuti",
+      "gloss": "a little"
+    },
+    {
+      "word": "nako",
+      "gloss": "ox, cow"
+    },
+    {
+      "word": "tiŋu",
+      "gloss": "town"
+    },
+    {
+      "word": "soro",
+      "gloss": "tomorrow"
+    },
+    {
+      "word": "sɔɔma",
+      "gloss": "gold"
+    },
+    {
+      "word": "pɛenfa",
+      "gloss": "arrow"
+    },
+    {
+      "word": "sɔronde",
+      "gloss": "pearl"
+    },
+    {
+      "word": "suka",
+      "gloss": "horse"
+    },
+    {
+      "word": "tiibu",
+      "gloss": "tree"
+    },
+    {
+      "word": "tiibu",
+      "gloss": "tree"
+    },
+    {
+      "word": "wako",
+      "gloss": "snake"
+    },
+    {
+      "word": "yuuto",
+      "gloss": "thief"
+    }
+  ],
+  "num_graphemes": 22,
+  "confidence": "high",
+  "notes": "Hartell lists phoneme /kw/ mapped to grapheme 'kp', transcribed here as /k͡p/. Hartell uses /y/ for IPA /j/. Table includes note on morphophonemic rules: n + k --> ŋ, n + w --> ŋ. Tone is not written in normal orthography, but acute accent is written on a, i, ɛ, o, n of certain particles."
+}

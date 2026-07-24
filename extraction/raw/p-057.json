@@ -1,0 +1,294 @@
+{
+  "page": 57,
+  "is_language_page": true,
+  "language": "Grebo (Chlehpo Dialect)",
+  "iso639_3": "grb",
+  "country": "Liberia",
+  "family": "Kru",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dz",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ngm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "eh"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "or"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "'",
+      "role": "top tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": ":",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "top": "apostrophe (')",
+    "high": "unmarked",
+    "mid": "unmarked",
+    "low": "colon (:)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "eh",
+    "f",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "ngm",
+    "ny",
+    "o",
+    "or",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w"
+  ],
+  "examples": [
+    {
+      "word": "a",
+      "gloss": "you all"
+    },
+    {
+      "word": "sobae",
+      "gloss": "month"
+    },
+    {
+      "word": ":chneh",
+      "gloss": "day"
+    },
+    {
+      "word": "do",
+      "gloss": "one"
+    },
+    {
+      "word": ":ë",
+      "gloss": "and"
+    },
+    {
+      "word": "eh",
+      "gloss": "it"
+    },
+    {
+      "word": "fano",
+      "gloss": "fear"
+    },
+    {
+      "word": "gbe'i",
+      "gloss": "father"
+    },
+    {
+      "word": ":behn",
+      "gloss": "four"
+    },
+    {
+      "word": "i",
+      "gloss": "they"
+    },
+    {
+      "word": "*jor",
+      "gloss": "seed"
+    },
+    {
+      "word": "konkwa",
+      "gloss": "work"
+    },
+    {
+      "word": "kpa",
+      "gloss": "to carry"
+    },
+    {
+      "word": "kwa",
+      "gloss": "hand"
+    },
+    {
+      "word": "'le",
+      "gloss": "there"
+    },
+    {
+      "word": "ma'mu",
+      "gloss": "brother"
+    },
+    {
+      "word": "na",
+      "gloss": "fire"
+    },
+    {
+      "word": ":ngmesakai",
+      "gloss": "rib"
+    },
+    {
+      "word": "nyemor",
+      "gloss": "blood"
+    },
+    {
+      "word": "po",
+      "gloss": "to put"
+    },
+    {
+      "word": "or",
+      "gloss": "he"
+    },
+    {
+      "word": "pe'pe",
+      "gloss": "light"
+    },
+    {
+      "word": "*dro",
+      "gloss": "head"
+    },
+    {
+      "word": "sobae",
+      "gloss": "month"
+    },
+    {
+      "word": "tba",
+      "gloss": "to hit"
+    },
+    {
+      "word": "u",
+      "gloss": "they"
+    },
+    {
+      "word": "wala",
+      "gloss": "crushed"
+    },
+    {
+      "word": "'pa",
+      "gloss": "to mend"
+    },
+    {
+      "word": "pa",
+      "gloss": "to go in"
+    },
+    {
+      "word": "pa",
+      "gloss": "sound of seed exploding"
+    },
+    {
+      "word": ":pa",
+      "gloss": "to sharpen"
+    }
+  ],
+  "num_graphemes": 27,
+  "confidence": "medium",
+  "notes": "Hartell lists /dz/ mapped to 'h' in the phoneme table, which appears to be a typo for grapheme 'j' (or phoneme /j/), as 'j' is present in the alphabet and examples ('*jor') but missing from the phoneme grid. Hartell's /ɩ/ is converted to IPA /ɪ/. RTR vowels /ɪ + RTR/ and /o + RTR/ map to graphemes 'e' and 'o' respectively. Nasalized vowels are indicated as 'Vn'. High and mid tones are unmarked in complementary distribution."
+}

@@ -1,0 +1,309 @@
+{
+  "page": 19,
+  "is_language_page": true,
+  "language": "Edo (Bini)",
+  "iso639_3": "bin",
+  "country": "Nigeria",
+  "family": "New Benue-Congo",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "ʋ̃",
+      "grapheme": "mw"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "ʋ",
+      "grapheme": "vb"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "kh"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "ɹ",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "r̥",
+      "grapheme": "rh"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "rr"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ẹ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ọ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "subdot for open vowels ẹ (/ɛ/) and ọ (/ɔ/)",
+      "ipa": null
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ẹ",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "h",
+    "i",
+    "k",
+    "kh",
+    "kp",
+    "l",
+    "m",
+    "mw",
+    "n",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "rh",
+    "rr",
+    "s",
+    "t",
+    "u",
+    "v",
+    "vb",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "amẹ",
+      "gloss": "water"
+    },
+    {
+      "word": "bọ",
+      "gloss": "to build"
+    },
+    {
+      "word": "de",
+      "gloss": "to buy"
+    },
+    {
+      "word": "ègúí",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "viẹ",
+      "gloss": "to cry"
+    },
+    {
+      "word": "fi",
+      "gloss": "to throw"
+    },
+    {
+      "word": "gúí",
+      "gloss": "to quarrel"
+    },
+    {
+      "word": "gbé",
+      "gloss": "to dance"
+    },
+    {
+      "word": "gha",
+      "gloss": "who?"
+    },
+    {
+      "word": "hoọ",
+      "gloss": "to wash clothes"
+    },
+    {
+      "word": "èní",
+      "gloss": "elephant"
+    },
+    {
+      "word": "èkó",
+      "gloss": "abdomen"
+    },
+    {
+      "word": "khoọn",
+      "gloss": "to fight"
+    },
+    {
+      "word": "kpee",
+      "gloss": "to beat (drum)"
+    },
+    {
+      "word": "lùé",
+      "gloss": "to grind, chew"
+    },
+    {
+      "word": "mòsé",
+      "gloss": "beautiful"
+    },
+    {
+      "word": "noọ",
+      "gloss": "to ask"
+    },
+    {
+      "word": "òwá",
+      "gloss": "house"
+    },
+    {
+      "word": "ọmọ",
+      "gloss": "child"
+    },
+    {
+      "word": "opìà",
+      "gloss": "machete"
+    },
+    {
+      "word": "rùẹ",
+      "gloss": "your (sg)"
+    },
+    {
+      "word": "rhàá",
+      "gloss": "to steal"
+    },
+    {
+      "word": "rré",
+      "gloss": "to come"
+    },
+    {
+      "word": "àsón",
+      "gloss": "night"
+    },
+    {
+      "word": "tọn",
+      "gloss": "to roast"
+    },
+    {
+      "word": "ùnú",
+      "gloss": "mouth"
+    },
+    {
+      "word": "viẹ",
+      "gloss": "to cry"
+    },
+    {
+      "word": "vbaa",
+      "gloss": "to measure"
+    },
+    {
+      "word": "àwá",
+      "gloss": "dog"
+    },
+    {
+      "word": "òyí",
+      "gloss": "thief"
+    },
+    {
+      "word": "ozo",
+      "gloss": "man's name"
+    }
+  ],
+  "num_graphemes": 32,
+  "confidence": "high",
+  "notes": "Hartell orthographic representations mapped to standard IPA: /y/ converted to /j/, /mw/ phoneme transcribed as nasalized labiodental /ʋ̃/, /rh/ mapped to voiceless alveolar approximant/trill /r̥/, /r/ mapped to alveolar approximant /ɹ/, /rr/ mapped to trill /r/. Vowel length represented as VV and nasalization as Vn in orthography."
+}

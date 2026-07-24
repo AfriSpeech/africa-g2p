@@ -1,0 +1,219 @@
+{
+  "page": 13,
+  "is_language_page": true,
+  "language": "Biali",
+  "iso639_3": "beh",
+  "country": "Benin",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "ə",
+    "b",
+    "d",
+    "e",
+    "f",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "pabu",
+      "gloss": "gift"
+    },
+    {
+      "word": "tə̄pú",
+      "gloss": "compound"
+    },
+    {
+      "word": "bíkə̄",
+      "gloss": "child"
+    },
+    {
+      "word": "bēgāū",
+      "gloss": "chief"
+    },
+    {
+      "word": "firī",
+      "gloss": "lamp"
+    },
+    {
+      "word": "híráū",
+      "gloss": "person"
+    },
+    {
+      "word": "písī",
+      "gloss": "bed"
+    },
+    {
+      "word": "kūkō",
+      "gloss": "chicken"
+    },
+    {
+      "word": "lāú",
+      "gloss": "man"
+    },
+    {
+      "word": "matu",
+      "gloss": "iron"
+    },
+    {
+      "word": "nāfō",
+      "gloss": "ox"
+    },
+    {
+      "word": "nōú",
+      "gloss": "hand"
+    },
+    {
+      "word": "pwāhāū",
+      "gloss": "woman"
+    },
+    {
+      "word": "tarəkə",
+      "gloss": "cup"
+    },
+    {
+      "word": "sankə",
+      "gloss": "horse"
+    },
+    {
+      "word": "tíkə̄",
+      "gloss": "tree"
+    },
+    {
+      "word": "dōú",
+      "gloss": "wood"
+    },
+    {
+      "word": "wōfō",
+      "gloss": "snake"
+    },
+    {
+      "word": "yíá",
+      "gloss": "grain"
+    }
+  ],
+  "num_graphemes": 19,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/. Phoneme /k/ includes allophones [k, x, g, ɣ]; /n/ includes [n, ɲ, ŋ]; /s/ includes [s, z]; /l/ includes [l, d]; /i/ includes [i, ɪ]; /e/ includes [e, ɛ]; /u/ includes [u, ʊ]; /o/ includes [o, ɔ]. Nasalization is indicated with a tilde on vowels except for [ɪ], [e], [ʊ], and [o]."
+}

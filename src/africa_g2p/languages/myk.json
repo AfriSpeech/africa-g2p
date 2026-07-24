@@ -1,0 +1,227 @@
+{
+  "code": "myk",
+  "name": "Minyanka",
+  "country": "Mali",
+  "family": "Senufo, Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 94",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "t͡ʃ",
+    "j": "d͡ʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "sh": "ʃ",
+    "z": "z",
+    "zh": "ʒ",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "x": "x",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "è": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ò": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent"
+  },
+  "notes": "Hartell notations /tʃ/ and /dʒ/ converted to IPA t͡ʃ and d͡ʒ. Hartell /y/ converted to IPA /j/. Long vowels indicated by doubling (VV). Nasalized vowels indicated by Vn (except e or o). Palatalized consonants listed as py, ky, fy.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "è",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ò",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "zh"
+  ],
+  "examples": [
+    {
+      "word": "Adama",
+      "gloss": "man's name"
+    },
+    {
+      "word": "bardan",
+      "gloss": "banana"
+    },
+    {
+      "word": "còw",
+      "gloss": "wife"
+    },
+    {
+      "word": "daa",
+      "gloss": "compound"
+    },
+    {
+      "word": "yere",
+      "gloss": "to stop"
+    },
+    {
+      "word": "cèrè",
+      "gloss": "calabash"
+    },
+    {
+      "word": "fwo",
+      "gloss": "debt"
+    },
+    {
+      "word": "gaan",
+      "gloss": "tooth"
+    },
+    {
+      "word": "gba",
+      "gloss": "river"
+    },
+    {
+      "word": "naha",
+      "gloss": "here"
+    },
+    {
+      "word": "yiri",
+      "gloss": "to get up"
+    },
+    {
+      "word": "jo",
+      "gloss": "to say"
+    },
+    {
+      "word": "kuru",
+      "gloss": "to return"
+    },
+    {
+      "word": "kpan",
+      "gloss": "lobby"
+    },
+    {
+      "word": "logo",
+      "gloss": "to hear"
+    },
+    {
+      "word": "mugu",
+      "gloss": "to open"
+    },
+    {
+      "word": "nan",
+      "gloss": "man"
+    },
+    {
+      "word": "nyu",
+      "gloss": "mouth"
+    },
+    {
+      "word": "keeŋè",
+      "gloss": "wells"
+    },
+    {
+      "word": "ŋmuu",
+      "gloss": "knife"
+    },
+    {
+      "word": "to",
+      "gloss": "father"
+    },
+    {
+      "word": "mahajò",
+      "gloss": "beard"
+    },
+    {
+      "word": "poro",
+      "gloss": "daughter"
+    },
+    {
+      "word": "koro",
+      "gloss": "footstool"
+    },
+    {
+      "word": "suro",
+      "gloss": "pounded yam"
+    },
+    {
+      "word": "shugho'",
+      "gloss": "horse"
+    },
+    {
+      "word": "tanri",
+      "gloss": "three"
+    },
+    {
+      "word": "shugho'",
+      "gloss": "horse"
+    },
+    {
+      "word": "sha-vò",
+      "gloss": "he who is searching"
+    },
+    {
+      "word": "wò",
+      "gloss": "snake"
+    },
+    {
+      "word": "xaari",
+      "gloss": "meat"
+    },
+    {
+      "word": "yu",
+      "gloss": "to steal"
+    },
+    {
+      "word": "zana",
+      "gloss": "man's name"
+    },
+    {
+      "word": "zhigha",
+      "gloss": "baobab"
+    }
+  ]
+}

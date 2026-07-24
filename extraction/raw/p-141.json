@@ -1,0 +1,291 @@
+{
+  "page": 141,
+  "is_language_page": true,
+  "language": "Kasem",
+  "iso639_3": "xsm",
+  "country": "Ghana",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "ei"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    }
+  ],
+  "tones": {
+    "high": "acute (indicated on a few particles only)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ei",
+    "ɛ",
+    "f",
+    "g",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "na",
+      "gloss": "water"
+    },
+    {
+      "word": "bu",
+      "gloss": "child"
+    },
+    {
+      "word": "chaara",
+      "gloss": "(early) millet"
+    },
+    {
+      "word": "dana",
+      "gloss": "to be strong"
+    },
+    {
+      "word": "mena",
+      "gloss": "millet"
+    },
+    {
+      "word": "vwei",
+      "gloss": "shelter"
+    },
+    {
+      "word": "dɛ",
+      "gloss": "sticks"
+    },
+    {
+      "word": "fuga",
+      "gloss": "ten"
+    },
+    {
+      "word": "gaa",
+      "gloss": "grass, bush"
+    },
+    {
+      "word": "diga",
+      "gloss": "room"
+    },
+    {
+      "word": "jeri",
+      "gloss": "to transplant"
+    },
+    {
+      "word": "kaane",
+      "gloss": "woman"
+    },
+    {
+      "word": "luu",
+      "gloss": "clock, (iron)"
+    },
+    {
+      "word": "mage",
+      "gloss": "to hit"
+    },
+    {
+      "word": "na",
+      "gloss": "water"
+    },
+    {
+      "word": "nyɔ",
+      "gloss": "to drink"
+    },
+    {
+      "word": "ŋwana",
+      "gloss": "rope"
+    },
+    {
+      "word": "bolo",
+      "gloss": "valley"
+    },
+    {
+      "word": "togɔ",
+      "gloss": "duiker"
+    },
+    {
+      "word": "pɛ",
+      "gloss": "chief"
+    },
+    {
+      "word": "dera",
+      "gloss": "round room"
+    },
+    {
+      "word": "sara",
+      "gloss": "mat"
+    },
+    {
+      "word": "to",
+      "gloss": "to fall"
+    },
+    {
+      "word": "nu",
+      "gloss": "mother"
+    },
+    {
+      "word": "vɔrɔ",
+      "gloss": "hoe"
+    },
+    {
+      "word": "waara",
+      "gloss": "bricks"
+    },
+    {
+      "word": "yaga",
+      "gloss": "market"
+    },
+    {
+      "word": "zage",
+      "gloss": "to cut"
+    }
+  ],
+  "num_graphemes": 27,
+  "confidence": "high",
+  "notes": "/d/ is written as 'd' initially and 'r' medially. /ə/ is written as 'e' or 'a' according to position. Vowel length is indicated by doubling graphemes (VV), with ɩ=ee and ʊ=oo. Phoneme /y/ represented in standard IPA as /j/."
+}

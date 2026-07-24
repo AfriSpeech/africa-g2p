@@ -1,0 +1,334 @@
+{
+  "page": 55,
+  "is_language_page": true,
+  "language": "Kpɛlɛwoo",
+  "iso639_3": "gfe",
+  "country": "Guinea",
+  "family": "Mande",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "ɡʷ",
+      "grapheme": "gw"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nʷ",
+      "grapheme": "nw"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ɲ"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "ɠ"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "hʷ",
+      "grapheme": "hw"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [],
+  "tones": {},
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "d",
+    "e",
+    "ɛ",
+    "ə",
+    "f",
+    "g",
+    "ɠ",
+    "gb",
+    "gw",
+    "h",
+    "hw",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "nw",
+    "ɲ",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "laga",
+      "gloss": "wind"
+    },
+    {
+      "word": "bɔlɔ",
+      "gloss": "earth"
+    },
+    {
+      "word": "ɓooli",
+      "gloss": "goat"
+    },
+    {
+      "word": "dɔɔ",
+      "gloss": "to light"
+    },
+    {
+      "word": "negi",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "pɛlɛ",
+      "gloss": "house"
+    },
+    {
+      "word": "kalə",
+      "gloss": "raphia palm"
+    },
+    {
+      "word": "fɛsɛ-fɛsɛ",
+      "gloss": "refuse, trash"
+    },
+    {
+      "word": "galə",
+      "gloss": "sparrowhawk"
+    },
+    {
+      "word": "kogɔ",
+      "gloss": "calabash"
+    },
+    {
+      "word": "gbea",
+      "gloss": "machete"
+    },
+    {
+      "word": "gwali",
+      "gloss": "courtyard"
+    },
+    {
+      "word": "helɛ",
+      "gloss": "welcome"
+    },
+    {
+      "word": "hweli",
+      "gloss": "to ask"
+    },
+    {
+      "word": "negi",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "jilɛ",
+      "gloss": "put aside"
+    },
+    {
+      "word": "kuna",
+      "gloss": "morter"
+    },
+    {
+      "word": "kpaolo",
+      "gloss": "bamboo"
+    },
+    {
+      "word": "kwei",
+      "gloss": "firewood"
+    },
+    {
+      "word": "laga",
+      "gloss": "wind"
+    },
+    {
+      "word": "mɔlɔ",
+      "gloss": "sack"
+    },
+    {
+      "word": "nulu",
+      "gloss": "smoke"
+    },
+    {
+      "word": "nwɔn",
+      "gloss": "fire"
+    },
+    {
+      "word": "ɲai",
+      "gloss": "in water"
+    },
+    {
+      "word": "ŋɔn",
+      "gloss": "fire"
+    },
+    {
+      "word": "tolo",
+      "gloss": "jealousy"
+    },
+    {
+      "word": "nɔwɔ",
+      "gloss": "market"
+    },
+    {
+      "word": "pələ",
+      "gloss": "game"
+    },
+    {
+      "word": "laran",
+      "gloss": "insult"
+    },
+    {
+      "word": "sinɛpolo",
+      "gloss": "old"
+    },
+    {
+      "word": "tɛɛ",
+      "gloss": "chicken"
+    },
+    {
+      "word": "pulu",
+      "gloss": "famine"
+    },
+    {
+      "word": "Veheli",
+      "gloss": "proper name"
+    },
+    {
+      "word": "wulɔ",
+      "gloss": "cooking oil"
+    },
+    {
+      "word": "zalo",
+      "gloss": "type of cricket"
+    }
+  ],
+  "num_graphemes": 35,
+  "confidence": "high",
+  "notes": "Hartell writes phoneme /dy/ mapped to grapheme 'j' (rendered as IPA /ɟ/). Hartell writes phoneme /nh/ mapped to grapheme 'ŋ' (rendered as IPA /ŋ/). The grapheme 'ɠ' corresponds to phoneme /ɣ/ in the table. The number of graphemes in the print is truncated at the right margin, but counting the alphabet entries yields 35."
+}

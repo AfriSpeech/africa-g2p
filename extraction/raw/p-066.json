@@ -1,0 +1,250 @@
+{
+  "page": 66,
+  "is_language_page": true,
+  "language": "Kikuyu",
+  "iso639_3": "kik",
+  "country": "Kenya",
+  "family": "Bantu",
+  "graphemes": [
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "mb",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nd",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ɲɟ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng'"
+    },
+    {
+      "phoneme": "ŋɡ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ð",
+      "grapheme": "th"
+    },
+    {
+      "phoneme": "β",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "ĩ"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "ũ"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0303",
+      "role": "vowel quality distinction (close-mid vowels)",
+      "ipa": null
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "mb",
+    "c",
+    "nd",
+    "e",
+    "g",
+    "ng",
+    "ng'",
+    "h",
+    "i",
+    "ĩ",
+    "nj",
+    "k",
+    "m",
+    "n",
+    "ny",
+    "o",
+    "ũ",
+    "r",
+    "t",
+    "th",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "tara",
+      "gloss": "to count"
+    },
+    {
+      "word": "baba",
+      "gloss": "father"
+    },
+    {
+      "word": "mbembe",
+      "gloss": "maize"
+    },
+    {
+      "word": "cũcũ",
+      "gloss": "grandmother"
+    },
+    {
+      "word": "nduma",
+      "gloss": "darkness"
+    },
+    {
+      "word": "wega",
+      "gloss": "goodness"
+    },
+    {
+      "word": "guka",
+      "gloss": "grandfather"
+    },
+    {
+      "word": "ngingo",
+      "gloss": "neck"
+    },
+    {
+      "word": "ng'ombe",
+      "gloss": "cow"
+    },
+    {
+      "word": "haha",
+      "gloss": "here"
+    },
+    {
+      "word": "hiti",
+      "gloss": "hyena"
+    },
+    {
+      "word": "rĩĩtwa",
+      "gloss": "name"
+    },
+    {
+      "word": "njata",
+      "gloss": "star"
+    },
+    {
+      "word": "kĩndũ",
+      "gloss": "something"
+    },
+    {
+      "word": "mũndũ",
+      "gloss": "someone"
+    },
+    {
+      "word": "nene",
+      "gloss": "big"
+    },
+    {
+      "word": "nyingĩ",
+      "gloss": "a lot"
+    },
+    {
+      "word": "toro",
+      "gloss": "to sleep"
+    },
+    {
+      "word": "rũma",
+      "gloss": "to bite"
+    },
+    {
+      "word": "rora",
+      "gloss": "to look"
+    },
+    {
+      "word": "tara",
+      "gloss": "to count"
+    },
+    {
+      "word": "thutha",
+      "gloss": "behind"
+    },
+    {
+      "word": "ruga",
+      "gloss": "to cook"
+    },
+    {
+      "word": "wira",
+      "gloss": "to work"
+    },
+    {
+      "word": "ndaya",
+      "gloss": "long"
+    }
+  ],
+  "num_graphemes": 25,
+  "confidence": "high",
+  "notes": "/V:/ -> VV indicates long vowels are written with doubled vowel graphemes. The tilde diacritic in ĩ and ũ represents close-mid vowels /e/ and /o/, while unmarked e and o represent open-mid vowels /ɛ/ and /ɔ/."
+}

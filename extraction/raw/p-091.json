@@ -1,0 +1,262 @@
+{
+  "page": 91,
+  "is_language_page": true,
+  "language": "Mande (Malinke, Mandinka)",
+  "iso639_3": "mnk",
+  "country": "Senegal",
+  "family": "Mande",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ñ"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "x"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "é"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "ó"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "é",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ñ",
+    "ŋ",
+    "o",
+    "ó",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "x",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "faa",
+      "gloss": "father"
+    },
+    {
+      "word": "bato",
+      "gloss": "gourd"
+    },
+    {
+      "word": "caabó",
+      "gloss": "key"
+    },
+    {
+      "word": "dabo",
+      "gloss": "hoe"
+    },
+    {
+      "word": "beño",
+      "gloss": "arrow"
+    },
+    {
+      "word": "keeké",
+      "gloss": "fresh milk"
+    },
+    {
+      "word": "fentaŋ",
+      "gloss": "poor"
+    },
+    {
+      "word": "galo",
+      "gloss": "type of pearl"
+    },
+    {
+      "word": "haajo",
+      "gloss": "need"
+    },
+    {
+      "word": "sillo",
+      "gloss": "path, way"
+    },
+    {
+      "word": "jio",
+      "gloss": "water"
+    },
+    {
+      "word": "keloo",
+      "gloss": "war"
+    },
+    {
+      "word": "loolo",
+      "gloss": "star"
+    },
+    {
+      "word": "muso",
+      "gloss": "woman"
+    },
+    {
+      "word": "nono",
+      "gloss": "milk"
+    },
+    {
+      "word": "ñaa",
+      "gloss": "eye"
+    },
+    {
+      "word": "kuŋo",
+      "gloss": "head"
+    },
+    {
+      "word": "dolo",
+      "gloss": "fermented drink"
+    },
+    {
+      "word": "dókó",
+      "gloss": "stick"
+    },
+    {
+      "word": "purpura",
+      "gloss": "type of bird"
+    },
+    {
+      "word": "foro",
+      "gloss": "free man"
+    },
+    {
+      "word": "sembo",
+      "gloss": "power"
+    },
+    {
+      "word": "tato",
+      "gloss": "fortress"
+    },
+    {
+      "word": "buló",
+      "gloss": "arm"
+    },
+    {
+      "word": "wolo",
+      "gloss": "type of bird"
+    },
+    {
+      "word": "xaró",
+      "gloss": "moon"
+    },
+    {
+      "word": "yiró",
+      "gloss": "tree, medicine"
+    }
+  ],
+  "num_graphemes": 27,
+  "confidence": "high",
+  "notes": "Hartell uses 'e' for /ɛ/ and 'é' for /e/, as well as 'o' for /ɔ/ and 'ó' for /o/. ISO 639-3 mnk proposed for Mandinka in Senegal."
+}

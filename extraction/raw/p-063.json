@@ -1,0 +1,351 @@
+{
+  "page": 63,
+  "is_language_page": true,
+  "language": "Igede",
+  "iso639_3": "ige",
+  "country": "Nigeria",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "nm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ị"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ẹ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ụ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ọ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "vowel distinction (underdot)",
+      "ipa": null
+    },
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "high-mid tone",
+      "ipa": "˦"
+    },
+    {
+      "mark": "U+0308",
+      "role": "low-mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute",
+    "high-mid": "macron",
+    "low-mid": "diaeresis",
+    "low": "grave"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ẹ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ị",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "nm",
+    "ny",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ụ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ba",
+      "gloss": "to follow"
+    },
+    {
+      "word": "ọbaba",
+      "gloss": "important"
+    },
+    {
+      "word": "ụcha",
+      "gloss": "soap"
+    },
+    {
+      "word": "da",
+      "gloss": "to do, make"
+    },
+    {
+      "word": "ihile",
+      "gloss": "rules"
+    },
+    {
+      "word": "utẹ",
+      "gloss": "root"
+    },
+    {
+      "word": "ẹfa",
+      "gloss": "home"
+    },
+    {
+      "word": "ogẹgẹ",
+      "gloss": "pineapple"
+    },
+    {
+      "word": "gba",
+      "gloss": "to take out"
+    },
+    {
+      "word": "ha",
+      "gloss": "to please"
+    },
+    {
+      "word": "ihi",
+      "gloss": "market"
+    },
+    {
+      "word": "itẹ",
+      "gloss": "pepper"
+    },
+    {
+      "word": "oja",
+      "gloss": "story"
+    },
+    {
+      "word": "ka",
+      "gloss": "to go"
+    },
+    {
+      "word": "akpa",
+      "gloss": "box"
+    },
+    {
+      "word": "la",
+      "gloss": "to have"
+    },
+    {
+      "word": "imẹ",
+      "gloss": "salt"
+    },
+    {
+      "word": "nẹ",
+      "gloss": "to suck"
+    },
+    {
+      "word": "ọngọ",
+      "gloss": "person"
+    },
+    {
+      "word": "nmọọ",
+      "gloss": "heavy"
+    },
+    {
+      "word": "ụnya",
+      "gloss": "trap"
+    },
+    {
+      "word": "wo",
+      "gloss": "to hear"
+    },
+    {
+      "word": "orị",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "ẹpẹtẹ",
+      "gloss": "feet"
+    },
+    {
+      "word": "ra",
+      "gloss": "to buy"
+    },
+    {
+      "word": "isọmbị",
+      "gloss": "soybeans"
+    },
+    {
+      "word": "itẹ",
+      "gloss": "pepper"
+    },
+    {
+      "word": "wu",
+      "gloss": "to hear"
+    },
+    {
+      "word": "wụ",
+      "gloss": "to boil"
+    },
+    {
+      "word": "evu",
+      "gloss": "dog"
+    },
+    {
+      "word": "wa",
+      "gloss": "to count"
+    },
+    {
+      "word": "ya",
+      "gloss": "to speak"
+    },
+    {
+      "word": "ẹzẹ",
+      "gloss": "my friend"
+    }
+  ],
+  "num_graphemes": 33,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for palatal approximant grapheme 'y', mapped to IPA /j/. Phoneme /ə/ is noted as very rare and orthographically merged with /a/. Tone is not written in orthography except in a few minimal pairs."
+}

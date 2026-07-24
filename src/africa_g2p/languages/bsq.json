@@ -1,0 +1,199 @@
+{
+  "code": "bsq",
+  "name": "Bassa",
+  "country": "Liberia",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 23",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɖ": "ɖ",
+    "č": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "h": "h",
+    "w": "w",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ",
+    "a": "a"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̀": "˧˩",
+    "̂": "˥˩",
+    "̌": "˩˥"
+  },
+  "tones": {
+    "high": "acute (´)",
+    "mid": "macron (̄)",
+    "low": "grave (`)",
+    "high-low": "circumflex (ˆ)",
+    "mid-low": "grave (`)",
+    "low-high": "caron (ˇ)",
+    "low-mid": "preceding grave (`V)"
+  },
+  "notes": "Hartell uses /tʃ/ and /dʒ/ in standard notation for č and j. /ɓ/ and /ɖ/ represent implosives / retroflex stops.",
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "č",
+    "d",
+    "ɖ",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "m",
+    "n",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "sáá",
+      "gloss": "animal"
+    },
+    {
+      "word": "ɓúí",
+      "gloss": "trap"
+    },
+    {
+      "word": "ɓí",
+      "gloss": "hole"
+    },
+    {
+      "word": "čáná",
+      "gloss": "oil"
+    },
+    {
+      "word": "dū",
+      "gloss": "head"
+    },
+    {
+      "word": "ɖí",
+      "gloss": "spear"
+    },
+    {
+      "word": "sé",
+      "gloss": "bamboo"
+    },
+    {
+      "word": "wédɛ́",
+      "gloss": "song"
+    },
+    {
+      "word": "fó",
+      "gloss": "flesh"
+    },
+    {
+      "word": "gàà",
+      "gloss": "man"
+    },
+    {
+      "word": "gbè",
+      "gloss": "bed"
+    },
+    {
+      "word": "hwɔ̀",
+      "gloss": "canoe"
+    },
+    {
+      "word": "ní",
+      "gloss": "water"
+    },
+    {
+      "word": "j̀e",
+      "gloss": "lizard"
+    },
+    {
+      "word": "kɔ́-dù",
+      "gloss": "knee"
+    },
+    {
+      "word": "kpá",
+      "gloss": "bone"
+    },
+    {
+      "word": "máná",
+      "gloss": "nose"
+    },
+    {
+      "word": "nɔ̂",
+      "gloss": "here"
+    },
+    {
+      "word": "nyɔ́",
+      "gloss": "animal"
+    },
+    {
+      "word": "gbò",
+      "gloss": "house"
+    },
+    {
+      "word": "sɔ́ɔ́",
+      "gloss": "stone"
+    },
+    {
+      "word": "pû",
+      "gloss": "just"
+    },
+    {
+      "word": "sáá",
+      "gloss": "sacrifice"
+    },
+    {
+      "word": "tá",
+      "gloss": "tree"
+    },
+    {
+      "word": "ɖúú",
+      "gloss": "rope"
+    },
+    {
+      "word": "vènɛ̀",
+      "gloss": "big"
+    },
+    {
+      "word": "wūdū",
+      "gloss": "language"
+    },
+    {
+      "word": "zàsɛ̄",
+      "gloss": "witness"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "code": "nwb",
+  "name": "Niaboua",
+  "country": "Côte d'Ivoire",
+  "family": "Kru",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 108",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "bh": "ɓ",
+    "t": "t",
+    "d": "d",
+    "c": "c",
+    "j": "ɟ",
+    "k": "k",
+    "g": "ɡ",
+    "kw": "kʷ",
+    "gw": "ɡʷ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "l",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ɩ": "ɪ",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "ʊ": "ʊ",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "\"": "˥˥",
+    "'": "˥",
+    "-": "˩"
+  },
+  "tones": {
+    "very high": "preposed double quote (\")",
+    "high": "preposed single quote (')",
+    "mid": "unmarked",
+    "low": "preposed hyphen (-)"
+  },
+  "notes": "Hartell uses /ɩ/ for [ɪ], /ɷ/ for [ʊ], and /ɟ/ for /j/ grapheme. Nasalization is written as 'Vn' except after /e/ or /o/. Tone markers are preposed punctuation marks before the morpheme.",
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "gw",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "''la",
+      "gloss": "to call, name"
+    },
+    {
+      "word": "bi",
+      "gloss": "to encircle"
+    },
+    {
+      "word": "bhʊ",
+      "gloss": "leg"
+    },
+    {
+      "word": "'cʊ",
+      "gloss": "moon"
+    },
+    {
+      "word": "de",
+      "gloss": "to buy"
+    },
+    {
+      "word": "gbe",
+      "gloss": "dog"
+    },
+    {
+      "word": "lɛ",
+      "gloss": "thing"
+    },
+    {
+      "word": "-fanʊ",
+      "gloss": "fear"
+    },
+    {
+      "word": "-go",
+      "gloss": "maize"
+    },
+    {
+      "word": "gbɛ",
+      "gloss": "dog"
+    },
+    {
+      "word": "'gwɛ",
+      "gloss": "chimpanzee"
+    },
+    {
+      "word": "'si",
+      "gloss": "yam"
+    },
+    {
+      "word": "'nyɩ",
+      "gloss": "to give"
+    },
+    {
+      "word": "jʊ",
+      "gloss": "kind of tree"
+    },
+    {
+      "word": "-kobʊ",
+      "gloss": "rice"
+    },
+    {
+      "word": "'kpa",
+      "gloss": "bone"
+    },
+    {
+      "word": "'kwla",
+      "gloss": "bush"
+    },
+    {
+      "word": "lʊ",
+      "gloss": "song"
+    },
+    {
+      "word": "'mʊ",
+      "gloss": "hunger"
+    },
+    {
+      "word": "'ni",
+      "gloss": "water"
+    },
+    {
+      "word": "ngaze",
+      "gloss": "pizie"
+    },
+    {
+      "word": "'nyɩ",
+      "gloss": "to give"
+    },
+    {
+      "word": "-lo",
+      "gloss": "to plant"
+    },
+    {
+      "word": "-kɔ",
+      "gloss": "to command"
+    },
+    {
+      "word": "pi",
+      "gloss": "to prepare"
+    },
+    {
+      "word": "'lrʊ",
+      "gloss": "head"
+    },
+    {
+      "word": "'si",
+      "gloss": "yam"
+    },
+    {
+      "word": "tu",
+      "gloss": "tree"
+    },
+    {
+      "word": "tu",
+      "gloss": "tree"
+    },
+    {
+      "word": "lʊ",
+      "gloss": "song"
+    },
+    {
+      "word": "'vɛn",
+      "gloss": "beard"
+    },
+    {
+      "word": "wlʊ",
+      "gloss": "word"
+    },
+    {
+      "word": "yoʊ",
+      "gloss": "viper"
+    },
+    {
+      "word": "zmi",
+      "gloss": "fish"
+    }
+  ]
+}

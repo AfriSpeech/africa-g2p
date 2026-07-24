@@ -1,0 +1,286 @@
+{
+  "page": 101,
+  "is_language_page": true,
+  "language": "Ngbaka",
+  "iso639_3": "nga",
+  "country": "Zaire",
+  "family": "Adamawa-Ubangi, Ubangi",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "'b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "'d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "'b",
+    "d",
+    "'d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ng",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "a",
+      "gloss": "to pour"
+    },
+    {
+      "word": "ba",
+      "gloss": "to take"
+    },
+    {
+      "word": "'bako",
+      "gloss": "sadness"
+    },
+    {
+      "word": "de",
+      "gloss": "good"
+    },
+    {
+      "word": "'dafa",
+      "gloss": "to repair"
+    },
+    {
+      "word": "e",
+      "gloss": "to ask"
+    },
+    {
+      "word": "ɛfɛ",
+      "gloss": "tender"
+    },
+    {
+      "word": "fana",
+      "gloss": "to greet"
+    },
+    {
+      "word": "gala",
+      "gloss": "to help"
+    },
+    {
+      "word": "gbagba",
+      "gloss": "bridge"
+    },
+    {
+      "word": "hã",
+      "gloss": "to give"
+    },
+    {
+      "word": "kĩfĩ",
+      "gloss": "to change"
+    },
+    {
+      "word": "kala",
+      "gloss": "crab"
+    },
+    {
+      "word": "kpana",
+      "gloss": "cooking pot"
+    },
+    {
+      "word": "lē",
+      "gloss": "to enter"
+    },
+    {
+      "word": "momɔ",
+      "gloss": "to laugh"
+    },
+    {
+      "word": "nɛ̄",
+      "gloss": "to go"
+    },
+    {
+      "word": "nya",
+      "gloss": "brother"
+    },
+    {
+      "word": "dungu",
+      "gloss": "to stay"
+    },
+    {
+      "word": "o",
+      "gloss": "to break"
+    },
+    {
+      "word": "ɔ̀",
+      "gloss": "to live"
+    },
+    {
+      "word": "pakala",
+      "gloss": "water snake"
+    },
+    {
+      "word": "sa",
+      "gloss": "clean"
+    },
+    {
+      "word": "te",
+      "gloss": "tree"
+    },
+    {
+      "word": "lu",
+      "gloss": "to stir"
+    },
+    {
+      "word": "vulɛ",
+      "gloss": "genet"
+    },
+    {
+      "word": "wuko",
+      "gloss": "woman"
+    },
+    {
+      "word": "yala",
+      "gloss": "sleep"
+    },
+    {
+      "word": "zã̂",
+      "gloss": "abdomen"
+    }
+  ],
+  "num_graphemes": 29,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/, /6/ or /ɓ/ rendered as 'b, /ɗ/ rendered as 'd. Tilde indicates nasalization on all vowels except /e/ and /o/."
+}

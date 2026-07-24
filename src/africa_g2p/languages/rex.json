@@ -1,0 +1,251 @@
+{
+  "code": "rex",
+  "name": "Jur Mödö",
+  "country": "Sudan",
+  "family": "Central Sudanic, Bongo-Bagirmi",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 14",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "'b": "ɓ",
+    "t": "t",
+    "d": "d",
+    "'d": "ɗ",
+    "c": "tʃ",
+    "j": "dʒ",
+    "'j": "ɗʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "'": "ʔ",
+    "m": "m",
+    "mb": "m͡b",
+    "n": "n",
+    "nd": "n͡d",
+    "nj": "n͡dʒ",
+    "nz": "n͡z",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋg": "ŋ͡ɡ",
+    "ŋm": "ŋ͡m",
+    "ŋb": "ŋ͡m͡ɡ͡b",
+    "s": "s",
+    "z": "z",
+    "r": "r",
+    "l": "l",
+    "y": "j",
+    "w": "w",
+    "ï": "i",
+    "i": "ɪ",
+    "ë": "e",
+    "e": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "ʊ",
+    "ö": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": {
+    "note": "There are two tones but they are not marked in the orthography."
+  },
+  "notes": "Hartell uses /ɩ/ and /ʊ/ or /v/ for lax vowels [ɪ] and [ʊ], mapped orthographically to 'i' and 'o', while tense /i/, /e/, /o/ are mapped to diaeresis forms 'ï', 'ë', 'ö'. Vowel length /V:/ is indicated by double vowels VV.",
+  "alphabet": [
+    "a",
+    "b",
+    "'b",
+    "c",
+    "d",
+    "'d",
+    "e",
+    "ë",
+    "g",
+    "gb",
+    "i",
+    "ï",
+    "j",
+    "'j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "nj",
+    "ny",
+    "nz",
+    "ŋ",
+    "ŋb",
+    "ŋg",
+    "ŋm",
+    "o",
+    "ö",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "sa",
+      "gloss": "cattle"
+    },
+    {
+      "word": "ba'do",
+      "gloss": "wild pig"
+    },
+    {
+      "word": "caca",
+      "gloss": "quickly"
+    },
+    {
+      "word": "daa",
+      "gloss": "water-hole"
+    },
+    {
+      "word": "pa'do",
+      "gloss": "fire"
+    },
+    {
+      "word": "kete",
+      "gloss": "pot"
+    },
+    {
+      "word": "kë'dë",
+      "gloss": "elephant"
+    },
+    {
+      "word": "goroŋa",
+      "gloss": "axe"
+    },
+    {
+      "word": "gba'da",
+      "gloss": "stool"
+    },
+    {
+      "word": "mbili",
+      "gloss": "ear"
+    },
+    {
+      "word": "bï",
+      "gloss": "dog"
+    },
+    {
+      "word": "jɔlɔ",
+      "gloss": "chicken coop"
+    },
+    {
+      "word": "'jɔlɔ",
+      "gloss": "reedbuck"
+    },
+    {
+      "word": "kagba",
+      "gloss": "leopard"
+    },
+    {
+      "word": "kpere",
+      "gloss": "sesame"
+    },
+    {
+      "word": "lɔndö",
+      "gloss": "brother"
+    },
+    {
+      "word": "ma",
+      "gloss": "mother"
+    },
+    {
+      "word": "nökï",
+      "gloss": "fits"
+    },
+    {
+      "word": "ndi",
+      "gloss": "foot"
+    },
+    {
+      "word": "njo",
+      "gloss": "directly"
+    },
+    {
+      "word": "nyï",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "inza",
+      "gloss": "is not"
+    },
+    {
+      "word": "ŋoli",
+      "gloss": "near"
+    },
+    {
+      "word": "ŋba",
+      "gloss": "guest"
+    },
+    {
+      "word": "ŋgala",
+      "gloss": "song"
+    },
+    {
+      "word": "ŋma",
+      "gloss": "to roast"
+    },
+    {
+      "word": "toto",
+      "gloss": "grindstone"
+    },
+    {
+      "word": "tö'bö",
+      "gloss": "bushbuck"
+    },
+    {
+      "word": "tɔ'bɔ",
+      "gloss": "witch"
+    },
+    {
+      "word": "pisa",
+      "gloss": "claw"
+    },
+    {
+      "word": "raŋga",
+      "gloss": "vulture"
+    },
+    {
+      "word": "seyi",
+      "gloss": "famine"
+    },
+    {
+      "word": "tende",
+      "gloss": "brains"
+    },
+    {
+      "word": "tu'du",
+      "gloss": "heap"
+    },
+    {
+      "word": "wï",
+      "gloss": "milk"
+    },
+    {
+      "word": "yali",
+      "gloss": "bird"
+    },
+    {
+      "word": "zömbö",
+      "gloss": "lung-fish"
+    },
+    {
+      "word": "ɔ'ɔ",
+      "gloss": "to love"
+    }
+  ]
+}

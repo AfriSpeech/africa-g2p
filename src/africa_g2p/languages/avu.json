@@ -1,0 +1,291 @@
+{
+  "code": "avu",
+  "name": "Avokaya",
+  "country": "Sudan",
+  "family": "Nilo-Saharan",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 11",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "'b": "ɓ",
+    "t": "t",
+    "tr": "tɹ",
+    "d": "d",
+    "'d": "ɗ",
+    "dr": "dɹ",
+    "c": "ts",
+    "j": "dz",
+    "k": "k",
+    "kp": "k͡p",
+    "g": "ɡ",
+    "gb": "ɡ͡b",
+    "'": "ʔ",
+    "m": "m",
+    "mb": "mb",
+    "mv": "mv",
+    "n": "n",
+    "nd": "nd",
+    "ndr": "ndɹ",
+    "ndz": "ndz",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ng": "ŋɡ",
+    "ngb": "ŋmɡ͡b",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "'w": "ʔw",
+    "y": "j",
+    "'y": "ʔj",
+    "ị": "i",
+    "i": "ɪ",
+    "e": "ɛ",
+    "ạ": "ə",
+    "a": "a",
+    "u": "u",
+    "o": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̂": "˧",
+    "̄": "˧",
+    "̃": "˩"
+  },
+  "tones": {
+    "high": "acute (´)",
+    "mid": "circumflex (ˆ) / macron (¯)",
+    "low": "tilde (˜)",
+    "rising": "tilde-circumflex (~^) on VV"
+  },
+  "notes": "Hartell uses /ɩ/ for /ɪ/. In the phoneme table, /ndz/ is listed with orthographic symbol 'ndz'; however, the alphabet row and examples use 'nj'. Vowels with underdot (ị, ạ) mark retracted tongue root or specific vowel quality.",
+  "alphabet": [
+    "a",
+    "ạ",
+    "b",
+    "'b",
+    "c",
+    "d",
+    "'d",
+    "dr",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ị",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ndr",
+    "ng",
+    "ngb",
+    "nj",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "tr",
+    "u",
+    "v",
+    "w",
+    "'w",
+    "y",
+    "'y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "ã̄rówã̄",
+      "gloss": "hippopotamus"
+    },
+    {
+      "word": "ātúbú",
+      "gloss": "pigeon"
+    },
+    {
+      "word": "bã̄",
+      "gloss": "breast"
+    },
+    {
+      "word": "'bí",
+      "gloss": "feather"
+    },
+    {
+      "word": "cõfó",
+      "gloss": "lung"
+    },
+    {
+      "word": "dālé",
+      "gloss": "to pour"
+    },
+    {
+      "word": "'dí'dí",
+      "gloss": "porridge"
+    },
+    {
+      "word": "drālē",
+      "gloss": "to die"
+    },
+    {
+      "word": "ērékôwá",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "fê",
+      "gloss": "tree"
+    },
+    {
+      "word": "gīípírí",
+      "gloss": "mosquito"
+    },
+    {
+      "word": "gbārã̄kã̄",
+      "gloss": "bed"
+    },
+    {
+      "word": "hûwạ̄",
+      "gloss": "open"
+    },
+    {
+      "word": "nīlí",
+      "gloss": "to go"
+    },
+    {
+      "word": "nīlị́",
+      "gloss": "to know"
+    },
+    {
+      "word": "jó",
+      "gloss": "house"
+    },
+    {
+      "word": "kã̄mị̄",
+      "gloss": "lion"
+    },
+    {
+      "word": "kpá",
+      "gloss": "also"
+    },
+    {
+      "word": "ālô",
+      "gloss": "one"
+    },
+    {
+      "word": "mányárã̄",
+      "gloss": "giraffe"
+    },
+    {
+      "word": "ã̄mbá",
+      "gloss": "large"
+    },
+    {
+      "word": "mvá",
+      "gloss": "child"
+    },
+    {
+      "word": "nâ",
+      "gloss": "three"
+    },
+    {
+      "word": "ndálé",
+      "gloss": "to search"
+    },
+    {
+      "word": "ĩ̄ndrị̄",
+      "gloss": "goat"
+    },
+    {
+      "word": "ngá",
+      "gloss": "thing"
+    },
+    {
+      "word": "ã̄ngbã̄",
+      "gloss": "frog"
+    },
+    {
+      "word": "njââ",
+      "gloss": "ready"
+    },
+    {
+      "word": "nyālē",
+      "gloss": "to eat"
+    },
+    {
+      "word": "ŋōlé",
+      "gloss": "to cut"
+    },
+    {
+      "word": "ôtógôwá",
+      "gloss": "hare"
+    },
+    {
+      "word": "pá",
+      "gloss": "foot"
+    },
+    {
+      "word": "rị̄",
+      "gloss": "two"
+    },
+    {
+      "word": "sárámạ́ndị̄",
+      "gloss": "peanut"
+    },
+    {
+      "word": "tị̄",
+      "gloss": "mouth"
+    },
+    {
+      "word": "trôlé",
+      "gloss": "to carry"
+    },
+    {
+      "word": "ūkūkū",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "vūlí",
+      "gloss": "to throw"
+    },
+    {
+      "word": "wālē",
+      "gloss": "to jump over"
+    },
+    {
+      "word": "ã̄'wá",
+      "gloss": "meat"
+    },
+    {
+      "word": "âyó",
+      "gloss": "yam"
+    },
+    {
+      "word": "f'yá",
+      "gloss": "arrow"
+    },
+    {
+      "word": "ôzê",
+      "gloss": "rain"
+    },
+    {
+      "word": "'ã̄'î",
+      "gloss": "knee"
+    }
+  ]
+}

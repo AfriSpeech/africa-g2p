@@ -1,0 +1,190 @@
+{
+  "code": "dag",
+  "name": "DAGBANI",
+  "country": "GHANA",
+  "family": "GUR",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 31",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "tʃ": "tʃ",
+    "dz": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "ɣ": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "ʃ": "s",
+    "z": "z",
+    "ʒ": "z",
+    "h": "h",
+    "l": "l",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent",
+    "downstep": "exclamation mark"
+  },
+  "notes": "Hartell uses /y/ for IPA /j/. /ɨ/ is written as barred i. Explicit note states: 'However, tone is not written.' Vowel length represented as /V:/ -> VV.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "dz",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "p",
+    "s",
+    "t",
+    "tʃ",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ka",
+      "gloss": "to come"
+    },
+    {
+      "word": "baa",
+      "gloss": "dog"
+    },
+    {
+      "word": "duni",
+      "gloss": "knee"
+    },
+    {
+      "word": "dzahi",
+      "gloss": "twins"
+    },
+    {
+      "word": "yeli",
+      "gloss": "to say"
+    },
+    {
+      "word": "-fu",
+      "gloss": "[suffix]"
+    },
+    {
+      "word": "galli",
+      "gloss": "egg"
+    },
+    {
+      "word": "gbaŋ",
+      "gloss": "skin"
+    },
+    {
+      "word": "di",
+      "gloss": "to eat"
+    },
+    {
+      "word": "ka",
+      "gloss": "to come"
+    },
+    {
+      "word": "kpi",
+      "gloss": "to die"
+    },
+    {
+      "word": "ligri",
+      "gloss": "money"
+    },
+    {
+      "word": "mi",
+      "gloss": "to know"
+    },
+    {
+      "word": "nini",
+      "gloss": "eye"
+    },
+    {
+      "word": "nyɛe",
+      "gloss": "nose"
+    },
+    {
+      "word": "tiŋa",
+      "gloss": "ground"
+    },
+    {
+      "word": "ŋma",
+      "gloss": "to break"
+    },
+    {
+      "word": "doo",
+      "gloss": "man"
+    },
+    {
+      "word": "paga",
+      "gloss": "woman"
+    },
+    {
+      "word": "soli",
+      "gloss": "path"
+    },
+    {
+      "word": "ti",
+      "gloss": "to give"
+    },
+    {
+      "word": "tʃi",
+      "gloss": "wheat"
+    },
+    {
+      "word": "du",
+      "gloss": "house"
+    },
+    {
+      "word": "vieli",
+      "gloss": "beautiful"
+    },
+    {
+      "word": "wum",
+      "gloss": "to hear"
+    },
+    {
+      "word": "yuŋ",
+      "gloss": "night"
+    },
+    {
+      "word": "zugu",
+      "gloss": "head"
+    }
+  ]
+}

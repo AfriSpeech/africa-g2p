@@ -1,0 +1,339 @@
+{
+  "page": 94,
+  "is_language_page": true,
+  "language": "Minyanka",
+  "iso639_3": "myk",
+  "country": "Mali",
+  "family": "Senufo, Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "t͡ʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "g͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʒ",
+      "grapheme": "zh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "x"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "è"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ò"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "è",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ò",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "zh"
+  ],
+  "examples": [
+    {
+      "word": "Adama",
+      "gloss": "man's name"
+    },
+    {
+      "word": "bardan",
+      "gloss": "banana"
+    },
+    {
+      "word": "còw",
+      "gloss": "wife"
+    },
+    {
+      "word": "daa",
+      "gloss": "compound"
+    },
+    {
+      "word": "yere",
+      "gloss": "to stop"
+    },
+    {
+      "word": "cèrè",
+      "gloss": "calabash"
+    },
+    {
+      "word": "fwo",
+      "gloss": "debt"
+    },
+    {
+      "word": "gaan",
+      "gloss": "tooth"
+    },
+    {
+      "word": "gba",
+      "gloss": "river"
+    },
+    {
+      "word": "naha",
+      "gloss": "here"
+    },
+    {
+      "word": "yiri",
+      "gloss": "to get up"
+    },
+    {
+      "word": "jo",
+      "gloss": "to say"
+    },
+    {
+      "word": "kuru",
+      "gloss": "to return"
+    },
+    {
+      "word": "kpan",
+      "gloss": "lobby"
+    },
+    {
+      "word": "logo",
+      "gloss": "to hear"
+    },
+    {
+      "word": "mugu",
+      "gloss": "to open"
+    },
+    {
+      "word": "nan",
+      "gloss": "man"
+    },
+    {
+      "word": "nyu",
+      "gloss": "mouth"
+    },
+    {
+      "word": "keeŋè",
+      "gloss": "wells"
+    },
+    {
+      "word": "ŋmuu",
+      "gloss": "knife"
+    },
+    {
+      "word": "to",
+      "gloss": "father"
+    },
+    {
+      "word": "mahajò",
+      "gloss": "beard"
+    },
+    {
+      "word": "poro",
+      "gloss": "daughter"
+    },
+    {
+      "word": "koro",
+      "gloss": "footstool"
+    },
+    {
+      "word": "suro",
+      "gloss": "pounded yam"
+    },
+    {
+      "word": "shugho'",
+      "gloss": "horse"
+    },
+    {
+      "word": "tanri",
+      "gloss": "three"
+    },
+    {
+      "word": "shugho'",
+      "gloss": "horse"
+    },
+    {
+      "word": "sha-vò",
+      "gloss": "he who is searching"
+    },
+    {
+      "word": "wò",
+      "gloss": "snake"
+    },
+    {
+      "word": "xaari",
+      "gloss": "meat"
+    },
+    {
+      "word": "yu",
+      "gloss": "to steal"
+    },
+    {
+      "word": "zana",
+      "gloss": "man's name"
+    },
+    {
+      "word": "zhigha",
+      "gloss": "baobab"
+    }
+  ],
+  "num_graphemes": 34,
+  "confidence": "high",
+  "notes": "Hartell notations /tʃ/ and /dʒ/ converted to IPA t͡ʃ and d͡ʒ. Hartell /y/ converted to IPA /j/. Long vowels indicated by doubling (VV). Nasalized vowels indicated by Vn (except e or o). Palatalized consonants listed as py, ky, fy."
+}

@@ -1,0 +1,363 @@
+{
+  "page": 74,
+  "is_language_page": true,
+  "language": "Lugbara",
+  "iso639_3": "lgg",
+  "country": "Uganda",
+  "family": "Central Sudanic",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "'b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "'d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "ä"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ɩ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ʊ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "ä",
+    "b",
+    "'b",
+    "c",
+    "d",
+    "'d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "ata",
+      "gloss": "father"
+    },
+    {
+      "word": "mārí",
+      "gloss": "debt"
+    },
+    {
+      "word": "bà",
+      "gloss": "good"
+    },
+    {
+      "word": "'ba",
+      "gloss": "person"
+    },
+    {
+      "word": "cucu",
+      "gloss": "saliva"
+    },
+    {
+      "word": "dà",
+      "gloss": "to throw away"
+    },
+    {
+      "word": "'da",
+      "gloss": "there"
+    },
+    {
+      "word": "ètú",
+      "gloss": "sun"
+    },
+    {
+      "word": "ɛlɛ",
+      "gloss": "to exchange"
+    },
+    {
+      "word": "fu",
+      "gloss": "to kill"
+    },
+    {
+      "word": "gu",
+      "gloss": "to laugh"
+    },
+    {
+      "word": "gbà",
+      "gloss": "to beat"
+    },
+    {
+      "word": "òhelú",
+      "gloss": "golden-crested crane"
+    },
+    {
+      "word": "tri",
+      "gloss": "to rub on"
+    },
+    {
+      "word": "trɩ",
+      "gloss": "to curse"
+    },
+    {
+      "word": "jó",
+      "gloss": "house"
+    },
+    {
+      "word": "òku",
+      "gloss": "woman"
+    },
+    {
+      "word": "kpò",
+      "gloss": "to knock"
+    },
+    {
+      "word": "eli",
+      "gloss": "year"
+    },
+    {
+      "word": "òmú",
+      "gloss": "guest"
+    },
+    {
+      "word": "nì",
+      "gloss": "to know"
+    },
+    {
+      "word": "nyɔ̀",
+      "gloss": "to break"
+    },
+    {
+      "word": "ògúŋá",
+      "gloss": "throne"
+    },
+    {
+      "word": "ògù",
+      "gloss": "to steal"
+    },
+    {
+      "word": "lò",
+      "gloss": "to harvest"
+    },
+    {
+      "word": "pè",
+      "gloss": "to choose"
+    },
+    {
+      "word": "àrà",
+      "gloss": "python"
+    },
+    {
+      "word": "sa",
+      "gloss": "to plant"
+    },
+    {
+      "word": "tù",
+      "gloss": "much"
+    },
+    {
+      "word": "rú",
+      "gloss": "name"
+    },
+    {
+      "word": "tʊ",
+      "gloss": "to kick"
+    },
+    {
+      "word": "và",
+      "gloss": "to understand"
+    },
+    {
+      "word": "èwá",
+      "gloss": "elephant"
+    },
+    {
+      "word": "ɛyíŋá",
+      "gloss": "crocodile"
+    },
+    {
+      "word": "èzɔ̄",
+      "gloss": "pig"
+    },
+    {
+      "word": "a'u",
+      "gloss": "to yawn"
+    }
+  ],
+  "num_graphemes": 36,
+  "confidence": "high",
+  "notes": "Hartell's /y/ converted to IPA /j/. Phoneme /ɨ/ maps to grapheme 'ä'. The phoneme table renders /ŋ/ as 'ng' in the grapheme column, while the alphabet lists 'ŋ'."
+}

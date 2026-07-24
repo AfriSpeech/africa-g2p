@@ -1,0 +1,304 @@
+{
+  "page": 135,
+  "is_language_page": true,
+  "language": "Wolof",
+  "iso639_3": "wol",
+  "country": "Senegal",
+  "family": "West Atlantic",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "q",
+      "grapheme": "q"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ñ"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "n̂"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "n̈"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "x"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "é"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ë"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "à"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "ó"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0300",
+      "role": "short vowel accent",
+      "ipa": ""
+    },
+    {
+      "mark": "U+0301",
+      "role": "close-mid vowel accent",
+      "ipa": ""
+    },
+    {
+      "mark": "U+0308",
+      "role": "central vowel / schwa accent",
+      "ipa": "ə"
+    }
+  ],
+  "tones": {},
+  "alphabet": [
+    "a",
+    "à",
+    "b",
+    "c",
+    "d",
+    "e",
+    "é",
+    "ë",
+    "f",
+    "g",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ñ",
+    "ŋ",
+    "o",
+    "ó",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "x",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "lal",
+      "gloss": "bed"
+    },
+    {
+      "word": "làkk",
+      "gloss": "to speak a language"
+    },
+    {
+      "word": "bakkan",
+      "gloss": "nose"
+    },
+    {
+      "word": "caabi",
+      "gloss": "key"
+    },
+    {
+      "word": "daw",
+      "gloss": "to run"
+    },
+    {
+      "word": "set",
+      "gloss": "clean"
+    },
+    {
+      "word": "sér",
+      "gloss": "skirt cloth"
+    },
+    {
+      "word": "bët",
+      "gloss": "eye"
+    },
+    {
+      "word": "for",
+      "gloss": "to gather"
+    },
+    {
+      "word": "garab",
+      "gloss": "medicine"
+    },
+    {
+      "word": "cin",
+      "gloss": "pot, pan"
+    },
+    {
+      "word": "jabar",
+      "gloss": "wife, spouse"
+    },
+    {
+      "word": "kër",
+      "gloss": "house"
+    },
+    {
+      "word": "lam",
+      "gloss": "bracelet"
+    },
+    {
+      "word": "mar",
+      "gloss": "to be thirsty"
+    },
+    {
+      "word": "nelaw",
+      "gloss": "to sleep"
+    },
+    {
+      "word": "ñaw",
+      "gloss": "to sew"
+    },
+    {
+      "word": "ŋaam",
+      "gloss": "jaw"
+    },
+    {
+      "word": "xonq (xonx)",
+      "gloss": "to be red"
+    },
+    {
+      "word": "jóg",
+      "gloss": "to get up"
+    },
+    {
+      "word": "paaka",
+      "gloss": "knife"
+    },
+    {
+      "word": "ñaq (ñaxx)",
+      "gloss": "perspiration"
+    },
+    {
+      "word": "rafet",
+      "gloss": "pretty"
+    },
+    {
+      "word": "suuf",
+      "gloss": "ground"
+    },
+    {
+      "word": "taw",
+      "gloss": "rain"
+    },
+    {
+      "word": "bukki",
+      "gloss": "hyena"
+    },
+    {
+      "word": "woo",
+      "gloss": "to call"
+    },
+    {
+      "word": "xalam",
+      "gloss": "guitar"
+    },
+    {
+      "word": "yem",
+      "gloss": "to be equal"
+    }
+  ],
+  "num_graphemes": 29,
+  "confidence": "high",
+  "notes": "In Wolof, q is equivalent to x after a nasal (xonx = xonq) or at a geminate xx (ñaxx = ñaq). Prenasalized consonants listed: mp, mb, nt, nd, nj, nc, nq, nk, ng. Alternative forms n̂ for ñ and n̈ for ŋ are noted in the source table. Long vowels are written as double vowels VV (ó = óo; é = ée; ë = ëe)."
+}

@@ -1,0 +1,339 @@
+{
+  "page": 145,
+  "is_language_page": true,
+  "language": "Tarok (Yergum)",
+  "iso639_3": "trc",
+  "country": "Nigeria",
+  "family": "Benue-Congo",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ɗ"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʒ",
+      "grapheme": "zh"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "a̱"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0331",
+      "role": "vowel quality distinction (for /ə/ vs /a/)",
+      "ipa": ""
+    }
+  ],
+  "tones": {
+    "high": "marked with acute accent (´) in certain cases",
+    "general": "three level tones, usually not necessary to mark"
+  },
+  "alphabet": [
+    "a",
+    "a̱",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "zh"
+  ],
+  "examples": [
+    {
+      "word": "aso",
+      "gloss": "beans"
+    },
+    {
+      "word": "isa̱m",
+      "gloss": "monkey"
+    },
+    {
+      "word": "bol",
+      "gloss": "to open"
+    },
+    {
+      "word": "aɓar",
+      "gloss": "spear"
+    },
+    {
+      "word": "ica",
+      "gloss": "net"
+    },
+    {
+      "word": "dan",
+      "gloss": "to sow"
+    },
+    {
+      "word": "aɗir",
+      "gloss": "hoe"
+    },
+    {
+      "word": "apye",
+      "gloss": "moon"
+    },
+    {
+      "word": "apər",
+      "gloss": "fire"
+    },
+    {
+      "word": "fa",
+      "gloss": "to germinate"
+    },
+    {
+      "word": "ga",
+      "gloss": "to go"
+    },
+    {
+      "word": "gba",
+      "gloss": "to flatter"
+    },
+    {
+      "word": "aghal",
+      "gloss": "hut"
+    },
+    {
+      "word": "iri",
+      "gloss": "wild pig"
+    },
+    {
+      "word": "jul",
+      "gloss": "to rest"
+    },
+    {
+      "word": "kak",
+      "gloss": "to break"
+    },
+    {
+      "word": "kpap",
+      "gloss": "to knock"
+    },
+    {
+      "word": "la",
+      "gloss": "to say"
+    },
+    {
+      "word": "mami",
+      "gloss": "I"
+    },
+    {
+      "word": "na",
+      "gloss": "to give"
+    },
+    {
+      "word": "nyi",
+      "gloss": "to know"
+    },
+    {
+      "word": "ipaŋ",
+      "gloss": "stone"
+    },
+    {
+      "word": "onəm",
+      "gloss": "people"
+    },
+    {
+      "word": "pa",
+      "gloss": "to cut"
+    },
+    {
+      "word": "ri",
+      "gloss": "to eat"
+    },
+    {
+      "word": "sak",
+      "gloss": "to comfort"
+    },
+    {
+      "word": "shak",
+      "gloss": "to filter"
+    },
+    {
+      "word": "tat",
+      "gloss": "to stitch"
+    },
+    {
+      "word": "udəda",
+      "gloss": "father"
+    },
+    {
+      "word": "avakci",
+      "gloss": "sheath"
+    },
+    {
+      "word": "wa",
+      "gloss": "to drink"
+    },
+    {
+      "word": "ya",
+      "gloss": "to see"
+    },
+    {
+      "word": "zar",
+      "gloss": "to shred"
+    },
+    {
+      "word": "izhizhap",
+      "gloss": "roofing grass"
+    }
+  ],
+  "num_graphemes": 34,
+  "confidence": "high",
+  "notes": "Tarok distinguishes /ə/ and /a/ using 'a̱' (a with underline/macron below) for /ə/ and 'a' for /a/. Central vowel /ɨ/ is written with schwa 'ə'."
+}

@@ -1,0 +1,205 @@
+{
+  "code": "bin",
+  "name": "Edo (Bini)",
+  "country": "Nigeria",
+  "family": "New Benue-Congo",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 19",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "mw": "ʋ̃",
+    "n": "n",
+    "f": "f",
+    "v": "v",
+    "vb": "ʋ",
+    "s": "s",
+    "z": "z",
+    "kh": "x",
+    "gh": "ɣ",
+    "l": "l",
+    "r": "ɹ",
+    "rh": "r̥",
+    "rr": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ẹ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ọ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Hartell orthographic representations mapped to standard IPA: /y/ converted to /j/, /mw/ phoneme transcribed as nasalized labiodental /ʋ̃/, /rh/ mapped to voiceless alveolar approximant/trill /r̥/, /r/ mapped to alveolar approximant /ɹ/, /rr/ mapped to trill /r/. Vowel length represented as VV and nasalization as Vn in orthography.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ẹ",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "h",
+    "i",
+    "k",
+    "kh",
+    "kp",
+    "l",
+    "m",
+    "mw",
+    "n",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "rh",
+    "rr",
+    "s",
+    "t",
+    "u",
+    "v",
+    "vb",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "amẹ",
+      "gloss": "water"
+    },
+    {
+      "word": "bọ",
+      "gloss": "to build"
+    },
+    {
+      "word": "de",
+      "gloss": "to buy"
+    },
+    {
+      "word": "ègúí",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "viẹ",
+      "gloss": "to cry"
+    },
+    {
+      "word": "fi",
+      "gloss": "to throw"
+    },
+    {
+      "word": "gúí",
+      "gloss": "to quarrel"
+    },
+    {
+      "word": "gbé",
+      "gloss": "to dance"
+    },
+    {
+      "word": "gha",
+      "gloss": "who?"
+    },
+    {
+      "word": "hoọ",
+      "gloss": "to wash clothes"
+    },
+    {
+      "word": "èní",
+      "gloss": "elephant"
+    },
+    {
+      "word": "èkó",
+      "gloss": "abdomen"
+    },
+    {
+      "word": "khoọn",
+      "gloss": "to fight"
+    },
+    {
+      "word": "kpee",
+      "gloss": "to beat (drum)"
+    },
+    {
+      "word": "lùé",
+      "gloss": "to grind, chew"
+    },
+    {
+      "word": "mòsé",
+      "gloss": "beautiful"
+    },
+    {
+      "word": "noọ",
+      "gloss": "to ask"
+    },
+    {
+      "word": "òwá",
+      "gloss": "house"
+    },
+    {
+      "word": "ọmọ",
+      "gloss": "child"
+    },
+    {
+      "word": "opìà",
+      "gloss": "machete"
+    },
+    {
+      "word": "rùẹ",
+      "gloss": "your (sg)"
+    },
+    {
+      "word": "rhàá",
+      "gloss": "to steal"
+    },
+    {
+      "word": "rré",
+      "gloss": "to come"
+    },
+    {
+      "word": "àsón",
+      "gloss": "night"
+    },
+    {
+      "word": "tọn",
+      "gloss": "to roast"
+    },
+    {
+      "word": "ùnú",
+      "gloss": "mouth"
+    },
+    {
+      "word": "viẹ",
+      "gloss": "to cry"
+    },
+    {
+      "word": "vbaa",
+      "gloss": "to measure"
+    },
+    {
+      "word": "àwá",
+      "gloss": "dog"
+    },
+    {
+      "word": "òyí",
+      "gloss": "thief"
+    },
+    {
+      "word": "ozo",
+      "gloss": "man's name"
+    }
+  ]
+}

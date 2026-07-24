@@ -1,0 +1,302 @@
+{
+  "page": 40,
+  "is_language_page": true,
+  "language": "Dioula (Jula)",
+  "iso639_3": "dyu",
+  "country": "Côte d'Ivoire",
+  "family": "Mande",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    },
+    {
+      "phoneme": "Ṽ",
+      "grapheme": "Vn"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    }
+  ],
+  "tones": {
+    "high": "acute",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "jakuma",
+      "gloss": "cat"
+    },
+    {
+      "word": "bámuso",
+      "gloss": "mother"
+    },
+    {
+      "word": "cɛ",
+      "gloss": "man"
+    },
+    {
+      "word": "dén",
+      "gloss": "child"
+    },
+    {
+      "word": "bese",
+      "gloss": "machete"
+    },
+    {
+      "word": "jégɛ",
+      "gloss": "fish"
+    },
+    {
+      "word": "facɛ",
+      "gloss": "father"
+    },
+    {
+      "word": "daga",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "gbɛ́",
+      "gloss": "white"
+    },
+    {
+      "word": "hákiri",
+      "gloss": "spirit"
+    },
+    {
+      "word": "firi",
+      "gloss": "to throw"
+    },
+    {
+      "word": "jégɛ",
+      "gloss": "fish"
+    },
+    {
+      "word": "ké",
+      "gloss": "to do, make"
+    },
+    {
+      "word": "kpako",
+      "gloss": "coconut"
+    },
+    {
+      "word": "lá",
+      "gloss": "to lie down"
+    },
+    {
+      "word": "maro",
+      "gloss": "rice"
+    },
+    {
+      "word": "nónɔ",
+      "gloss": "milk"
+    },
+    {
+      "word": "nyíni",
+      "gloss": "to look for"
+    },
+    {
+      "word": "ŋanamu",
+      "gloss": "swindler"
+    },
+    {
+      "word": "bóro",
+      "gloss": "arm, hand"
+    },
+    {
+      "word": "lón",
+      "gloss": "to know"
+    },
+    {
+      "word": "pé",
+      "gloss": "only one"
+    },
+    {
+      "word": "feere",
+      "gloss": "to sell"
+    },
+    {
+      "word": "sogo",
+      "gloss": "meat"
+    },
+    {
+      "word": "ta",
+      "gloss": "to take"
+    },
+    {
+      "word": "kú",
+      "gloss": "yam"
+    },
+    {
+      "word": "vamara",
+      "gloss": "man's name"
+    },
+    {
+      "word": "wéle",
+      "gloss": "to call, name"
+    },
+    {
+      "word": "yɔ́rɔ",
+      "gloss": "place"
+    },
+    {
+      "word": "zazu",
+      "gloss": "zazou"
+    }
+  ],
+  "num_graphemes": 30,
+  "confidence": "high",
+  "notes": "Hartell /ty/ and /dy/ mapped to IPA palatal stops /c/ and /ɟ/. Phoneme /y/ mapped to IPA /j/. /Ṽ/ denotes nasalized vowel convention using trailing 'n' (Vn). High tone is marked on the first syllable only."
+}

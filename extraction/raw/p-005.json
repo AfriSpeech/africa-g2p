@@ -1,0 +1,323 @@
+{
+  "page": 5,
+  "is_language_page": true,
+  "language": "Ahlõ",
+  "iso639_3": "igo",
+  "country": "Togo",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɖ",
+      "grapheme": "ɖ"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "ɖ",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "kạ",
+      "gloss": "to read"
+    },
+    {
+      "word": "ibi",
+      "gloss": "fire"
+    },
+    {
+      "word": "cé",
+      "gloss": "to sort out"
+    },
+    {
+      "word": "dé",
+      "gloss": "to eclipse"
+    },
+    {
+      "word": "dù",
+      "gloss": "to cover"
+    },
+    {
+      "word": "dè",
+      "gloss": "to receive"
+    },
+    {
+      "word": "dɛ̀",
+      "gloss": "to burn"
+    },
+    {
+      "word": "àfâ",
+      "gloss": "bean"
+    },
+    {
+      "word": "ígā",
+      "gloss": "vegetable"
+    },
+    {
+      "word": "ìgbá",
+      "gloss": "ram"
+    },
+    {
+      "word": "hé",
+      "gloss": "to marry"
+    },
+    {
+      "word": "dì",
+      "gloss": "to descend"
+    },
+    {
+      "word": "jɔ̀",
+      "gloss": "to be pretty"
+    },
+    {
+      "word": "ìkà",
+      "gloss": "meat"
+    },
+    {
+      "word": "kpɛ̀",
+      "gloss": "to be wide"
+    },
+    {
+      "word": "âlā",
+      "gloss": "rocks"
+    },
+    {
+      "word": "mù",
+      "gloss": "to see"
+    },
+    {
+      "word": "nù",
+      "gloss": "to hear"
+    },
+    {
+      "word": "nyà",
+      "gloss": "to become large"
+    },
+    {
+      "word": "ŋà",
+      "gloss": "to walk"
+    },
+    {
+      "word": "dò",
+      "gloss": "to follow"
+    },
+    {
+      "word": "dɔ̀",
+      "gloss": "to pack"
+    },
+    {
+      "word": "ɔ̀pɔ̃́",
+      "gloss": "pillow"
+    },
+    {
+      "word": "nyré",
+      "gloss": "to cut hair"
+    },
+    {
+      "word": "ìsì",
+      "gloss": "drum"
+    },
+    {
+      "word": "ɔ̃́tɔ̃́",
+      "gloss": "ear"
+    },
+    {
+      "word": "dù",
+      "gloss": "to cover"
+    },
+    {
+      "word": "vé",
+      "gloss": "persevere"
+    },
+    {
+      "word": "ùwá",
+      "gloss": "animal"
+    },
+    {
+      "word": "yá",
+      "gloss": "to look at"
+    },
+    {
+      "word": "zè",
+      "gloss": "to like"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "Phoneme /l/ is mapped to both orthographic graphemes 'l' and 'r'. Standard Hartell representations converted to IPA: /y/ -> /j/, /tʃ/ -> /tʃ/, /dʒ/ -> /dʒ/."
+}

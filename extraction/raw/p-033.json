@@ -1,0 +1,326 @@
+{
+  "page": 33,
+  "is_language_page": true,
+  "language": "Dagaare",
+  "iso639_3": "dga",
+  "country": "Ghana",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "mh"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ky"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "gy"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ngm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent",
+    "downstep": "exclamation mark (!)",
+    "note": "Tone is not written."
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "gy",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "ky",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "ngm",
+    "ny",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "àne",
+      "gloss": "and"
+    },
+    {
+      "word": "bá",
+      "gloss": "to gallop"
+    },
+    {
+      "word": "dóó",
+      "gloss": "man"
+    },
+    {
+      "word": "nɛe",
+      "gloss": "person"
+    },
+    {
+      "word": "dèng",
+      "gloss": "first"
+    },
+    {
+      "word": "fár",
+      "gloss": "to hoe"
+    },
+    {
+      "word": "gà",
+      "gloss": "to go"
+    },
+    {
+      "word": "gbél",
+      "gloss": "bell"
+    },
+    {
+      "word": "gyɛ",
+      "gloss": "to reject"
+    },
+    {
+      "word": "hól",
+      "gloss": "to swallow"
+    },
+    {
+      "word": "ni",
+      "gloss": "to be"
+    },
+    {
+      "word": "ko",
+      "gloss": "to give"
+    },
+    {
+      "word": "kpong",
+      "gloss": "big"
+    },
+    {
+      "word": "kye",
+      "gloss": "to cut"
+    },
+    {
+      "word": "lɛɛ",
+      "gloss": "again"
+    },
+    {
+      "word": "mɔ",
+      "gloss": "to wrestle"
+    },
+    {
+      "word": "nɛɛ",
+      "gloss": "person"
+    },
+    {
+      "word": "gbanga",
+      "gloss": "lizard"
+    },
+    {
+      "word": "ngmór",
+      "gloss": "to rush"
+    },
+    {
+      "word": "nyɛ́",
+      "gloss": "to see"
+    },
+    {
+      "word": "dóó",
+      "gloss": "man"
+    },
+    {
+      "word": "pógá",
+      "gloss": "woman"
+    },
+    {
+      "word": "bàr",
+      "gloss": "to let go"
+    },
+    {
+      "word": "sè",
+      "gloss": "to sew"
+    },
+    {
+      "word": "tá",
+      "gloss": "to reach"
+    },
+    {
+      "word": "tù",
+      "gloss": "to follow"
+    },
+    {
+      "word": "vár",
+      "gloss": "to jump"
+    },
+    {
+      "word": "wong",
+      "gloss": "to hear"
+    },
+    {
+      "word": "yɔ̀ɔ",
+      "gloss": "to open"
+    },
+    {
+      "word": "zò",
+      "gloss": "to run"
+    }
+  ],
+  "num_graphemes": 30,
+  "confidence": "high",
+  "notes": "Hartell uses /ɓ/ (implosive or glottalized nasal) mapped to orthographic 'mh'. IPA /ɪ/ and /ʊ/ map to 'e' and 'o' respectively. /y/ represents IPA /j/. /V:/ indicates vowel length written as double vowels VV, and /Ṽ/ indicates nasalization marked with a tilde. Note states 'Tone is not written' in standard orthography."
+}

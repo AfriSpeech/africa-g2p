@@ -1,0 +1,193 @@
+{
+  "code": "nga",
+  "name": "Ngbaka",
+  "country": "Zaire",
+  "family": "Adamawa-Ubangi, Ubangi",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 101",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "'b": "ɓ",
+    "t": "t",
+    "d": "d",
+    "'d": "ɗ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "̃": "̃"
+  },
+  "tones": null,
+  "notes": "Hartell uses /y/ for IPA /j/, /6/ or /ɓ/ rendered as 'b, /ɗ/ rendered as 'd. Tilde indicates nasalization on all vowels except /e/ and /o/.",
+  "alphabet": [
+    "a",
+    "b",
+    "'b",
+    "d",
+    "'d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ng",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "a",
+      "gloss": "to pour"
+    },
+    {
+      "word": "ba",
+      "gloss": "to take"
+    },
+    {
+      "word": "'bako",
+      "gloss": "sadness"
+    },
+    {
+      "word": "de",
+      "gloss": "good"
+    },
+    {
+      "word": "'dafa",
+      "gloss": "to repair"
+    },
+    {
+      "word": "e",
+      "gloss": "to ask"
+    },
+    {
+      "word": "ɛfɛ",
+      "gloss": "tender"
+    },
+    {
+      "word": "fana",
+      "gloss": "to greet"
+    },
+    {
+      "word": "gala",
+      "gloss": "to help"
+    },
+    {
+      "word": "gbagba",
+      "gloss": "bridge"
+    },
+    {
+      "word": "hã",
+      "gloss": "to give"
+    },
+    {
+      "word": "kĩfĩ",
+      "gloss": "to change"
+    },
+    {
+      "word": "kala",
+      "gloss": "crab"
+    },
+    {
+      "word": "kpana",
+      "gloss": "cooking pot"
+    },
+    {
+      "word": "lē",
+      "gloss": "to enter"
+    },
+    {
+      "word": "momɔ",
+      "gloss": "to laugh"
+    },
+    {
+      "word": "nɛ̄",
+      "gloss": "to go"
+    },
+    {
+      "word": "nya",
+      "gloss": "brother"
+    },
+    {
+      "word": "dungu",
+      "gloss": "to stay"
+    },
+    {
+      "word": "o",
+      "gloss": "to break"
+    },
+    {
+      "word": "ɔ̀",
+      "gloss": "to live"
+    },
+    {
+      "word": "pakala",
+      "gloss": "water snake"
+    },
+    {
+      "word": "sa",
+      "gloss": "clean"
+    },
+    {
+      "word": "te",
+      "gloss": "tree"
+    },
+    {
+      "word": "lu",
+      "gloss": "to stir"
+    },
+    {
+      "word": "vulɛ",
+      "gloss": "genet"
+    },
+    {
+      "word": "wuko",
+      "gloss": "woman"
+    },
+    {
+      "word": "yala",
+      "gloss": "sleep"
+    },
+    {
+      "word": "zã̂",
+      "gloss": "abdomen"
+    }
+  ]
+}

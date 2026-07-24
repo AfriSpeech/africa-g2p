@@ -1,0 +1,195 @@
+{
+  "code": "wol",
+  "name": "Wolof",
+  "country": "Senegal",
+  "family": "West Atlantic",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 135",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "c",
+    "j": "ɟ",
+    "k": "k",
+    "g": "ɡ",
+    "q": "q",
+    "m": "m",
+    "n": "n",
+    "ñ": "ɲ",
+    "n̂": "ɲ",
+    "ŋ": "ŋ",
+    "n̈": "ŋ",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "x": "x",
+    "y": "j",
+    "w": "w",
+    "i": "i",
+    "é": "e",
+    "e": "ɛ",
+    "ë": "ə",
+    "a": "a",
+    "à": "a",
+    "u": "u",
+    "ó": "o",
+    "o": "ɔ"
+  },
+  "diacritics": {
+    "̈": "ə"
+  },
+  "tones": {},
+  "notes": "In Wolof, q is equivalent to x after a nasal (xonx = xonq) or at a geminate xx (ñaxx = ñaq). Prenasalized consonants listed: mp, mb, nt, nd, nj, nc, nq, nk, ng. Alternative forms n̂ for ñ and n̈ for ŋ are noted in the source table. Long vowels are written as double vowels VV (ó = óo; é = ée; ë = ëe).",
+  "alphabet": [
+    "a",
+    "à",
+    "b",
+    "c",
+    "d",
+    "e",
+    "é",
+    "ë",
+    "f",
+    "g",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ñ",
+    "ŋ",
+    "o",
+    "ó",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "x",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "lal",
+      "gloss": "bed"
+    },
+    {
+      "word": "làkk",
+      "gloss": "to speak a language"
+    },
+    {
+      "word": "bakkan",
+      "gloss": "nose"
+    },
+    {
+      "word": "caabi",
+      "gloss": "key"
+    },
+    {
+      "word": "daw",
+      "gloss": "to run"
+    },
+    {
+      "word": "set",
+      "gloss": "clean"
+    },
+    {
+      "word": "sér",
+      "gloss": "skirt cloth"
+    },
+    {
+      "word": "bët",
+      "gloss": "eye"
+    },
+    {
+      "word": "for",
+      "gloss": "to gather"
+    },
+    {
+      "word": "garab",
+      "gloss": "medicine"
+    },
+    {
+      "word": "cin",
+      "gloss": "pot, pan"
+    },
+    {
+      "word": "jabar",
+      "gloss": "wife, spouse"
+    },
+    {
+      "word": "kër",
+      "gloss": "house"
+    },
+    {
+      "word": "lam",
+      "gloss": "bracelet"
+    },
+    {
+      "word": "mar",
+      "gloss": "to be thirsty"
+    },
+    {
+      "word": "nelaw",
+      "gloss": "to sleep"
+    },
+    {
+      "word": "ñaw",
+      "gloss": "to sew"
+    },
+    {
+      "word": "ŋaam",
+      "gloss": "jaw"
+    },
+    {
+      "word": "xonq (xonx)",
+      "gloss": "to be red"
+    },
+    {
+      "word": "jóg",
+      "gloss": "to get up"
+    },
+    {
+      "word": "paaka",
+      "gloss": "knife"
+    },
+    {
+      "word": "ñaq (ñaxx)",
+      "gloss": "perspiration"
+    },
+    {
+      "word": "rafet",
+      "gloss": "pretty"
+    },
+    {
+      "word": "suuf",
+      "gloss": "ground"
+    },
+    {
+      "word": "taw",
+      "gloss": "rain"
+    },
+    {
+      "word": "bukki",
+      "gloss": "hyena"
+    },
+    {
+      "word": "woo",
+      "gloss": "to call"
+    },
+    {
+      "word": "xalam",
+      "gloss": "guitar"
+    },
+    {
+      "word": "yem",
+      "gloss": "to be equal"
+    }
+  ]
+}

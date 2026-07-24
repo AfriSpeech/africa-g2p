@@ -1,0 +1,236 @@
+{
+  "code": "tik",
+  "name": "Tikar",
+  "country": "Cameroon",
+  "family": "Bantoid, Bantu",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 124",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "c": "tʃ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "ɸ",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "sh": "ʃ",
+    "j": "ʒ",
+    "h": "h",
+    "gh": "ɣ",
+    "l": "l",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "æ": "æ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "̀": "˩",
+    "̌": "˩˥",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high/mid": "unmarked",
+    "low": "grave accent",
+    "low-high/low-mid": "caron",
+    "high-low": "circumflex"
+  },
+  "notes": "Hartell uses /y/ for palatal approximant [j], /tʃ/ for orthographic c, /ɸ/ for orthographic f. Nasalized vowels /Ṽ/ are written as Vn (except /e/ or /ɔ/).",
+  "alphabet": [
+    "a",
+    "æ",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "pla'",
+      "gloss": "calabash"
+    },
+    {
+      "word": "mbætæ'",
+      "gloss": "maize stalk"
+    },
+    {
+      "word": "mbɛb",
+      "gloss": "hedgehog"
+    },
+    {
+      "word": "ɓɔ'",
+      "gloss": "bath"
+    },
+    {
+      "word": "cimi",
+      "gloss": "chief"
+    },
+    {
+      "word": "darò",
+      "gloss": "basin"
+    },
+    {
+      "word": "ɗɛb",
+      "gloss": "sky"
+    },
+    {
+      "word": "gwè",
+      "gloss": "maize"
+    },
+    {
+      "word": "ndɛm",
+      "gloss": "field"
+    },
+    {
+      "word": "fyulu",
+      "gloss": "six"
+    },
+    {
+      "word": "gàn",
+      "gloss": "okra"
+    },
+    {
+      "word": "gbu'",
+      "gloss": "snail"
+    },
+    {
+      "word": "ŋghænni",
+      "gloss": "to stick"
+    },
+    {
+      "word": "hwu",
+      "gloss": "young bride"
+    },
+    {
+      "word": "ɓî",
+      "gloss": "two"
+    },
+    {
+      "word": "nje",
+      "gloss": "ox"
+    },
+    {
+      "word": "kimmà'",
+      "gloss": "chest"
+    },
+    {
+      "word": "kpulu",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "lɛli",
+      "gloss": "uncle"
+    },
+    {
+      "word": "sèm",
+      "gloss": "market"
+    },
+    {
+      "word": "nìni",
+      "gloss": "eight"
+    },
+    {
+      "word": "nye",
+      "gloss": "house"
+    },
+    {
+      "word": "ŋwè",
+      "gloss": "friend"
+    },
+    {
+      "word": "zwô",
+      "gloss": "above"
+    },
+    {
+      "word": "ǹywɔ'",
+      "gloss": "to hear"
+    },
+    {
+      "word": "pɔ'",
+      "gloss": "sheep"
+    },
+    {
+      "word": "sà'",
+      "gloss": "basket"
+    },
+    {
+      "word": "ǹshè",
+      "gloss": "bridge"
+    },
+    {
+      "word": "tàn",
+      "gloss": "granary"
+    },
+    {
+      "word": "wu",
+      "gloss": "cashew"
+    },
+    {
+      "word": "mvæb",
+      "gloss": "blood"
+    },
+    {
+      "word": "wɛb",
+      "gloss": "bone"
+    },
+    {
+      "word": "ǹyɛn",
+      "gloss": "to see"
+    },
+    {
+      "word": "zɔ'",
+      "gloss": "egg"
+    },
+    {
+      "word": "mə'",
+      "gloss": "stick"
+    }
+  ]
+}

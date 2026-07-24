@@ -1,0 +1,300 @@
+{
+  "page": 3,
+  "is_language_page": true,
+  "language": "Dangme (Adangme)",
+  "iso639_3": "ada",
+  "country": "Ghana",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": {
+    "high": "acute (´)",
+    "mid": "macron (¯)",
+    "low": "grave (`)",
+    "downstep": "exclamation mark (!)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "ts",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "yà",
+      "gloss": "to go"
+    },
+    {
+      "word": "bà",
+      "gloss": "to beg"
+    },
+    {
+      "word": "dà",
+      "gloss": "to lure"
+    },
+    {
+      "word": "tè",
+      "gloss": "to fly"
+    },
+    {
+      "word": "bɛ́",
+      "gloss": "broom"
+    },
+    {
+      "word": "fàa",
+      "gloss": "freely"
+    },
+    {
+      "word": "gà",
+      "gloss": "ring"
+    },
+    {
+      "word": "gbà",
+      "gloss": "to prophesy"
+    },
+    {
+      "word": "hà",
+      "gloss": "kind of plant"
+    },
+    {
+      "word": "sí",
+      "gloss": "to pound"
+    },
+    {
+      "word": "jà",
+      "gloss": "to strip"
+    },
+    {
+      "word": "kà",
+      "gloss": "to try"
+    },
+    {
+      "word": "kpà",
+      "gloss": "to roam"
+    },
+    {
+      "word": "lá",
+      "gloss": "to sing"
+    },
+    {
+      "word": "mà",
+      "gloss": "to be in motion"
+    },
+    {
+      "word": "nà",
+      "gloss": "man's name"
+    },
+    {
+      "word": "nyumu",
+      "gloss": "man"
+    },
+    {
+      "word": "ŋà",
+      "gloss": "weaver bird"
+    },
+    {
+      "word": "ŋmõŋmõ",
+      "gloss": "side of the ribs"
+    },
+    {
+      "word": "sò",
+      "gloss": "Thursday"
+    },
+    {
+      "word": "ŋɔ̀",
+      "gloss": "to be sweet"
+    },
+    {
+      "word": "pà",
+      "gloss": "to drink soup"
+    },
+    {
+      "word": "só",
+      "gloss": "seed"
+    },
+    {
+      "word": "tà",
+      "gloss": "to chew"
+    },
+    {
+      "word": "tsà",
+      "gloss": "to heal"
+    },
+    {
+      "word": "mú",
+      "gloss": "dirt"
+    },
+    {
+      "word": "vàá",
+      "gloss": "a river grass"
+    },
+    {
+      "word": "wà",
+      "gloss": "our"
+    },
+    {
+      "word": "yà",
+      "gloss": "to go"
+    },
+    {
+      "word": "zāmi",
+      "gloss": "urine"
+    }
+  ],
+  "num_graphemes": 30,
+  "confidence": "high",
+  "notes": "Tone is not written in standard orthography. Hartell's /tʃ/ mapped to IPA tʃ, /dʒ/ to dʒ, /y/ to j, /kp/ to k͡p, /gb/ to ɡ͡b, /ŋm/ to ŋ͡m. Nasalization /Ṽ/ applies to all vowels except /e/ and /o/."
+}

@@ -1,0 +1,302 @@
+{
+  "page": 29,
+  "is_language_page": true,
+  "language": "Cerma (Gouin)",
+  "iso639_3": "cme",
+  "country": "Burkina Faso",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "j̃",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+030C",
+      "role": "rising tone",
+      "ipa": "˩˥"
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "acute",
+    "low": "grave",
+    "rising": "caron",
+    "falling": "circumflex"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "fágàŋgà",
+      "gloss": "stake, post"
+    },
+    {
+      "word": "bìtùongú",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "cíɛŋò",
+      "gloss": "woman"
+    },
+    {
+      "word": "dúnŋgú",
+      "gloss": "hut"
+    },
+    {
+      "word": "tètérré",
+      "gloss": "chair"
+    },
+    {
+      "word": "péríɛŋó",
+      "gloss": "pig"
+    },
+    {
+      "word": "fiɛlú",
+      "gloss": "leaf"
+    },
+    {
+      "word": "gùorúngú",
+      "gloss": "white millet"
+    },
+    {
+      "word": "gɔ̀orɡó",
+      "gloss": "butterfly"
+    },
+    {
+      "word": "hàlàgó",
+      "gloss": "cockroach"
+    },
+    {
+      "word": "filũo",
+      "gloss": "indigenous aubergine"
+    },
+    {
+      "word": "jígángá",
+      "gloss": "knife"
+    },
+    {
+      "word": "kàkúmũo",
+      "gloss": "donkey"
+    },
+    {
+      "word": "kpàayèllé",
+      "gloss": "wild fruit"
+    },
+    {
+      "word": "néllé",
+      "gloss": "village"
+    },
+    {
+      "word": "mòsɔ̀nŋó",
+      "gloss": "duiker (gazelle)"
+    },
+    {
+      "word": "náŋmá",
+      "gloss": "butter"
+    },
+    {
+      "word": "jáaŋá",
+      "gloss": "millet"
+    },
+    {
+      "word": "nyémúngú",
+      "gloss": "dance"
+    },
+    {
+      "word": "kòrónó",
+      "gloss": "monkey"
+    },
+    {
+      "word": "kòhólɡó",
+      "gloss": "rooster"
+    },
+    {
+      "word": "pɛ̌npànɡó",
+      "gloss": "crocodile"
+    },
+    {
+      "word": "cierónó",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "sànŋsánŋó",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "tètèriɛŋó",
+      "gloss": "fish"
+    },
+    {
+      "word": "hùrùŋó",
+      "gloss": "dove"
+    },
+    {
+      "word": "vâaŋò",
+      "gloss": "dog"
+    },
+    {
+      "word": "wúsúngú",
+      "gloss": "igname shelter"
+    }
+  ],
+  "num_graphemes": 29,
+  "confidence": "high",
+  "notes": "Hartell uses /tʃ/ for 'c', /dʒ/ for 'j', and /y/ for 'y'/'ny'. 'ny' is used for /y/ in nasalized syllables (e.g. u nyu [u nũ] 'his mother'). Vowel length /V:/ is written VV and nasalization /Ṽ/ is written Vn (or with tilde in some examples). Note on page states: 'It has not yet been decided whether tone will be marked in the orthography.'"
+}

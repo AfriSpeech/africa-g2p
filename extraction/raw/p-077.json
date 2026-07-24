@@ -1,0 +1,290 @@
+{
+  "page": 77,
+  "is_language_page": true,
+  "language": "Limbum",
+  "iso639_3": "lmp",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "ʉ",
+      "grapheme": "ʉ"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "level": "high, mid, low",
+    "glides": "high-mid, mid-low, low-very low, low-mid",
+    "marking": "In the orthography only the low tone is marked."
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "ʉ",
+    "v",
+    "w",
+    "y",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "tap",
+      "gloss": "house"
+    },
+    {
+      "word": "bo",
+      "gloss": "hand"
+    },
+    {
+      "word": "ca",
+      "gloss": "this"
+    },
+    {
+      "word": "dù",
+      "gloss": "has gone"
+    },
+    {
+      "word": "ye",
+      "gloss": "to eat"
+    },
+    {
+      "word": "nyɛɛ",
+      "gloss": "monkey"
+    },
+    {
+      "word": "nfe'",
+      "gloss": "clock"
+    },
+    {
+      "word": "ŋgwa",
+      "gloss": "wife"
+    },
+    {
+      "word": "gha'",
+      "gloss": "to surpass"
+    },
+    {
+      "word": "haba",
+      "gloss": "exclamation"
+    },
+    {
+      "word": "yi",
+      "gloss": "his"
+    },
+    {
+      "word": "njap",
+      "gloss": "vegetables"
+    },
+    {
+      "word": "kop",
+      "gloss": "forest"
+    },
+    {
+      "word": "la'",
+      "gloss": "compound"
+    },
+    {
+      "word": "mò'",
+      "gloss": "another"
+    },
+    {
+      "word": "enɛ",
+      "gloss": "says"
+    },
+    {
+      "word": "ŋko'",
+      "gloss": "basket"
+    },
+    {
+      "word": "bo",
+      "gloss": "hand"
+    },
+    {
+      "word": "bup",
+      "gloss": "bird"
+    },
+    {
+      "word": "mrɛ'",
+      "gloss": "yams"
+    },
+    {
+      "word": "sa'",
+      "gloss": "machete"
+    },
+    {
+      "word": "shaŋ",
+      "gloss": "prison"
+    },
+    {
+      "word": "to",
+      "gloss": "hole"
+    },
+    {
+      "word": "kur",
+      "gloss": "to wrap"
+    },
+    {
+      "word": "tʉr",
+      "gloss": "to have"
+    },
+    {
+      "word": "vù",
+      "gloss": "came"
+    },
+    {
+      "word": "war",
+      "gloss": "to cry"
+    },
+    {
+      "word": "yop",
+      "gloss": "to sing"
+    },
+    {
+      "word": "sa'",
+      "gloss": "machete"
+    }
+  ],
+  "num_graphemes": 29,
+  "confidence": "high",
+  "notes": "Hartell's /y/ mapped to IPA /j/. Labialized combinations (gw, kw, ŋw) and palatalized combinations (by, fy, ky, my, ny) are noted on page under Labialization and Palatalization. /h/ noted as rare phoneme."
+}

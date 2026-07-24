@@ -1,0 +1,209 @@
+{
+  "code": "kri",
+  "name": "Krio",
+  "country": "Sierra Leone",
+  "family": "Creole",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 67",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "kp": "k͡p",
+    "g": "ɡ",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ng": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "sh": "ʃ",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ",
+    "ay": "ai",
+    "aw": "au",
+    "ɔy": "ɔi"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Converted Hartell notation /y/ to standard IPA /j/.",
+  "alphabet": [
+    "a",
+    "aw",
+    "ay",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "o",
+    "ɔ",
+    "ɔy",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "wan",
+      "gloss": "one"
+    },
+    {
+      "word": "naw",
+      "gloss": "now"
+    },
+    {
+      "word": "fayn",
+      "gloss": "fine"
+    },
+    {
+      "word": "tebul",
+      "gloss": "table"
+    },
+    {
+      "word": "cham",
+      "gloss": "to chew"
+    },
+    {
+      "word": "fɔdɔm",
+      "gloss": "to fall down"
+    },
+    {
+      "word": "tek",
+      "gloss": "to take"
+    },
+    {
+      "word": "lek",
+      "gloss": "to like"
+    },
+    {
+      "word": "ɛlifant",
+      "gloss": "elephant"
+    },
+    {
+      "word": "gud",
+      "gloss": "good"
+    },
+    {
+      "word": "gbɛnte",
+      "gloss": "short"
+    },
+    {
+      "word": "pikin",
+      "gloss": "child"
+    },
+    {
+      "word": "jɛntri",
+      "gloss": "rich"
+    },
+    {
+      "word": "bɔku",
+      "gloss": "much"
+    },
+    {
+      "word": "akpata",
+      "gloss": "big, flat stone"
+    },
+    {
+      "word": "lili",
+      "gloss": "little"
+    },
+    {
+      "word": "makit",
+      "gloss": "market"
+    },
+    {
+      "word": "banana",
+      "gloss": "banana"
+    },
+    {
+      "word": "ɛng",
+      "gloss": "to hang"
+    },
+    {
+      "word": "got",
+      "gloss": "goat"
+    },
+    {
+      "word": "mɔt",
+      "gloss": "mouth"
+    },
+    {
+      "word": "bɔy",
+      "gloss": "boy"
+    },
+    {
+      "word": "kɔpo",
+      "gloss": "money"
+    },
+    {
+      "word": "arata",
+      "gloss": "rat"
+    },
+    {
+      "word": "misɛf",
+      "gloss": "myself"
+    },
+    {
+      "word": "kushɛ",
+      "gloss": "welcome"
+    },
+    {
+      "word": "dɔti",
+      "gloss": "dirty"
+    },
+    {
+      "word": "luk",
+      "gloss": "to look"
+    },
+    {
+      "word": "sɛvin",
+      "gloss": "seven"
+    },
+    {
+      "word": "wata",
+      "gloss": "water"
+    },
+    {
+      "word": "yabas",
+      "gloss": "onion"
+    },
+    {
+      "word": "sizin",
+      "gloss": "season"
+    }
+  ]
+}

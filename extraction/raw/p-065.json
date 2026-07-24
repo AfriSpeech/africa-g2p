@@ -1,0 +1,334 @@
+{
+  "page": 65,
+  "is_language_page": true,
+  "language": "Tem (Kotokoli)",
+  "iso639_3": "kdh",
+  "country": "Togo",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɖ",
+      "grapheme": "ɖ"
+    },
+    {
+      "phoneme": "t͡ʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ɩ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ʊ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "ɖ",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "aláa",
+      "gloss": "women"
+    },
+    {
+      "word": "abaaláa",
+      "gloss": "men"
+    },
+    {
+      "word": "cááwéle",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "adálá",
+      "gloss": "fonio (grain)"
+    },
+    {
+      "word": "ɖeére",
+      "gloss": "horse"
+    },
+    {
+      "word": "téére",
+      "gloss": "warthog"
+    },
+    {
+      "word": "cɛɛcɛ́",
+      "gloss": "bicycle"
+    },
+    {
+      "word": "féɖe",
+      "gloss": "hoe"
+    },
+    {
+      "word": "gádó",
+      "gloss": "bed"
+    },
+    {
+      "word": "gbégidi",
+      "gloss": "bucket"
+    },
+    {
+      "word": "háma",
+      "gloss": "hammer"
+    },
+    {
+      "word": "nimíni",
+      "gloss": "fire"
+    },
+    {
+      "word": "tíínɩ",
+      "gloss": "trees"
+    },
+    {
+      "word": "jɛnté",
+      "gloss": "25 francs"
+    },
+    {
+      "word": "kéké",
+      "gloss": "peanut"
+    },
+    {
+      "word": "kpákpafíi",
+      "gloss": "duck"
+    },
+    {
+      "word": "lééma",
+      "gloss": "umbrella"
+    },
+    {
+      "word": "mulá",
+      "gloss": "millet"
+    },
+    {
+      "word": "niiká",
+      "gloss": "finger"
+    },
+    {
+      "word": "nyɩmérɛ",
+      "gloss": "arrow"
+    },
+    {
+      "word": "laŋá",
+      "gloss": "gourd"
+    },
+    {
+      "word": "ŋmɛné",
+      "gloss": "okra"
+    },
+    {
+      "word": "dóm",
+      "gloss": "snake"
+    },
+    {
+      "word": "fɔ́ɔ",
+      "gloss": "dog"
+    },
+    {
+      "word": "páya",
+      "gloss": "avocado"
+    },
+    {
+      "word": "rééza",
+      "gloss": "razor blade"
+    },
+    {
+      "word": "sɔ́ɔ́",
+      "gloss": "knife"
+    },
+    {
+      "word": "táka",
+      "gloss": "frog"
+    },
+    {
+      "word": "túu",
+      "gloss": "elephant"
+    },
+    {
+      "word": "túʊ",
+      "gloss": "bee"
+    },
+    {
+      "word": "nʊvórɛ",
+      "gloss": "foot"
+    },
+    {
+      "word": "wolú",
+      "gloss": "mouse"
+    },
+    {
+      "word": "yélɛ",
+      "gloss": "egg"
+    },
+    {
+      "word": "ɩzírɛ",
+      "gloss": "eye"
+    }
+  ],
+  "num_graphemes": 34,
+  "confidence": "high",
+  "notes": "Hartell uses /tʃ/ for 'c', /dʒ/ for 'j', /ɖ/ for retroflex voiced stop 'ɖ', and /ɩ/, /ʊ/ for near-close near-front/back vowels. All rendered into standard IPA."
+}

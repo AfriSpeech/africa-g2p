@@ -1,0 +1,203 @@
+{
+  "code": "vag",
+  "name": "Vagala",
+  "country": "Ghana",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 131",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "t͡ʃ",
+    "j": "d͡ʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "ɪ",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Hartell indicates nasalization with postvocalic 'h' (/Ṽ/ -> Vh) and vowel length with doubled vowels (/V:/ -> VV). Both /ɪ/ (Hartell /ɩ/) and /e/ map to grapheme 'e', and both /u/ and /ʊ/ (Hartell /ʋ/) map to grapheme 'u'.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ba",
+      "gloss": "to come"
+    },
+    {
+      "word": "baal",
+      "gloss": "man"
+    },
+    {
+      "word": "chal",
+      "gloss": "blood"
+    },
+    {
+      "word": "daa",
+      "gloss": "stick"
+    },
+    {
+      "word": "de",
+      "gloss": "there"
+    },
+    {
+      "word": "mɛɛ",
+      "gloss": "father"
+    },
+    {
+      "word": "fir",
+      "gloss": "force"
+    },
+    {
+      "word": "gil",
+      "gloss": "to stop"
+    },
+    {
+      "word": "gba",
+      "gloss": "also"
+    },
+    {
+      "word": "haaŋ",
+      "gloss": "wife"
+    },
+    {
+      "word": "di",
+      "gloss": "to eat"
+    },
+    {
+      "word": "jaari",
+      "gloss": "husband"
+    },
+    {
+      "word": "kaali",
+      "gloss": "to leave"
+    },
+    {
+      "word": "kpu",
+      "gloss": "to kill"
+    },
+    {
+      "word": "la",
+      "gloss": "to go"
+    },
+    {
+      "word": "maa",
+      "gloss": "mother"
+    },
+    {
+      "word": "na",
+      "gloss": "to see"
+    },
+    {
+      "word": "ŋɔ",
+      "gloss": "to say"
+    },
+    {
+      "word": "nyɔɔ",
+      "gloss": "to drink"
+    },
+    {
+      "word": "ŋmɛɛ",
+      "gloss": "to steal"
+    },
+    {
+      "word": "so",
+      "gloss": "to sit"
+    },
+    {
+      "word": "chɔ",
+      "gloss": "to run"
+    },
+    {
+      "word": "par",
+      "gloss": "hoe"
+    },
+    {
+      "word": "har",
+      "gloss": "back"
+    },
+    {
+      "word": "sa",
+      "gloss": "to dance"
+    },
+    {
+      "word": "tun",
+      "gloss": "to go down"
+    },
+    {
+      "word": "dun",
+      "gloss": "to plant"
+    },
+    {
+      "word": "vɛɛ",
+      "gloss": "to refuse"
+    },
+    {
+      "word": "wii",
+      "gloss": "to cry"
+    },
+    {
+      "word": "yau",
+      "gloss": "to buy"
+    },
+    {
+      "word": "zuu",
+      "gloss": "to enter"
+    }
+  ]
+}

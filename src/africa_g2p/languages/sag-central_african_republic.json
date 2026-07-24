@@ -1,0 +1,217 @@
+{
+  "code": "sag-central_african_republic",
+  "name": "Sango",
+  "country": "Central African Republic",
+  "family": "Adamawa-Ubangi",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 111",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "mb": "ᵐb",
+    "mv": "ᵐv",
+    "n": "n",
+    "nd": "ⁿd",
+    "ng": "ŋɡ",
+    "ngb": "ŋɡ͡b",
+    "nz": "ⁿz",
+    "ny": "ɲ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {
+    "̂": "˥",
+    "̈": "˧"
+  },
+  "tones": {
+    "high": "circumflex (V̂)",
+    "mid": "diaeresis (V̈)",
+    "low": "unmarked",
+    "high-low": "V̂V",
+    "mid-low": "V̈V",
+    "low-high": "VV̂"
+  },
+  "notes": "Hartell lists /y/ for grapheme 'y' (IPA /j/). Phonemes /e/ and /ɛ/ both map to grapheme 'e', and /o/ and /ɔ/ both map to grapheme 'o'. Prephonemic nasalized vowels /Ṽ/ are written orthographically as Vn (except for e and o). Tone marking is obligatorily indicated in the orthography.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ng",
+    "ngb",
+    "ny",
+    "nz",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "lâ",
+      "gloss": "sun"
+    },
+    {
+      "word": "babâ",
+      "gloss": "daddy"
+    },
+    {
+      "word": "doli",
+      "gloss": "elephant"
+    },
+    {
+      "word": "kêkë",
+      "gloss": "tree, wood"
+    },
+    {
+      "word": "mvene",
+      "gloss": "lie"
+    },
+    {
+      "word": "finî",
+      "gloss": "new"
+    },
+    {
+      "word": "galâ",
+      "gloss": "market"
+    },
+    {
+      "word": "gbakô",
+      "gloss": "forest"
+    },
+    {
+      "word": "hîo",
+      "gloss": "quick"
+    },
+    {
+      "word": "îtä",
+      "gloss": "brother"
+    },
+    {
+      "word": "kêtê",
+      "gloss": "small"
+    },
+    {
+      "word": "kpöka",
+      "gloss": "hoe"
+    },
+    {
+      "word": "lele",
+      "gloss": "donkey"
+    },
+    {
+      "word": "mê",
+      "gloss": "ear"
+    },
+    {
+      "word": "mbëtï",
+      "gloss": "paper, letter"
+    },
+    {
+      "word": "mvene",
+      "gloss": "lie"
+    },
+    {
+      "word": "nâkö",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "ndo",
+      "gloss": "place, square"
+    },
+    {
+      "word": "ngû",
+      "gloss": "water, year"
+    },
+    {
+      "word": "ngbö",
+      "gloss": "snake"
+    },
+    {
+      "word": "nyama",
+      "gloss": "animal"
+    },
+    {
+      "word": "nzapä",
+      "gloss": "God"
+    },
+    {
+      "word": "otâ",
+      "gloss": "three"
+    },
+    {
+      "word": "pâta",
+      "gloss": "5 francs"
+    },
+    {
+      "word": "lörö",
+      "gloss": "race"
+    },
+    {
+      "word": "sêse",
+      "gloss": "earth"
+    },
+    {
+      "word": "tere",
+      "gloss": "story"
+    },
+    {
+      "word": "ûse",
+      "gloss": "two"
+    },
+    {
+      "word": "vi",
+      "gloss": "intestine"
+    },
+    {
+      "word": "wâlï",
+      "gloss": "woman"
+    },
+    {
+      "word": "yäkä",
+      "gloss": "field"
+    },
+    {
+      "word": "zeme",
+      "gloss": "knife"
+    }
+  ]
+}

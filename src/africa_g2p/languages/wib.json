@@ -1,0 +1,170 @@
+{
+  "code": "wib",
+  "name": "Toussian",
+  "country": "Burkina Faso",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 134",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "gb": "ɡ͡b",
+    "h": "ʔ",
+    "m": "m",
+    "n": "n",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "̀": "ˤ",
+    "́": "˥",
+    "̂": "˥˩",
+    "̌": "˩˥",
+    "̃": "˜",
+    "̄": "˧"
+  },
+  "tones": {
+    "low": "grave accent",
+    "mid": "unmarked",
+    "high": "acute accent",
+    "slow falling": "grave accent",
+    "long falling": "circumflex",
+    "sharp rising": "caron",
+    "slow rising": "caron"
+  },
+  "notes": "Glottal stop /ʔ/ mapped to orthographic 'h'. Hartell lists /j/ as 'y' and /gb/ as 'gb'. Nasalization is indicated with a tilde (/Ṽ/ -> Ṽ). Macro ISO 639-3 code for Southern Toussian is wib (Northern Toussian is tsp).",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "yàwó",
+      "gloss": "cat"
+    },
+    {
+      "word": "bo",
+      "gloss": "father"
+    },
+    {
+      "word": "di",
+      "gloss": "man"
+    },
+    {
+      "word": "sê",
+      "gloss": "woman"
+    },
+    {
+      "word": "pɛ",
+      "gloss": "husband"
+    },
+    {
+      "word": "flo",
+      "gloss": "clothes"
+    },
+    {
+      "word": "gbɔ",
+      "gloss": "eggplant"
+    },
+    {
+      "word": "wóhó",
+      "gloss": "cup"
+    },
+    {
+      "word": "pi",
+      "gloss": "child"
+    },
+    {
+      "word": "kò",
+      "gloss": "meat"
+    },
+    {
+      "word": "lékwén",
+      "gloss": "knife"
+    },
+    {
+      "word": "mám",
+      "gloss": "rat"
+    },
+    {
+      "word": "nan",
+      "gloss": "grinding mold"
+    },
+    {
+      "word": "kõ",
+      "gloss": "stool"
+    },
+    {
+      "word": "yɔ",
+      "gloss": "swamp"
+    },
+    {
+      "word": "pã̄hā",
+      "gloss": "dog"
+    },
+    {
+      "word": "yār",
+      "gloss": "porridge"
+    },
+    {
+      "word": "sēbe",
+      "gloss": "baobab tree"
+    },
+    {
+      "word": "tɛke",
+      "gloss": "cliff"
+    },
+    {
+      "word": "dú",
+      "gloss": "basket"
+    },
+    {
+      "word": "vē",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "wòkò",
+      "gloss": "hut"
+    },
+    {
+      "word": "yaha",
+      "gloss": "face"
+    }
+  ]
+}

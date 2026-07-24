@@ -1,0 +1,327 @@
+{
+  "page": 113,
+  "is_language_page": true,
+  "language": "Senoufo (Senari)",
+  "iso639_3": "sef",
+  "country": "Côte d'Ivoire",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "t͡ʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "k͡pᵐ",
+      "grapheme": "km"
+    },
+    {
+      "phoneme": "ɡ͡bᵐ",
+      "grapheme": "gm"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "ʔ"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent",
+    "mid": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "gm",
+    "i",
+    "j",
+    "k",
+    "km",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "ʔ"
+  ],
+  "examples": [
+    {
+      "word": "tága",
+      "gloss": "to believe"
+    },
+    {
+      "word": "beè",
+      "gloss": "there"
+    },
+    {
+      "word": "caa",
+      "gloss": "to look for"
+    },
+    {
+      "word": "dàlí",
+      "gloss": "chimpanzee"
+    },
+    {
+      "word": "fe",
+      "gloss": "kind of grain"
+    },
+    {
+      "word": "sɛ́ʔɛ",
+      "gloss": "to examine"
+    },
+    {
+      "word": "fála",
+      "gloss": "to sow"
+    },
+    {
+      "word": "gòlo",
+      "gloss": "chicken"
+    },
+    {
+      "word": "gbaa",
+      "gloss": "to drink"
+    },
+    {
+      "word": "nìgmɔɔn",
+      "gloss": "healer"
+    },
+    {
+      "word": "sí",
+      "gloss": "and, but"
+    },
+    {
+      "word": "jaa",
+      "gloss": "to break"
+    },
+    {
+      "word": "kaarà",
+      "gloss": "meat"
+    },
+    {
+      "word": "kmɔ́ɔn",
+      "gloss": "to hit"
+    },
+    {
+      "word": "kpóo",
+      "gloss": "to kill"
+    },
+    {
+      "word": "lâla",
+      "gloss": "weather"
+    },
+    {
+      "word": "màni",
+      "gloss": "rice"
+    },
+    {
+      "word": "nɔ̀ɔ",
+      "gloss": "cow"
+    },
+    {
+      "word": "nyɔɔ",
+      "gloss": "to be good"
+    },
+    {
+      "word": "ŋɔnɔ",
+      "gloss": "knife"
+    },
+    {
+      "word": "kòlo",
+      "gloss": "chair"
+    },
+    {
+      "word": "kɔ̀lɔ",
+      "gloss": "hand"
+    },
+    {
+      "word": "pára",
+      "gloss": "to sell"
+    },
+    {
+      "word": "tàra",
+      "gloss": "to slip"
+    },
+    {
+      "word": "sɔ̀ɔ",
+      "gloss": "antelope"
+    },
+    {
+      "word": "too",
+      "gloss": "to fall"
+    },
+    {
+      "word": "súgo",
+      "gloss": "mortar"
+    },
+    {
+      "word": "vògo",
+      "gloss": "cabin"
+    },
+    {
+      "word": "wii",
+      "gloss": "to whistle"
+    },
+    {
+      "word": "yaamà",
+      "gloss": "illness"
+    },
+    {
+      "word": "zàʔá",
+      "gloss": "rain"
+    },
+    {
+      "word": "kàʔa",
+      "gloss": "village"
+    }
+  ],
+  "num_graphemes": 32,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/, /tʃ/ for /t͡ʃ/, /dʒ/ for /d͡ʒ/, /kpm/ and /gbm/ for labial-velar nasalized stops /k͡pᵐ/ and /ɡ͡bᵐ/. Vowel length is indicated by doubled vowels (VV), nasalization by trailing 'n' (Vn). Labialization (Cw) and palatalization (Cy) noted as processes."
+}

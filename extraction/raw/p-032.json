@@ -1,0 +1,423 @@
+{
+  "page": 32,
+  "is_language_page": true,
+  "language": "Daba",
+  "iso639_3": "dbq",
+  "country": "Cameroon",
+  "family": "Chadic, Central",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ɗ"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "m͡b",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "mɡ͡b",
+      "grapheme": "mgb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "n͡d",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "n͡dʒ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "v͡b",
+      "grapheme": "vb"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ɬ",
+      "grapheme": "sl"
+    },
+    {
+      "phoneme": "ɮ",
+      "grapheme": "zl"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "ʔw",
+      "grapheme": "'w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "ɡʷ",
+      "grapheme": "gw"
+    },
+    {
+      "phoneme": "hʷ",
+      "grapheme": "hw"
+    },
+    {
+      "phoneme": "ŋʷ",
+      "grapheme": "ngw"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0302",
+      "role": "low glide tone",
+      "ipa": "˩˧"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent",
+    "low glide": "circumflex accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "ə",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "gw",
+    "h",
+    "hw",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "mb",
+    "mgb",
+    "n",
+    "nd",
+    "ng",
+    "ngw",
+    "nj",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sl",
+    "t",
+    "u",
+    "v",
+    "vb",
+    "w",
+    "'w",
+    "y",
+    "z",
+    "zl"
+  ],
+  "examples": [
+    {
+      "word": "awu",
+      "gloss": "no"
+    },
+    {
+      "word": "ba",
+      "gloss": "to weave"
+    },
+    {
+      "word": "ɓisl",
+      "gloss": "to forge"
+    },
+    {
+      "word": "cakaɓ",
+      "gloss": "to wash"
+    },
+    {
+      "word": "dara",
+      "gloss": "to dance"
+    },
+    {
+      "word": "ɗa",
+      "gloss": "to draw water"
+    },
+    {
+      "word": "ərsla",
+      "gloss": "knots of millet stalks"
+    },
+    {
+      "word": "ep",
+      "gloss": "to surround"
+    },
+    {
+      "word": "far",
+      "gloss": "to unearth"
+    },
+    {
+      "word": "gəl",
+      "gloss": "to grow"
+    },
+    {
+      "word": "gbəl",
+      "gloss": "kind of termite"
+    },
+    {
+      "word": "gwad",
+      "gloss": "to push"
+    },
+    {
+      "word": "ham",
+      "gloss": "to bite, chew"
+    },
+    {
+      "word": "hwihwil",
+      "gloss": "to whistle"
+    },
+    {
+      "word": "ir",
+      "gloss": "to scrape"
+    },
+    {
+      "word": "jan",
+      "gloss": "to find"
+    },
+    {
+      "word": "kaf",
+      "gloss": "to lift up"
+    },
+    {
+      "word": "kpal",
+      "gloss": "to separate"
+    },
+    {
+      "word": "kwal",
+      "gloss": "to dry out"
+    },
+    {
+      "word": "lap",
+      "gloss": "to reunite"
+    },
+    {
+      "word": "masl",
+      "gloss": "to untie"
+    },
+    {
+      "word": "mbəl",
+      "gloss": "to light"
+    },
+    {
+      "word": "mgbət",
+      "gloss": "to blame"
+    },
+    {
+      "word": "nak",
+      "gloss": "to pout"
+    },
+    {
+      "word": "ndən",
+      "gloss": "to construct"
+    },
+    {
+      "word": "ngac",
+      "gloss": "to bite"
+    },
+    {
+      "word": "ngwalay",
+      "gloss": "comrade"
+    },
+    {
+      "word": "njəɗ",
+      "gloss": "to knot"
+    },
+    {
+      "word": "olu",
+      "gloss": "string necklace"
+    },
+    {
+      "word": "pəm",
+      "gloss": "to beat"
+    },
+    {
+      "word": "ri",
+      "gloss": "to burn"
+    },
+    {
+      "word": "saf",
+      "gloss": "to look at"
+    },
+    {
+      "word": "slid",
+      "gloss": "to get up"
+    },
+    {
+      "word": "tak",
+      "gloss": "to impede"
+    },
+    {
+      "word": "uf",
+      "gloss": "to blow"
+    },
+    {
+      "word": "van",
+      "gloss": "rain"
+    },
+    {
+      "word": "vbiw",
+      "gloss": "very tall"
+    },
+    {
+      "word": "wəl",
+      "gloss": "to sort"
+    },
+    {
+      "word": "'wircece",
+      "gloss": "giraffe"
+    },
+    {
+      "word": "yəm",
+      "gloss": "water"
+    },
+    {
+      "word": "zəv",
+      "gloss": "to move (house)"
+    },
+    {
+      "word": "zlan",
+      "gloss": "to traverse"
+    }
+  ],
+  "num_graphemes": 42,
+  "confidence": "high",
+  "notes": "Converted Hartell /y/ to IPA /j/, lateral fricative symbols to IPA /ɬ/ and /ɮ/, and barred i /ɨ/ to IPA /ɨ/ for grapheme ə. Labialized consonants kw, gw, hw, ngw are noted under Labialization and included."
+}

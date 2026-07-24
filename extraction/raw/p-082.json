@@ -1,0 +1,324 @@
+{
+  "page": 82,
+  "is_language_page": true,
+  "language": "Mekaa",
+  "iso639_3": "mkw",
+  "country": "Cameroon",
+  "family": "Bantu A.83",
+  "graphemes": [
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "ʒ",
+      "grapheme": "zh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "ɨ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "ʉ",
+      "grapheme": "ʉ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0302",
+      "role": "high-low tone",
+      "ipa": "˥˩"
+    },
+    {
+      "mark": "U+030C",
+      "role": "low-high tone",
+      "ipa": "˩˥"
+    },
+    {
+      "mark": "U+0327",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "high-low": "circumflex accent",
+    "low-high": "caron",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "ə",
+    "f",
+    "g",
+    "h",
+    "i",
+    "ɨ",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "s",
+    "sh",
+    "u",
+    "ʉ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "zh"
+  ],
+  "examples": [
+    {
+      "word": "bâ",
+      "gloss": "marriage"
+    },
+    {
+      "word": "bímbí",
+      "gloss": "price"
+    },
+    {
+      "word": "ci",
+      "gloss": "say"
+    },
+    {
+      "word": "dánd",
+      "gloss": "village"
+    },
+    {
+      "word": "fámé",
+      "gloss": "true, pure"
+    },
+    {
+      "word": "bɛmb",
+      "gloss": "worry"
+    },
+    {
+      "word": "fambá",
+      "gloss": "field"
+    },
+    {
+      "word": "fáf",
+      "gloss": "paper"
+    },
+    {
+      "word": "kugú",
+      "gloss": "evening"
+    },
+    {
+      "word": "ha",
+      "gloss": "strong wine"
+    },
+    {
+      "word": "mbi",
+      "gloss": "profit"
+    },
+    {
+      "word": "lɨ́ɨ́",
+      "gloss": "tree"
+    },
+    {
+      "word": "ji",
+      "gloss": "what"
+    },
+    {
+      "word": "kâm",
+      "gloss": "monkey"
+    },
+    {
+      "word": "lâm",
+      "gloss": "heart"
+    },
+    {
+      "word": "mán",
+      "gloss": "tomorrow"
+    },
+    {
+      "word": "na",
+      "gloss": "there"
+    },
+    {
+      "word": "nyâ",
+      "gloss": "fingernail"
+    },
+    {
+      "word": "lăŋ",
+      "gloss": "story"
+    },
+    {
+      "word": "domb",
+      "gloss": "war"
+    },
+    {
+      "word": "mpal",
+      "gloss": "eagle"
+    },
+    {
+      "word": "sás",
+      "gloss": "girl"
+    },
+    {
+      "word": "shí",
+      "gloss": "earth, ground"
+    },
+    {
+      "word": "taand",
+      "gloss": "umbrella"
+    },
+    {
+      "word": "mús",
+      "gloss": "today"
+    },
+    {
+      "word": "mpúsə",
+      "gloss": "behind"
+    },
+    {
+      "word": "vúndə",
+      "gloss": "window"
+    },
+    {
+      "word": "wáás",
+      "gloss": "twin"
+    },
+    {
+      "word": "yûl",
+      "gloss": "viper"
+    },
+    {
+      "word": "zanz",
+      "gloss": "corrugated iron"
+    },
+    {
+      "word": "zhíi",
+      "gloss": "trail"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/, /tʃ/ represented as /t∫/ in text, /dʒ/ represented as /dʒ/. Vowel phoneme /ʉ/ corresponds to grapheme ʉ (barred u) and /ɨ/ to ɨ (barred i). Prenasalization sequence listed: mp, mb, nt, nd, nc, nj, nk, ng. Nasalization indicated by cedilla/subscript mark (V̧) on /ɛ/ or /o/ only."
+}

@@ -1,0 +1,360 @@
+{
+  "page": 59,
+  "is_language_page": true,
+  "language": "Hausa",
+  "iso639_3": "hau",
+  "country": "Niger",
+  "family": "Afro-Asiatic, Chadic",
+  "graphemes": [
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ɗ"
+    },
+    {
+      "phoneme": "ts",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "ɡʷ",
+      "grapheme": "gw"
+    },
+    {
+      "phoneme": "kʲ",
+      "grapheme": "ky"
+    },
+    {
+      "phoneme": "ɡʲ",
+      "grapheme": "gy"
+    },
+    {
+      "phoneme": "kʼ",
+      "grapheme": "ƙ"
+    },
+    {
+      "phoneme": "kʼʷ",
+      "grapheme": "ƙw"
+    },
+    {
+      "phoneme": "kʼʲ",
+      "grapheme": "ƙy"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "ʒ",
+      "grapheme": "zh"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "hʷ",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "hʲ",
+      "grapheme": "fy"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "ɽ",
+      "grapheme": "ř"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "ʔj",
+      "grapheme": "ƴ"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "Vː",
+      "grapheme": "VV"
+    }
+  ],
+  "diacritics": [],
+  "tones": {},
+  "alphabet": [
+    "'",
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "f",
+    "fy",
+    "g",
+    "gw",
+    "gy",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kw",
+    "ky",
+    "ƙ",
+    "ƙw",
+    "ƙy",
+    "l",
+    "m",
+    "n",
+    "o",
+    "r",
+    "ř",
+    "s",
+    "sh",
+    "t",
+    "ts",
+    "u",
+    "w",
+    "y",
+    "ƴ",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ma'aikaci",
+      "gloss": "worker"
+    },
+    {
+      "word": "akuya",
+      "gloss": "goat"
+    },
+    {
+      "word": "baki",
+      "gloss": "mouth"
+    },
+    {
+      "word": "ɓarawo",
+      "gloss": "thief"
+    },
+    {
+      "word": "caca",
+      "gloss": "game of chance"
+    },
+    {
+      "word": "doki",
+      "gloss": "horse"
+    },
+    {
+      "word": "ɗaki",
+      "gloss": "house"
+    },
+    {
+      "word": "kunne",
+      "gloss": "ear"
+    },
+    {
+      "word": "fata",
+      "gloss": "skin"
+    },
+    {
+      "word": "fyacewa",
+      "gloss": "to blow one's nose"
+    },
+    {
+      "word": "gona",
+      "gloss": "field"
+    },
+    {
+      "word": "gwadawa",
+      "gloss": "to show"
+    },
+    {
+      "word": "gyaɗa",
+      "gloss": "groundnut"
+    },
+    {
+      "word": "haki",
+      "gloss": "grass"
+    },
+    {
+      "word": "ido",
+      "gloss": "eye"
+    },
+    {
+      "word": "jiki",
+      "gloss": "body"
+    },
+    {
+      "word": "kasuwa",
+      "gloss": "market"
+    },
+    {
+      "word": "akwati",
+      "gloss": "trunk, crate"
+    },
+    {
+      "word": "kyauta",
+      "gloss": "gift"
+    },
+    {
+      "word": "ƙato",
+      "gloss": "lively"
+    },
+    {
+      "word": "ƙwacewa",
+      "gloss": "to pull out"
+    },
+    {
+      "word": "ƙyalewa",
+      "gloss": "to be quiet"
+    },
+    {
+      "word": "littahi",
+      "gloss": "book"
+    },
+    {
+      "word": "makaho",
+      "gloss": "blind"
+    },
+    {
+      "word": "nono",
+      "gloss": "milk"
+    },
+    {
+      "word": "goshi",
+      "gloss": "forehead"
+    },
+    {
+      "word": "paci",
+      "gloss": "mending"
+    },
+    {
+      "word": "rubutu",
+      "gloss": "writing"
+    },
+    {
+      "word": "ruwa",
+      "gloss": "water"
+    },
+    {
+      "word": "saniya",
+      "gloss": "cow"
+    },
+    {
+      "word": "shuni",
+      "gloss": "indigo dye"
+    },
+    {
+      "word": "talauci",
+      "gloss": "poverty"
+    },
+    {
+      "word": "hatsi",
+      "gloss": "millet"
+    },
+    {
+      "word": "hutu",
+      "gloss": "vacation"
+    },
+    {
+      "word": "wahala",
+      "gloss": "suffering"
+    },
+    {
+      "word": "yaro",
+      "gloss": "child"
+    },
+    {
+      "word": "yaya",
+      "gloss": "fruit (pl)"
+    },
+    {
+      "word": "zahi",
+      "gloss": "heat"
+    }
+  ],
+  "num_graphemes": 36,
+  "confidence": "high",
+  "notes": "Hartell lists /hw/ -> 'f', /hy/ -> 'fy', /ɽ/ -> 'ř' (r with bar/tilde) and glottalized y -> 'ƴ' (or hooked y). Grapheme 'p' appears in examples for loanwords ('paci') but is omitted from the official 36-grapheme count."
+}

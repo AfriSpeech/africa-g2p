@@ -1,0 +1,279 @@
+{
+  "code": "dbq",
+  "name": "Daba",
+  "country": "Cameroon",
+  "family": "Chadic, Central",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 32",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "mb": "m͡b",
+    "mgb": "mɡ͡b",
+    "n": "n",
+    "nd": "n͡d",
+    "nj": "n͡dʒ",
+    "ng": "ŋ",
+    "f": "f",
+    "v": "v",
+    "vb": "v͡b",
+    "s": "s",
+    "z": "z",
+    "sl": "ɬ",
+    "zl": "ɮ",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "'w": "ʔw",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ə": "ɨ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "kw": "kʷ",
+    "gw": "ɡʷ",
+    "hw": "hʷ",
+    "ngw": "ŋʷ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̀": "˩",
+    "̂": "˩˧"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent",
+    "low glide": "circumflex accent"
+  },
+  "notes": "Converted Hartell /y/ to IPA /j/, lateral fricative symbols to IPA /ɬ/ and /ɮ/, and barred i /ɨ/ to IPA /ɨ/ for grapheme ə. Labialized consonants kw, gw, hw, ngw are noted under Labialization and included.",
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "ə",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "gw",
+    "h",
+    "hw",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "mb",
+    "mgb",
+    "n",
+    "nd",
+    "ng",
+    "ngw",
+    "nj",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sl",
+    "t",
+    "u",
+    "v",
+    "vb",
+    "w",
+    "'w",
+    "y",
+    "z",
+    "zl"
+  ],
+  "examples": [
+    {
+      "word": "awu",
+      "gloss": "no"
+    },
+    {
+      "word": "ba",
+      "gloss": "to weave"
+    },
+    {
+      "word": "ɓisl",
+      "gloss": "to forge"
+    },
+    {
+      "word": "cakaɓ",
+      "gloss": "to wash"
+    },
+    {
+      "word": "dara",
+      "gloss": "to dance"
+    },
+    {
+      "word": "ɗa",
+      "gloss": "to draw water"
+    },
+    {
+      "word": "ərsla",
+      "gloss": "knots of millet stalks"
+    },
+    {
+      "word": "ep",
+      "gloss": "to surround"
+    },
+    {
+      "word": "far",
+      "gloss": "to unearth"
+    },
+    {
+      "word": "gəl",
+      "gloss": "to grow"
+    },
+    {
+      "word": "gbəl",
+      "gloss": "kind of termite"
+    },
+    {
+      "word": "gwad",
+      "gloss": "to push"
+    },
+    {
+      "word": "ham",
+      "gloss": "to bite, chew"
+    },
+    {
+      "word": "hwihwil",
+      "gloss": "to whistle"
+    },
+    {
+      "word": "ir",
+      "gloss": "to scrape"
+    },
+    {
+      "word": "jan",
+      "gloss": "to find"
+    },
+    {
+      "word": "kaf",
+      "gloss": "to lift up"
+    },
+    {
+      "word": "kpal",
+      "gloss": "to separate"
+    },
+    {
+      "word": "kwal",
+      "gloss": "to dry out"
+    },
+    {
+      "word": "lap",
+      "gloss": "to reunite"
+    },
+    {
+      "word": "masl",
+      "gloss": "to untie"
+    },
+    {
+      "word": "mbəl",
+      "gloss": "to light"
+    },
+    {
+      "word": "mgbət",
+      "gloss": "to blame"
+    },
+    {
+      "word": "nak",
+      "gloss": "to pout"
+    },
+    {
+      "word": "ndən",
+      "gloss": "to construct"
+    },
+    {
+      "word": "ngac",
+      "gloss": "to bite"
+    },
+    {
+      "word": "ngwalay",
+      "gloss": "comrade"
+    },
+    {
+      "word": "njəɗ",
+      "gloss": "to knot"
+    },
+    {
+      "word": "olu",
+      "gloss": "string necklace"
+    },
+    {
+      "word": "pəm",
+      "gloss": "to beat"
+    },
+    {
+      "word": "ri",
+      "gloss": "to burn"
+    },
+    {
+      "word": "saf",
+      "gloss": "to look at"
+    },
+    {
+      "word": "slid",
+      "gloss": "to get up"
+    },
+    {
+      "word": "tak",
+      "gloss": "to impede"
+    },
+    {
+      "word": "uf",
+      "gloss": "to blow"
+    },
+    {
+      "word": "van",
+      "gloss": "rain"
+    },
+    {
+      "word": "vbiw",
+      "gloss": "very tall"
+    },
+    {
+      "word": "wəl",
+      "gloss": "to sort"
+    },
+    {
+      "word": "'wircece",
+      "gloss": "giraffe"
+    },
+    {
+      "word": "yəm",
+      "gloss": "water"
+    },
+    {
+      "word": "zəv",
+      "gloss": "to move (house)"
+    },
+    {
+      "word": "zlan",
+      "gloss": "to traverse"
+    }
+  ]
+}

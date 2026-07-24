@@ -1,0 +1,387 @@
+{
+  "page": 132,
+  "is_language_page": true,
+  "language": "Vute",
+  "iso639_3": "vut",
+  "country": "Cameroon",
+  "family": "Bantoid, Mambiloid",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ɗ"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "m͡b",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "m͡v",
+      "grapheme": "mv"
+    },
+    {
+      "phoneme": "mɡ͡b",
+      "grapheme": "mgb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "n͡d",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "ŋɡ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "n͡dʒ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "ɨ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": "˥˩"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low or rising tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": {
+    "high": "acute (´)",
+    "falling": "circumflex (ˆ)",
+    "low_or_rising": "grave (`)",
+    "mid_and_mid_high": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɨ",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "mgb",
+    "n",
+    "nd",
+    "ng",
+    "nj",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "tá",
+      "gloss": "father"
+    },
+    {
+      "word": "balí",
+      "gloss": "type of leaf"
+    },
+    {
+      "word": "ɓíl",
+      "gloss": "sky"
+    },
+    {
+      "word": "cene",
+      "gloss": "chicken"
+    },
+    {
+      "word": "do",
+      "gloss": "hippopotamus"
+    },
+    {
+      "word": "ɗɨŋ",
+      "gloss": "melon"
+    },
+    {
+      "word": "ɓe",
+      "gloss": "with"
+    },
+    {
+      "word": "kər",
+      "gloss": "claw"
+    },
+    {
+      "word": "fam",
+      "gloss": "blow your nose"
+    },
+    {
+      "word": "gam",
+      "gloss": "take!"
+    },
+    {
+      "word": "gbɛ̀",
+      "gloss": "clan"
+    },
+    {
+      "word": "ham",
+      "gloss": "compound"
+    },
+    {
+      "word": "mí",
+      "gloss": "odor"
+    },
+    {
+      "word": "bír",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "jàm",
+      "gloss": "cobra"
+    },
+    {
+      "word": "kam",
+      "gloss": "crab"
+    },
+    {
+      "word": "kpáb",
+      "gloss": "lion"
+    },
+    {
+      "word": "lì",
+      "gloss": "dog"
+    },
+    {
+      "word": "mámá",
+      "gloss": "grandmother"
+    },
+    {
+      "word": "mbeè",
+      "gloss": "salt"
+    },
+    {
+      "word": "mvom",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "mgbárè",
+      "gloss": "stone"
+    },
+    {
+      "word": "naná",
+      "gloss": "baby"
+    },
+    {
+      "word": "ndù",
+      "gloss": "trap"
+    },
+    {
+      "word": "ngár",
+      "gloss": "hand"
+    },
+    {
+      "word": "njín",
+      "gloss": "feather"
+    },
+    {
+      "word": "nyèm",
+      "gloss": "animal"
+    },
+    {
+      "word": "naŋ",
+      "gloss": "couscous"
+    },
+    {
+      "word": "no",
+      "gloss": "inside"
+    },
+    {
+      "word": "tɔ",
+      "gloss": "fish"
+    },
+    {
+      "word": "pia",
+      "gloss": "avocado"
+    },
+    {
+      "word": "tòrò",
+      "gloss": "papaya"
+    },
+    {
+      "word": "sítá",
+      "gloss": "hunter"
+    },
+    {
+      "word": "tó",
+      "gloss": "ear"
+    },
+    {
+      "word": "vuŋ",
+      "gloss": "egg"
+    },
+    {
+      "word": "vri",
+      "gloss": "twenty"
+    },
+    {
+      "word": "wùúm",
+      "gloss": "viper"
+    },
+    {
+      "word": "yáya",
+      "gloss": "yesterday"
+    }
+  ],
+  "num_graphemes": 38,
+  "confidence": "high",
+  "notes": "Hartell's /y/ mapped to IPA /j/. Tone mark alternatives and tone notation reflect dialectal variation noted on page."
+}

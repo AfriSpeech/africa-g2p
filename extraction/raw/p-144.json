@@ -1,0 +1,321 @@
+{
+  "page": 144,
+  "is_language_page": true,
+  "language": "Yemba",
+  "iso639_3": "ybb",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, Bamileke",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "p",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "ts",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "p͡f",
+      "grapheme": "pf"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "ʉ",
+      "grapheme": "ʉ"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent (V́)",
+    "low-high": "acute accent on doubled vowel (V́V́)",
+    "mid": "macron (V̄)",
+    "high-low": "acute accent (V́V)",
+    "falling (mid-low)": "unmarked",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "pf",
+    "s",
+    "sh",
+    "t",
+    "ts",
+    "u",
+    "ʉ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "apa",
+      "gloss": "sack, bag"
+    },
+    {
+      "word": "mbīŋ",
+      "gloss": "forest"
+    },
+    {
+      "word": "lɛcuŋ",
+      "gloss": "knot"
+    },
+    {
+      "word": "ndu",
+      "gloss": "swamp"
+    },
+    {
+      "word": "efɔŋ",
+      "gloss": "ox"
+    },
+    {
+      "word": "ntē",
+      "gloss": "whip"
+    },
+    {
+      "word": "fok",
+      "gloss": "co-wife"
+    },
+    {
+      "word": "gégá",
+      "gloss": "butterfly"
+    },
+    {
+      "word": "hak",
+      "gloss": "brandy"
+    },
+    {
+      "word": "ŋkiŋ",
+      "gloss": "granary"
+    },
+    {
+      "word": "ajyɔk",
+      "gloss": "broom"
+    },
+    {
+      "word": "kaŋ",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "lela",
+      "gloss": "to cry"
+    },
+    {
+      "word": "méŋ",
+      "gloss": "child"
+    },
+    {
+      "word": "nu",
+      "gloss": "sun"
+    },
+    {
+      "word": "paŋ",
+      "gloss": "red"
+    },
+    {
+      "word": "ńzó",
+      "gloss": "to buy"
+    },
+    {
+      "word": "ńzóp",
+      "gloss": "to sing"
+    },
+    {
+      "word": "lepap",
+      "gloss": "wing"
+    },
+    {
+      "word": "lepfo",
+      "gloss": "anthill"
+    },
+    {
+      "word": "séŋ",
+      "gloss": "bird"
+    },
+    {
+      "word": "ashū",
+      "gloss": "hoe"
+    },
+    {
+      "word": "tó",
+      "gloss": "stone"
+    },
+    {
+      "word": "tsɔ̀",
+      "gloss": "partridge"
+    },
+    {
+      "word": "tug",
+      "gloss": "basket"
+    },
+    {
+      "word": "agʉ̄",
+      "gloss": "calabash scraper"
+    },
+    {
+      "word": "vok",
+      "gloss": "bird"
+    },
+    {
+      "word": "mewɛ",
+      "gloss": "hail"
+    },
+    {
+      "word": "ayíŋ",
+      "gloss": "termite"
+    },
+    {
+      "word": "azi",
+      "gloss": "shelf"
+    },
+    {
+      "word": "pu'",
+      "gloss": "knife"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "Hartell uses /j/ for the voiced palatal plosive/affricate (transcribed as IPA /ɟ/). Glottal stop /?/ maps to apostrophe /'/. Notes mention Labialization (kw, fw, sw), Palatalization (ky, gy, sy), and Aspiration (dh, fh, sh)."
+}

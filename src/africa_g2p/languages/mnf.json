@@ -1,0 +1,221 @@
+{
+  "code": "mnf",
+  "name": "Mundani",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, Momo",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 90",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "pf": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ts": "ts",
+    "dz": "dz",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "s": "s",
+    "gh": "ɣ",
+    "l": "l",
+    "w": "w",
+    "v": "w",
+    "y": "j",
+    "z": "j",
+    "i": "i",
+    "e": "e",
+    "ə": "ə",
+    "a": "a",
+    "ɨ": "ɯ",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "̀": "ˤ",
+    "̂": "˥˩",
+    "̌": "˩˥",
+    "̃": "~"
+  },
+  "tones": {
+    "high": "unmarked",
+    "low": "grave accent (`)",
+    "falling": "circumflex (^)",
+    "rising": "caron (ˇ)"
+  },
+  "notes": "Hartell uses /y/ for IPA palatal approximant /j/. Nasalization /Ṽ/ is marked with a tilde on vowels, except /i/ or /ə/.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "dz",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "i",
+    "ɨ",
+    "k",
+    "kp",
+    "'",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "pf",
+    "s",
+    "t",
+    "ts",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "àka",
+      "gloss": "foot"
+    },
+    {
+      "word": "àbu",
+      "gloss": "hand"
+    },
+    {
+      "word": "dù",
+      "gloss": "go!"
+    },
+    {
+      "word": "adzì",
+      "gloss": "stream"
+    },
+    {
+      "word": "èbet",
+      "gloss": "war"
+    },
+    {
+      "word": "abə",
+      "gloss": "dog"
+    },
+    {
+      "word": "fɨ̀",
+      "gloss": "latrine"
+    },
+    {
+      "word": "gùb",
+      "gloss": "skin"
+    },
+    {
+      "word": "kègbelè",
+      "gloss": "feather"
+    },
+    {
+      "word": "gha",
+      "gloss": "go!"
+    },
+    {
+      "word": "èti",
+      "gloss": "stone"
+    },
+    {
+      "word": "fɨ̄",
+      "gloss": "wound"
+    },
+    {
+      "word": "ke",
+      "gloss": "raffia-palm"
+    },
+    {
+      "word": "kpên",
+      "gloss": "back"
+    },
+    {
+      "word": "èli'",
+      "gloss": "rope"
+    },
+    {
+      "word": "le",
+      "gloss": "fly!"
+    },
+    {
+      "word": "mèleb",
+      "gloss": "water"
+    },
+    {
+      "word": "nyi",
+      "gloss": "machete"
+    },
+    {
+      "word": "ŋa",
+      "gloss": "give!"
+    },
+    {
+      "word": "ŋmata",
+      "gloss": "take a handful"
+    },
+    {
+      "word": "fo",
+      "gloss": "air"
+    },
+    {
+      "word": "ǹdoŋ",
+      "gloss": "cup"
+    },
+    {
+      "word": "paŋe",
+      "gloss": "keep!"
+    },
+    {
+      "word": "àpfə̀",
+      "gloss": "compound"
+    },
+    {
+      "word": "si",
+      "gloss": "ground"
+    },
+    {
+      "word": "tem",
+      "gloss": "shoot!"
+    },
+    {
+      "word": "tsu",
+      "gloss": "come down!"
+    },
+    {
+      "word": "nu",
+      "gloss": "drink!"
+    },
+    {
+      "word": "vi",
+      "gloss": "pick it up!"
+    },
+    {
+      "word": "wàà",
+      "gloss": "who?"
+    },
+    {
+      "word": "ye",
+      "gloss": "see!"
+    },
+    {
+      "word": "zə",
+      "gloss": "listen!"
+    }
+  ]
+}

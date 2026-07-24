@@ -1,0 +1,961 @@
+[
+  {
+    "code": "abi",
+    "name": "Abidji",
+    "country": "Côte d'Ivoire",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "ada",
+    "name": "Dangme (Adangme)",
+    "country": "Ghana",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "ade",
+    "name": "Adele",
+    "country": "Togo",
+    "family": "Niger-Congo",
+    "confidence": "high"
+  },
+  {
+    "code": "adj",
+    "name": "Adioukrou",
+    "country": "Côte d'Ivoire",
+    "family": "Kru",
+    "confidence": "high"
+  },
+  {
+    "code": "aka",
+    "name": "Akan",
+    "country": "Ghana",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "anc",
+    "name": "Angas",
+    "country": "Nigeria",
+    "family": "Chadic",
+    "confidence": "high"
+  },
+  {
+    "code": "any",
+    "name": "Agni Sanvi",
+    "country": "Côte d'Ivoire",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "apd",
+    "name": "Arabic (Northern Sudanese Colloquial)",
+    "country": "Sudan",
+    "family": "Afroasiatic",
+    "confidence": "high"
+  },
+  {
+    "code": "avu",
+    "name": "Avokaya",
+    "country": "Sudan",
+    "family": "Nilo-Saharan",
+    "confidence": "high"
+  },
+  {
+    "code": "bas",
+    "name": "Basaa",
+    "country": "Cameroon",
+    "family": "Bantu A.40",
+    "confidence": "high"
+  },
+  {
+    "code": "beh",
+    "name": "Biali",
+    "country": "Benin",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "bhy",
+    "name": "Bhele",
+    "country": "Zaire",
+    "family": "Border-Bantu",
+    "confidence": "high"
+  },
+  {
+    "code": "bib",
+    "name": "Bisa",
+    "country": "Burkina Faso",
+    "family": "Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "bim",
+    "name": "Bimoba",
+    "country": "Ghana",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "bin",
+    "name": "Edo (Bini)",
+    "country": "Nigeria",
+    "family": "New Benue-Congo",
+    "confidence": "high"
+  },
+  {
+    "code": "bjo",
+    "name": "Banda",
+    "country": "Central African Republic",
+    "family": "Adamawa-Ubangi",
+    "confidence": "high"
+  },
+  {
+    "code": "bky",
+    "name": "Bekwarra",
+    "country": "Nigeria",
+    "family": "Benue-Congo",
+    "confidence": "high"
+  },
+  {
+    "code": "bom",
+    "name": "Berom",
+    "country": "Nigeria",
+    "family": "Benue-Congo",
+    "confidence": "high"
+  },
+  {
+    "code": "boz",
+    "name": "Bozo",
+    "country": "Mali",
+    "family": "Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "bsq",
+    "name": "Bassa",
+    "country": "Liberia",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "bud",
+    "name": "Bassar (N'tcham)",
+    "country": "Togo",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "bza",
+    "name": "Bandi (Gbande)",
+    "country": "Liberia",
+    "family": "Southwestern Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "cko",
+    "name": "Anufɔ (Tchokossi)",
+    "country": "Togo",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "cme",
+    "name": "Cerma (Gouin)",
+    "country": "Burkina Faso",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "daf",
+    "name": "Dan (Yacouba) (Blowo)",
+    "country": "Côte d'Ivoire",
+    "family": "Southern Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "dag",
+    "name": "DAGBANI",
+    "country": "GHANA",
+    "family": "GUR",
+    "confidence": "high"
+  },
+  {
+    "code": "dbq",
+    "name": "Daba",
+    "country": "Cameroon",
+    "family": "Chadic, Central",
+    "confidence": "high"
+  },
+  {
+    "code": "dga",
+    "name": "Dagaare",
+    "country": "Ghana",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "dgi",
+    "name": "Dagara",
+    "country": "Burkina Faso",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "dop-benin",
+    "name": "Lokpa (Dompago)",
+    "country": "Benin",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "dop-benin2",
+    "name": "Lokpa (Dompago)",
+    "country": "Benin",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "dow",
+    "name": "Doayo",
+    "country": "Cameroon",
+    "family": "Adamawa-Ubangi, Adamawa 4",
+    "confidence": "high"
+  },
+  {
+    "code": "dug",
+    "name": "Duruma",
+    "country": "Kenya",
+    "family": "Bantu (E.72D)",
+    "confidence": "high"
+  },
+  {
+    "code": "dyu",
+    "name": "Dioula (Jula)",
+    "country": "Côte d'Ivoire",
+    "family": "Mande",
+    "confidence": "hand-verified"
+  },
+  {
+    "code": "dzg",
+    "name": "DAZA",
+    "country": "CHAD",
+    "family": "NILO SAHARAN",
+    "confidence": "high"
+  },
+  {
+    "code": "ema",
+    "name": "Emai",
+    "country": "Nigeria",
+    "family": "Edoid",
+    "confidence": "high"
+  },
+  {
+    "code": "enn",
+    "name": "Engenni",
+    "country": "Nigeria",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "etn",
+    "name": "Western Ejagham",
+    "country": "Cameroon",
+    "family": "Ekoid Bantu",
+    "confidence": "high"
+  },
+  {
+    "code": "ewo",
+    "name": "Ewondo",
+    "country": "Cameroon",
+    "family": "Bantu, A.70",
+    "confidence": "high"
+  },
+  {
+    "code": "ffm",
+    "name": "Fulfulde (Peul)",
+    "country": "Mali",
+    "family": "West Atlantic",
+    "confidence": "high"
+  },
+  {
+    "code": "flr",
+    "name": "Fuliiru",
+    "country": "Zaire",
+    "family": "Niger-Congo, Bantu",
+    "confidence": "high"
+  },
+  {
+    "code": "fmp",
+    "name": "Fe'efe'e",
+    "country": "Cameroon",
+    "family": "Grassfields Bantu, East, Bamileke",
+    "confidence": "high"
+  },
+  {
+    "code": "fon",
+    "name": "Fon",
+    "country": "Benin",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "fuc",
+    "name": "Pulaar (Fulfulde)",
+    "country": "Senegal",
+    "family": "West Atlantic",
+    "confidence": "high"
+  },
+  {
+    "code": "gaa",
+    "name": "Ga",
+    "country": "Ghana",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "gej",
+    "name": "Gen-Mina",
+    "country": "Togo",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "gfe",
+    "name": "Kpɛlɛwoo",
+    "country": "Guinea",
+    "family": "Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "gjn",
+    "name": "Gonja",
+    "country": "Ghana",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "gng",
+    "name": "Gangam",
+    "country": "Togo",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "grb",
+    "name": "Grebo (Chlehpo Dialect)",
+    "country": "Liberia",
+    "family": "Kru",
+    "confidence": "medium"
+  },
+  {
+    "code": "hag",
+    "name": "Hanga",
+    "country": "Ghana",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "hau-niger",
+    "name": "Hausa",
+    "country": "Niger",
+    "family": "Afro-Asiatic, Chadic",
+    "confidence": "high"
+  },
+  {
+    "code": "hau-nigeria",
+    "name": "Hausa",
+    "country": "Nigeria",
+    "family": "Afro-Asiatic, Chadic",
+    "confidence": "high"
+  },
+  {
+    "code": "ibo",
+    "name": "Igbo",
+    "country": "Nigeria",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "igb",
+    "name": "Ebira",
+    "country": "Nigeria",
+    "family": "New Benue-Congo",
+    "confidence": "high"
+  },
+  {
+    "code": "ige",
+    "name": "Igede",
+    "country": "Nigeria",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "igo",
+    "name": "Ahlõ",
+    "country": "Togo",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "kdh",
+    "name": "Tem (Kotokoli)",
+    "country": "Togo",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "khq",
+    "name": "Songhoy",
+    "country": "Mali",
+    "family": "Nilo-Saharan",
+    "confidence": "high"
+  },
+  {
+    "code": "kik",
+    "name": "Kikuyu",
+    "country": "Kenya",
+    "family": "Bantu",
+    "confidence": "high"
+  },
+  {
+    "code": "knc",
+    "name": "Kanuri",
+    "country": "Niger",
+    "family": "Nilo-Saharan",
+    "confidence": "high"
+  },
+  {
+    "code": "krb",
+    "name": "Karan",
+    "country": "Cameroon",
+    "family": "Adamawa-Ubangi, Adamawa B",
+    "confidence": "high"
+  },
+  {
+    "code": "kri",
+    "name": "Krio",
+    "country": "Sierra Leone",
+    "family": "Creole",
+    "confidence": "high"
+  },
+  {
+    "code": "kuj",
+    "name": "Kuria",
+    "country": "Kenya",
+    "family": "Bantu",
+    "confidence": "high"
+  },
+  {
+    "code": "kus",
+    "name": "Kusal",
+    "country": "Ghana",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "kyd",
+    "name": "Kambari",
+    "country": "Nigeria",
+    "family": "Benue-Congo",
+    "confidence": "high"
+  },
+  {
+    "code": "lgg",
+    "name": "Lugbara",
+    "country": "Uganda",
+    "family": "Central Sudanic",
+    "confidence": "high"
+  },
+  {
+    "code": "lig",
+    "name": "Ligbi",
+    "country": "Ghana",
+    "family": "Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "lin",
+    "name": "Lingala",
+    "country": "Congo",
+    "family": "Bantoid, Bantu C.40",
+    "confidence": "high"
+  },
+  {
+    "code": "lmp",
+    "name": "Limbum",
+    "country": "Cameroon",
+    "family": "Grassfields Bantu",
+    "confidence": "high"
+  },
+  {
+    "code": "lns",
+    "name": "Nso'",
+    "country": "Cameroon",
+    "family": "Grassfields Bantu, Ring",
+    "confidence": "high"
+  },
+  {
+    "code": "lok",
+    "name": "Loko",
+    "country": "Sierra Leone",
+    "family": "Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "lug",
+    "name": "Luganda",
+    "country": "Uganda",
+    "family": "Bantu",
+    "confidence": "high"
+  },
+  {
+    "code": "maw",
+    "name": "Mampruli",
+    "country": "Ghana",
+    "family": "Central Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "mcu",
+    "name": "Mambila",
+    "country": "Cameroon",
+    "family": "Bantoid, Mambiloid",
+    "confidence": "high"
+  },
+  {
+    "code": "mdj",
+    "name": "Mangbetu (Meje)",
+    "country": "Zaire",
+    "family": "Central Sudanic",
+    "confidence": "high"
+  },
+  {
+    "code": "mfb",
+    "name": "Mbembe",
+    "country": "Nigeria",
+    "family": "Benue-Congo, Cross-River",
+    "confidence": "high"
+  },
+  {
+    "code": "mfi",
+    "name": "Mo",
+    "country": "Ghana",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "mkw",
+    "name": "Mekaa",
+    "country": "Cameroon",
+    "family": "Bantu A.83",
+    "confidence": "high"
+  },
+  {
+    "code": "mmo",
+    "name": "Muan",
+    "country": "Côte d'Ivoire",
+    "family": "Southern Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "mnf",
+    "name": "Mundani",
+    "country": "Cameroon",
+    "family": "Grassfields Bantu, Momo",
+    "confidence": "high"
+  },
+  {
+    "code": "mnk",
+    "name": "Mande (Malinke, Mandinka)",
+    "country": "Senegal",
+    "family": "Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "mur",
+    "name": "Murle",
+    "country": "Sudan",
+    "family": "Surma, Nilo Saharan",
+    "confidence": "high"
+  },
+  {
+    "code": "mwe",
+    "name": "Metta (Menemo)",
+    "country": "Cameroon",
+    "family": "Grassfields Bantu, Momo",
+    "confidence": "high"
+  },
+  {
+    "code": "mxd",
+    "name": "Moru",
+    "country": "Sudan",
+    "family": "Nilo-Saharan",
+    "confidence": "high"
+  },
+  {
+    "code": "myk",
+    "name": "Minyanka",
+    "country": "Mali",
+    "family": "Senufo, Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "mzk",
+    "name": "Mambila",
+    "country": "Nigeria",
+    "family": "Bantoid, Mambiloid",
+    "confidence": "high"
+  },
+  {
+    "code": "naw",
+    "name": "Nawdem",
+    "country": "Togo",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "ncu",
+    "name": "Chumburung",
+    "country": "Ghana",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "nfr",
+    "name": "Nafaanra",
+    "country": "Ghana",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "nga",
+    "name": "Ngbaka",
+    "country": "Zaire",
+    "family": "Adamawa-Ubangi, Ubangi",
+    "confidence": "high"
+  },
+  {
+    "code": "ngb-zaire",
+    "name": "Ngbandi",
+    "country": "Zaire",
+    "family": "Adamawa-Ubangi, Ubangi",
+    "confidence": "high"
+  },
+  {
+    "code": "ngb-zaire2",
+    "name": "Ngbandi",
+    "country": "Zaire",
+    "family": "Adamawa-Ubangi, Ubangi",
+    "confidence": "high"
+  },
+  {
+    "code": "nhw",
+    "name": "Bèŋ (Ngain)",
+    "country": "Côte d'Ivoire",
+    "family": "Southern Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "nnh",
+    "name": "Ngyembɔɔn",
+    "country": "Cameroon",
+    "family": "Grassfields Bantu, Bamileke",
+    "confidence": "high"
+  },
+  {
+    "code": "nnw",
+    "name": "Nuni",
+    "country": "Burkina Faso",
+    "family": "Central Gur, Northern Grusi",
+    "confidence": "high"
+  },
+  {
+    "code": "nwb",
+    "name": "Niaboua",
+    "country": "Côte d'Ivoire",
+    "family": "Kru",
+    "confidence": "high"
+  },
+  {
+    "code": "pbi",
+    "name": "Podoko",
+    "country": "Cameroon",
+    "family": "Chadic, Central",
+    "confidence": "high"
+  },
+  {
+    "code": "rel",
+    "name": "Rendille",
+    "country": "Kenya",
+    "family": "Cushitic",
+    "confidence": "high"
+  },
+  {
+    "code": "rex",
+    "name": "Jur Mödö",
+    "country": "Sudan",
+    "family": "Central Sudanic, Bongo-Bagirmi",
+    "confidence": "high"
+  },
+  {
+    "code": "sag-central_african_republic",
+    "name": "Sango",
+    "country": "Central African Republic",
+    "family": "Adamawa-Ubangi",
+    "confidence": "high"
+  },
+  {
+    "code": "sag-congo",
+    "name": "Sango",
+    "country": "Congo",
+    "family": "Adamawa-Eastern",
+    "confidence": "high"
+  },
+  {
+    "code": "sef-cote_d_ivoire",
+    "name": "Senoufo (Senari)",
+    "country": "Côte d'Ivoire",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "sef-cote_d_ivoire2",
+    "name": "Senoufo (Senari)",
+    "country": "Côte d'Ivoire",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "sil",
+    "name": "Sisaala",
+    "country": "Ghana",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "sld",
+    "name": "Sissala",
+    "country": "Burkina Faso",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "snk-mali",
+    "name": "Soninke",
+    "country": "Mali",
+    "family": "Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "snk-senegal",
+    "name": "Sooninke (Sarakole)",
+    "country": "Senegal",
+    "family": "Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "spy",
+    "name": "Sabaot",
+    "country": "Kenya",
+    "family": "Southern Nilotic",
+    "confidence": "high"
+  },
+  {
+    "code": "swh",
+    "name": "Swahili",
+    "country": "Kenya",
+    "family": "Bantu",
+    "confidence": "high"
+  },
+  {
+    "code": "tbz",
+    "name": "Ditammari",
+    "country": "Benin",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "ted",
+    "name": "Kroumen Tépo",
+    "country": "Côte d'Ivoire",
+    "family": "Kru",
+    "confidence": "high"
+  },
+  {
+    "code": "tem",
+    "name": "Themne",
+    "country": "Sierra Leone",
+    "family": "West Atlantic",
+    "confidence": "high"
+  },
+  {
+    "code": "tik",
+    "name": "Tikar",
+    "country": "Cameroon",
+    "family": "Bantoid, Bantu",
+    "confidence": "high"
+  },
+  {
+    "code": "toq",
+    "name": "Toposa",
+    "country": "Sudan",
+    "family": "Eastern Nilotic, Teso-Turkana",
+    "confidence": "high"
+  },
+  {
+    "code": "trc",
+    "name": "Tarok (Yergum)",
+    "country": "Nigeria",
+    "family": "Benue-Congo",
+    "confidence": "high"
+  },
+  {
+    "code": "tsp",
+    "name": "Toussian",
+    "country": "Burkina Faso",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "ttq",
+    "name": "Tamajaq",
+    "country": "Niger",
+    "family": "Afro-Asiatic, Berber",
+    "confidence": "high"
+  },
+  {
+    "code": "tuq",
+    "name": "Teda",
+    "country": "Chad",
+    "family": "Nilo-Saharan",
+    "confidence": "high"
+  },
+  {
+    "code": "vag",
+    "name": "Vagala",
+    "country": "Ghana",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "vut",
+    "name": "Vute",
+    "country": "Cameroon",
+    "family": "Bantoid, Mambiloid",
+    "confidence": "high"
+  },
+  {
+    "code": "wan",
+    "name": "Wan",
+    "country": "Côte d'Ivoire",
+    "family": "Southern Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "wib",
+    "name": "Toussian",
+    "country": "Burkina Faso",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "wol",
+    "name": "Wolof",
+    "country": "Senegal",
+    "family": "West Atlantic",
+    "confidence": "high"
+  },
+  {
+    "code": "wwa",
+    "name": "Waama",
+    "country": "Benin",
+    "family": "Central Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "xon",
+    "name": "Konkomba",
+    "country": "Ghana",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "xpe",
+    "name": "Kpelle",
+    "country": "Liberia",
+    "family": "Mande",
+    "confidence": "high"
+  },
+  {
+    "code": "xrb",
+    "name": "Karaboro",
+    "country": "Burkina Faso",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "xsm-burkina_faso",
+    "name": "Kasim",
+    "country": "Burkina Faso",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "xsm-ghana",
+    "name": "Kasem",
+    "country": "Ghana",
+    "family": "Gur",
+    "confidence": "high"
+  },
+  {
+    "code": "yam",
+    "name": "Yamba",
+    "country": "Cameroon",
+    "family": "Grassfields Bantu, North",
+    "confidence": "high"
+  },
+  {
+    "code": "yat",
+    "name": "Yambeta",
+    "country": "Cameroon",
+    "family": "Bantu A.60",
+    "confidence": "high"
+  },
+  {
+    "code": "ybb",
+    "name": "Yemba",
+    "country": "Cameroon",
+    "family": "Grassfields Bantu, Bamileke",
+    "confidence": "high"
+  },
+  {
+    "code": "yor-benin",
+    "name": "Yoruba",
+    "country": "Benin",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "yor-benin2",
+    "name": "Yoruba",
+    "country": "Benin",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "yor-nigeria",
+    "name": "Yoruba",
+    "country": "Nigeria",
+    "family": "Kwa",
+    "confidence": "high"
+  },
+  {
+    "code": "zne",
+    "name": "Zande",
+    "country": "Central African Republic",
+    "family": "Adamawa-Eastern",
+    "confidence": "high"
+  }
+]

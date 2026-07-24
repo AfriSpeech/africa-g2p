@@ -1,0 +1,183 @@
+{
+  "code": "tem",
+  "name": "Themne",
+  "country": "Sierra Leone",
+  "family": "West Atlantic",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 123",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "f": "f",
+    "s": "s",
+    "th": "θ",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "ʌ": "ʌ",
+    "ə": "ə",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̂": "˥˩",
+    "̌": "˩˥"
+  },
+  "tones": {
+    "high": "acute accent (´)",
+    "low": "grave accent (`)",
+    "falling": "circumflex (^)",
+    "rising": "caron (ˇ)"
+  },
+  "notes": "Hartell uses /y/ for palatal approximant, converted to IPA /j/. /gb/ converted to co-articulated plosive /ɡ͡b/.",
+  "alphabet": [
+    "a",
+    "ʌ",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "ə",
+    "f",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "th",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "alangba",
+      "gloss": "young men"
+    },
+    {
+      "word": "ʌnʌthi",
+      "gloss": "rice pudding"
+    },
+    {
+      "word": "bep",
+      "gloss": "spoon"
+    },
+    {
+      "word": "dis",
+      "gloss": "yesterday"
+    },
+    {
+      "word": "kel",
+      "gloss": "brightly"
+    },
+    {
+      "word": "ɛmɛs",
+      "gloss": "eggs"
+    },
+    {
+      "word": "kəl",
+      "gloss": "round"
+    },
+    {
+      "word": "fɔf",
+      "gloss": "to speak"
+    },
+    {
+      "word": "gbɛngbɛ",
+      "gloss": "pepper"
+    },
+    {
+      "word": "hakɛ",
+      "gloss": "sin"
+    },
+    {
+      "word": "di",
+      "gloss": "to eat"
+    },
+    {
+      "word": "kek",
+      "gloss": "beard"
+    },
+    {
+      "word": "lɔli",
+      "gloss": "ripe"
+    },
+    {
+      "word": "mɛm",
+      "gloss": "to try"
+    },
+    {
+      "word": "nɛnɛ",
+      "gloss": "cockroach"
+    },
+    {
+      "word": "ŋaŋ",
+      "gloss": "to bite"
+    },
+    {
+      "word": "roto",
+      "gloss": "toad"
+    },
+    {
+      "word": "nɔkɔ",
+      "gloss": "dirt"
+    },
+    {
+      "word": "pɔl",
+      "gloss": "January"
+    },
+    {
+      "word": "ret",
+      "gloss": "sun, day"
+    },
+    {
+      "word": "sas",
+      "gloss": "three"
+    },
+    {
+      "word": "tot",
+      "gloss": "fly"
+    },
+    {
+      "word": "thith",
+      "gloss": "to choose"
+    },
+    {
+      "word": "yufu",
+      "gloss": "owl"
+    },
+    {
+      "word": "wol",
+      "gloss": "February"
+    },
+    {
+      "word": "yanɛ",
+      "gloss": "to wash hands"
+    }
+  ]
+}

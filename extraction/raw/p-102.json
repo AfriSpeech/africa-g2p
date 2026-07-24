@@ -1,0 +1,259 @@
+{
+  "page": 102,
+  "is_language_page": true,
+  "language": "Ngbandi",
+  "iso639_3": "ngb",
+  "country": "Zaire",
+  "family": "Adamawa-Ubangi, Ubangi",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "g͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "~"
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ala",
+      "gloss": "they"
+    },
+    {
+      "word": "bi",
+      "gloss": "night"
+    },
+    {
+      "word": "da",
+      "gloss": "house"
+    },
+    {
+      "word": "e",
+      "gloss": "us"
+    },
+    {
+      "word": "ɛnɛngɔ",
+      "gloss": "to increase"
+    },
+    {
+      "word": "fɔndɔ",
+      "gloss": "banana"
+    },
+    {
+      "word": "gegi",
+      "gloss": "outside"
+    },
+    {
+      "word": "gbia",
+      "gloss": "chief"
+    },
+    {
+      "word": "hongɔ",
+      "gloss": "to kill"
+    },
+    {
+      "word": "ili",
+      "gloss": "name"
+    },
+    {
+      "word": "kɛkɛ",
+      "gloss": "tree"
+    },
+    {
+      "word": "kpu",
+      "gloss": "rope"
+    },
+    {
+      "word": "la",
+      "gloss": "sun"
+    },
+    {
+      "word": "mɔ",
+      "gloss": "you (sg)"
+    },
+    {
+      "word": "nɔ",
+      "gloss": "walk"
+    },
+    {
+      "word": "nyi",
+      "gloss": "child"
+    },
+    {
+      "word": "oko",
+      "gloss": "that"
+    },
+    {
+      "word": "ɔngɔ",
+      "gloss": "to walk"
+    },
+    {
+      "word": "pele",
+      "gloss": "straw"
+    },
+    {
+      "word": "sese",
+      "gloss": "ground"
+    },
+    {
+      "word": "tɛlɛ",
+      "gloss": "body"
+    },
+    {
+      "word": "uzu",
+      "gloss": "before"
+    },
+    {
+      "word": "vɔlɔngɔ",
+      "gloss": "to worship"
+    },
+    {
+      "word": "wa",
+      "gloss": "fire"
+    },
+    {
+      "word": "yɛlɛ",
+      "gloss": "poverty"
+    },
+    {
+      "word": "zo",
+      "gloss": "man"
+    }
+  ],
+  "num_graphemes": 26,
+  "confidence": "high",
+  "notes": "Hartell's /y/ converted to standard IPA /j/. /Ṽ/ indicates nasalization using a tilde over the vowel (except for /e/ and /o/)."
+}

@@ -1,0 +1,264 @@
+{
+  "page": 127,
+  "is_language_page": true,
+  "language": "Toposa",
+  "iso639_3": "toq",
+  "country": "Sudan",
+  "family": "Eastern Nilotic, Teso-Turkana",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "i̥",
+      "grapheme": "ị"
+    },
+    {
+      "phoneme": "u̥",
+      "grapheme": "ụ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "voiceless vowel",
+      "ipa": "̥"
+    },
+    {
+      "mark": "U+0301",
+      "role": "high tone on past tense marker in verbs",
+      "ipa": "˥"
+    }
+  ],
+  "tones": {
+    "high": "marked only on the past tense marker in verbs (é, í)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "g",
+    "i",
+    "ị",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ụ",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "apa",
+      "gloss": "father"
+    },
+    {
+      "word": "nyebu",
+      "gloss": "hyena"
+    },
+    {
+      "word": "nyecom",
+      "gloss": "baboon"
+    },
+    {
+      "word": "nyedeŋo",
+      "gloss": "basket"
+    },
+    {
+      "word": "ee",
+      "gloss": "yes"
+    },
+    {
+      "word": "nyegete",
+      "gloss": "gazelle"
+    },
+    {
+      "word": "ito",
+      "gloss": "mother"
+    },
+    {
+      "word": "tokesị!",
+      "gloss": "comb your hair!"
+    },
+    {
+      "word": "nyejamu",
+      "gloss": "cow-skin"
+    },
+    {
+      "word": "nyekori",
+      "gloss": "giraffe"
+    },
+    {
+      "word": "nyaliru",
+      "gloss": "spear"
+    },
+    {
+      "word": "nyemoŋ",
+      "gloss": "ox"
+    },
+    {
+      "word": "nyanam",
+      "gloss": "river"
+    },
+    {
+      "word": "nyenyam",
+      "gloss": "marrow"
+    },
+    {
+      "word": "nyiŋok",
+      "gloss": "dog"
+    },
+    {
+      "word": "odo",
+      "gloss": "tag"
+    },
+    {
+      "word": "nyepir",
+      "gloss": "pole"
+    },
+    {
+      "word": "nyerot",
+      "gloss": "toad"
+    },
+    {
+      "word": "nyesebo",
+      "gloss": "stick"
+    },
+    {
+      "word": "nyetuko",
+      "gloss": "zebra"
+    },
+    {
+      "word": "nyauno",
+      "gloss": "rope"
+    },
+    {
+      "word": "topetụ!",
+      "gloss": "kick here!"
+    },
+    {
+      "word": "nyewapet",
+      "gloss": "eland"
+    },
+    {
+      "word": "loyomo",
+      "gloss": "hornbill"
+    }
+  ],
+  "num_graphemes": 24,
+  "confidence": "high",
+  "notes": "Hartell symbol /y/ transcribed as IPA /j/. Hartell notation /Ṿ/ for voiceless vowels is transcribed as IPA voiceless ring /i̥, u̥/. Vowel harmony (/i, e, u, o/ vs /ɪ, ɛ, ʊ, ɔ/) is not differentiated in orthography. Voiceless vowels are marked orthographically with an underdot (ị, ụ); only ị and ụ are represented in orthography, other voiceless vowels are omitted."
+}

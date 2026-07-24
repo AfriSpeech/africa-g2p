@@ -1,0 +1,194 @@
+{
+  "code": "zne",
+  "name": "Zande",
+  "country": "Central African Republic",
+  "family": "Adamawa-Eastern",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 149",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "mb": "m͡b",
+    "mv": "m͡v",
+    "n": "n",
+    "nd": "n͡d",
+    "nz": "n͡z",
+    "ny": "ɲ",
+    "ng": "ŋɡ",
+    "ngb": "ŋɡ͡b",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "ɪ",
+    "e": "ɛ",
+    "a": "a",
+    "u": "ʊ",
+    "o": "ɔ"
+  },
+  "diacritics": {
+    "̂": "˥",
+    "̈": "˧"
+  },
+  "tones": {
+    "high": "circumflex (^)",
+    "mid": "diaeresis (¨)",
+    "low": "unmarked"
+  },
+  "notes": "Vowel symbols in table rendered with lax IPA vowels /ɪ, ɛ, a, ʊ, ɔ/. Tense vowels are indicated orthographically by inserting 'j' after the first simple or double vowel of the word.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "i",
+    "k",
+    "kp",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ng",
+    "ngb",
+    "ny",
+    "nz",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "pärä",
+      "gloss": "egg"
+    },
+    {
+      "word": "bäjmbû",
+      "gloss": "house"
+    },
+    {
+      "word": "düjma",
+      "gloss": "room"
+    },
+    {
+      "word": "zëre",
+      "gloss": "bird"
+    },
+    {
+      "word": "fuaj",
+      "gloss": "track"
+    },
+    {
+      "word": "göro",
+      "gloss": "neck"
+    },
+    {
+      "word": "gbêrê",
+      "gloss": "dance"
+    },
+    {
+      "word": "ngïmë",
+      "gloss": "smoke"
+    },
+    {
+      "word": "kûmbâ",
+      "gloss": "man"
+    },
+    {
+      "word": "kpörö",
+      "gloss": "village"
+    },
+    {
+      "word": "märä",
+      "gloss": "iron"
+    },
+    {
+      "word": "mbara",
+      "gloss": "elephant"
+    },
+    {
+      "word": "mvutu",
+      "gloss": "dust"
+    },
+    {
+      "word": "noro",
+      "gloss": "thumb"
+    },
+    {
+      "word": "ndü",
+      "gloss": "leg"
+    },
+    {
+      "word": "ngïmë",
+      "gloss": "smoke"
+    },
+    {
+      "word": "ngbâyâ",
+      "gloss": "corn"
+    },
+    {
+      "word": "nyä",
+      "gloss": "animal"
+    },
+    {
+      "word": "nzêmê",
+      "gloss": "cooking oil"
+    },
+    {
+      "word": "göro",
+      "gloss": "neck"
+    },
+    {
+      "word": "pärä",
+      "gloss": "egg"
+    },
+    {
+      "word": "rokö",
+      "gloss": "garment"
+    },
+    {
+      "word": "sîjnâ",
+      "gloss": "custom"
+    },
+    {
+      "word": "tärä",
+      "gloss": "root"
+    },
+    {
+      "word": "mvutu",
+      "gloss": "dust"
+    },
+    {
+      "word": "vüjrü",
+      "gloss": "belly"
+    },
+    {
+      "word": "yômbô",
+      "gloss": "perfume"
+    },
+    {
+      "word": "zëre",
+      "gloss": "bird"
+    }
+  ]
+}

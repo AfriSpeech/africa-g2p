@@ -1,0 +1,313 @@
+{
+  "page": 107,
+  "is_language_page": true,
+  "language": "Nuni",
+  "iso639_3": "nnw",
+  "country": "Burkina Faso",
+  "family": "Central Gur, Northern Grusi",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ɩ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ʊ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "unmarked",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "ɛ",
+    "f",
+    "g",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "dà",
+      "gloss": "to follow"
+    },
+    {
+      "word": "barɩ",
+      "gloss": "spouse"
+    },
+    {
+      "word": "cú",
+      "gloss": "to get down"
+    },
+    {
+      "word": "dàà",
+      "gloss": "sticks"
+    },
+    {
+      "word": "le",
+      "gloss": "to respond"
+    },
+    {
+      "word": "yəə",
+      "gloss": "market"
+    },
+    {
+      "word": "lɛ",
+      "gloss": "to overtake"
+    },
+    {
+      "word": "fíú",
+      "gloss": "termite"
+    },
+    {
+      "word": "tàgá",
+      "gloss": "tobacco"
+    },
+    {
+      "word": "hama",
+      "gloss": "hammer"
+    },
+    {
+      "word": "pìà",
+      "gloss": "sheep"
+    },
+    {
+      "word": "lɩ̀à",
+      "gloss": "people"
+    },
+    {
+      "word": "jɩŋɩ",
+      "gloss": "debt"
+    },
+    {
+      "word": "kárá",
+      "gloss": "field"
+    },
+    {
+      "word": "kúlú",
+      "gloss": "bump"
+    },
+    {
+      "word": "mánsá",
+      "gloss": "griddlecake"
+    },
+    {
+      "word": "cànà",
+      "gloss": "moon"
+    },
+    {
+      "word": "nyù",
+      "gloss": "to drink"
+    },
+    {
+      "word": "ŋoŋu",
+      "gloss": "mask"
+    },
+    {
+      "word": "too",
+      "gloss": "pig"
+    },
+    {
+      "word": "lɔ̀ɔ̀",
+      "gloss": "bag, sack"
+    },
+    {
+      "word": "pìì",
+      "gloss": "yam"
+    },
+    {
+      "word": "kúrú",
+      "gloss": "choice"
+    },
+    {
+      "word": "síó",
+      "gloss": "peanuts"
+    },
+    {
+      "word": "tì",
+      "gloss": "to die"
+    },
+    {
+      "word": "dù",
+      "gloss": "to sow"
+    },
+    {
+      "word": "nàŋʊ́",
+      "gloss": "meat"
+    },
+    {
+      "word": "vàrú",
+      "gloss": "hoe"
+    },
+    {
+      "word": "wárí",
+      "gloss": "brick"
+    },
+    {
+      "word": "yì",
+      "gloss": "to become sick"
+    },
+    {
+      "word": "zíín",
+      "gloss": "car"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "ISO 639-3 code 'nnw' chosen for Southern Nuni; Northern Nuni is 'nnv'. Vowel length is indicated by doubling the vowel symbol (VV = /V:/), and nasalization is orthographically indicated by following the vowel with 'n' (Vn = /Ṽ/). Phoneme symbol /ɷ/ mapped to IPA /ʊ/."
+}

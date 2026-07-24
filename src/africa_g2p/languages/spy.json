@@ -1,0 +1,156 @@
+{
+  "code": "spy",
+  "name": "Sabaot",
+  "country": "Kenya",
+  "family": "Southern Nilotic",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 119",
+  "confidence": "high",
+  "graphemes": {
+    "b": "b",
+    "t": "t",
+    "ch": "tʃ",
+    "k": "k",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng'": "ŋ",
+    "s": "s",
+    "r": "r",
+    "l": "l",
+    "w": "w",
+    "y": "j",
+    "a": "a",
+    "e": "e",
+    "i": "i",
+    "o": "o",
+    "u": "u",
+    "ā": "a̘",
+    "ē": "e̘",
+    "ī": "i̘",
+    "ō": "o̘",
+    "ū": "u̘"
+  },
+  "diacritics": {},
+  "tones": {
+    "grammatical_markers": {
+      ":": "subject tone on noun in contrast to non-subject",
+      "/": "indefinite subject on verb in contrast to 'we' as subject",
+      "'": "2nd person as opposed to 3rd person subject",
+      "+": "future form",
+      "-": "negative non-past form",
+      "!": "emphatic form"
+    }
+  },
+  "notes": "Hartell presents -ATR and +ATR vowels separately using standard vowel symbols; +ATR vowels are represented with macrons in orthography (ā, ē, ī, ō, ū) and explicitly tagged here with ATR advanced diacritic notation. Long vowels are indicated orthographically by doubled vowel letters (VV). Punctuation marks prefixing words indicate grammatical tone distinctions.",
+  "alphabet": [
+    "a",
+    "ā",
+    "b",
+    "ch",
+    "e",
+    "ē",
+    "i",
+    "ī",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ng'",
+    "ny",
+    "o",
+    "ō",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ū",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "tarkeet",
+      "gloss": "gourd"
+    },
+    {
+      "word": "tāsōōk",
+      "gloss": "baskets"
+    },
+    {
+      "word": "beenteereet",
+      "gloss": "flag"
+    },
+    {
+      "word": "chookēēt",
+      "gloss": "granary"
+    },
+    {
+      "word": "ng'echereet",
+      "gloss": "chair"
+    },
+    {
+      "word": "kērēbēēt",
+      "gloss": "basket"
+    },
+    {
+      "word": "binikeet",
+      "gloss": "tea-pot"
+    },
+    {
+      "word": "kiyaang'ta",
+      "gloss": "bow"
+    },
+    {
+      "word": "lōōng'iit",
+      "gloss": "trousers"
+    },
+    {
+      "word": "moonkeesyeet",
+      "gloss": "monkey"
+    },
+    {
+      "word": "nasumnyaanik",
+      "gloss": "maize"
+    },
+    {
+      "word": "ng'ōōkit",
+      "gloss": "dog"
+    },
+    {
+      "word": "nyuuntuut",
+      "gloss": "hammer"
+    },
+    {
+      "word": "sokonnyeet",
+      "gloss": "branch"
+    },
+    {
+      "word": "nkōkōōk",
+      "gloss": "chicken"
+    },
+    {
+      "word": "rōōtwēēt",
+      "gloss": "knife"
+    },
+    {
+      "word": "sikiryēēt",
+      "gloss": "donkey"
+    },
+    {
+      "word": "teeta",
+      "gloss": "cow"
+    },
+    {
+      "word": "mutatuk",
+      "gloss": "ripe bananas"
+    },
+    {
+      "word": "waareek",
+      "gloss": "sheep"
+    },
+    {
+      "word": "yeeyiik",
+      "gloss": "oxen"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "code": "anc",
+  "name": "Angas",
+  "country": "Nigeria",
+  "family": "Chadic",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 7",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "dy": "ɟ",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ṇ": "ŋ",
+    "ny": "ɲ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "sh": "ʃ",
+    "z": "z",
+    "ẓ": "ʒ",
+    "ḥ": "ɣ",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "y": "j",
+    "w": "w",
+    "i": "i",
+    "ə": "ɪ",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {
+    "́": "˧",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "unmarked",
+    "mid": "acute accent",
+    "low": "grave accent"
+  },
+  "notes": "Glottal stop phoneme /ʔ/ is orthographically represented by a preceding space or apostrophe. The IPA vowel /ɪ/ (rendered as /ɩ/ in Hartell) maps to orthographic ə. Hartell lists 35 graphemes in total.",
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "dy",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "h",
+    "ḥ",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ṇ",
+    "ny",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "ẓ",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "mat",
+      "gloss": "women"
+    },
+    {
+      "word": "be",
+      "gloss": "to return"
+    },
+    {
+      "word": "ɓe",
+      "gloss": "[copula]"
+    },
+    {
+      "word": "cen",
+      "gloss": "hoe"
+    },
+    {
+      "word": "dondon",
+      "gloss": "yesterday"
+    },
+    {
+      "word": "ɗaka",
+      "gloss": "thus"
+    },
+    {
+      "word": "dyem",
+      "gloss": "child"
+    },
+    {
+      "word": "ke",
+      "gloss": "head"
+    },
+    {
+      "word": "pə",
+      "gloss": "place"
+    },
+    {
+      "word": "fi",
+      "gloss": "to winnow"
+    },
+    {
+      "word": "goməs",
+      "gloss": "men"
+    },
+    {
+      "word": "he",
+      "gloss": "seed"
+    },
+    {
+      "word": "hə",
+      "gloss": "goat"
+    },
+    {
+      "word": "fi",
+      "gloss": "to winnow"
+    },
+    {
+      "word": "jə",
+      "gloss": "to come"
+    },
+    {
+      "word": "ko",
+      "gloss": "and"
+    },
+    {
+      "word": "lu",
+      "gloss": "room"
+    },
+    {
+      "word": "mwa",
+      "gloss": "they"
+    },
+    {
+      "word": "ne",
+      "gloss": "to see"
+    },
+    {
+      "word": "ṇa",
+      "gloss": "me, I"
+    },
+    {
+      "word": "nyin",
+      "gloss": "to show"
+    },
+    {
+      "word": "po",
+      "gloss": "mouth"
+    },
+    {
+      "word": "par",
+      "gloss": "night"
+    },
+    {
+      "word": "ru",
+      "gloss": "to arrive"
+    },
+    {
+      "word": "sun",
+      "gloss": "to dream"
+    },
+    {
+      "word": "shəkɛt",
+      "gloss": "different"
+    },
+    {
+      "word": "tum",
+      "gloss": "to descend"
+    },
+    {
+      "word": "lu",
+      "gloss": "room"
+    },
+    {
+      "word": "vom",
+      "gloss": "person's name"
+    },
+    {
+      "word": "wok",
+      "gloss": "compound"
+    },
+    {
+      "word": "yən",
+      "gloss": "medicine"
+    },
+    {
+      "word": "zar",
+      "gloss": "clean"
+    },
+    {
+      "word": "ẓwal",
+      "gloss": "hill"
+    },
+    {
+      "word": "'as",
+      "gloss": "dog"
+    }
+  ]
+}

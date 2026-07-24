@@ -1,0 +1,209 @@
+{
+  "code": "cko",
+  "name": "Anufɔ (Tchokossi)",
+  "country": "Togo",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 28",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "v": "f",
+    "s": "s",
+    "z": "s",
+    "l": "l",
+    "r": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent"
+  },
+  "notes": "Hartell's /y/ converted to IPA /j/. Labialization and palatalization are written as vocalic sequences. Vowels can be lengthened (VV) or nasalized (Vn, except for /e/ or /o/).",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "sa",
+      "gloss": "to draw water"
+    },
+    {
+      "word": "bisa",
+      "gloss": "to ask"
+    },
+    {
+      "word": "caa",
+      "gloss": "dog"
+    },
+    {
+      "word": "diedie",
+      "gloss": "knife"
+    },
+    {
+      "word": "bue",
+      "gloss": "half"
+    },
+    {
+      "word": "buɛ",
+      "gloss": "sheep"
+    },
+    {
+      "word": "fɛmɛ",
+      "gloss": "chief"
+    },
+    {
+      "word": "gise",
+      "gloss": "cotton"
+    },
+    {
+      "word": "gbagba",
+      "gloss": "sandal"
+    },
+    {
+      "word": "hun",
+      "gloss": "husband"
+    },
+    {
+      "word": "bi",
+      "gloss": "ripe"
+    },
+    {
+      "word": "jojɔ",
+      "gloss": "to talk"
+    },
+    {
+      "word": "kɛrɛ",
+      "gloss": "to write"
+    },
+    {
+      "word": "kpien",
+      "gloss": "old"
+    },
+    {
+      "word": "lolo",
+      "gloss": "shade"
+    },
+    {
+      "word": "ma",
+      "gloss": "to give"
+    },
+    {
+      "word": "na",
+      "gloss": "then"
+    },
+    {
+      "word": "nya",
+      "gloss": "to have"
+    },
+    {
+      "word": "ŋa",
+      "gloss": "to say"
+    },
+    {
+      "word": "ŋma",
+      "gloss": "who?"
+    },
+    {
+      "word": "nzo",
+      "gloss": "seven"
+    },
+    {
+      "word": "nɔnɔ",
+      "gloss": "milk"
+    },
+    {
+      "word": "pui",
+      "gloss": "nothing"
+    },
+    {
+      "word": "bara",
+      "gloss": "woman"
+    },
+    {
+      "word": "si",
+      "gloss": "to know"
+    },
+    {
+      "word": "fiti",
+      "gloss": "to make a hole"
+    },
+    {
+      "word": "ju",
+      "gloss": "to arrive"
+    },
+    {
+      "word": "nvɔrɛ",
+      "gloss": "termite"
+    },
+    {
+      "word": "awuru",
+      "gloss": "house"
+    },
+    {
+      "word": "yandi",
+      "gloss": "to yawn"
+    },
+    {
+      "word": "nzɛn",
+      "gloss": "if"
+    }
+  ]
+}

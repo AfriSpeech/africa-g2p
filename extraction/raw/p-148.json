@@ -1,0 +1,250 @@
+{
+  "page": 148,
+  "is_language_page": true,
+  "language": "Yoruba",
+  "iso639_3": "yor",
+  "country": "Nigeria",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "ṣ"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ẹ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ọ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "subdot for open vowels (ẹ, ọ) and postalveolar fricative (ṣ)",
+      "ipa": null
+    }
+  ],
+  "tones": {},
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ẹ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "s",
+    "ṣ",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "aja",
+      "gloss": "dog"
+    },
+    {
+      "word": "ibọn",
+      "gloss": "gun"
+    },
+    {
+      "word": "ododo",
+      "gloss": "truth"
+    },
+    {
+      "word": "ede",
+      "gloss": "language"
+    },
+    {
+      "word": "ilẹ",
+      "gloss": "ground"
+    },
+    {
+      "word": "fun",
+      "gloss": "to give"
+    },
+    {
+      "word": "ga",
+      "gloss": "to be tall"
+    },
+    {
+      "word": "agba",
+      "gloss": "elders"
+    },
+    {
+      "word": "ohun",
+      "gloss": "matter"
+    },
+    {
+      "word": "ibi",
+      "gloss": "place"
+    },
+    {
+      "word": "iji",
+      "gloss": "storm"
+    },
+    {
+      "word": "ọkan",
+      "gloss": "heart"
+    },
+    {
+      "word": "ile",
+      "gloss": "house"
+    },
+    {
+      "word": "mu",
+      "gloss": "to drink"
+    },
+    {
+      "word": "inu",
+      "gloss": "stomach"
+    },
+    {
+      "word": "oke",
+      "gloss": "top"
+    },
+    {
+      "word": "ọwọ",
+      "gloss": "hand"
+    },
+    {
+      "word": "opo",
+      "gloss": "post"
+    },
+    {
+      "word": "ara",
+      "gloss": "body"
+    },
+    {
+      "word": "ẹsẹ",
+      "gloss": "leg"
+    },
+    {
+      "word": "iṣu",
+      "gloss": "yam"
+    },
+    {
+      "word": "otutu",
+      "gloss": "cold"
+    },
+    {
+      "word": "owu",
+      "gloss": "cotton"
+    },
+    {
+      "word": "owo",
+      "gloss": "money"
+    },
+    {
+      "word": "iyawo",
+      "gloss": "wife"
+    }
+  ],
+  "num_graphemes": 25,
+  "confidence": "high",
+  "notes": "Hartell's /y/ converted to IPA /j/. /kp/ converted to /k͡p/ (written orthographically as 'p'). /gb/ converted to /ɡ͡b/. /dʒ/ converted to /d͡ʒ/. Nasalization is indicated orthographically by 'Vn' (except for /e/ or /o/)."
+}

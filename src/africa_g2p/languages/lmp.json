@@ -1,0 +1,197 @@
+{
+  "code": "lmp",
+  "name": "Limbum",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 77",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "sh": "ʃ",
+    "l": "l",
+    "r": "r",
+    "gh": "ɣ",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "ʉ": "ʉ",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {
+    "̀": "˩"
+  },
+  "tones": {
+    "level": "high, mid, low",
+    "glides": "high-mid, mid-low, low-very low, low-mid",
+    "marking": "In the orthography only the low tone is marked."
+  },
+  "notes": "Hartell's /y/ mapped to IPA /j/. Labialized combinations (gw, kw, ŋw) and palatalized combinations (by, fy, ky, my, ny) are noted on page under Labialization and Palatalization. /h/ noted as rare phoneme.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "ʉ",
+    "v",
+    "w",
+    "y",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "tap",
+      "gloss": "house"
+    },
+    {
+      "word": "bo",
+      "gloss": "hand"
+    },
+    {
+      "word": "ca",
+      "gloss": "this"
+    },
+    {
+      "word": "dù",
+      "gloss": "has gone"
+    },
+    {
+      "word": "ye",
+      "gloss": "to eat"
+    },
+    {
+      "word": "nyɛɛ",
+      "gloss": "monkey"
+    },
+    {
+      "word": "nfe'",
+      "gloss": "clock"
+    },
+    {
+      "word": "ŋgwa",
+      "gloss": "wife"
+    },
+    {
+      "word": "gha'",
+      "gloss": "to surpass"
+    },
+    {
+      "word": "haba",
+      "gloss": "exclamation"
+    },
+    {
+      "word": "yi",
+      "gloss": "his"
+    },
+    {
+      "word": "njap",
+      "gloss": "vegetables"
+    },
+    {
+      "word": "kop",
+      "gloss": "forest"
+    },
+    {
+      "word": "la'",
+      "gloss": "compound"
+    },
+    {
+      "word": "mò'",
+      "gloss": "another"
+    },
+    {
+      "word": "enɛ",
+      "gloss": "says"
+    },
+    {
+      "word": "ŋko'",
+      "gloss": "basket"
+    },
+    {
+      "word": "bo",
+      "gloss": "hand"
+    },
+    {
+      "word": "bup",
+      "gloss": "bird"
+    },
+    {
+      "word": "mrɛ'",
+      "gloss": "yams"
+    },
+    {
+      "word": "sa'",
+      "gloss": "machete"
+    },
+    {
+      "word": "shaŋ",
+      "gloss": "prison"
+    },
+    {
+      "word": "to",
+      "gloss": "hole"
+    },
+    {
+      "word": "kur",
+      "gloss": "to wrap"
+    },
+    {
+      "word": "tʉr",
+      "gloss": "to have"
+    },
+    {
+      "word": "vù",
+      "gloss": "came"
+    },
+    {
+      "word": "war",
+      "gloss": "to cry"
+    },
+    {
+      "word": "yop",
+      "gloss": "to sing"
+    },
+    {
+      "word": "sa'",
+      "gloss": "machete"
+    }
+  ]
+}

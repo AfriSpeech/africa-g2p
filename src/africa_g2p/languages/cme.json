@@ -1,0 +1,197 @@
+{
+  "code": "cme",
+  "name": "Cerma (Gouin)",
+  "country": "Burkina Faso",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 29",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "r": "r",
+    "l": "l",
+    "s": "s",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "ny": "j̃",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̌": "˩˥",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "acute",
+    "low": "grave",
+    "rising": "caron",
+    "falling": "circumflex"
+  },
+  "notes": "Hartell uses /tʃ/ for 'c', /dʒ/ for 'j', and /y/ for 'y'/'ny'. 'ny' is used for /y/ in nasalized syllables (e.g. u nyu [u nũ] 'his mother'). Vowel length /V:/ is written VV and nasalization /Ṽ/ is written Vn (or with tilde in some examples). Note on page states: 'It has not yet been decided whether tone will be marked in the orthography.'",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "fágàŋgà",
+      "gloss": "stake, post"
+    },
+    {
+      "word": "bìtùongú",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "cíɛŋò",
+      "gloss": "woman"
+    },
+    {
+      "word": "dúnŋgú",
+      "gloss": "hut"
+    },
+    {
+      "word": "tètérré",
+      "gloss": "chair"
+    },
+    {
+      "word": "péríɛŋó",
+      "gloss": "pig"
+    },
+    {
+      "word": "fiɛlú",
+      "gloss": "leaf"
+    },
+    {
+      "word": "gùorúngú",
+      "gloss": "white millet"
+    },
+    {
+      "word": "gɔ̀orɡó",
+      "gloss": "butterfly"
+    },
+    {
+      "word": "hàlàgó",
+      "gloss": "cockroach"
+    },
+    {
+      "word": "filũo",
+      "gloss": "indigenous aubergine"
+    },
+    {
+      "word": "jígángá",
+      "gloss": "knife"
+    },
+    {
+      "word": "kàkúmũo",
+      "gloss": "donkey"
+    },
+    {
+      "word": "kpàayèllé",
+      "gloss": "wild fruit"
+    },
+    {
+      "word": "néllé",
+      "gloss": "village"
+    },
+    {
+      "word": "mòsɔ̀nŋó",
+      "gloss": "duiker (gazelle)"
+    },
+    {
+      "word": "náŋmá",
+      "gloss": "butter"
+    },
+    {
+      "word": "jáaŋá",
+      "gloss": "millet"
+    },
+    {
+      "word": "nyémúngú",
+      "gloss": "dance"
+    },
+    {
+      "word": "kòrónó",
+      "gloss": "monkey"
+    },
+    {
+      "word": "kòhólɡó",
+      "gloss": "rooster"
+    },
+    {
+      "word": "pɛ̌npànɡó",
+      "gloss": "crocodile"
+    },
+    {
+      "word": "cierónó",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "sànŋsánŋó",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "tètèriɛŋó",
+      "gloss": "fish"
+    },
+    {
+      "word": "hùrùŋó",
+      "gloss": "dove"
+    },
+    {
+      "word": "vâaŋò",
+      "gloss": "dog"
+    },
+    {
+      "word": "wúsúngú",
+      "gloss": "igname shelter"
+    }
+  ]
+}

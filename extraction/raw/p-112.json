@@ -1,0 +1,340 @@
+{
+  "page": 112,
+  "is_language_page": true,
+  "language": "Sango",
+  "iso639_3": "sag",
+  "country": "Congo",
+  "family": "Adamawa-Eastern",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "m͡b",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "m͡v",
+      "grapheme": "mv"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "n͡d",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "ŋ͡ɡ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ŋ͡ɡ͡b",
+      "grapheme": "ngb"
+    },
+    {
+      "phoneme": "n͡z",
+      "grapheme": "nz"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0302",
+      "role": "high-low tone",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "acute (´)",
+    "mid": "macron (-)",
+    "low": "grave (`)",
+    "high-low": "circumflex (ˆ)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ng",
+    "ngb",
+    "nz",
+    "ny",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "la",
+      "gloss": "sun"
+    },
+    {
+      "word": "baba",
+      "gloss": "daddy"
+    },
+    {
+      "word": "doli",
+      "gloss": "elephant"
+    },
+    {
+      "word": "keke",
+      "gloss": "tree, wood"
+    },
+    {
+      "word": "pendere",
+      "gloss": "coquetry"
+    },
+    {
+      "word": "vene",
+      "gloss": "to lie"
+    },
+    {
+      "word": "fini",
+      "gloss": "nine"
+    },
+    {
+      "word": "gala",
+      "gloss": "market"
+    },
+    {
+      "word": "gbako",
+      "gloss": "forest"
+    },
+    {
+      "word": "hio",
+      "gloss": "quick"
+    },
+    {
+      "word": "ita",
+      "gloss": "brother"
+    },
+    {
+      "word": "kete",
+      "gloss": "small"
+    },
+    {
+      "word": "kpeka",
+      "gloss": "hoe"
+    },
+    {
+      "word": "lele",
+      "gloss": "donkey"
+    },
+    {
+      "word": "me",
+      "gloss": "ear"
+    },
+    {
+      "word": "mbeti",
+      "gloss": "paper"
+    },
+    {
+      "word": "mvene",
+      "gloss": "lie"
+    },
+    {
+      "word": "nako",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "ndo",
+      "gloss": "place"
+    },
+    {
+      "word": "ngu",
+      "gloss": "water, year"
+    },
+    {
+      "word": "ngbo",
+      "gloss": "snake"
+    },
+    {
+      "word": "nyama",
+      "gloss": "animal"
+    },
+    {
+      "word": "nzapa",
+      "gloss": "God"
+    },
+    {
+      "word": "ota",
+      "gloss": "three"
+    },
+    {
+      "word": "loro",
+      "gloss": "race"
+    },
+    {
+      "word": "pata",
+      "gloss": "5 francs"
+    },
+    {
+      "word": "sese",
+      "gloss": "earth"
+    },
+    {
+      "word": "tere",
+      "gloss": "story"
+    },
+    {
+      "word": "use",
+      "gloss": "two"
+    },
+    {
+      "word": "vi",
+      "gloss": "intestine"
+    },
+    {
+      "word": "wali",
+      "gloss": "woman"
+    },
+    {
+      "word": "yaka",
+      "gloss": "field"
+    },
+    {
+      "word": "zeme",
+      "gloss": "knife"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "Hartell lists nasalized vowels /Ṽ/ indicated by Vn (except /ɛ/ or /ɔ/). Hartell uses /y/ for IPA /j/."
+}

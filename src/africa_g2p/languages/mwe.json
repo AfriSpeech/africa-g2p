@@ -1,0 +1,204 @@
+{
+  "code": "mwe",
+  "name": "Metta (Menemo)",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, Momo",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 86",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "r": "r",
+    "gh": "ɣ",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "ɨ": "ɨ",
+    "ə": "ə",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̀": "˩",
+    "̌": "˩˥",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "acute (´)",
+    "mid": "macron (¯)",
+    "central": "unmarked",
+    "low": "grave (`)",
+    "rising": "caron (ˇ)",
+    "falling": "circumflex (ˆ)"
+  },
+  "notes": "Hartell symbol /y/ converted to IPA /j/. Central tone is unmarked. Secondary articulation combinations noted in source: labialization (gw), palatalization (gy), labialization and palatalization (gyw).",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gh",
+    "i",
+    "ɨ",
+    "j",
+    "k",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "Tàd",
+      "gloss": "market day"
+    },
+    {
+      "word": "bón",
+      "gloss": "children"
+    },
+    {
+      "word": "còm",
+      "gloss": "fine, good"
+    },
+    {
+      "word": "ndàb",
+      "gloss": "thread"
+    },
+    {
+      "word": "pè",
+      "gloss": "to arrive"
+    },
+    {
+      "word": "bə̂d",
+      "gloss": "people"
+    },
+    {
+      "word": "ɨfê",
+      "gloss": "face"
+    },
+    {
+      "word": "ngub",
+      "gloss": "fowl"
+    },
+    {
+      "word": "ɨgháb",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "dì",
+      "gloss": "cry"
+    },
+    {
+      "word": "vɨ́",
+      "gloss": "palm nut"
+    },
+    {
+      "word": "jàm",
+      "gloss": "axe"
+    },
+    {
+      "word": "kywɨ̀",
+      "gloss": "maize"
+    },
+    {
+      "word": "kwèm",
+      "gloss": "a dance"
+    },
+    {
+      "word": "mban",
+      "gloss": "nail"
+    },
+    {
+      "word": "nyâm",
+      "gloss": "animal"
+    },
+    {
+      "word": "ŋgòm",
+      "gloss": "plantain"
+    },
+    {
+      "word": "gôb",
+      "gloss": "skin"
+    },
+    {
+      "word": "bɔ́n",
+      "gloss": "children"
+    },
+    {
+      "word": "pà'",
+      "gloss": "cloud"
+    },
+    {
+      "word": "wūrī",
+      "gloss": "again"
+    },
+    {
+      "word": "sá'",
+      "gloss": "needle"
+    },
+    {
+      "word": "tɔ'",
+      "gloss": "palace"
+    },
+    {
+      "word": "bú",
+      "gloss": "dog"
+    },
+    {
+      "word": "vɨ́",
+      "gloss": "palm nut"
+    },
+    {
+      "word": "kwèm",
+      "gloss": "dance"
+    },
+    {
+      "word": "ə̄yî",
+      "gloss": "woman"
+    },
+    {
+      "word": "zon",
+      "gloss": "to buy"
+    },
+    {
+      "word": "ka'",
+      "gloss": "cricket"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "code": "bim",
+  "name": "Bimoba",
+  "country": "Ghana",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 18",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "g": "ɡ",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "s": "s",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̀": "˩",
+    "'": "˥˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent",
+    "falling": "apostrophe (only written when contrast)"
+  },
+  "notes": "Hartell uses /y/ for IPA /j/. Long vowels are indicated orthographically as double vowels (VV), and nasal vowels are represented by vowel followed by 'n' (Vn). Tones are usually not written in practice.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "naŋ",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "boŋ",
+      "gloss": "donkey"
+    },
+    {
+      "word": "bonchiann",
+      "gloss": "[intensifier]"
+    },
+    {
+      "word": "doorik",
+      "gloss": "pig"
+    },
+    {
+      "word": "set",
+      "gloss": "to stand"
+    },
+    {
+      "word": "fitir",
+      "gloss": "lamp"
+    },
+    {
+      "word": "giŋgann",
+      "gloss": "drum"
+    },
+    {
+      "word": "gbanant",
+      "gloss": "body, skin"
+    },
+    {
+      "word": "jena",
+      "gloss": "eggs"
+    },
+    {
+      "word": "hali",
+      "gloss": "much"
+    },
+    {
+      "word": "fit",
+      "gloss": "to be able"
+    },
+    {
+      "word": "kobuk",
+      "gloss": "feather"
+    },
+    {
+      "word": "kpint",
+      "gloss": "soup"
+    },
+    {
+      "word": "liatir",
+      "gloss": "shirt"
+    },
+    {
+      "word": "mɔb",
+      "gloss": "mouth"
+    },
+    {
+      "word": "naab",
+      "gloss": "cow"
+    },
+    {
+      "word": "nyɔku",
+      "gloss": "medicine"
+    },
+    {
+      "word": "ŋak",
+      "gloss": "to shake"
+    },
+    {
+      "word": "ŋaŋmaanii",
+      "gloss": "fear"
+    },
+    {
+      "word": "kok",
+      "gloss": "chair"
+    },
+    {
+      "word": "mɔtana",
+      "gloss": "now"
+    },
+    {
+      "word": "peuk",
+      "gloss": "sheep"
+    },
+    {
+      "word": "sapaanbik",
+      "gloss": "girl"
+    },
+    {
+      "word": "taal",
+      "gloss": "foot"
+    },
+    {
+      "word": "juk",
+      "gloss": "knife"
+    },
+    {
+      "word": "waok",
+      "gloss": "snake"
+    },
+    {
+      "word": "yelek",
+      "gloss": "music pipe"
+    }
+  ]
+}

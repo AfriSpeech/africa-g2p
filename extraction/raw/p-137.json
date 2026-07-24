@@ -1,0 +1,273 @@
+{
+  "page": 137,
+  "is_language_page": true,
+  "language": "Konkomba",
+  "iso639_3": "xon",
+  "country": "Ghana",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "g͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [],
+  "tones": {
+    "note": "Tone is not written"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "nkalaman",
+      "gloss": "maize"
+    },
+    {
+      "word": "ban",
+      "gloss": "to look for"
+    },
+    {
+      "word": "kichaŋ",
+      "gloss": "back"
+    },
+    {
+      "word": "dan",
+      "gloss": "to come"
+    },
+    {
+      "word": "arebersa",
+      "gloss": "onion"
+    },
+    {
+      "word": "tifar",
+      "gloss": "leaves"
+    },
+    {
+      "word": "gii",
+      "gloss": "to cut"
+    },
+    {
+      "word": "gbii",
+      "gloss": "full"
+    },
+    {
+      "word": "upiih",
+      "gloss": "sheep"
+    },
+    {
+      "word": "tidir",
+      "gloss": "rooms"
+    },
+    {
+      "word": "kijook",
+      "gloss": "evening"
+    },
+    {
+      "word": "kun",
+      "gloss": "to go home"
+    },
+    {
+      "word": "kpo",
+      "gloss": "to die"
+    },
+    {
+      "word": "likekeln",
+      "gloss": "cloth"
+    },
+    {
+      "word": "imii",
+      "gloss": "fires"
+    },
+    {
+      "word": "-na",
+      "gloss": "mother"
+    },
+    {
+      "word": "nyoo",
+      "gloss": "deep"
+    },
+    {
+      "word": "ŋan",
+      "gloss": "good"
+    },
+    {
+      "word": "uŋmal",
+      "gloss": "month"
+    },
+    {
+      "word": "ko",
+      "gloss": "to hoe"
+    },
+    {
+      "word": "nnyɔk",
+      "gloss": "medicine"
+    },
+    {
+      "word": "pam",
+      "gloss": "very"
+    },
+    {
+      "word": "timoor",
+      "gloss": "grass"
+    },
+    {
+      "word": "kisaak",
+      "gloss": "farm"
+    },
+    {
+      "word": "ŋitafal",
+      "gloss": "cars"
+    },
+    {
+      "word": "du",
+      "gloss": "here"
+    },
+    {
+      "word": "wii",
+      "gloss": "to call"
+    },
+    {
+      "word": "yi",
+      "gloss": "to call"
+    }
+  ],
+  "num_graphemes": 28,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/. Long vowels /V:/ are written by doubling the vowel letter (VV)."
+}

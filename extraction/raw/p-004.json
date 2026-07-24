@@ -1,0 +1,286 @@
+{
+  "page": 4,
+  "is_language_page": true,
+  "language": "Adioukrou",
+  "iso639_3": "adj",
+  "country": "Côte d'Ivoire",
+  "family": "Kru",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dz",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0300",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0302",
+      "role": "high-low tone",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "grave accent (`)",
+    "low": "unmarked",
+    "high-low": "circumflex (^), rare"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "al",
+      "gloss": "fire"
+    },
+    {
+      "word": "bogŋ",
+      "gloss": "where?"
+    },
+    {
+      "word": "caca",
+      "gloss": "now"
+    },
+    {
+      "word": "dad'r",
+      "gloss": "tell him"
+    },
+    {
+      "word": "efi",
+      "gloss": "yesterday"
+    },
+    {
+      "word": "ɛm",
+      "gloss": "me, inside"
+    },
+    {
+      "word": "fafa",
+      "gloss": "fast"
+    },
+    {
+      "word": "gɔg",
+      "gloss": "cayman"
+    },
+    {
+      "word": "gbad",
+      "gloss": "skirt cloth"
+    },
+    {
+      "word": "ehe",
+      "gloss": "well-being"
+    },
+    {
+      "word": "im",
+      "gloss": "go!"
+    },
+    {
+      "word": "jam",
+      "gloss": "back"
+    },
+    {
+      "word": "kaka",
+      "gloss": "nothing"
+    },
+    {
+      "word": "kpekpe",
+      "gloss": "far"
+    },
+    {
+      "word": "lɔr",
+      "gloss": "bird"
+    },
+    {
+      "word": "mar",
+      "gloss": "drink"
+    },
+    {
+      "word": "namn",
+      "gloss": "hunger"
+    },
+    {
+      "word": "nyam",
+      "gloss": "God"
+    },
+    {
+      "word": "nuŋ",
+      "gloss": "head"
+    },
+    {
+      "word": "os",
+      "gloss": "money"
+    },
+    {
+      "word": "ɔcn",
+      "gloss": "fish"
+    },
+    {
+      "word": "prɛj",
+      "gloss": "civet"
+    },
+    {
+      "word": "sar",
+      "gloss": "saliva"
+    },
+    {
+      "word": "sos",
+      "gloss": "body"
+    },
+    {
+      "word": "tɛtɛ",
+      "gloss": "butterfly"
+    },
+    {
+      "word": "ulu",
+      "gloss": "basket"
+    },
+    {
+      "word": "wɛwɛ",
+      "gloss": "dry"
+    },
+    {
+      "word": "yɔw",
+      "gloss": "woman"
+    }
+  ],
+  "num_graphemes": 28,
+  "confidence": "high",
+  "notes": "Hartell lists orthographic 'y' as IPA /y/. In standard IPA, this represents the palatal approximant [j]. Hartell lists /dz/ for grapheme 'j' and /tʃ/ for grapheme 'c'. Only minimal pairs are marked for tone. High tone is marked with a grave-like accent. Hyphen (-) distinguishes plural from singular 3rd person pronouns (li and ni)."
+}

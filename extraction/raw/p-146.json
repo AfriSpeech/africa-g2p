@@ -1,0 +1,259 @@
+{
+  "page": 146,
+  "is_language_page": true,
+  "language": "Yoruba",
+  "iso639_3": "yor",
+  "country": "Benin",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "n",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "ata",
+      "gloss": "hot pepper"
+    },
+    {
+      "word": "baba",
+      "gloss": "father"
+    },
+    {
+      "word": "dudu",
+      "gloss": "black"
+    },
+    {
+      "word": "rere",
+      "gloss": "well"
+    },
+    {
+      "word": "ɛye",
+      "gloss": "bird"
+    },
+    {
+      "word": "afa",
+      "gloss": "point"
+    },
+    {
+      "word": "gangan",
+      "gloss": "drum"
+    },
+    {
+      "word": "igbagbe",
+      "gloss": "forgetfulness"
+    },
+    {
+      "word": "aha",
+      "gloss": "calabash"
+    },
+    {
+      "word": "ibi",
+      "gloss": "bad"
+    },
+    {
+      "word": "aja",
+      "gloss": "dog"
+    },
+    {
+      "word": "kokoro",
+      "gloss": "key"
+    },
+    {
+      "word": "kpaki",
+      "gloss": "manioc"
+    },
+    {
+      "word": "laalaa",
+      "gloss": "difficulty"
+    },
+    {
+      "word": "mimɔ",
+      "gloss": "pure"
+    },
+    {
+      "word": "ina",
+      "gloss": "fire"
+    },
+    {
+      "word": "oko",
+      "gloss": "field"
+    },
+    {
+      "word": "ɔkɔ",
+      "gloss": "husband"
+    },
+    {
+      "word": "pipan",
+      "gloss": "train"
+    },
+    {
+      "word": "rɔrowɔ",
+      "gloss": "vegetable"
+    },
+    {
+      "word": "eso",
+      "gloss": "fruit"
+    },
+    {
+      "word": "shasha",
+      "gloss": "quickly"
+    },
+    {
+      "word": "timuntimun",
+      "gloss": "pillow"
+    },
+    {
+      "word": "tubu",
+      "gloss": "prison"
+    },
+    {
+      "word": "werewere",
+      "gloss": "quickly"
+    },
+    {
+      "word": "iya",
+      "gloss": "mother"
+    }
+  ],
+  "num_graphemes": 26,
+  "confidence": "high",
+  "notes": "Hartell /y/ mapped to IPA /j/. Nasalization is indicated by following 'n' (Vn) on all vowels except /e/ and /o/."
+}

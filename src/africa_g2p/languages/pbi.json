@@ -1,0 +1,277 @@
+{
+  "code": "pbi",
+  "name": "Podoko",
+  "country": "Cameroon",
+  "family": "Chadic, Central",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 109",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "ts": "ts",
+    "c": "ts",
+    "dz": "dz",
+    "j": "dz",
+    "k": "k",
+    "g": "ɡ",
+    "kw": "kʷ",
+    "gw": "ɡʷ",
+    "m": "m",
+    "mb": "mb",
+    "n": "n",
+    "nd": "nd",
+    "ndz": "ndz",
+    "nj": "ndz",
+    "ŋ": "ŋ",
+    "ŋg": "ŋ",
+    "ŋw": "ŋʷ",
+    "ŋgw": "ŋʷ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "sh": "s",
+    "z": "z",
+    "zh": "z",
+    "sl": "ɬ",
+    "zl": "ɮ",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "hw": "hʷ",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ə": "ə",
+    "ɨ": "ə",
+    "a": "a",
+    "e": "a",
+    "u": "u"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Hartell's /y/ converted to IPA /j/. Labialized symbols /kw/, /gw/, /ŋw/, /hw/ rendered as /kʷ/, /ɡʷ/, /ŋʷ/, /hʷ/. Lateral fricatives rendered as voiceless /ɬ/ (sl) and voiced /ɮ/ (zl).",
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "dz",
+    "ɗ",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gw",
+    "h",
+    "hw",
+    "i",
+    "ɨ",
+    "j",
+    "k",
+    "kw",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "ndz",
+    "nj",
+    "ŋ",
+    "ŋg",
+    "ŋgw",
+    "ŋw",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "sl",
+    "t",
+    "ts",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "zh",
+    "zl"
+  ],
+  "examples": [
+    {
+      "word": "kaya",
+      "gloss": "house"
+    },
+    {
+      "word": "baba",
+      "gloss": "father"
+    },
+    {
+      "word": "ɓiwa",
+      "gloss": "new"
+    },
+    {
+      "word": "cege",
+      "gloss": "cooking pot"
+    },
+    {
+      "word": "damala",
+      "gloss": "my brother"
+    },
+    {
+      "word": "dzaka",
+      "gloss": "to learn"
+    },
+    {
+      "word": "madəɗa",
+      "gloss": "seven"
+    },
+    {
+      "word": "cege",
+      "gloss": "cooking pot"
+    },
+    {
+      "word": "təməzala",
+      "gloss": "stalks"
+    },
+    {
+      "word": "fikwa",
+      "gloss": "whistle"
+    },
+    {
+      "word": "gaga",
+      "gloss": "tree"
+    },
+    {
+      "word": "gwagwa",
+      "gloss": "back"
+    },
+    {
+      "word": "təha",
+      "gloss": "to beat, hit"
+    },
+    {
+      "word": "hwada",
+      "gloss": "wind"
+    },
+    {
+      "word": "tiya",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "slɨsla",
+      "gloss": "egg"
+    },
+    {
+      "word": "jiɓa",
+      "gloss": "tribe"
+    },
+    {
+      "word": "kəda",
+      "gloss": "dog"
+    },
+    {
+      "word": "kwala",
+      "gloss": "to refuse"
+    },
+    {
+      "word": "dala",
+      "gloss": "sauce"
+    },
+    {
+      "word": "daməŋa",
+      "gloss": "his brother"
+    },
+    {
+      "word": "mbula",
+      "gloss": "tamarind"
+    },
+    {
+      "word": "nawa",
+      "gloss": "goat"
+    },
+    {
+      "word": "ndəda",
+      "gloss": "to disgust"
+    },
+    {
+      "word": "ndza",
+      "gloss": "to be seated"
+    },
+    {
+      "word": "njəwe",
+      "gloss": "fly"
+    },
+    {
+      "word": "ŋə",
+      "gloss": "to say"
+    },
+    {
+      "word": "ŋgəla",
+      "gloss": "to defend"
+    },
+    {
+      "word": "ŋgwada",
+      "gloss": "to attach"
+    },
+    {
+      "word": "paraka",
+      "gloss": "light"
+    },
+    {
+      "word": "kara",
+      "gloss": "fire"
+    },
+    {
+      "word": "samata",
+      "gloss": "broom"
+    },
+    {
+      "word": "shishe",
+      "gloss": "shade"
+    },
+    {
+      "word": "sladawa",
+      "gloss": "first wife"
+    },
+    {
+      "word": "taka",
+      "gloss": "thorn"
+    },
+    {
+      "word": "tsəɓa",
+      "gloss": "to kneel"
+    },
+    {
+      "word": "zufa",
+      "gloss": "to drown"
+    },
+    {
+      "word": "vule",
+      "gloss": "spoon"
+    },
+    {
+      "word": "dəwa",
+      "gloss": "young girl"
+    },
+    {
+      "word": "kaya",
+      "gloss": "house"
+    },
+    {
+      "word": "zada",
+      "gloss": "pestle"
+    },
+    {
+      "word": "zhene",
+      "gloss": "ladle"
+    },
+    {
+      "word": "zlagwa",
+      "gloss": "wing"
+    }
+  ]
+}

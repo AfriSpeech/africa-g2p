@@ -1,0 +1,216 @@
+{
+  "code": "gej",
+  "name": "Gen-Mina",
+  "country": "Togo",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 53",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ɖ": "ɖ",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "l",
+    "x": "x",
+    "ɣ": "ɣ",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "̃": "˜"
+  },
+  "tones": null,
+  "notes": "Hartell uses /y/ for IPA /j/. Nasalization indicated by tilde on vowels (Ṽ, except /e/ or /o/). Phoneme /l/ corresponds to both 'l' and 'r'.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "ɖ",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "ɣ",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ama",
+      "gloss": "vegetable"
+    },
+    {
+      "word": "ebo",
+      "gloss": "amulet"
+    },
+    {
+      "word": "eco",
+      "gloss": "funeral"
+    },
+    {
+      "word": "edã",
+      "gloss": "snake"
+    },
+    {
+      "word": "aɖi",
+      "gloss": "soap"
+    },
+    {
+      "word": "ege",
+      "gloss": "beard"
+    },
+    {
+      "word": "mɛle",
+      "gloss": "boat"
+    },
+    {
+      "word": "efu",
+      "gloss": "fur"
+    },
+    {
+      "word": "ege",
+      "gloss": "beard"
+    },
+    {
+      "word": "agba",
+      "gloss": "to charge"
+    },
+    {
+      "word": "ɣetri",
+      "gloss": "moon"
+    },
+    {
+      "word": "eha",
+      "gloss": "pig"
+    },
+    {
+      "word": "exa",
+      "gloss": "broom"
+    },
+    {
+      "word": "aɖi",
+      "gloss": "soap"
+    },
+    {
+      "word": "eje",
+      "gloss": "salt"
+    },
+    {
+      "word": "ekɔ",
+      "gloss": "sand"
+    },
+    {
+      "word": "ekpe",
+      "gloss": "rock"
+    },
+    {
+      "word": "lã",
+      "gloss": "meat"
+    },
+    {
+      "word": "ama",
+      "gloss": "vegetable"
+    },
+    {
+      "word": "enu",
+      "gloss": "mouth"
+    },
+    {
+      "word": "enyi",
+      "gloss": "ox"
+    },
+    {
+      "word": "aŋu",
+      "gloss": "thorn"
+    },
+    {
+      "word": "ebo",
+      "gloss": "amulet"
+    },
+    {
+      "word": "esɔ",
+      "gloss": "horse"
+    },
+    {
+      "word": "epu",
+      "gloss": "bone"
+    },
+    {
+      "word": "ajre",
+      "gloss": "quarrel"
+    },
+    {
+      "word": "esɔ",
+      "gloss": "horse"
+    },
+    {
+      "word": "eto",
+      "gloss": "ear"
+    },
+    {
+      "word": "efu",
+      "gloss": "fur"
+    },
+    {
+      "word": "eve",
+      "gloss": "two"
+    },
+    {
+      "word": "ewɔ",
+      "gloss": "flour"
+    },
+    {
+      "word": "aya",
+      "gloss": "comb"
+    },
+    {
+      "word": "ezi",
+      "gloss": "seat"
+    }
+  ]
+}

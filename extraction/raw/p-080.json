@@ -1,0 +1,237 @@
+{
+  "page": 80,
+  "is_language_page": true,
+  "language": "Luganda",
+  "iso639_3": "lug",
+  "country": "Uganda",
+  "family": "Bantu",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent",
+    "falling": "circumflex accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "g",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "abantu",
+      "gloss": "men"
+    },
+    {
+      "word": "bajja",
+      "gloss": "they came"
+    },
+    {
+      "word": "chakula",
+      "gloss": "food"
+    },
+    {
+      "word": "dda",
+      "gloss": "to return"
+    },
+    {
+      "word": "ekifo",
+      "gloss": "place"
+    },
+    {
+      "word": "gobya",
+      "gloss": "to be sent away"
+    },
+    {
+      "word": "ekintu",
+      "gloss": "thing"
+    },
+    {
+      "word": "jagala",
+      "gloss": "to want"
+    },
+    {
+      "word": "kukula",
+      "gloss": "to grow"
+    },
+    {
+      "word": "laba",
+      "gloss": "to see"
+    },
+    {
+      "word": "musota",
+      "gloss": "snake"
+    },
+    {
+      "word": "ente",
+      "gloss": "cow"
+    },
+    {
+      "word": "amannya",
+      "gloss": "names"
+    },
+    {
+      "word": "ensoŋa",
+      "gloss": "reason"
+    },
+    {
+      "word": "omwana",
+      "gloss": "child"
+    },
+    {
+      "word": "pa-",
+      "gloss": "[locative]"
+    },
+    {
+      "word": "emiti",
+      "gloss": "trees"
+    },
+    {
+      "word": "obuntu",
+      "gloss": "existence"
+    },
+    {
+      "word": "omuddugavu",
+      "gloss": "black"
+    },
+    {
+      "word": "kuwola",
+      "gloss": "to borrow"
+    },
+    {
+      "word": "eryato",
+      "gloss": "boat"
+    },
+    {
+      "word": "zoono",
+      "gloss": "yesterday"
+    }
+  ],
+  "num_graphemes": 22,
+  "confidence": "high",
+  "notes": "Hartell lists /y/ for grapheme 'y', transcribed here as IPA /j/. Page also notes consonant gemination /C:/ -> CC, vowel lengthening /V:/ -> VV, labialization (bw, pw, mw), and palatalization (by, py, my)."
+}

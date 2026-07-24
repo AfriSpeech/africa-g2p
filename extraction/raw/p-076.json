@@ -1,0 +1,233 @@
+{
+  "page": 76,
+  "is_language_page": true,
+  "language": "Lingala",
+  "iso639_3": "lin",
+  "country": "Congo",
+  "family": "Bantoid, Bantu C.40",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ng",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "tatà",
+      "gloss": "father"
+    },
+    {
+      "word": "ebelé",
+      "gloss": "much,many"
+    },
+    {
+      "word": "lodéfa",
+      "gloss": "to borrow"
+    },
+    {
+      "word": "ebelé",
+      "gloss": "much,many"
+    },
+    {
+      "word": "pɛtɛ pɛtɛ",
+      "gloss": "two, soft"
+    },
+    {
+      "word": "fufû",
+      "gloss": "manioc flour"
+    },
+    {
+      "word": "nini",
+      "gloss": "what?"
+    },
+    {
+      "word": "kàké",
+      "gloss": "thunder"
+    },
+    {
+      "word": "lilàla",
+      "gloss": "orange"
+    },
+    {
+      "word": "mamà",
+      "gloss": "mother"
+    },
+    {
+      "word": "nina",
+      "gloss": "electric fish"
+    },
+    {
+      "word": "nyòka",
+      "gloss": "snake"
+    },
+    {
+      "word": "ngonga",
+      "gloss": "clock"
+    },
+    {
+      "word": "lokolo",
+      "gloss": "leg"
+    },
+    {
+      "word": "mbɔngɔ",
+      "gloss": "silver"
+    },
+    {
+      "word": "pipà",
+      "gloss": "thickness"
+    },
+    {
+      "word": "sasapi",
+      "gloss": "immediately"
+    },
+    {
+      "word": "tatà",
+      "gloss": "father"
+    },
+    {
+      "word": "kulutu",
+      "gloss": "oldest child"
+    },
+    {
+      "word": "wanà",
+      "gloss": "there"
+    },
+    {
+      "word": "mayɛ́ɛ",
+      "gloss": "intelligence"
+    },
+    {
+      "word": "zolo",
+      "gloss": "nose"
+    }
+  ],
+  "num_graphemes": 22,
+  "confidence": "high",
+  "notes": "Converted Hartell /y/ to IPA /j/."
+}

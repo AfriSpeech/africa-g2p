@@ -1,0 +1,214 @@
+{
+  "code": "ybb",
+  "name": "Yemba",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, Bamileke",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 144",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "p",
+    "t": "t",
+    "ts": "ts",
+    "c": "c",
+    "j": "ɟ",
+    "k": "k",
+    "g": "ɡ",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "pf": "p͡f",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "sh": "ʃ",
+    "z": "z",
+    "l": "l",
+    "d": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "ʉ": "ʉ",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent (V́)",
+    "low-high": "acute accent on doubled vowel (V́V́)",
+    "mid": "macron (V̄)",
+    "high-low": "acute accent (V́V)",
+    "falling (mid-low)": "unmarked",
+    "low": "unmarked"
+  },
+  "notes": "Hartell uses /j/ for the voiced palatal plosive/affricate (transcribed as IPA /ɟ/). Glottal stop /?/ maps to apostrophe /'/. Notes mention Labialization (kw, fw, sw), Palatalization (ky, gy, sy), and Aspiration (dh, fh, sh).",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "pf",
+    "s",
+    "sh",
+    "t",
+    "ts",
+    "u",
+    "ʉ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "apa",
+      "gloss": "sack, bag"
+    },
+    {
+      "word": "mbīŋ",
+      "gloss": "forest"
+    },
+    {
+      "word": "lɛcuŋ",
+      "gloss": "knot"
+    },
+    {
+      "word": "ndu",
+      "gloss": "swamp"
+    },
+    {
+      "word": "efɔŋ",
+      "gloss": "ox"
+    },
+    {
+      "word": "ntē",
+      "gloss": "whip"
+    },
+    {
+      "word": "fok",
+      "gloss": "co-wife"
+    },
+    {
+      "word": "gégá",
+      "gloss": "butterfly"
+    },
+    {
+      "word": "hak",
+      "gloss": "brandy"
+    },
+    {
+      "word": "ŋkiŋ",
+      "gloss": "granary"
+    },
+    {
+      "word": "ajyɔk",
+      "gloss": "broom"
+    },
+    {
+      "word": "kaŋ",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "lela",
+      "gloss": "to cry"
+    },
+    {
+      "word": "méŋ",
+      "gloss": "child"
+    },
+    {
+      "word": "nu",
+      "gloss": "sun"
+    },
+    {
+      "word": "paŋ",
+      "gloss": "red"
+    },
+    {
+      "word": "ńzó",
+      "gloss": "to buy"
+    },
+    {
+      "word": "ńzóp",
+      "gloss": "to sing"
+    },
+    {
+      "word": "lepap",
+      "gloss": "wing"
+    },
+    {
+      "word": "lepfo",
+      "gloss": "anthill"
+    },
+    {
+      "word": "séŋ",
+      "gloss": "bird"
+    },
+    {
+      "word": "ashū",
+      "gloss": "hoe"
+    },
+    {
+      "word": "tó",
+      "gloss": "stone"
+    },
+    {
+      "word": "tsɔ̀",
+      "gloss": "partridge"
+    },
+    {
+      "word": "tug",
+      "gloss": "basket"
+    },
+    {
+      "word": "agʉ̄",
+      "gloss": "calabash scraper"
+    },
+    {
+      "word": "vok",
+      "gloss": "bird"
+    },
+    {
+      "word": "mewɛ",
+      "gloss": "hail"
+    },
+    {
+      "word": "ayíŋ",
+      "gloss": "termite"
+    },
+    {
+      "word": "azi",
+      "gloss": "shelf"
+    },
+    {
+      "word": "pu'",
+      "gloss": "knife"
+    }
+  ]
+}

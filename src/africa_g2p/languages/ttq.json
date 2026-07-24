@@ -1,0 +1,215 @@
+{
+  "code": "ttq",
+  "name": "Tamajaq",
+  "country": "Niger",
+  "family": "Afro-Asiatic, Berber",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 129",
+  "confidence": "high",
+  "graphemes": {
+    "b": "b",
+    "t": "t",
+    "ṭ": "tˤ",
+    "d": "d",
+    "ḍ": "dˤ",
+    "c": "tʃ",
+    "k": "k",
+    "g": "ɡ",
+    "q": "q",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "f": "f",
+    "s": "s",
+    "z": "z",
+    "ẓ": "zˤ",
+    "sh": "ʃ",
+    "j": "ʒ",
+    "kh": "x",
+    "gh": "ɣ",
+    "l": "l",
+    "ḷ": "lˤ",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ə": "ə",
+    "ă": "ă",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "VV": "Vː"
+  },
+  "diacritics": {
+    "̣": "ˤ",
+    "̆": "̆"
+  },
+  "tones": null,
+  "notes": "The header misclassifies Tamajaq as 'Afro-Asiatic, Chadic' instead of Berber. Emphatic consonants with underdots (t, d, z, l) share base phoneme symbols in the printed table (e.g. /t/ for t, ṭ) but are expanded to pharyngealized IPA equivalents (/tˤ/, /dˤ/, /zˤ/, /lˤ/) in the output dataset. The note specifies this orthography represents Tayərt (Aïr) and Tawəllamət, Tanoənnəg dialects.",
+  "alphabet": [
+    "a",
+    "ă",
+    "b",
+    "c",
+    "d",
+    "ḍ",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kh",
+    "l",
+    "ḷ",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "q",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "ṭ",
+    "u",
+    "w",
+    "y",
+    "z",
+    "ẓ"
+  ],
+  "examples": [
+    {
+      "word": "aman",
+      "gloss": "water"
+    },
+    {
+      "word": "adăr",
+      "gloss": "foot"
+    },
+    {
+      "word": "barar",
+      "gloss": "boy"
+    },
+    {
+      "word": "cət",
+      "gloss": "eye"
+    },
+    {
+      "word": "dəgh",
+      "gloss": "inside"
+    },
+    {
+      "word": "aḍad",
+      "gloss": "finger"
+    },
+    {
+      "word": "ekew",
+      "gloss": "root"
+    },
+    {
+      "word": "əbdəd",
+      "gloss": "to get up"
+    },
+    {
+      "word": "fad",
+      "gloss": "thirst"
+    },
+    {
+      "word": "garăt",
+      "gloss": "rabies"
+    },
+    {
+      "word": "eghatem",
+      "gloss": "shoe"
+    },
+    {
+      "word": "əhulel",
+      "gloss": "young donkey"
+    },
+    {
+      "word": "igi",
+      "gloss": "action"
+    },
+    {
+      "word": "aljannat",
+      "gloss": "paradise"
+    },
+    {
+      "word": "karaḍ",
+      "gloss": "three"
+    },
+    {
+      "word": "akh",
+      "gloss": "milk"
+    },
+    {
+      "word": "allagh",
+      "gloss": "spear"
+    },
+    {
+      "word": "aḷam",
+      "gloss": "camel"
+    },
+    {
+      "word": "manna",
+      "gloss": "drought"
+    },
+    {
+      "word": "nakkuje",
+      "gloss": "me, I"
+    },
+    {
+      "word": "cəŋwet",
+      "gloss": "tree bark"
+    },
+    {
+      "word": "eqqad",
+      "gloss": "conflagration"
+    },
+    {
+      "word": "azor",
+      "gloss": "broom"
+    },
+    {
+      "word": "rurəd",
+      "gloss": "to precipitate"
+    },
+    {
+      "word": "esəli",
+      "gloss": "limestone"
+    },
+    {
+      "word": "shəgni",
+      "gloss": "indigo dye"
+    },
+    {
+      "word": "tele",
+      "gloss": "lamb"
+    },
+    {
+      "word": "teṭle",
+      "gloss": "eating"
+    },
+    {
+      "word": "uragh",
+      "gloss": "gold"
+    },
+    {
+      "word": "wər",
+      "gloss": "[negation]"
+    },
+    {
+      "word": "yel",
+      "gloss": "hay"
+    },
+    {
+      "word": "eẓad",
+      "gloss": "grinding"
+    }
+  ]
+}

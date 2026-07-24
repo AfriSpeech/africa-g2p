@@ -1,0 +1,279 @@
+{
+  "page": 123,
+  "is_language_page": true,
+  "language": "Themne",
+  "iso639_3": "tem",
+  "country": "Sierra Leone",
+  "family": "West Atlantic",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "θ",
+      "grapheme": "th"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "ʌ",
+      "grapheme": "ʌ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": "˥˩"
+    },
+    {
+      "mark": "U+030C",
+      "role": "rising tone",
+      "ipa": "˩˥"
+    }
+  ],
+  "tones": {
+    "high": "acute accent (´)",
+    "low": "grave accent (`)",
+    "falling": "circumflex (^)",
+    "rising": "caron (ˇ)"
+  },
+  "alphabet": [
+    "a",
+    "ʌ",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "ə",
+    "f",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "th",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "alangba",
+      "gloss": "young men"
+    },
+    {
+      "word": "ʌnʌthi",
+      "gloss": "rice pudding"
+    },
+    {
+      "word": "bep",
+      "gloss": "spoon"
+    },
+    {
+      "word": "dis",
+      "gloss": "yesterday"
+    },
+    {
+      "word": "kel",
+      "gloss": "brightly"
+    },
+    {
+      "word": "ɛmɛs",
+      "gloss": "eggs"
+    },
+    {
+      "word": "kəl",
+      "gloss": "round"
+    },
+    {
+      "word": "fɔf",
+      "gloss": "to speak"
+    },
+    {
+      "word": "gbɛngbɛ",
+      "gloss": "pepper"
+    },
+    {
+      "word": "hakɛ",
+      "gloss": "sin"
+    },
+    {
+      "word": "di",
+      "gloss": "to eat"
+    },
+    {
+      "word": "kek",
+      "gloss": "beard"
+    },
+    {
+      "word": "lɔli",
+      "gloss": "ripe"
+    },
+    {
+      "word": "mɛm",
+      "gloss": "to try"
+    },
+    {
+      "word": "nɛnɛ",
+      "gloss": "cockroach"
+    },
+    {
+      "word": "ŋaŋ",
+      "gloss": "to bite"
+    },
+    {
+      "word": "roto",
+      "gloss": "toad"
+    },
+    {
+      "word": "nɔkɔ",
+      "gloss": "dirt"
+    },
+    {
+      "word": "pɔl",
+      "gloss": "January"
+    },
+    {
+      "word": "ret",
+      "gloss": "sun, day"
+    },
+    {
+      "word": "sas",
+      "gloss": "three"
+    },
+    {
+      "word": "tot",
+      "gloss": "fly"
+    },
+    {
+      "word": "thith",
+      "gloss": "to choose"
+    },
+    {
+      "word": "yufu",
+      "gloss": "owl"
+    },
+    {
+      "word": "wol",
+      "gloss": "February"
+    },
+    {
+      "word": "yanɛ",
+      "gloss": "to wash hands"
+    }
+  ],
+  "num_graphemes": 26,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for palatal approximant, converted to IPA /j/. /gb/ converted to co-articulated plosive /ɡ͡b/."
+}

@@ -1,0 +1,219 @@
+{
+  "code": "tuq",
+  "name": "Teda",
+  "country": "Chad",
+  "family": "Nilo-Saharan",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 130",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ḍ": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "zz": "z",
+    "š": "ʃ",
+    "ç": "ç",
+    "g̣": "ɣ",
+    "r": "r",
+    "l": "l",
+    "ḷ": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ẹ": "ɪ",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "ə": "ə",
+    "u": "u",
+    "ọ": "ʊ",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Hartell uses underdots (ẹ, ọ) to represent near-close lax vowels /ɪ/ and /ʊ/. Underdots on consonants (ḍ, ḷ, g̣) represent positional/phonetic variants. /y/ mapped to IPA /j/. /c/ mapped to IPA /tʃ/ and /j/ to /dʒ/.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ẹ",
+    "ɛ",
+    "ə",
+    "f",
+    "g",
+    "g̣",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ọ",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "š",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "agaso",
+      "gloss": "saber"
+    },
+    {
+      "word": "bibi",
+      "gloss": "to spoil"
+    },
+    {
+      "word": "comor",
+      "gloss": "rabbit"
+    },
+    {
+      "word": "dobono",
+      "gloss": "song"
+    },
+    {
+      "word": "ebeo",
+      "gloss": "needle"
+    },
+    {
+      "word": "dẹlẹ",
+      "gloss": "single person"
+    },
+    {
+      "word": "kɛyɛkɛyɛ",
+      "gloss": "softly"
+    },
+    {
+      "word": "ərdi",
+      "gloss": "enemy"
+    },
+    {
+      "word": "furaka",
+      "gloss": "button"
+    },
+    {
+      "word": "gudu",
+      "gloss": "necklace"
+    },
+    {
+      "word": "yag̣abi",
+      "gloss": "house"
+    },
+    {
+      "word": "herdar",
+      "gloss": "harvest"
+    },
+    {
+      "word": "tihi",
+      "gloss": "cinder"
+    },
+    {
+      "word": "jirede",
+      "gloss": "honest"
+    },
+    {
+      "word": "kara",
+      "gloss": "hippopotamus"
+    },
+    {
+      "word": "lowi",
+      "gloss": "knife"
+    },
+    {
+      "word": "muzoar",
+      "gloss": "thorny"
+    },
+    {
+      "word": "nomɛ",
+      "gloss": "region"
+    },
+    {
+      "word": "nyeli",
+      "gloss": "to rain"
+    },
+    {
+      "word": "ŋuši",
+      "gloss": "yesterday"
+    },
+    {
+      "word": "owoni",
+      "gloss": "community"
+    },
+    {
+      "word": "ọməri",
+      "gloss": "husband"
+    },
+    {
+      "word": "ɔsɔl",
+      "gloss": "silver bracelet"
+    },
+    {
+      "word": "tɔpar",
+      "gloss": "to sharpen"
+    },
+    {
+      "word": "ran\"r",
+      "gloss": "to lift up"
+    },
+    {
+      "word": "saḷka",
+      "gloss": "chain"
+    },
+    {
+      "word": "šɛr",
+      "gloss": "debt"
+    },
+    {
+      "word": "tiḍt",
+      "gloss": "to go"
+    },
+    {
+      "word": "budi",
+      "gloss": "much, many"
+    },
+    {
+      "word": "ovəri",
+      "gloss": "straw"
+    },
+    {
+      "word": "wɔbo",
+      "gloss": "air"
+    },
+    {
+      "word": "yɛr",
+      "gloss": "to give"
+    },
+    {
+      "word": "zamar",
+      "gloss": "to come back"
+    }
+  ]
+}

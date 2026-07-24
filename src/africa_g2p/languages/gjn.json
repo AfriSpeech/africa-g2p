@@ -1,0 +1,190 @@
+{
+  "code": "gjn",
+  "name": "Gonja",
+  "country": "Ghana",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 54",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng": "ŋ",
+    "f": "f",
+    "s": "s",
+    "z": "z",
+    "sh": "ʃ",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent"
+  },
+  "notes": "/ŋ/ is written as 'ng' before vowels (ngV) and 'n' elsewhere. Both /e/ and /ɛ/ map to 'e', and both /o/ and /ɔ/ map to 'o'. Vowel length /V:/ is represented by doubling the vowel symbol (VV).",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "kana",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "basa",
+      "gloss": "people"
+    },
+    {
+      "word": "chobi",
+      "gloss": "shrewd"
+    },
+    {
+      "word": "di",
+      "gloss": "to sleep"
+    },
+    {
+      "word": "ebi",
+      "gloss": "child"
+    },
+    {
+      "word": "efupo",
+      "gloss": "coward"
+    },
+    {
+      "word": "gado",
+      "gloss": "bed"
+    },
+    {
+      "word": "gbiri",
+      "gloss": "to beat"
+    },
+    {
+      "word": "hali",
+      "gloss": "until"
+    },
+    {
+      "word": "fimbi",
+      "gloss": "small"
+    },
+    {
+      "word": "jata",
+      "gloss": "leopard"
+    },
+    {
+      "word": "kaboe",
+      "gloss": "goat"
+    },
+    {
+      "word": "kpuruku",
+      "gloss": "pig"
+    },
+    {
+      "word": "longii",
+      "gloss": "drum"
+    },
+    {
+      "word": "momo",
+      "gloss": "crow"
+    },
+    {
+      "word": "nite",
+      "gloss": "to walk"
+    },
+    {
+      "word": "nyifu",
+      "gloss": "flour"
+    },
+    {
+      "word": "ngbene",
+      "gloss": "heart"
+    },
+    {
+      "word": "osofo",
+      "gloss": "priest"
+    },
+    {
+      "word": "pante",
+      "gloss": "cricket"
+    },
+    {
+      "word": "bure",
+      "gloss": "ant"
+    },
+    {
+      "word": "saye",
+      "gloss": "yellow"
+    },
+    {
+      "word": "ashera",
+      "gloss": "tobacco"
+    },
+    {
+      "word": "tuta",
+      "gloss": "flag"
+    },
+    {
+      "word": "nuu",
+      "gloss": "to drink"
+    },
+    {
+      "word": "wankpan",
+      "gloss": "hyena"
+    },
+    {
+      "word": "aya",
+      "gloss": "leg"
+    },
+    {
+      "word": "zabela",
+      "gloss": "red"
+    }
+  ]
+}

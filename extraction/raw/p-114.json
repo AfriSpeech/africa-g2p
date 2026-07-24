@@ -1,0 +1,253 @@
+{
+  "page": 114,
+  "is_language_page": true,
+  "language": "Songhoy",
+  "iso639_3": "khq",
+  "country": "Mali",
+  "family": "Nilo-Saharan",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "t͡ʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "š"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "š",
+    "t",
+    "u",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "Agali",
+      "gloss": "man's name"
+    },
+    {
+      "word": "baba",
+      "gloss": "father"
+    },
+    {
+      "word": "ciiri",
+      "gloss": "salt"
+    },
+    {
+      "word": "deene",
+      "gloss": "tongue"
+    },
+    {
+      "word": "ize",
+      "gloss": "son"
+    },
+    {
+      "word": "faari",
+      "gloss": "ricefield"
+    },
+    {
+      "word": "gaasu",
+      "gloss": "calabash"
+    },
+    {
+      "word": "hari",
+      "gloss": "water"
+    },
+    {
+      "word": "ize",
+      "gloss": "son"
+    },
+    {
+      "word": "jiiri",
+      "gloss": "year"
+    },
+    {
+      "word": "koyra",
+      "gloss": "village"
+    },
+    {
+      "word": "lati",
+      "gloss": "flute"
+    },
+    {
+      "word": "moo",
+      "gloss": "ricefield"
+    },
+    {
+      "word": "nongu",
+      "gloss": "part, place"
+    },
+    {
+      "word": "nya",
+      "gloss": "mother"
+    },
+    {
+      "word": "ŋa",
+      "gloss": "to eat"
+    },
+    {
+      "word": "hommo",
+      "gloss": "sorghum"
+    },
+    {
+      "word": "pakupaku",
+      "gloss": "moped"
+    },
+    {
+      "word": "ramata",
+      "gloss": "woman's name"
+    },
+    {
+      "word": "senni",
+      "gloss": "word"
+    },
+    {
+      "word": "šanbu",
+      "gloss": "weaving trade"
+    },
+    {
+      "word": "tuuri",
+      "gloss": "tree"
+    },
+    {
+      "word": "turyan",
+      "gloss": "braiding"
+    },
+    {
+      "word": "waaru",
+      "gloss": "fissure"
+    },
+    {
+      "word": "yoo",
+      "gloss": "camel"
+    },
+    {
+      "word": "zuru",
+      "gloss": "to run"
+    }
+  ],
+  "num_graphemes": 26,
+  "confidence": "high",
+  "notes": "Hartell /y/ mapped to IPA /j/. Phoneme /p/ occurs in borrowed words only. Long vowels /V:/ represented orthographically by doubling the vowel symbol (VV). Nasalized vowels /Ṽ/ represented by Vn. Prenasalization is noted as: mb, nd, nt, ng, nj. Note that the example column in the original printed source contains 'ize' (son) under both 'e' and 'i'."
+}

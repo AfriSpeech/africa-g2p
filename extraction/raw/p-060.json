@@ -1,0 +1,334 @@
+{
+  "page": 60,
+  "is_language_page": true,
+  "language": "Hausa",
+  "iso639_3": "hau",
+  "country": "Nigeria",
+  "family": "Afro-Asiatic, Chadic",
+  "graphemes": [
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ɗ"
+    },
+    {
+      "phoneme": "ts",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "kʼ",
+      "grapheme": "ƙ"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "fʲ",
+      "grapheme": "fy"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "ʔj",
+      "grapheme": "'y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "aː",
+      "grapheme": "ā"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0101",
+      "role": "vowel length",
+      "ipa": "ː"
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "ā",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "f",
+    "fy",
+    "g",
+    "gw",
+    "gy",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kw",
+    "ky",
+    "ƙ",
+    "ƙw",
+    "ƙy",
+    "l",
+    "m",
+    "n",
+    "o",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "ts",
+    "u",
+    "w",
+    "y",
+    "'y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "al'ada",
+      "gloss": "custom"
+    },
+    {
+      "word": "kāsuwa",
+      "gloss": "market"
+    },
+    {
+      "word": "baba",
+      "gloss": "daddy"
+    },
+    {
+      "word": "ɓace",
+      "gloss": "lost"
+    },
+    {
+      "word": "cika",
+      "gloss": "full"
+    },
+    {
+      "word": "doya",
+      "gloss": "yam"
+    },
+    {
+      "word": "ɗaya",
+      "gloss": "one"
+    },
+    {
+      "word": "keke",
+      "gloss": "machine"
+    },
+    {
+      "word": "fansa",
+      "gloss": "redemption"
+    },
+    {
+      "word": "fyance",
+      "gloss": "to snatch away"
+    },
+    {
+      "word": "gobe",
+      "gloss": "tomorrow"
+    },
+    {
+      "word": "gwanda",
+      "gloss": "pawpaw"
+    },
+    {
+      "word": "gyaɗa",
+      "gloss": "groundnuts"
+    },
+    {
+      "word": "haske",
+      "gloss": "light"
+    },
+    {
+      "word": "ilimi",
+      "gloss": "knowledge"
+    },
+    {
+      "word": "jiki",
+      "gloss": "body"
+    },
+    {
+      "word": "kāsuwa",
+      "gloss": "market"
+    },
+    {
+      "word": "kwai",
+      "gloss": "egg"
+    },
+    {
+      "word": "kyan",
+      "gloss": "beauty"
+    },
+    {
+      "word": "ƙaƙa?",
+      "gloss": "how?"
+    },
+    {
+      "word": "ƙwarai",
+      "gloss": "exceedingly"
+    },
+    {
+      "word": "ƙyale",
+      "gloss": "to ignore"
+    },
+    {
+      "word": "likita",
+      "gloss": "doctor"
+    },
+    {
+      "word": "mama",
+      "gloss": "mother"
+    },
+    {
+      "word": "nama",
+      "gloss": "meat"
+    },
+    {
+      "word": "nono",
+      "gloss": "buttermilk"
+    },
+    {
+      "word": "riba",
+      "gloss": "profit"
+    },
+    {
+      "word": "sata",
+      "gloss": "to steal"
+    },
+    {
+      "word": "shaida",
+      "gloss": "witness"
+    },
+    {
+      "word": "tambaya",
+      "gloss": "question"
+    },
+    {
+      "word": "tsarki",
+      "gloss": "holiness"
+    },
+    {
+      "word": "uba",
+      "gloss": "father"
+    },
+    {
+      "word": "wuka",
+      "gloss": "knife"
+    },
+    {
+      "word": "yan",
+      "gloss": "today"
+    },
+    {
+      "word": "'ya'ya",
+      "gloss": "offspring"
+    },
+    {
+      "word": "zobe",
+      "gloss": "ring"
+    },
+    {
+      "word": "al'ada",
+      "gloss": "custom"
+    }
+  ],
+  "num_graphemes": 37,
+  "confidence": "high",
+  "notes": "Macron ā represents long vowel /aː/, written only when meaning is not obvious. Glottalized y ('y) transcribed as /ʔj/. Labialization (kw, gw, ƙw) and palatalization (ky, gy, ƙy) digraphs are included in the official alphabet list."
+}

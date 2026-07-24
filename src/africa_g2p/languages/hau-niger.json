@@ -1,0 +1,244 @@
+{
+  "code": "hau-niger",
+  "name": "Hausa",
+  "country": "Niger",
+  "family": "Afro-Asiatic, Chadic",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 59",
+  "confidence": "high",
+  "graphemes": {
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "ts": "ts",
+    "c": "c",
+    "k": "k",
+    "g": "ɡ",
+    "kw": "kʷ",
+    "gw": "ɡʷ",
+    "ky": "kʲ",
+    "gy": "ɡʲ",
+    "ƙ": "kʼ",
+    "ƙw": "kʼʷ",
+    "ƙy": "kʼʲ",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "s": "s",
+    "z": "z",
+    "sh": "ʃ",
+    "zh": "ʒ",
+    "h": "h",
+    "f": "hʷ",
+    "fy": "hʲ",
+    "l": "l",
+    "r": "r",
+    "ř": "ɽ",
+    "w": "w",
+    "y": "j",
+    "ƴ": "ʔj",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "VV": "Vː"
+  },
+  "diacritics": {},
+  "tones": {},
+  "notes": "Hartell lists /hw/ -> 'f', /hy/ -> 'fy', /ɽ/ -> 'ř' (r with bar/tilde) and glottalized y -> 'ƴ' (or hooked y). Grapheme 'p' appears in examples for loanwords ('paci') but is omitted from the official 36-grapheme count.",
+  "alphabet": [
+    "'",
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "f",
+    "fy",
+    "g",
+    "gw",
+    "gy",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kw",
+    "ky",
+    "ƙ",
+    "ƙw",
+    "ƙy",
+    "l",
+    "m",
+    "n",
+    "o",
+    "r",
+    "ř",
+    "s",
+    "sh",
+    "t",
+    "ts",
+    "u",
+    "w",
+    "y",
+    "ƴ",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ma'aikaci",
+      "gloss": "worker"
+    },
+    {
+      "word": "akuya",
+      "gloss": "goat"
+    },
+    {
+      "word": "baki",
+      "gloss": "mouth"
+    },
+    {
+      "word": "ɓarawo",
+      "gloss": "thief"
+    },
+    {
+      "word": "caca",
+      "gloss": "game of chance"
+    },
+    {
+      "word": "doki",
+      "gloss": "horse"
+    },
+    {
+      "word": "ɗaki",
+      "gloss": "house"
+    },
+    {
+      "word": "kunne",
+      "gloss": "ear"
+    },
+    {
+      "word": "fata",
+      "gloss": "skin"
+    },
+    {
+      "word": "fyacewa",
+      "gloss": "to blow one's nose"
+    },
+    {
+      "word": "gona",
+      "gloss": "field"
+    },
+    {
+      "word": "gwadawa",
+      "gloss": "to show"
+    },
+    {
+      "word": "gyaɗa",
+      "gloss": "groundnut"
+    },
+    {
+      "word": "haki",
+      "gloss": "grass"
+    },
+    {
+      "word": "ido",
+      "gloss": "eye"
+    },
+    {
+      "word": "jiki",
+      "gloss": "body"
+    },
+    {
+      "word": "kasuwa",
+      "gloss": "market"
+    },
+    {
+      "word": "akwati",
+      "gloss": "trunk, crate"
+    },
+    {
+      "word": "kyauta",
+      "gloss": "gift"
+    },
+    {
+      "word": "ƙato",
+      "gloss": "lively"
+    },
+    {
+      "word": "ƙwacewa",
+      "gloss": "to pull out"
+    },
+    {
+      "word": "ƙyalewa",
+      "gloss": "to be quiet"
+    },
+    {
+      "word": "littahi",
+      "gloss": "book"
+    },
+    {
+      "word": "makaho",
+      "gloss": "blind"
+    },
+    {
+      "word": "nono",
+      "gloss": "milk"
+    },
+    {
+      "word": "goshi",
+      "gloss": "forehead"
+    },
+    {
+      "word": "paci",
+      "gloss": "mending"
+    },
+    {
+      "word": "rubutu",
+      "gloss": "writing"
+    },
+    {
+      "word": "ruwa",
+      "gloss": "water"
+    },
+    {
+      "word": "saniya",
+      "gloss": "cow"
+    },
+    {
+      "word": "shuni",
+      "gloss": "indigo dye"
+    },
+    {
+      "word": "talauci",
+      "gloss": "poverty"
+    },
+    {
+      "word": "hatsi",
+      "gloss": "millet"
+    },
+    {
+      "word": "hutu",
+      "gloss": "vacation"
+    },
+    {
+      "word": "wahala",
+      "gloss": "suffering"
+    },
+    {
+      "word": "yaro",
+      "gloss": "child"
+    },
+    {
+      "word": "yaya",
+      "gloss": "fruit (pl)"
+    },
+    {
+      "word": "zahi",
+      "gloss": "heat"
+    }
+  ]
+}

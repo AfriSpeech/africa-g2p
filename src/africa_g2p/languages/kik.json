@@ -1,0 +1,167 @@
+{
+  "code": "kik",
+  "name": "Kikuyu",
+  "country": "Kenya",
+  "family": "Bantu",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 66",
+  "confidence": "high",
+  "graphemes": {
+    "t": "t",
+    "k": "k",
+    "m": "m",
+    "mb": "mb",
+    "n": "n",
+    "nd": "nd",
+    "ny": "ɲ",
+    "nj": "ɲɟ",
+    "ng'": "ŋ",
+    "ng": "ŋɡ",
+    "c": "ʃ",
+    "th": "ð",
+    "b": "β",
+    "g": "ɣ",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ĩ": "e",
+    "e": "ɛ",
+    "a": "a",
+    "u": "u",
+    "ũ": "o",
+    "o": "ɔ"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "/V:/ -> VV indicates long vowels are written with doubled vowel graphemes. The tilde diacritic in ĩ and ũ represents close-mid vowels /e/ and /o/, while unmarked e and o represent open-mid vowels /ɛ/ and /ɔ/.",
+  "alphabet": [
+    "a",
+    "b",
+    "mb",
+    "c",
+    "nd",
+    "e",
+    "g",
+    "ng",
+    "ng'",
+    "h",
+    "i",
+    "ĩ",
+    "nj",
+    "k",
+    "m",
+    "n",
+    "ny",
+    "o",
+    "ũ",
+    "r",
+    "t",
+    "th",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "tara",
+      "gloss": "to count"
+    },
+    {
+      "word": "baba",
+      "gloss": "father"
+    },
+    {
+      "word": "mbembe",
+      "gloss": "maize"
+    },
+    {
+      "word": "cũcũ",
+      "gloss": "grandmother"
+    },
+    {
+      "word": "nduma",
+      "gloss": "darkness"
+    },
+    {
+      "word": "wega",
+      "gloss": "goodness"
+    },
+    {
+      "word": "guka",
+      "gloss": "grandfather"
+    },
+    {
+      "word": "ngingo",
+      "gloss": "neck"
+    },
+    {
+      "word": "ng'ombe",
+      "gloss": "cow"
+    },
+    {
+      "word": "haha",
+      "gloss": "here"
+    },
+    {
+      "word": "hiti",
+      "gloss": "hyena"
+    },
+    {
+      "word": "rĩĩtwa",
+      "gloss": "name"
+    },
+    {
+      "word": "njata",
+      "gloss": "star"
+    },
+    {
+      "word": "kĩndũ",
+      "gloss": "something"
+    },
+    {
+      "word": "mũndũ",
+      "gloss": "someone"
+    },
+    {
+      "word": "nene",
+      "gloss": "big"
+    },
+    {
+      "word": "nyingĩ",
+      "gloss": "a lot"
+    },
+    {
+      "word": "toro",
+      "gloss": "to sleep"
+    },
+    {
+      "word": "rũma",
+      "gloss": "to bite"
+    },
+    {
+      "word": "rora",
+      "gloss": "to look"
+    },
+    {
+      "word": "tara",
+      "gloss": "to count"
+    },
+    {
+      "word": "thutha",
+      "gloss": "behind"
+    },
+    {
+      "word": "ruga",
+      "gloss": "to cook"
+    },
+    {
+      "word": "wira",
+      "gloss": "to work"
+    },
+    {
+      "word": "ndaya",
+      "gloss": "long"
+    }
+  ]
+}

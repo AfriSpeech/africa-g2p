@@ -1,0 +1,312 @@
+{
+  "page": 28,
+  "is_language_page": true,
+  "language": "Anufɔ (Tchokossi)",
+  "iso639_3": "cko",
+  "country": "Togo",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "sa",
+      "gloss": "to draw water"
+    },
+    {
+      "word": "bisa",
+      "gloss": "to ask"
+    },
+    {
+      "word": "caa",
+      "gloss": "dog"
+    },
+    {
+      "word": "diedie",
+      "gloss": "knife"
+    },
+    {
+      "word": "bue",
+      "gloss": "half"
+    },
+    {
+      "word": "buɛ",
+      "gloss": "sheep"
+    },
+    {
+      "word": "fɛmɛ",
+      "gloss": "chief"
+    },
+    {
+      "word": "gise",
+      "gloss": "cotton"
+    },
+    {
+      "word": "gbagba",
+      "gloss": "sandal"
+    },
+    {
+      "word": "hun",
+      "gloss": "husband"
+    },
+    {
+      "word": "bi",
+      "gloss": "ripe"
+    },
+    {
+      "word": "jojɔ",
+      "gloss": "to talk"
+    },
+    {
+      "word": "kɛrɛ",
+      "gloss": "to write"
+    },
+    {
+      "word": "kpien",
+      "gloss": "old"
+    },
+    {
+      "word": "lolo",
+      "gloss": "shade"
+    },
+    {
+      "word": "ma",
+      "gloss": "to give"
+    },
+    {
+      "word": "na",
+      "gloss": "then"
+    },
+    {
+      "word": "nya",
+      "gloss": "to have"
+    },
+    {
+      "word": "ŋa",
+      "gloss": "to say"
+    },
+    {
+      "word": "ŋma",
+      "gloss": "who?"
+    },
+    {
+      "word": "nzo",
+      "gloss": "seven"
+    },
+    {
+      "word": "nɔnɔ",
+      "gloss": "milk"
+    },
+    {
+      "word": "pui",
+      "gloss": "nothing"
+    },
+    {
+      "word": "bara",
+      "gloss": "woman"
+    },
+    {
+      "word": "si",
+      "gloss": "to know"
+    },
+    {
+      "word": "fiti",
+      "gloss": "to make a hole"
+    },
+    {
+      "word": "ju",
+      "gloss": "to arrive"
+    },
+    {
+      "word": "nvɔrɛ",
+      "gloss": "termite"
+    },
+    {
+      "word": "awuru",
+      "gloss": "house"
+    },
+    {
+      "word": "yandi",
+      "gloss": "to yawn"
+    },
+    {
+      "word": "nzɛn",
+      "gloss": "if"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "Hartell's /y/ converted to IPA /j/. Labialization and palatalization are written as vocalic sequences. Vowels can be lengthened (VV) or nasalized (Vn, except for /e/ or /o/)."
+}

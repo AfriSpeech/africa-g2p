@@ -1,0 +1,241 @@
+{
+  "code": "lgg",
+  "name": "Lugbara",
+  "country": "Uganda",
+  "family": "Central Sudanic",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 74",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "'b": "ɓ",
+    "t": "t",
+    "d": "d",
+    "'d": "ɗ",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ä": "ɨ",
+    "ɩ": "ɪ",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "ʊ": "ʊ",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent"
+  },
+  "notes": "Hartell's /y/ converted to IPA /j/. Phoneme /ɨ/ maps to grapheme 'ä'. The phoneme table renders /ŋ/ as 'ng' in the grapheme column, while the alphabet lists 'ŋ'.",
+  "alphabet": [
+    "a",
+    "ä",
+    "b",
+    "'b",
+    "c",
+    "d",
+    "'d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "ata",
+      "gloss": "father"
+    },
+    {
+      "word": "mārí",
+      "gloss": "debt"
+    },
+    {
+      "word": "bà",
+      "gloss": "good"
+    },
+    {
+      "word": "'ba",
+      "gloss": "person"
+    },
+    {
+      "word": "cucu",
+      "gloss": "saliva"
+    },
+    {
+      "word": "dà",
+      "gloss": "to throw away"
+    },
+    {
+      "word": "'da",
+      "gloss": "there"
+    },
+    {
+      "word": "ètú",
+      "gloss": "sun"
+    },
+    {
+      "word": "ɛlɛ",
+      "gloss": "to exchange"
+    },
+    {
+      "word": "fu",
+      "gloss": "to kill"
+    },
+    {
+      "word": "gu",
+      "gloss": "to laugh"
+    },
+    {
+      "word": "gbà",
+      "gloss": "to beat"
+    },
+    {
+      "word": "òhelú",
+      "gloss": "golden-crested crane"
+    },
+    {
+      "word": "tri",
+      "gloss": "to rub on"
+    },
+    {
+      "word": "trɩ",
+      "gloss": "to curse"
+    },
+    {
+      "word": "jó",
+      "gloss": "house"
+    },
+    {
+      "word": "òku",
+      "gloss": "woman"
+    },
+    {
+      "word": "kpò",
+      "gloss": "to knock"
+    },
+    {
+      "word": "eli",
+      "gloss": "year"
+    },
+    {
+      "word": "òmú",
+      "gloss": "guest"
+    },
+    {
+      "word": "nì",
+      "gloss": "to know"
+    },
+    {
+      "word": "nyɔ̀",
+      "gloss": "to break"
+    },
+    {
+      "word": "ògúŋá",
+      "gloss": "throne"
+    },
+    {
+      "word": "ògù",
+      "gloss": "to steal"
+    },
+    {
+      "word": "lò",
+      "gloss": "to harvest"
+    },
+    {
+      "word": "pè",
+      "gloss": "to choose"
+    },
+    {
+      "word": "àrà",
+      "gloss": "python"
+    },
+    {
+      "word": "sa",
+      "gloss": "to plant"
+    },
+    {
+      "word": "tù",
+      "gloss": "much"
+    },
+    {
+      "word": "rú",
+      "gloss": "name"
+    },
+    {
+      "word": "tʊ",
+      "gloss": "to kick"
+    },
+    {
+      "word": "và",
+      "gloss": "to understand"
+    },
+    {
+      "word": "èwá",
+      "gloss": "elephant"
+    },
+    {
+      "word": "ɛyíŋá",
+      "gloss": "crocodile"
+    },
+    {
+      "word": "èzɔ̄",
+      "gloss": "pig"
+    },
+    {
+      "word": "a'u",
+      "gloss": "to yawn"
+    }
+  ]
+}

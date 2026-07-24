@@ -1,0 +1,227 @@
+{
+  "page": 44,
+  "is_language_page": true,
+  "language": "Ewondo",
+  "iso639_3": "ewo",
+  "country": "Cameroon",
+  "family": "Bantu, A.70",
+  "graphemes": [
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "unmarked",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "afúb",
+      "gloss": "field"
+    },
+    {
+      "word": "bəbonde",
+      "gloss": "relatives"
+    },
+    {
+      "word": "díbi",
+      "gloss": "dawn"
+    },
+    {
+      "word": "ésíá",
+      "gloss": "father"
+    },
+    {
+      "word": "bələ",
+      "gloss": "to have"
+    },
+    {
+      "word": "fón",
+      "gloss": "corn"
+    },
+    {
+      "word": "dúgan",
+      "gloss": "to travel"
+    },
+    {
+      "word": "lígi",
+      "gloss": "to remain"
+    },
+    {
+      "word": "kəkáa",
+      "gloss": "cocoa"
+    },
+    {
+      "word": "lóbɔ",
+      "gloss": "to bite, chew"
+    },
+    {
+      "word": "món",
+      "gloss": "child"
+    },
+    {
+      "word": "náŋ",
+      "gloss": "to grow"
+    },
+    {
+      "word": "otoŋ",
+      "gloss": "spring"
+    },
+    {
+      "word": "olún",
+      "gloss": "anger"
+    },
+    {
+      "word": "kóbɔ",
+      "gloss": "to talk"
+    },
+    {
+      "word": "sóbɔ",
+      "gloss": "soap"
+    },
+    {
+      "word": "tábə",
+      "gloss": "to stop"
+    },
+    {
+      "word": "túb",
+      "gloss": "to flee"
+    },
+    {
+      "word": "viá",
+      "gloss": "mushroom"
+    },
+    {
+      "word": "wé",
+      "gloss": "honey"
+    },
+    {
+      "word": "yágələ",
+      "gloss": "to teach"
+    },
+    {
+      "word": "zəg",
+      "gloss": "pineapple"
+    }
+  ],
+  "num_graphemes": 22,
+  "confidence": "high",
+  "notes": "Hartell notation /y/ converted to IPA /j/."
+}

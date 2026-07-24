@@ -1,0 +1,313 @@
+{
+  "page": 86,
+  "is_language_page": true,
+  "language": "Metta (Menemo)",
+  "iso639_3": "mwe",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, Momo",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "ɨ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+030C",
+      "role": "rising tone",
+      "ipa": "˩˥"
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "acute (´)",
+    "mid": "macron (¯)",
+    "central": "unmarked",
+    "low": "grave (`)",
+    "rising": "caron (ˇ)",
+    "falling": "circumflex (ˆ)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gh",
+    "i",
+    "ɨ",
+    "j",
+    "k",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "Tàd",
+      "gloss": "market day"
+    },
+    {
+      "word": "bón",
+      "gloss": "children"
+    },
+    {
+      "word": "còm",
+      "gloss": "fine, good"
+    },
+    {
+      "word": "ndàb",
+      "gloss": "thread"
+    },
+    {
+      "word": "pè",
+      "gloss": "to arrive"
+    },
+    {
+      "word": "bə̂d",
+      "gloss": "people"
+    },
+    {
+      "word": "ɨfê",
+      "gloss": "face"
+    },
+    {
+      "word": "ngub",
+      "gloss": "fowl"
+    },
+    {
+      "word": "ɨgháb",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "dì",
+      "gloss": "cry"
+    },
+    {
+      "word": "vɨ́",
+      "gloss": "palm nut"
+    },
+    {
+      "word": "jàm",
+      "gloss": "axe"
+    },
+    {
+      "word": "kywɨ̀",
+      "gloss": "maize"
+    },
+    {
+      "word": "kwèm",
+      "gloss": "a dance"
+    },
+    {
+      "word": "mban",
+      "gloss": "nail"
+    },
+    {
+      "word": "nyâm",
+      "gloss": "animal"
+    },
+    {
+      "word": "ŋgòm",
+      "gloss": "plantain"
+    },
+    {
+      "word": "gôb",
+      "gloss": "skin"
+    },
+    {
+      "word": "bɔ́n",
+      "gloss": "children"
+    },
+    {
+      "word": "pà'",
+      "gloss": "cloud"
+    },
+    {
+      "word": "wūrī",
+      "gloss": "again"
+    },
+    {
+      "word": "sá'",
+      "gloss": "needle"
+    },
+    {
+      "word": "tɔ'",
+      "gloss": "palace"
+    },
+    {
+      "word": "bú",
+      "gloss": "dog"
+    },
+    {
+      "word": "vɨ́",
+      "gloss": "palm nut"
+    },
+    {
+      "word": "kwèm",
+      "gloss": "dance"
+    },
+    {
+      "word": "ə̄yî",
+      "gloss": "woman"
+    },
+    {
+      "word": "zon",
+      "gloss": "to buy"
+    },
+    {
+      "word": "ka'",
+      "gloss": "cricket"
+    }
+  ],
+  "num_graphemes": 29,
+  "confidence": "high",
+  "notes": "Hartell symbol /y/ converted to IPA /j/. Central tone is unmarked. Secondary articulation combinations noted in source: labialization (gw), palatalization (gy), labialization and palatalization (gyw)."
+}

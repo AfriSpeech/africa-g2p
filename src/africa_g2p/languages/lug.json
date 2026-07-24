@@ -1,0 +1,157 @@
+{
+  "code": "lug",
+  "name": "Luganda",
+  "country": "Uganda",
+  "family": "Bantu",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 80",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "v": "v",
+    "z": "z",
+    "l": "l",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent",
+    "falling": "circumflex accent"
+  },
+  "notes": "Hartell lists /y/ for grapheme 'y', transcribed here as IPA /j/. Page also notes consonant gemination /C:/ -> CC, vowel lengthening /V:/ -> VV, labialization (bw, pw, mw), and palatalization (by, py, my).",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "g",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "abantu",
+      "gloss": "men"
+    },
+    {
+      "word": "bajja",
+      "gloss": "they came"
+    },
+    {
+      "word": "chakula",
+      "gloss": "food"
+    },
+    {
+      "word": "dda",
+      "gloss": "to return"
+    },
+    {
+      "word": "ekifo",
+      "gloss": "place"
+    },
+    {
+      "word": "gobya",
+      "gloss": "to be sent away"
+    },
+    {
+      "word": "ekintu",
+      "gloss": "thing"
+    },
+    {
+      "word": "jagala",
+      "gloss": "to want"
+    },
+    {
+      "word": "kukula",
+      "gloss": "to grow"
+    },
+    {
+      "word": "laba",
+      "gloss": "to see"
+    },
+    {
+      "word": "musota",
+      "gloss": "snake"
+    },
+    {
+      "word": "ente",
+      "gloss": "cow"
+    },
+    {
+      "word": "amannya",
+      "gloss": "names"
+    },
+    {
+      "word": "ensoŋa",
+      "gloss": "reason"
+    },
+    {
+      "word": "omwana",
+      "gloss": "child"
+    },
+    {
+      "word": "pa-",
+      "gloss": "[locative]"
+    },
+    {
+      "word": "emiti",
+      "gloss": "trees"
+    },
+    {
+      "word": "obuntu",
+      "gloss": "existence"
+    },
+    {
+      "word": "omuddugavu",
+      "gloss": "black"
+    },
+    {
+      "word": "kuwola",
+      "gloss": "to borrow"
+    },
+    {
+      "word": "eryato",
+      "gloss": "boat"
+    },
+    {
+      "word": "zoono",
+      "gloss": "yesterday"
+    }
+  ]
+}

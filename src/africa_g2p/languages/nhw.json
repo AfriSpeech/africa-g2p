@@ -1,0 +1,212 @@
+{
+  "code": "nhw",
+  "name": "Bèŋ (Ngain)",
+  "country": "Côte d'Ivoire",
+  "family": "Southern Mande",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 103",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "c",
+    "j": "ɟ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "h": "h",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̂": "˥˩",
+    "̌": "˩˥",
+    "̄": "˧˩"
+  },
+  "tones": {
+    "high": "acute",
+    "mid": "unmarked",
+    "low": "grave",
+    "high-low": "circumflex",
+    "low-high": "caron",
+    "mid-low": "macron"
+  },
+  "notes": "Phoneme /h/ is noted as occurring only in words of expression. Vowel length /V:/ is indicated by double vowels VV. Nasalization /Ṽ/ is indicated by digraph Vn (except after /e/ or /o/).",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "bábá",
+      "gloss": "sheep"
+    },
+    {
+      "word": "blέŋ",
+      "gloss": "chair"
+    },
+    {
+      "word": "céŋ",
+      "gloss": "fur"
+    },
+    {
+      "word": "dòwɛ̀ŋ",
+      "gloss": "okra"
+    },
+    {
+      "word": "gbéné",
+      "gloss": "manioc"
+    },
+    {
+      "word": "klέ",
+      "gloss": "sack"
+    },
+    {
+      "word": "fîtrân",
+      "gloss": "lamp"
+    },
+    {
+      "word": "glô",
+      "gloss": "canoe"
+    },
+    {
+      "word": "gbèŋ",
+      "gloss": "chin"
+    },
+    {
+      "word": "zìŋ",
+      "gloss": "fish"
+    },
+    {
+      "word": "jeŋ",
+      "gloss": "dog"
+    },
+    {
+      "word": "kòkô",
+      "gloss": "cola nut"
+    },
+    {
+      "word": "kpálέ",
+      "gloss": "indigenous hoe"
+    },
+    {
+      "word": "la",
+      "gloss": "rain"
+    },
+    {
+      "word": "mɔn",
+      "gloss": "month, moon"
+    },
+    {
+      "word": "láná",
+      "gloss": "leaf"
+    },
+    {
+      "word": "drònyí",
+      "gloss": "clothing"
+    },
+    {
+      "word": "ŋrun",
+      "gloss": "head"
+    },
+    {
+      "word": "àŋŋmô",
+      "gloss": "hyena"
+    },
+    {
+      "word": "lòlo",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "wɔ",
+      "gloss": "arm"
+    },
+    {
+      "word": "pέŋ",
+      "gloss": "mortar"
+    },
+    {
+      "word": "yrí",
+      "gloss": "tree"
+    },
+    {
+      "word": "sìèŋ",
+      "gloss": "bird"
+    },
+    {
+      "word": "tróŋ",
+      "gloss": "ear"
+    },
+    {
+      "word": "dü",
+      "gloss": "knife"
+    },
+    {
+      "word": "wálέ",
+      "gloss": "yam"
+    },
+    {
+      "word": "vɔnŋ",
+      "gloss": "mound"
+    },
+    {
+      "word": "yí",
+      "gloss": "water"
+    },
+    {
+      "word": "zǒ",
+      "gloss": "ox"
+    }
+  ]
+}

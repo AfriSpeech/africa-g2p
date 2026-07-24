@@ -1,0 +1,227 @@
+{
+  "code": "gfe",
+  "name": "Kpɛlɛwoo",
+  "country": "Guinea",
+  "family": "Mande",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 55",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "j": "ɟ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "kw": "kʷ",
+    "gw": "ɡʷ",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "m": "m",
+    "n": "n",
+    "nw": "nʷ",
+    "ɲ": "ɲ",
+    "ŋ": "ŋ",
+    "ə": "ə",
+    "a": "a",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "ɠ": "ɣ",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "hw": "hʷ",
+    "w": "w",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": {},
+  "notes": "Hartell writes phoneme /dy/ mapped to grapheme 'j' (rendered as IPA /ɟ/). Hartell writes phoneme /nh/ mapped to grapheme 'ŋ' (rendered as IPA /ŋ/). The grapheme 'ɠ' corresponds to phoneme /ɣ/ in the table. The number of graphemes in the print is truncated at the right margin, but counting the alphabet entries yields 35.",
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "d",
+    "e",
+    "ɛ",
+    "ə",
+    "f",
+    "g",
+    "ɠ",
+    "gb",
+    "gw",
+    "h",
+    "hw",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "nw",
+    "ɲ",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "laga",
+      "gloss": "wind"
+    },
+    {
+      "word": "bɔlɔ",
+      "gloss": "earth"
+    },
+    {
+      "word": "ɓooli",
+      "gloss": "goat"
+    },
+    {
+      "word": "dɔɔ",
+      "gloss": "to light"
+    },
+    {
+      "word": "negi",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "pɛlɛ",
+      "gloss": "house"
+    },
+    {
+      "word": "kalə",
+      "gloss": "raphia palm"
+    },
+    {
+      "word": "fɛsɛ-fɛsɛ",
+      "gloss": "refuse, trash"
+    },
+    {
+      "word": "galə",
+      "gloss": "sparrowhawk"
+    },
+    {
+      "word": "kogɔ",
+      "gloss": "calabash"
+    },
+    {
+      "word": "gbea",
+      "gloss": "machete"
+    },
+    {
+      "word": "gwali",
+      "gloss": "courtyard"
+    },
+    {
+      "word": "helɛ",
+      "gloss": "welcome"
+    },
+    {
+      "word": "hweli",
+      "gloss": "to ask"
+    },
+    {
+      "word": "negi",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "jilɛ",
+      "gloss": "put aside"
+    },
+    {
+      "word": "kuna",
+      "gloss": "morter"
+    },
+    {
+      "word": "kpaolo",
+      "gloss": "bamboo"
+    },
+    {
+      "word": "kwei",
+      "gloss": "firewood"
+    },
+    {
+      "word": "laga",
+      "gloss": "wind"
+    },
+    {
+      "word": "mɔlɔ",
+      "gloss": "sack"
+    },
+    {
+      "word": "nulu",
+      "gloss": "smoke"
+    },
+    {
+      "word": "nwɔn",
+      "gloss": "fire"
+    },
+    {
+      "word": "ɲai",
+      "gloss": "in water"
+    },
+    {
+      "word": "ŋɔn",
+      "gloss": "fire"
+    },
+    {
+      "word": "tolo",
+      "gloss": "jealousy"
+    },
+    {
+      "word": "nɔwɔ",
+      "gloss": "market"
+    },
+    {
+      "word": "pələ",
+      "gloss": "game"
+    },
+    {
+      "word": "laran",
+      "gloss": "insult"
+    },
+    {
+      "word": "sinɛpolo",
+      "gloss": "old"
+    },
+    {
+      "word": "tɛɛ",
+      "gloss": "chicken"
+    },
+    {
+      "word": "pulu",
+      "gloss": "famine"
+    },
+    {
+      "word": "Veheli",
+      "gloss": "proper name"
+    },
+    {
+      "word": "wulɔ",
+      "gloss": "cooking oil"
+    },
+    {
+      "word": "zalo",
+      "gloss": "type of cricket"
+    }
+  ]
+}

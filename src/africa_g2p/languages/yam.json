@@ -1,0 +1,228 @@
+{
+  "code": "yam",
+  "name": "Yamba",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, North",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 142",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ts": "ts",
+    "dz": "dz",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "gh": "ɣ",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "ʉ": "ʉ",
+    "ə": "ə",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "unmarked",
+    "mid": "unmarked",
+    "low": "grave accent (`)",
+    "rising": "unmarked"
+  },
+  "notes": "Hartell notations mapped to standard IPA: /tʃ/ to tʃ, /dʒ/ to dʒ, /y/ to j, /?/ to ʔ. Tone marks include low tone indicated by grave accent.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "dz",
+    "e",
+    "ɛ",
+    "ə",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "ts",
+    "u",
+    "ʉ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "gâp",
+      "gloss": "to share"
+    },
+    {
+      "word": "ba",
+      "gloss": "two"
+    },
+    {
+      "word": "cok",
+      "gloss": "to remove"
+    },
+    {
+      "word": "dak",
+      "gloss": "chair"
+    },
+    {
+      "word": "dzèn",
+      "gloss": "to reach"
+    },
+    {
+      "word": "tes",
+      "gloss": "to stand"
+    },
+    {
+      "word": "bɛ̀s",
+      "gloss": "calabash"
+    },
+    {
+      "word": "dzəm",
+      "gloss": "to love"
+    },
+    {
+      "word": "fa",
+      "gloss": "to give"
+    },
+    {
+      "word": "gù",
+      "gloss": "to do"
+    },
+    {
+      "word": "gbɛ̀'",
+      "gloss": "to chop"
+    },
+    {
+      "word": "gham",
+      "gloss": "to shout"
+    },
+    {
+      "word": "hum",
+      "gloss": "ten"
+    },
+    {
+      "word": "mì",
+      "gloss": "neck"
+    },
+    {
+      "word": "jòŋ",
+      "gloss": "mistake"
+    },
+    {
+      "word": "kam",
+      "gloss": "crab"
+    },
+    {
+      "word": "kpe'",
+      "gloss": "meeting"
+    },
+    {
+      "word": "làk",
+      "gloss": "to pay"
+    },
+    {
+      "word": "ma",
+      "gloss": "mother"
+    },
+    {
+      "word": "nàm",
+      "gloss": "animal"
+    },
+    {
+      "word": "ŋam",
+      "gloss": "squeeze"
+    },
+    {
+      "word": "nto'",
+      "gloss": "palace"
+    },
+    {
+      "word": "mpì",
+      "gloss": "eagle"
+    },
+    {
+      "word": "ràk",
+      "gloss": "fish trap"
+    },
+    {
+      "word": "sòŋ",
+      "gloss": "cobra"
+    },
+    {
+      "word": "tàk",
+      "gloss": "snail"
+    },
+    {
+      "word": "ntsoŋ",
+      "gloss": "firewood"
+    },
+    {
+      "word": "yu",
+      "gloss": "things"
+    },
+    {
+      "word": "kʉ̀",
+      "gloss": "rope"
+    },
+    {
+      "word": "va",
+      "gloss": "how"
+    },
+    {
+      "word": "wà",
+      "gloss": "nothing"
+    },
+    {
+      "word": "yam",
+      "gloss": "large"
+    },
+    {
+      "word": "zòŋ",
+      "gloss": "tomorrow"
+    },
+    {
+      "word": "ku'",
+      "gloss": "cocoyam"
+    }
+  ]
+}

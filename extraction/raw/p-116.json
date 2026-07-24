@@ -1,0 +1,330 @@
+{
+  "page": 116,
+  "is_language_page": true,
+  "language": "Sissala",
+  "iso639_3": "sld",
+  "country": "Burkina Faso",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ɩ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "υ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "~"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "υ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "bala",
+      "gloss": "husband"
+    },
+    {
+      "word": "bul",
+      "gloss": "to speak"
+    },
+    {
+      "word": "ɓú",
+      "gloss": "to kill"
+    },
+    {
+      "word": "có",
+      "gloss": "to cook"
+    },
+    {
+      "word": "duŋ",
+      "gloss": "to sting"
+    },
+    {
+      "word": "ké",
+      "gloss": "this"
+    },
+    {
+      "word": "pé",
+      "gloss": "to help"
+    },
+    {
+      "word": "fɩela",
+      "gloss": "rest"
+    },
+    {
+      "word": "gerɔ",
+      "gloss": "cloth"
+    },
+    {
+      "word": "gbaŋa",
+      "gloss": "calabash"
+    },
+    {
+      "word": "háálɔ",
+      "gloss": "woman"
+    },
+    {
+      "word": "dí",
+      "gloss": "to eat"
+    },
+    {
+      "word": "tɩg",
+      "gloss": "to follow"
+    },
+    {
+      "word": "jaa",
+      "gloss": "house"
+    },
+    {
+      "word": "kéŋ",
+      "gloss": "to catch"
+    },
+    {
+      "word": "la",
+      "gloss": "to get"
+    },
+    {
+      "word": "mú",
+      "gloss": "to go"
+    },
+    {
+      "word": "namɩɛ",
+      "gloss": "meat"
+    },
+    {
+      "word": "nyɔ́ɔ́",
+      "gloss": "grass"
+    },
+    {
+      "word": "tuŋ",
+      "gloss": "to crunch"
+    },
+    {
+      "word": "ŋmaŋ",
+      "gloss": "okra"
+    },
+    {
+      "word": "có",
+      "gloss": "to like"
+    },
+    {
+      "word": "có",
+      "gloss": "to cook"
+    },
+    {
+      "word": "píɛ",
+      "gloss": "yams"
+    },
+    {
+      "word": "nire",
+      "gloss": "[faded]"
+    },
+    {
+      "word": "saa",
+      "gloss": "[faded]"
+    },
+    {
+      "word": "tuu",
+      "gloss": "tree"
+    },
+    {
+      "word": "bul",
+      "gloss": "to burst"
+    },
+    {
+      "word": "bul",
+      "gloss": "to talk"
+    },
+    {
+      "word": "váá",
+      "gloss": "dog"
+    },
+    {
+      "word": "wɛ",
+      "gloss": "to be painful"
+    },
+    {
+      "word": "yɔwɔ",
+      "gloss": "market"
+    },
+    {
+      "word": "zυ",
+      "gloss": "to enter"
+    }
+  ],
+  "num_graphemes": 33,
+  "confidence": "high",
+  "notes": "Hartell's /y/ is mapped to IPA /j/. /ɩ/ and /υ/ are mapped to IPA /ɪ/ and /ʊ/. ISO 639-3 code for Sissala in Burkina Faso is likely 'sld' (Tumulung Sisaala) or 'ssx' (Western Sisaala). Glosses for 'r nire' and 's saa' are partially unreadable/faded in the source print."
+}

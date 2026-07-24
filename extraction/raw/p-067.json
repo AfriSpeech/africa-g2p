@@ -1,0 +1,307 @@
+{
+  "page": 67,
+  "is_language_page": true,
+  "language": "Krio",
+  "iso639_3": "kri",
+  "country": "Sierra Leone",
+  "family": "Creole",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    },
+    {
+      "phoneme": "ai",
+      "grapheme": "ay"
+    },
+    {
+      "phoneme": "au",
+      "grapheme": "aw"
+    },
+    {
+      "phoneme": "ɔi",
+      "grapheme": "ɔy"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "aw",
+    "ay",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "o",
+    "ɔ",
+    "ɔy",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "wan",
+      "gloss": "one"
+    },
+    {
+      "word": "naw",
+      "gloss": "now"
+    },
+    {
+      "word": "fayn",
+      "gloss": "fine"
+    },
+    {
+      "word": "tebul",
+      "gloss": "table"
+    },
+    {
+      "word": "cham",
+      "gloss": "to chew"
+    },
+    {
+      "word": "fɔdɔm",
+      "gloss": "to fall down"
+    },
+    {
+      "word": "tek",
+      "gloss": "to take"
+    },
+    {
+      "word": "lek",
+      "gloss": "to like"
+    },
+    {
+      "word": "ɛlifant",
+      "gloss": "elephant"
+    },
+    {
+      "word": "gud",
+      "gloss": "good"
+    },
+    {
+      "word": "gbɛnte",
+      "gloss": "short"
+    },
+    {
+      "word": "pikin",
+      "gloss": "child"
+    },
+    {
+      "word": "jɛntri",
+      "gloss": "rich"
+    },
+    {
+      "word": "bɔku",
+      "gloss": "much"
+    },
+    {
+      "word": "akpata",
+      "gloss": "big, flat stone"
+    },
+    {
+      "word": "lili",
+      "gloss": "little"
+    },
+    {
+      "word": "makit",
+      "gloss": "market"
+    },
+    {
+      "word": "banana",
+      "gloss": "banana"
+    },
+    {
+      "word": "ɛng",
+      "gloss": "to hang"
+    },
+    {
+      "word": "got",
+      "gloss": "goat"
+    },
+    {
+      "word": "mɔt",
+      "gloss": "mouth"
+    },
+    {
+      "word": "bɔy",
+      "gloss": "boy"
+    },
+    {
+      "word": "kɔpo",
+      "gloss": "money"
+    },
+    {
+      "word": "arata",
+      "gloss": "rat"
+    },
+    {
+      "word": "misɛf",
+      "gloss": "myself"
+    },
+    {
+      "word": "kushɛ",
+      "gloss": "welcome"
+    },
+    {
+      "word": "dɔti",
+      "gloss": "dirty"
+    },
+    {
+      "word": "luk",
+      "gloss": "to look"
+    },
+    {
+      "word": "sɛvin",
+      "gloss": "seven"
+    },
+    {
+      "word": "wata",
+      "gloss": "water"
+    },
+    {
+      "word": "yabas",
+      "gloss": "onion"
+    },
+    {
+      "word": "sizin",
+      "gloss": "season"
+    }
+  ],
+  "num_graphemes": 32,
+  "confidence": "high",
+  "notes": "Converted Hartell notation /y/ to standard IPA /j/."
+}

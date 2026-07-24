@@ -1,0 +1,214 @@
+{
+  "code": "mzk",
+  "name": "Mambila",
+  "country": "Nigeria",
+  "family": "Bantoid, Mambiloid",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 95",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "r": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "mb": "mb",
+    "mv": "mv",
+    "n": "n",
+    "nd": "nd",
+    "nj": "ndʒ",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋg": "ŋɡ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "eh": "e",
+    "e": "ɛ",
+    "a": "a",
+    "u": "u",
+    "oh": "o",
+    "o": "ɔ",
+    "oo": "ə",
+    "kw": "kʷ",
+    "gw": "ɡʷ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩"
+  },
+  "tones": {
+    "1": "high (acute accent)",
+    "2": "unmarked",
+    "3": "unmarked",
+    "4": "low (grave accent)"
+  },
+  "notes": "Converted Hartell /y/ to IPA /j/. Transcribed vowel orthography mapping oo to IPA /ə/. Labialization kw/gw explicitly noted in page source. Vowel duration /V:/ rendered orthographically as double vowel VV with combined tones.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "eh",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ng",
+    "nj",
+    "ny",
+    "ŋ",
+    "ŋg",
+    "o",
+    "oh",
+    "oo",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "salé",
+      "gloss": "hot"
+    },
+    {
+      "word": "bo",
+      "gloss": "hole"
+    },
+    {
+      "word": "chèb",
+      "gloss": "melon"
+    },
+    {
+      "word": "dàb",
+      "gloss": "long"
+    },
+    {
+      "word": "kè",
+      "gloss": "mat"
+    },
+    {
+      "word": "fàl",
+      "gloss": "two"
+    },
+    {
+      "word": "gi",
+      "gloss": "to finish"
+    },
+    {
+      "word": "hin",
+      "gloss": "door"
+    },
+    {
+      "word": "kìn",
+      "gloss": "foreigner"
+    },
+    {
+      "word": "jeré",
+      "gloss": "pity, mercy"
+    },
+    {
+      "word": "kè",
+      "gloss": "mat"
+    },
+    {
+      "word": "lèl",
+      "gloss": "medicine"
+    },
+    {
+      "word": "nòmò",
+      "gloss": "water"
+    },
+    {
+      "word": "mbán",
+      "gloss": "breast"
+    },
+    {
+      "word": "mvulu",
+      "gloss": "brain"
+    },
+    {
+      "word": "non",
+      "gloss": "bird"
+    },
+    {
+      "word": "nde",
+      "gloss": "to go"
+    },
+    {
+      "word": "njaŋ",
+      "gloss": "guitar"
+    },
+    {
+      "word": "nyùm",
+      "gloss": "flour"
+    },
+    {
+      "word": "ngàb",
+      "gloss": "calabash"
+    },
+    {
+      "word": "kómó",
+      "gloss": "cooking oil"
+    },
+    {
+      "word": "toon",
+      "gloss": "elephant"
+    },
+    {
+      "word": "pe",
+      "gloss": "to cut"
+    },
+    {
+      "word": "furú",
+      "gloss": "to bury"
+    },
+    {
+      "word": "sér",
+      "gloss": "pounded yam"
+    },
+    {
+      "word": "tí",
+      "gloss": "hare"
+    },
+    {
+      "word": "bù",
+      "gloss": "knife"
+    },
+    {
+      "word": "vún",
+      "gloss": "hoe"
+    },
+    {
+      "word": "we",
+      "gloss": "fire"
+    },
+    {
+      "word": "yam",
+      "gloss": "to increase"
+    }
+  ]
+}

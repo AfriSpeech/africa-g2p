@@ -1,0 +1,305 @@
+{
+  "page": 92,
+  "is_language_page": true,
+  "language": "Muan",
+  "iso639_3": "mmo",
+  "country": "Côte d'Ivoire",
+  "family": "Southern Mande",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "bh"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "ɡʷ",
+      "grapheme": "gw"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [],
+  "tones": {
+    "high": "apostrophe before syllable ('M)",
+    "mid": "unmarked",
+    "low": "hyphen before syllable (-M)",
+    "glide": "equals sign before syllable (=M)",
+    "2d tone lower": "hyphen after syllable (M-)",
+    "2d tone higher": "apostrophe after syllable (M')"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "gw",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "'sa",
+      "gloss": "arch, bow"
+    },
+    {
+      "word": "bu",
+      "gloss": "grave"
+    },
+    {
+      "word": "bhlɛ",
+      "gloss": "rope"
+    },
+    {
+      "word": "can",
+      "gloss": "folktale"
+    },
+    {
+      "word": "du",
+      "gloss": "buffalo"
+    },
+    {
+      "word": "gbe",
+      "gloss": "son"
+    },
+    {
+      "word": "wɛ",
+      "gloss": "salt"
+    },
+    {
+      "word": "fe",
+      "gloss": "mound"
+    },
+    {
+      "word": "gu",
+      "gloss": "wildcat"
+    },
+    {
+      "word": "gbe",
+      "gloss": "son"
+    },
+    {
+      "word": "-gwa",
+      "gloss": "kind of tree"
+    },
+    {
+      "word": "zi",
+      "gloss": "path"
+    },
+    {
+      "word": "jan",
+      "gloss": "word"
+    },
+    {
+      "word": "kaa",
+      "gloss": "fish"
+    },
+    {
+      "word": "kpe",
+      "gloss": "chair"
+    },
+    {
+      "word": "kwa",
+      "gloss": "clay"
+    },
+    {
+      "word": "le",
+      "gloss": "woman"
+    },
+    {
+      "word": "maa",
+      "gloss": "chicken"
+    },
+    {
+      "word": "na",
+      "gloss": "wife"
+    },
+    {
+      "word": "'kong",
+      "gloss": "canoe"
+    },
+    {
+      "word": "zo",
+      "gloss": "lizard"
+    },
+    {
+      "word": "zɔ",
+      "gloss": "pick"
+    },
+    {
+      "word": "pɛ",
+      "gloss": "thing"
+    },
+    {
+      "word": "dri",
+      "gloss": "ox"
+    },
+    {
+      "word": "se",
+      "gloss": "palm nut"
+    },
+    {
+      "word": "'tɛ",
+      "gloss": "fire"
+    },
+    {
+      "word": "du",
+      "gloss": "buffalo"
+    },
+    {
+      "word": "-vɛ",
+      "gloss": "kind of tree"
+    },
+    {
+      "word": "wɛ",
+      "gloss": "salt"
+    },
+    {
+      "word": "ye",
+      "gloss": "work"
+    },
+    {
+      "word": "zɔ",
+      "gloss": "pick"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "Vn represents nasalized vowels except for /e/ and /o/. Phoneme /ɓ/ is written as 'bh' or 'm'. Phoneme /l/ is written as 'l', 'n', or 'r'."
+}

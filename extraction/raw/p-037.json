@@ -1,0 +1,311 @@
+{
+  "page": 37,
+  "is_language_page": true,
+  "language": "Doayo",
+  "iso639_3": "dow",
+  "country": "Cameroon",
+  "family": "Adamawa-Ubangi, Adamawa 4",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ɗ"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mi-high tone",
+      "ipa": "˦"
+    },
+    {
+      "mark": "U+030d",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mi-high": "macron",
+    "mid": "vertical tick / apostrophe",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "d",
+    "ɗ",
+    "ɛ",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "ɔ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "Adzi",
+      "gloss": "girl's name"
+    },
+    {
+      "word": "bilɛ",
+      "gloss": "granary"
+    },
+    {
+      "word": "ɓaŋko",
+      "gloss": "wild cherry tree"
+    },
+    {
+      "word": "dɛlɛ",
+      "gloss": "basket"
+    },
+    {
+      "word": "ɗaŋgo",
+      "gloss": "cactus"
+    },
+    {
+      "word": "ɛldɛlyɔ",
+      "gloss": "old woman"
+    },
+    {
+      "word": "esigyɔ",
+      "gloss": "to be standing"
+    },
+    {
+      "word": "furyɔ",
+      "gloss": "hoe"
+    },
+    {
+      "word": "gɔɔyɔ",
+      "gloss": "peanut"
+    },
+    {
+      "word": "gbɔnɔyɔ",
+      "gloss": "way, path"
+    },
+    {
+      "word": "hɛlɛ",
+      "gloss": "broom"
+    },
+    {
+      "word": "isyɔ",
+      "gloss": "goat"
+    },
+    {
+      "word": "kaayɔ",
+      "gloss": "dog"
+    },
+    {
+      "word": "kpaasɛ",
+      "gloss": "straw"
+    },
+    {
+      "word": "lɛŋko",
+      "gloss": "bone"
+    },
+    {
+      "word": "maato",
+      "gloss": "yam"
+    },
+    {
+      "word": "nɔɔsɛ",
+      "gloss": "bird"
+    },
+    {
+      "word": "daŋgo",
+      "gloss": "knife"
+    },
+    {
+      "word": "ɔksigyɔ",
+      "gloss": "to unite"
+    },
+    {
+      "word": "orɛ",
+      "gloss": "co-wife"
+    },
+    {
+      "word": "pɛɛzumyɔ",
+      "gloss": "donkey"
+    },
+    {
+      "word": "romɔ",
+      "gloss": "hare"
+    },
+    {
+      "word": "sɔɔlɛ",
+      "gloss": "stick"
+    },
+    {
+      "word": "tonɛ",
+      "gloss": "ear"
+    },
+    {
+      "word": "dutu",
+      "gloss": "fish"
+    },
+    {
+      "word": "vimryɔ",
+      "gloss": "twisted"
+    },
+    {
+      "word": "waayɔ",
+      "gloss": "child"
+    },
+    {
+      "word": "yaayɔ",
+      "gloss": "monkey"
+    },
+    {
+      "word": "zulɛ",
+      "gloss": "head"
+    }
+  ],
+  "num_graphemes": 29,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/, /6/ for /ɓ/, and hook-d for /ɗ/. Vowel length is indicated by vowel doubling (VV). Nasalization is indicated with tildes (Ṽ)."
+}

@@ -1,0 +1,301 @@
+{
+  "page": 31,
+  "is_language_page": true,
+  "language": "DAGBANI",
+  "iso639_3": "dag",
+  "country": "GHANA",
+  "family": "GUR",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "tʃ"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "dz"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "ɣ"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "ʃ"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "ʒ"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent",
+    "downstep": "exclamation mark"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "dz",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "p",
+    "s",
+    "t",
+    "tʃ",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ka",
+      "gloss": "to come"
+    },
+    {
+      "word": "baa",
+      "gloss": "dog"
+    },
+    {
+      "word": "duni",
+      "gloss": "knee"
+    },
+    {
+      "word": "dzahi",
+      "gloss": "twins"
+    },
+    {
+      "word": "yeli",
+      "gloss": "to say"
+    },
+    {
+      "word": "-fu",
+      "gloss": "[suffix]"
+    },
+    {
+      "word": "galli",
+      "gloss": "egg"
+    },
+    {
+      "word": "gbaŋ",
+      "gloss": "skin"
+    },
+    {
+      "word": "di",
+      "gloss": "to eat"
+    },
+    {
+      "word": "ka",
+      "gloss": "to come"
+    },
+    {
+      "word": "kpi",
+      "gloss": "to die"
+    },
+    {
+      "word": "ligri",
+      "gloss": "money"
+    },
+    {
+      "word": "mi",
+      "gloss": "to know"
+    },
+    {
+      "word": "nini",
+      "gloss": "eye"
+    },
+    {
+      "word": "nyɛe",
+      "gloss": "nose"
+    },
+    {
+      "word": "tiŋa",
+      "gloss": "ground"
+    },
+    {
+      "word": "ŋma",
+      "gloss": "to break"
+    },
+    {
+      "word": "doo",
+      "gloss": "man"
+    },
+    {
+      "word": "paga",
+      "gloss": "woman"
+    },
+    {
+      "word": "soli",
+      "gloss": "path"
+    },
+    {
+      "word": "ti",
+      "gloss": "to give"
+    },
+    {
+      "word": "tʃi",
+      "gloss": "wheat"
+    },
+    {
+      "word": "du",
+      "gloss": "house"
+    },
+    {
+      "word": "vieli",
+      "gloss": "beautiful"
+    },
+    {
+      "word": "wum",
+      "gloss": "to hear"
+    },
+    {
+      "word": "yuŋ",
+      "gloss": "night"
+    },
+    {
+      "word": "zugu",
+      "gloss": "head"
+    }
+  ],
+  "num_graphemes": 27,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/. /ɨ/ is written as barred i. Explicit note states: 'However, tone is not written.' Vowel length represented as /V:/ -> VV."
+}

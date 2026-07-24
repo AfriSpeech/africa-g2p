@@ -1,0 +1,296 @@
+{
+  "page": 138,
+  "is_language_page": true,
+  "language": "Kpelle",
+  "iso639_3": "xpe",
+  "country": "Liberia",
+  "family": "Mande",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "ɣ"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": "˥˩"
+    },
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "tones": {
+    "high": "acute",
+    "low": "grave",
+    "falling": "circumflex"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "ɣ",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "taa",
+      "gloss": "town"
+    },
+    {
+      "word": "pêbɛ",
+      "gloss": "raffia purse"
+    },
+    {
+      "word": "ɓɔrɔ",
+      "gloss": "bag"
+    },
+    {
+      "word": "kpôdo",
+      "gloss": "leprosy"
+    },
+    {
+      "word": "see",
+      "gloss": "to sit down"
+    },
+    {
+      "word": "tɛ́ɛ",
+      "gloss": "chicken"
+    },
+    {
+      "word": "fóŋ",
+      "gloss": "5 cents"
+    },
+    {
+      "word": "tíga",
+      "gloss": "to pick"
+    },
+    {
+      "word": "gbala",
+      "gloss": "to dry it"
+    },
+    {
+      "word": "ɣele",
+      "gloss": "sky"
+    },
+    {
+      "word": "sîi",
+      "gloss": "spider"
+    },
+    {
+      "word": "kula",
+      "gloss": "to go out"
+    },
+    {
+      "word": "kpàki",
+      "gloss": "loom"
+    },
+    {
+      "word": "leyi",
+      "gloss": "pot"
+    },
+    {
+      "word": "mɔ̃loŋ",
+      "gloss": "rice"
+    },
+    {
+      "word": "nĩ́ga",
+      "gloss": "cow"
+    },
+    {
+      "word": "ŋɛ̃ya",
+      "gloss": "sand"
+    },
+    {
+      "word": "soo",
+      "gloss": "horse"
+    },
+    {
+      "word": "kɔɔ",
+      "gloss": "log"
+    },
+    {
+      "word": "píli",
+      "gloss": "to jump"
+    },
+    {
+      "word": "pere",
+      "gloss": "path"
+    },
+    {
+      "word": "see",
+      "gloss": "to sit down"
+    },
+    {
+      "word": "too",
+      "gloss": "to fall"
+    },
+    {
+      "word": "kula",
+      "gloss": "to go out"
+    },
+    {
+      "word": "fɔ̃ṽɔ",
+      "gloss": "bee"
+    },
+    {
+      "word": "wála",
+      "gloss": "strong"
+    },
+    {
+      "word": "yá",
+      "gloss": "water"
+    },
+    {
+      "word": "lonzo",
+      "gloss": "hunter"
+    }
+  ],
+  "num_graphemes": 28,
+  "confidence": "high",
+  "notes": "Hartell /y/ mapped to IPA /j/. /V:/ indicates long vowels (orthographic digraphs like 'aa', 'ee') and /Ṽ/ indicates vowel nasalization (marked with tilde)."
+}

@@ -1,0 +1,282 @@
+{
+  "page": 25,
+  "is_language_page": true,
+  "language": "Bassar (N'tcham)",
+  "iso639_3": "bud",
+  "country": "Togo",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "eː",
+      "grapheme": "ee"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "oː",
+      "grapheme": "oo"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "ee",
+    "f",
+    "g",
+    "gb",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "oo",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "italandi",
+      "gloss": "but"
+    },
+    {
+      "word": "kibiki",
+      "gloss": "child"
+    },
+    {
+      "word": "ucaa",
+      "gloss": "blacksmith"
+    },
+    {
+      "word": "dakaa",
+      "gloss": "box"
+    },
+    {
+      "word": "ceeku",
+      "gloss": "axe"
+    },
+    {
+      "word": "fitila",
+      "gloss": "lamp"
+    },
+    {
+      "word": "kugɔtuu",
+      "gloss": "bathroom"
+    },
+    {
+      "word": "ugbïi",
+      "gloss": "panther"
+    },
+    {
+      "word": "idi",
+      "gloss": "millet"
+    },
+    {
+      "word": "kijiki",
+      "gloss": "knife"
+    },
+    {
+      "word": "kutuku",
+      "gloss": "sack"
+    },
+    {
+      "word": "ukpàan",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "ulantan",
+      "gloss": "monkey"
+    },
+    {
+      "word": "timool",
+      "gloss": "grass"
+    },
+    {
+      "word": "unaa",
+      "gloss": "cow"
+    },
+    {
+      "word": "kinyoŋ",
+      "gloss": "market"
+    },
+    {
+      "word": "ŋŋaan",
+      "gloss": "broom"
+    },
+    {
+      "word": "ŋŋmi",
+      "gloss": "fire"
+    },
+    {
+      "word": "anoo",
+      "gloss": "yams"
+    },
+    {
+      "word": "kɔlɔkɔlɔ",
+      "gloss": "turkey"
+    },
+    {
+      "word": "mpiin",
+      "gloss": "nail"
+    },
+    {
+      "word": "radioo",
+      "gloss": "radio"
+    },
+    {
+      "word": "sata",
+      "gloss": "skirt cloth"
+    },
+    {
+      "word": "kutuku",
+      "gloss": "sack"
+    },
+    {
+      "word": "kutuku",
+      "gloss": "sack"
+    },
+    {
+      "word": "kiwuŋ",
+      "gloss": "hare"
+    },
+    {
+      "word": "iyoo",
+      "gloss": "millet"
+    }
+  ],
+  "num_graphemes": 27,
+  "confidence": "high",
+  "notes": "Tone is written only on verbs and some verbal particles. Photocopied text notes 27 graphemes."
+}

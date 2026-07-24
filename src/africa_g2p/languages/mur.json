@@ -1,0 +1,180 @@
+{
+  "code": "mur",
+  "name": "Murle",
+  "country": "Sudan",
+  "family": "Surma, Nilo Saharan",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 93",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ṯ": "t̪",
+    "ḏ": "d̪",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "v": "v",
+    "z": "z",
+    "r": "r",
+    "l": "l",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ",
+    "VV": "ː"
+  },
+  "diacritics": {
+    "̱": "̪"
+  },
+  "tones": {
+    "note": "Tone is not written"
+  },
+  "notes": "Hartell's /ṯ/ and /ḏ/ represent dental plosives /t̪/ and /d̪/. Hartell's /y/ mapped to IPA /j/.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "ḏ",
+    "e",
+    "ɛ",
+    "g",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "t",
+    "ṯ",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "itat",
+      "gloss": "ear"
+    },
+    {
+      "word": "boc",
+      "gloss": "fish spear"
+    },
+    {
+      "word": "cin",
+      "gloss": "to see"
+    },
+    {
+      "word": "dila",
+      "gloss": "spear"
+    },
+    {
+      "word": "ḏoritot",
+      "gloss": "forest"
+    },
+    {
+      "word": "arek",
+      "gloss": "he puts"
+    },
+    {
+      "word": "gi",
+      "gloss": "thing"
+    },
+    {
+      "word": "bitɔ",
+      "gloss": "to go"
+    },
+    {
+      "word": "jin",
+      "gloss": "to ask"
+    },
+    {
+      "word": "ki",
+      "gloss": "mussel"
+    },
+    {
+      "word": "laan",
+      "gloss": "arrow"
+    },
+    {
+      "word": "maa",
+      "gloss": "lion"
+    },
+    {
+      "word": "naana",
+      "gloss": "I"
+    },
+    {
+      "word": "nyaan",
+      "gloss": "beer"
+    },
+    {
+      "word": "ŋaa",
+      "gloss": "woman"
+    },
+    {
+      "word": "ijo",
+      "gloss": "load"
+    },
+    {
+      "word": "dɔl",
+      "gloss": "children"
+    },
+    {
+      "word": "tɔɔk",
+      "gloss": "to chase"
+    },
+    {
+      "word": "pak",
+      "gloss": "to split"
+    },
+    {
+      "word": "ruk",
+      "gloss": "to beat"
+    },
+    {
+      "word": "taŋ",
+      "gloss": "cow"
+    },
+    {
+      "word": "ṯɔr",
+      "gloss": "only"
+    },
+    {
+      "word": "iju",
+      "gloss": "pot"
+    },
+    {
+      "word": "volɔŋ",
+      "gloss": "to lie"
+    },
+    {
+      "word": "walaak",
+      "gloss": "crow"
+    },
+    {
+      "word": "ziit",
+      "gloss": "metal"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "page": 7,
+  "is_language_page": true,
+  "language": "Angas",
+  "iso639_3": "anc",
+  "country": "Nigeria",
+  "family": "Chadic",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ɗ"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "dy"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ṇ"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʒ",
+      "grapheme": "ẓ"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "ḥ"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "unmarked",
+    "mid": "acute accent",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "dy",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "h",
+    "ḥ",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ṇ",
+    "ny",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "ẓ",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "mat",
+      "gloss": "women"
+    },
+    {
+      "word": "be",
+      "gloss": "to return"
+    },
+    {
+      "word": "ɓe",
+      "gloss": "[copula]"
+    },
+    {
+      "word": "cen",
+      "gloss": "hoe"
+    },
+    {
+      "word": "dondon",
+      "gloss": "yesterday"
+    },
+    {
+      "word": "ɗaka",
+      "gloss": "thus"
+    },
+    {
+      "word": "dyem",
+      "gloss": "child"
+    },
+    {
+      "word": "ke",
+      "gloss": "head"
+    },
+    {
+      "word": "pə",
+      "gloss": "place"
+    },
+    {
+      "word": "fi",
+      "gloss": "to winnow"
+    },
+    {
+      "word": "goməs",
+      "gloss": "men"
+    },
+    {
+      "word": "he",
+      "gloss": "seed"
+    },
+    {
+      "word": "hə",
+      "gloss": "goat"
+    },
+    {
+      "word": "fi",
+      "gloss": "to winnow"
+    },
+    {
+      "word": "jə",
+      "gloss": "to come"
+    },
+    {
+      "word": "ko",
+      "gloss": "and"
+    },
+    {
+      "word": "lu",
+      "gloss": "room"
+    },
+    {
+      "word": "mwa",
+      "gloss": "they"
+    },
+    {
+      "word": "ne",
+      "gloss": "to see"
+    },
+    {
+      "word": "ṇa",
+      "gloss": "me, I"
+    },
+    {
+      "word": "nyin",
+      "gloss": "to show"
+    },
+    {
+      "word": "po",
+      "gloss": "mouth"
+    },
+    {
+      "word": "par",
+      "gloss": "night"
+    },
+    {
+      "word": "ru",
+      "gloss": "to arrive"
+    },
+    {
+      "word": "sun",
+      "gloss": "to dream"
+    },
+    {
+      "word": "shəkɛt",
+      "gloss": "different"
+    },
+    {
+      "word": "tum",
+      "gloss": "to descend"
+    },
+    {
+      "word": "lu",
+      "gloss": "room"
+    },
+    {
+      "word": "vom",
+      "gloss": "person's name"
+    },
+    {
+      "word": "wok",
+      "gloss": "compound"
+    },
+    {
+      "word": "yən",
+      "gloss": "medicine"
+    },
+    {
+      "word": "zar",
+      "gloss": "clean"
+    },
+    {
+      "word": "ẓwal",
+      "gloss": "hill"
+    },
+    {
+      "word": "'as",
+      "gloss": "dog"
+    }
+  ],
+  "num_graphemes": 35,
+  "confidence": "high",
+  "notes": "Glottal stop phoneme /ʔ/ is orthographically represented by a preceding space or apostrophe. The IPA vowel /ɪ/ (rendered as /ɩ/ in Hartell) maps to orthographic ə. Hartell lists 35 graphemes in total."
+}

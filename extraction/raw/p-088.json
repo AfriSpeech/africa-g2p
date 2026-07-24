@@ -1,0 +1,335 @@
+{
+  "page": 88,
+  "is_language_page": true,
+  "language": "Adele",
+  "iso639_3": "ade",
+  "country": "Togo",
+  "family": "Niger-Congo",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "tʃ"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "dʒ"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ɩ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "ä"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ʊ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent (́)",
+    "low": "grave accent (̀)",
+    "falling": "circumflex accent (̂)"
+  },
+  "alphabet": [
+    "a",
+    "ä",
+    "b",
+    "d",
+    "dʒ",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "i",
+    "ɩ",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "tʃ",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "ada",
+      "gloss": "grandmother"
+    },
+    {
+      "word": "äri",
+      "gloss": "dust"
+    },
+    {
+      "word": "bilo",
+      "gloss": "sheep"
+    },
+    {
+      "word": "dì",
+      "gloss": "head"
+    },
+    {
+      "word": "dʒomî",
+      "gloss": "baboon"
+    },
+    {
+      "word": "eka",
+      "gloss": "red"
+    },
+    {
+      "word": "sɛsɛ",
+      "gloss": "slow"
+    },
+    {
+      "word": "fefe",
+      "gloss": "fast, rapid"
+    },
+    {
+      "word": "gúrè",
+      "gloss": "dove"
+    },
+    {
+      "word": "gbé",
+      "gloss": "fox"
+    },
+    {
+      "word": "ide",
+      "gloss": "rhinoceros"
+    },
+    {
+      "word": "ɩfɛ̀",
+      "gloss": "to run"
+    },
+    {
+      "word": "kágoré",
+      "gloss": "crocodile"
+    },
+    {
+      "word": "ɔkpá",
+      "gloss": "difficult"
+    },
+    {
+      "word": "lolu",
+      "gloss": "long"
+    },
+    {
+      "word": "moyí",
+      "gloss": "hyena"
+    },
+    {
+      "word": "inì",
+      "gloss": "snake"
+    },
+    {
+      "word": "nyí",
+      "gloss": "you (sg)"
+    },
+    {
+      "word": "laŋu",
+      "gloss": "honey"
+    },
+    {
+      "word": "ówá",
+      "gloss": "beer"
+    },
+    {
+      "word": "lɔsɔ",
+      "gloss": "good"
+    },
+    {
+      "word": "opōlöŋɔ̀",
+      "gloss": "lizard"
+    },
+    {
+      "word": "rú",
+      "gloss": "body"
+    },
+    {
+      "word": "sá",
+      "gloss": "there"
+    },
+    {
+      "word": "títi",
+      "gloss": "short"
+    },
+    {
+      "word": "tʃwì",
+      "gloss": "to tear"
+    },
+    {
+      "word": "údu",
+      "gloss": "frog"
+    },
+    {
+      "word": "ruŋa",
+      "gloss": "island"
+    },
+    {
+      "word": "vúrú",
+      "gloss": "earth"
+    },
+    {
+      "word": "wórɔ",
+      "gloss": "cotton"
+    },
+    {
+      "word": "eyí",
+      "gloss": "rain"
+    },
+    {
+      "word": "zá",
+      "gloss": "meat"
+    },
+    {
+      "word": "ɛ'ɛ",
+      "gloss": "arrow"
+    }
+  ],
+  "num_graphemes": 33,
+  "confidence": "high",
+  "notes": "Language identified as Adele (Togo, page 296 in Hartell 1993). The ALPHABET line prints 32 items, but 'number of graphemes' states 33; 'gb' appears in the EXAMPLES column but was omitted from the ALPHABET line and phoneme block. Hartell's phoneme /y/ is mapped to IPA /j/. Phoneme /ɩ/ is transcribed as IPA /ɪ/ and /ɨ/ corresponds to grapheme 'ä'."
+}

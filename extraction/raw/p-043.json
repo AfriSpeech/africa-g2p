@@ -1,0 +1,301 @@
+{
+  "page": 43,
+  "is_language_page": true,
+  "language": "Western Ejagham",
+  "iso639_3": "etn",
+  "country": "Cameroon",
+  "family": "Ekoid Bantu",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "β",
+      "grapheme": "bh"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "ʉ",
+      "grapheme": "ʉ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone (falling to low / falling to downstepped high)",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "unmarked",
+    "falling to low": "circumflex accent",
+    "falling to downstepped high": "circumflex accent",
+    "rising": "unmarked",
+    "downstepped high": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "ch",
+    "d",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʉ",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "aya",
+      "gloss": "river"
+    },
+    {
+      "word": "mbá",
+      "gloss": "road"
+    },
+    {
+      "word": "ebbhin",
+      "gloss": "farm"
+    },
+    {
+      "word": "echî",
+      "gloss": "head"
+    },
+    {
+      "word": "ndûm",
+      "gloss": "husband"
+    },
+    {
+      "word": "ejen",
+      "gloss": "journey"
+    },
+    {
+      "word": "ogəm",
+      "gloss": "market"
+    },
+    {
+      "word": "ofú",
+      "gloss": "day"
+    },
+    {
+      "word": "egan",
+      "gloss": "story"
+    },
+    {
+      "word": "egba",
+      "gloss": "fist"
+    },
+    {
+      "word": "nkoghe",
+      "gloss": "fallen tree"
+    },
+    {
+      "word": "ikom",
+      "gloss": "strength"
+    },
+    {
+      "word": "eji",
+      "gloss": "cola nut"
+    },
+    {
+      "word": "nkok",
+      "gloss": "fowl"
+    },
+    {
+      "word": "ekpa",
+      "gloss": "sleeping mat"
+    },
+    {
+      "word": "eme",
+      "gloss": "neck"
+    },
+    {
+      "word": "ane",
+      "gloss": "people"
+    },
+    {
+      "word": "onyam",
+      "gloss": "animals"
+    },
+    {
+      "word": "mbiŋ",
+      "gloss": "name"
+    },
+    {
+      "word": "otop",
+      "gloss": "mud"
+    },
+    {
+      "word": "opu",
+      "gloss": "fishing weight"
+    },
+    {
+      "word": "aron",
+      "gloss": "intelligence"
+    },
+    {
+      "word": "esa",
+      "gloss": "chewing stick"
+    },
+    {
+      "word": "eték",
+      "gloss": "village"
+    },
+    {
+      "word": "eyu",
+      "gloss": "yam"
+    },
+    {
+      "word": "ajʉ",
+      "gloss": "local plums"
+    },
+    {
+      "word": "iwá",
+      "gloss": "cassava"
+    },
+    {
+      "word": "eyom",
+      "gloss": "hoe"
+    },
+    {
+      "word": "ebhi",
+      "gloss": "mongoose"
+    },
+    {
+      "word": "ebhí",
+      "gloss": "cooking pot"
+    },
+    {
+      "word": "ebhî",
+      "gloss": "palm nut cluster"
+    }
+  ],
+  "num_graphemes": 28,
+  "confidence": "high",
+  "notes": "Hartell uses square brackets for phones [β] (bh) and [ɣ] (gh). Hartell uses /y/ for IPA /j/."
+}

@@ -1,0 +1,296 @@
+{
+  "page": 54,
+  "is_language_page": true,
+  "language": "Gonja",
+  "iso639_3": "gjn",
+  "country": "Ghana",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "kana",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "basa",
+      "gloss": "people"
+    },
+    {
+      "word": "chobi",
+      "gloss": "shrewd"
+    },
+    {
+      "word": "di",
+      "gloss": "to sleep"
+    },
+    {
+      "word": "ebi",
+      "gloss": "child"
+    },
+    {
+      "word": "efupo",
+      "gloss": "coward"
+    },
+    {
+      "word": "gado",
+      "gloss": "bed"
+    },
+    {
+      "word": "gbiri",
+      "gloss": "to beat"
+    },
+    {
+      "word": "hali",
+      "gloss": "until"
+    },
+    {
+      "word": "fimbi",
+      "gloss": "small"
+    },
+    {
+      "word": "jata",
+      "gloss": "leopard"
+    },
+    {
+      "word": "kaboe",
+      "gloss": "goat"
+    },
+    {
+      "word": "kpuruku",
+      "gloss": "pig"
+    },
+    {
+      "word": "longii",
+      "gloss": "drum"
+    },
+    {
+      "word": "momo",
+      "gloss": "crow"
+    },
+    {
+      "word": "nite",
+      "gloss": "to walk"
+    },
+    {
+      "word": "nyifu",
+      "gloss": "flour"
+    },
+    {
+      "word": "ngbene",
+      "gloss": "heart"
+    },
+    {
+      "word": "osofo",
+      "gloss": "priest"
+    },
+    {
+      "word": "pante",
+      "gloss": "cricket"
+    },
+    {
+      "word": "bure",
+      "gloss": "ant"
+    },
+    {
+      "word": "saye",
+      "gloss": "yellow"
+    },
+    {
+      "word": "ashera",
+      "gloss": "tobacco"
+    },
+    {
+      "word": "tuta",
+      "gloss": "flag"
+    },
+    {
+      "word": "nuu",
+      "gloss": "to drink"
+    },
+    {
+      "word": "wankpan",
+      "gloss": "hyena"
+    },
+    {
+      "word": "aya",
+      "gloss": "leg"
+    },
+    {
+      "word": "zabela",
+      "gloss": "red"
+    }
+  ],
+  "num_graphemes": 27,
+  "confidence": "high",
+  "notes": "/ŋ/ is written as 'ng' before vowels (ngV) and 'n' elsewhere. Both /e/ and /ɛ/ map to 'e', and both /o/ and /ɔ/ map to 'o'. Vowel length /V:/ is represented by doubling the vowel symbol (VV)."
+}

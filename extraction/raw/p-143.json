@@ -1,0 +1,262 @@
+{
+  "page": 143,
+  "is_language_page": true,
+  "language": "Yambeta",
+  "iso639_3": "yat",
+  "country": "Cameroon",
+  "family": "Bantu A.60",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "ɛ",
+    "f",
+    "g",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "ambaan",
+      "gloss": "feet"
+    },
+    {
+      "word": "kɛbɛt",
+      "gloss": "fog"
+    },
+    {
+      "word": "ncɛm",
+      "gloss": "oath"
+    },
+    {
+      "word": "udúk",
+      "gloss": "night"
+    },
+    {
+      "word": "póey",
+      "gloss": "yesterday"
+    },
+    {
+      "word": "uŋŋə́ní",
+      "gloss": "termite"
+    },
+    {
+      "word": "odɛ",
+      "gloss": "forest"
+    },
+    {
+      "word": "ofáan",
+      "gloss": "wing"
+    },
+    {
+      "word": "nɛgɔy",
+      "gloss": "plantain"
+    },
+    {
+      "word": "kidun",
+      "gloss": "bush"
+    },
+    {
+      "word": "njo'",
+      "gloss": "elephant"
+    },
+    {
+      "word": "əkúú",
+      "gloss": "villages"
+    },
+    {
+      "word": "nilu",
+      "gloss": "knee"
+    },
+    {
+      "word": "móón",
+      "gloss": "child"
+    },
+    {
+      "word": "níín",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "nomóny",
+      "gloss": "mosquito"
+    },
+    {
+      "word": "aŋo",
+      "gloss": "voices"
+    },
+    {
+      "word": "oto",
+      "gloss": "head"
+    },
+    {
+      "word": "nodɔ",
+      "gloss": "intestine"
+    },
+    {
+      "word": "otap",
+      "gloss": "branch"
+    },
+    {
+      "word": "sé",
+      "gloss": "father"
+    },
+    {
+      "word": "toɛt",
+      "gloss": "throw!"
+    },
+    {
+      "word": "pusú",
+      "gloss": "fishes"
+    },
+    {
+      "word": "wóós",
+      "gloss": "sun"
+    },
+    {
+      "word": "yook",
+      "gloss": "house"
+    },
+    {
+      "word": "unu'",
+      "gloss": "mouth"
+    }
+  ],
+  "num_graphemes": 26,
+  "confidence": "high",
+  "notes": "Hartell's phoneme notation /y/ mapped to IPA /j/."
+}

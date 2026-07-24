@@ -1,0 +1,375 @@
+{
+  "page": 12,
+  "is_language_page": true,
+  "language": "Basaa",
+  "iso639_3": "bas",
+  "country": "Cameroon",
+  "family": "Bantu A.40",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "ɡʷ",
+      "grapheme": "gw"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "mb",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nd",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "ɲɟ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋɡ",
+      "grapheme": "ŋg"
+    },
+    {
+      "phoneme": "ŋɡʷ",
+      "grapheme": "ŋgw"
+    },
+    {
+      "phoneme": "ŋʷ",
+      "grapheme": "ŋw"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "hʲ",
+      "grapheme": "hy"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0302",
+      "role": "high-low tone",
+      "ipa": "˥˩"
+    },
+    {
+      "mark": "U+030C",
+      "role": "low-high tone",
+      "ipa": "˩˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    }
+  ],
+  "tones": {
+    "high": "unmarked",
+    "low": "grave accent (`)",
+    "high-low": "circumflex (^)",
+    "low-high": "caron (v)",
+    "mid": "macron (-)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gw",
+    "h",
+    "hy",
+    "i",
+    "j",
+    "k",
+    "kw",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "nj",
+    "ny",
+    "ŋ",
+    "ŋg",
+    "ŋgw",
+    "ŋw",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "ka",
+      "gloss": "pangolin"
+    },
+    {
+      "word": "bìnan",
+      "gloss": "manure"
+    },
+    {
+      "word": "ɓàt",
+      "gloss": "to ask"
+    },
+    {
+      "word": "cak",
+      "gloss": "to sting, steal"
+    },
+    {
+      "word": "dinùni",
+      "gloss": "birds"
+    },
+    {
+      "word": "yek",
+      "gloss": "to abandon"
+    },
+    {
+      "word": "yɛ̀k",
+      "gloss": "give back to the spirits"
+    },
+    {
+      "word": "fâm",
+      "gloss": "large plantation"
+    },
+    {
+      "word": "gôl",
+      "gloss": "gold"
+    },
+    {
+      "word": "gwês",
+      "gloss": "to like"
+    },
+    {
+      "word": "ho",
+      "gloss": "to cover"
+    },
+    {
+      "word": "lìhyo",
+      "gloss": "dizziness"
+    },
+    {
+      "word": "nigil",
+      "gloss": "to learn"
+    },
+    {
+      "word": "jàm",
+      "gloss": "thing"
+    },
+    {
+      "word": "ka",
+      "gloss": "pangolin"
+    },
+    {
+      "word": "kwèl",
+      "gloss": "to converse"
+    },
+    {
+      "word": "lamb",
+      "gloss": "to cook"
+    },
+    {
+      "word": "màl",
+      "gloss": "to finish"
+    },
+    {
+      "word": "mbɔt",
+      "gloss": "garment"
+    },
+    {
+      "word": "nìŋ",
+      "gloss": "to live"
+    },
+    {
+      "word": "ndàmb",
+      "gloss": "rubber"
+    },
+    {
+      "word": "njàgi",
+      "gloss": "begging"
+    },
+    {
+      "word": "nyay",
+      "gloss": "to berate"
+    },
+    {
+      "word": "nìŋ",
+      "gloss": "to live"
+    },
+    {
+      "word": "ŋgànd",
+      "gloss": "feast"
+    },
+    {
+      "word": "ŋgwas",
+      "gloss": "fishing pole"
+    },
+    {
+      "word": "ŋwàs",
+      "gloss": "to leave"
+    },
+    {
+      "word": "so",
+      "gloss": "antelope"
+    },
+    {
+      "word": "sɔ̀",
+      "gloss": "to wash"
+    },
+    {
+      "word": "pɛp",
+      "gloss": "to ventilate"
+    },
+    {
+      "word": "àràdîô",
+      "gloss": "radio"
+    },
+    {
+      "word": "sabê",
+      "gloss": "booth"
+    },
+    {
+      "word": "tèmb",
+      "gloss": "to return"
+    },
+    {
+      "word": "unûp",
+      "gloss": "to get angry"
+    },
+    {
+      "word": "àviɔ̂ŋ",
+      "gloss": "airplane"
+    },
+    {
+      "word": "was",
+      "gloss": "to tear, rip"
+    },
+    {
+      "word": "yàn",
+      "gloss": "to minimize"
+    }
+  ],
+  "num_graphemes": 37,
+  "confidence": "high",
+  "notes": "Hartell uses non-standard slash notations /kw/, /gw/, /ng/, /ngw/, /nw/, /hy/, /y/, converted to standard IPA kʷ, ɡʷ, ŋɡ, ŋɡʷ, ŋʷ, hʲ, j. Page notes that r, f and v are recent introductions outside of the system adopted at the UNESCO meeting in Yaoundé 1970."
+}

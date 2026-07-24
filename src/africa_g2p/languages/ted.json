@@ -1,0 +1,212 @@
+{
+  "code": "ted",
+  "name": "Kroumen Tépo",
+  "country": "Côte d'Ivoire",
+  "family": "Kru",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 122",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "m": "m",
+    "t": "t",
+    "d": "d",
+    "n": "n",
+    "c": "c",
+    "j": "ɟ",
+    "ny": "ɲ",
+    "k": "k",
+    "g": "ɡ",
+    "ŋ": "ŋ",
+    "gb": "ɡ͡b",
+    "ŋm": "ŋ͡m",
+    "kw": "k͡w",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ɩ": "ɪ",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "ʋ": "ʊ",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "'": "˥",
+    "-": "˩",
+    "=": "˩˥"
+  },
+  "tones": {
+    "high": "apostrophe (')",
+    "mid": "unmarked",
+    "low": "hyphen (-)",
+    "low-high": "equals sign (=)"
+  },
+  "notes": "Vn orthographically represents nasalized vowels, which are unmarked in syllables beginning with a nasal consonant. In tone description, 'M, -M, and =M represent high, low, and low-high tones relative to a mora/syllable.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʋ",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "kaka",
+      "gloss": "bucket"
+    },
+    {
+      "word": "daba",
+      "gloss": "duck"
+    },
+    {
+      "word": "ca",
+      "gloss": "parrot"
+    },
+    {
+      "word": "du",
+      "gloss": "rat"
+    },
+    {
+      "word": "ke",
+      "gloss": "eagle"
+    },
+    {
+      "word": "bɛnʋ",
+      "gloss": "stick carrier"
+    },
+    {
+      "word": "-faka",
+      "gloss": "knife"
+    },
+    {
+      "word": "-gaya",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "gbɔgbɔ",
+      "gloss": "toad"
+    },
+    {
+      "word": "'hipe",
+      "gloss": "canoe"
+    },
+    {
+      "word": "=pli",
+      "gloss": "porcupine"
+    },
+    {
+      "word": "'napɩ",
+      "gloss": "light"
+    },
+    {
+      "word": "-ji",
+      "gloss": "panther"
+    },
+    {
+      "word": "ka",
+      "gloss": "crab"
+    },
+    {
+      "word": "kwle",
+      "gloss": "white deer"
+    },
+    {
+      "word": "'lɔ",
+      "gloss": "nest"
+    },
+    {
+      "word": "'maɩ",
+      "gloss": "papo"
+    },
+    {
+      "word": "na",
+      "gloss": "wood"
+    },
+    {
+      "word": "''yo",
+      "gloss": "melons"
+    },
+    {
+      "word": "-ŋamʋ",
+      "gloss": "horn"
+    },
+    {
+      "word": "ŋmatu",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "-gblo",
+      "gloss": "enclosure"
+    },
+    {
+      "word": "kɔ",
+      "gloss": "skin"
+    },
+    {
+      "word": "pa",
+      "gloss": "African sword"
+    },
+    {
+      "word": "'yru",
+      "gloss": "kind of snake"
+    },
+    {
+      "word": "-sukuu",
+      "gloss": "school"
+    },
+    {
+      "word": "tutu",
+      "gloss": "trap"
+    },
+    {
+      "word": "'yu",
+      "gloss": "child"
+    },
+    {
+      "word": "yu",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "-wodu",
+      "gloss": "snail"
+    },
+    {
+      "word": "ya",
+      "gloss": "clay pot"
+    }
+  ]
+}

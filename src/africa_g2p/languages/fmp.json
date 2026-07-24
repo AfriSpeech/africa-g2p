@@ -1,0 +1,221 @@
+{
+  "code": "fmp",
+  "name": "Fe'efe'e",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, East, Bamileke",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 48",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "gh": "ɣ",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "sh": "ʃ",
+    "zh": "ʒ",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "ʉ": "ʉ",
+    "ə": "ə",
+    "ɑ": "ɑ",
+    "u": "u",
+    "oo": "u",
+    "o": "o",
+    "ɔ": "o"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̌": "˩˥",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low/central": "unmarked",
+    "low-high": "caron",
+    "high-low": "circumflex"
+  },
+  "notes": "Hartell's /y/ maps to IPA /j/. Prenasalized consonants noted as mb, nd, ng. Vowel length represented as VV. The orthography includes open-alpha (ɑ) as a distinct grapheme.",
+  "alphabet": [
+    "a",
+    "ɑ",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "ʉ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "zh",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "a",
+      "gloss": "he"
+    },
+    {
+      "word": "mbawala",
+      "gloss": "whoever"
+    },
+    {
+      "word": "mba'",
+      "gloss": "type of palm tree"
+    },
+    {
+      "word": "ca'si",
+      "gloss": "greeting"
+    },
+    {
+      "word": "ndu'",
+      "gloss": "wine"
+    },
+    {
+      "word": "pe'",
+      "gloss": "house"
+    },
+    {
+      "word": "pəpē'",
+      "gloss": "the good"
+    },
+    {
+      "word": "fʉ",
+      "gloss": "chief"
+    },
+    {
+      "word": "ngoo",
+      "gloss": "girl"
+    },
+    {
+      "word": "ghə",
+      "gloss": "word"
+    },
+    {
+      "word": "hu",
+      "gloss": "remedy"
+    },
+    {
+      "word": "nini",
+      "gloss": "shadow, photo"
+    },
+    {
+      "word": "njam",
+      "gloss": "behind"
+    },
+    {
+      "word": "ko",
+      "gloss": "field, bush"
+    },
+    {
+      "word": "luɑ",
+      "gloss": "bridge"
+    },
+    {
+      "word": "mʉ",
+      "gloss": "me"
+    },
+    {
+      "word": "nam",
+      "gloss": "sun"
+    },
+    {
+      "word": "ŋāmsi",
+      "gloss": "felicitation"
+    },
+    {
+      "word": "o",
+      "gloss": "you (sg)"
+    },
+    {
+      "word": "yɔ̄nshi",
+      "gloss": "song"
+    },
+    {
+      "word": "pom",
+      "gloss": "egg"
+    },
+    {
+      "word": "sisi",
+      "gloss": "crane"
+    },
+    {
+      "word": "shimānko'",
+      "gloss": "turtle"
+    },
+    {
+      "word": "tam",
+      "gloss": "forest"
+    },
+    {
+      "word": "nu",
+      "gloss": "situation"
+    },
+    {
+      "word": "tuū",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "vam",
+      "gloss": "stomach"
+    },
+    {
+      "word": "wenok",
+      "gloss": "human being"
+    },
+    {
+      "word": "yaa",
+      "gloss": "oil press"
+    },
+    {
+      "word": "zēn",
+      "gloss": "name"
+    },
+    {
+      "word": "zhūā",
+      "gloss": "close it!"
+    },
+    {
+      "word": "po'",
+      "gloss": "mushroom"
+    }
+  ]
+}

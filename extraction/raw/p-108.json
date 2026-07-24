@@ -1,0 +1,346 @@
+{
+  "page": 108,
+  "is_language_page": true,
+  "language": "Niaboua",
+  "iso639_3": "nwb",
+  "country": "Côte d'Ivoire",
+  "family": "Kru",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "bh"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "ɡʷ",
+      "grapheme": "gw"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ɩ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ʊ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "\"",
+      "role": "very high tone",
+      "ipa": "˥˥"
+    },
+    {
+      "mark": "'",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "-",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "very high": "preposed double quote (\")",
+    "high": "preposed single quote (')",
+    "mid": "unmarked",
+    "low": "preposed hyphen (-)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "gw",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "''la",
+      "gloss": "to call, name"
+    },
+    {
+      "word": "bi",
+      "gloss": "to encircle"
+    },
+    {
+      "word": "bhʊ",
+      "gloss": "leg"
+    },
+    {
+      "word": "'cʊ",
+      "gloss": "moon"
+    },
+    {
+      "word": "de",
+      "gloss": "to buy"
+    },
+    {
+      "word": "gbe",
+      "gloss": "dog"
+    },
+    {
+      "word": "lɛ",
+      "gloss": "thing"
+    },
+    {
+      "word": "-fanʊ",
+      "gloss": "fear"
+    },
+    {
+      "word": "-go",
+      "gloss": "maize"
+    },
+    {
+      "word": "gbɛ",
+      "gloss": "dog"
+    },
+    {
+      "word": "'gwɛ",
+      "gloss": "chimpanzee"
+    },
+    {
+      "word": "'si",
+      "gloss": "yam"
+    },
+    {
+      "word": "'nyɩ",
+      "gloss": "to give"
+    },
+    {
+      "word": "jʊ",
+      "gloss": "kind of tree"
+    },
+    {
+      "word": "-kobʊ",
+      "gloss": "rice"
+    },
+    {
+      "word": "'kpa",
+      "gloss": "bone"
+    },
+    {
+      "word": "'kwla",
+      "gloss": "bush"
+    },
+    {
+      "word": "lʊ",
+      "gloss": "song"
+    },
+    {
+      "word": "'mʊ",
+      "gloss": "hunger"
+    },
+    {
+      "word": "'ni",
+      "gloss": "water"
+    },
+    {
+      "word": "ngaze",
+      "gloss": "pizie"
+    },
+    {
+      "word": "'nyɩ",
+      "gloss": "to give"
+    },
+    {
+      "word": "-lo",
+      "gloss": "to plant"
+    },
+    {
+      "word": "-kɔ",
+      "gloss": "to command"
+    },
+    {
+      "word": "pi",
+      "gloss": "to prepare"
+    },
+    {
+      "word": "'lrʊ",
+      "gloss": "head"
+    },
+    {
+      "word": "'si",
+      "gloss": "yam"
+    },
+    {
+      "word": "tu",
+      "gloss": "tree"
+    },
+    {
+      "word": "tu",
+      "gloss": "tree"
+    },
+    {
+      "word": "lʊ",
+      "gloss": "song"
+    },
+    {
+      "word": "'vɛn",
+      "gloss": "beard"
+    },
+    {
+      "word": "wlʊ",
+      "gloss": "word"
+    },
+    {
+      "word": "yoʊ",
+      "gloss": "viper"
+    },
+    {
+      "word": "zmi",
+      "gloss": "fish"
+    }
+  ],
+  "num_graphemes": 34,
+  "confidence": "high",
+  "notes": "Hartell uses /ɩ/ for [ɪ], /ɷ/ for [ʊ], and /ɟ/ for /j/ grapheme. Nasalization is written as 'Vn' except after /e/ or /o/. Tone markers are preposed punctuation marks before the morpheme."
+}

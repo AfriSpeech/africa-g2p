@@ -1,0 +1,336 @@
+{
+  "page": 89,
+  "is_language_page": true,
+  "language": "Emai",
+  "iso639_3": "ema",
+  "country": "Nigeria",
+  "family": "Edoid",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "t͡ʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "nw",
+      "grapheme": "nw"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "β",
+      "grapheme": "vb"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "kh"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ẹ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ọ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "subdot indicating open vowels",
+      "ipa": null
+    },
+    {
+      "mark": "n",
+      "role": "postposed nasalization marker",
+      "ipa": "◌̃"
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ẹ",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kh",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "nw",
+    "ny",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "vb",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ma",
+      "gloss": "to mould clay"
+    },
+    {
+      "word": "bee",
+      "gloss": "to start"
+    },
+    {
+      "word": "che",
+      "gloss": "again"
+    },
+    {
+      "word": "edo",
+      "gloss": "termite"
+    },
+    {
+      "word": "ye",
+      "gloss": "to reach"
+    },
+    {
+      "word": "hẹ",
+      "gloss": "to permeate"
+    },
+    {
+      "word": "fan",
+      "gloss": "to pluck"
+    },
+    {
+      "word": "ga",
+      "gloss": "to worship"
+    },
+    {
+      "word": "gba",
+      "gloss": "to be big"
+    },
+    {
+      "word": "ghaa",
+      "gloss": "to dry"
+    },
+    {
+      "word": "haa",
+      "gloss": "to be quiet"
+    },
+    {
+      "word": "si",
+      "gloss": "to pull"
+    },
+    {
+      "word": "je",
+      "gloss": "to laugh"
+    },
+    {
+      "word": "ka",
+      "gloss": "to dry"
+    },
+    {
+      "word": "khaa",
+      "gloss": "to carve"
+    },
+    {
+      "word": "kpa",
+      "gloss": "to vomit"
+    },
+    {
+      "word": "laa",
+      "gloss": "to be better"
+    },
+    {
+      "word": "emi",
+      "gloss": "thing"
+    },
+    {
+      "word": "eni",
+      "gloss": "name"
+    },
+    {
+      "word": "nwun",
+      "gloss": "to carry"
+    },
+    {
+      "word": "nyẹn",
+      "gloss": "to cook"
+    },
+    {
+      "word": "to",
+      "gloss": "to ache"
+    },
+    {
+      "word": "họ",
+      "gloss": "to slaughter"
+    },
+    {
+      "word": "pee",
+      "gloss": "to fill to the brim"
+    },
+    {
+      "word": "raa",
+      "gloss": "to steal"
+    },
+    {
+      "word": "se",
+      "gloss": "to be enough"
+    },
+    {
+      "word": "shasha",
+      "gloss": "to scrape (as a pot)"
+    },
+    {
+      "word": "eto",
+      "gloss": "hair"
+    },
+    {
+      "word": "khu",
+      "gloss": "to chase"
+    },
+    {
+      "word": "van",
+      "gloss": "to growl, bark"
+    },
+    {
+      "word": "vbee",
+      "gloss": "to twist (yam tendrils)"
+    },
+    {
+      "word": "wee",
+      "gloss": "to wear"
+    },
+    {
+      "word": "yaya",
+      "gloss": "to scavenge for food"
+    },
+    {
+      "word": "zẹ",
+      "gloss": "to germinate"
+    }
+  ],
+  "num_graphemes": 34,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/, /tʃ/ and /dʒ/ for affricates, and underdot diacritics for /ɛ/ (ẹ) and /ɔ/ (ọ). Nasalization is written with a digraph sequence Vn (except /e/ and /o/). Vowels are lengthened by doubling VV."
+}

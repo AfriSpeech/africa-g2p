@@ -1,0 +1,173 @@
+{
+  "code": "knc",
+  "name": "Kanuri",
+  "country": "Niger",
+  "family": "Nilo-Saharan",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 64",
+  "confidence": "high",
+  "graphemes": {
+    "f": "f",
+    "p": "p",
+    "b": "b",
+    "w": "β",
+    "t": "t",
+    "d": "ð~ɖ",
+    "c": "tɕ",
+    "j": "dz",
+    "k": "k",
+    "g": "ɡ",
+    "i": "i",
+    "e": "e",
+    "ə": "ɨ",
+    "a": "e",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "s": "s",
+    "sh": "ç",
+    "l": "l",
+    "r": "r",
+    "ɍ": "ɽ",
+    "h": "h",
+    "y": "j",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Grapheme ɍ (r with stroke/bar) corresponds to retroflex flap /ɽ/. Note at bottom indicates orthography represents Dagara, Manga, Mobeur, and Tumari dialects.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "o",
+    "p",
+    "r",
+    "ɍ",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "am",
+      "gloss": "people"
+    },
+    {
+      "word": "be",
+      "gloss": "hot season"
+    },
+    {
+      "word": "ci",
+      "gloss": "mouth"
+    },
+    {
+      "word": "da",
+      "gloss": "meat"
+    },
+    {
+      "word": "fe",
+      "gloss": "cow"
+    },
+    {
+      "word": "bərbər",
+      "gloss": "dust"
+    },
+    {
+      "word": "fado",
+      "gloss": "compound"
+    },
+    {
+      "word": "garu",
+      "gloss": "wall"
+    },
+    {
+      "word": "hangal",
+      "gloss": "intelligence"
+    },
+    {
+      "word": "ingi",
+      "gloss": "water"
+    },
+    {
+      "word": "je",
+      "gloss": "rope"
+    },
+    {
+      "word": "ka",
+      "gloss": "stick"
+    },
+    {
+      "word": "lele",
+      "gloss": "sweetened"
+    },
+    {
+      "word": "mafi",
+      "gloss": "hail"
+    },
+    {
+      "word": "na",
+      "gloss": "place"
+    },
+    {
+      "word": "nyamnyam",
+      "gloss": "drizzle"
+    },
+    {
+      "word": "soro",
+      "gloss": "house"
+    },
+    {
+      "word": "naptəram",
+      "gloss": "seat"
+    },
+    {
+      "word": "rungo",
+      "gloss": "flour"
+    },
+    {
+      "word": "ɍeke",
+      "gloss": "sugar cane"
+    },
+    {
+      "word": "səmo",
+      "gloss": "ear"
+    },
+    {
+      "word": "shawa",
+      "gloss": "pretty"
+    },
+    {
+      "word": "timi",
+      "gloss": "tooth"
+    },
+    {
+      "word": "ku",
+      "gloss": "today"
+    },
+    {
+      "word": "wada",
+      "gloss": "dwarf"
+    },
+    {
+      "word": "ya",
+      "gloss": "mother"
+    }
+  ]
+}

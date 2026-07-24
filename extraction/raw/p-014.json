@@ -1,0 +1,379 @@
+{
+  "page": 14,
+  "is_language_page": true,
+  "language": "Jur Mödö",
+  "iso639_3": "rex",
+  "country": "Sudan",
+  "family": "Central Sudanic, Bongo-Bagirmi",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "'b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "'d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "ɗʒ",
+      "grapheme": "'j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "m͡b",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "n͡d",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "n͡dʒ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "n͡z",
+      "grapheme": "nz"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡ɡ",
+      "grapheme": "ŋg"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "ŋ͡m͡ɡ͡b",
+      "grapheme": "ŋb"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "ï"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "ë"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "ö"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0308",
+      "role": "diaeresis distinguishing close/close-mid vowel pairs",
+      "ipa": null
+    }
+  ],
+  "tones": {
+    "note": "There are two tones but they are not marked in the orthography."
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "'b",
+    "c",
+    "d",
+    "'d",
+    "e",
+    "ë",
+    "g",
+    "gb",
+    "i",
+    "ï",
+    "j",
+    "'j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "nj",
+    "ny",
+    "nz",
+    "ŋ",
+    "ŋb",
+    "ŋg",
+    "ŋm",
+    "o",
+    "ö",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "sa",
+      "gloss": "cattle"
+    },
+    {
+      "word": "ba'do",
+      "gloss": "wild pig"
+    },
+    {
+      "word": "caca",
+      "gloss": "quickly"
+    },
+    {
+      "word": "daa",
+      "gloss": "water-hole"
+    },
+    {
+      "word": "pa'do",
+      "gloss": "fire"
+    },
+    {
+      "word": "kete",
+      "gloss": "pot"
+    },
+    {
+      "word": "kë'dë",
+      "gloss": "elephant"
+    },
+    {
+      "word": "goroŋa",
+      "gloss": "axe"
+    },
+    {
+      "word": "gba'da",
+      "gloss": "stool"
+    },
+    {
+      "word": "mbili",
+      "gloss": "ear"
+    },
+    {
+      "word": "bï",
+      "gloss": "dog"
+    },
+    {
+      "word": "jɔlɔ",
+      "gloss": "chicken coop"
+    },
+    {
+      "word": "'jɔlɔ",
+      "gloss": "reedbuck"
+    },
+    {
+      "word": "kagba",
+      "gloss": "leopard"
+    },
+    {
+      "word": "kpere",
+      "gloss": "sesame"
+    },
+    {
+      "word": "lɔndö",
+      "gloss": "brother"
+    },
+    {
+      "word": "ma",
+      "gloss": "mother"
+    },
+    {
+      "word": "nökï",
+      "gloss": "fits"
+    },
+    {
+      "word": "ndi",
+      "gloss": "foot"
+    },
+    {
+      "word": "njo",
+      "gloss": "directly"
+    },
+    {
+      "word": "nyï",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "inza",
+      "gloss": "is not"
+    },
+    {
+      "word": "ŋoli",
+      "gloss": "near"
+    },
+    {
+      "word": "ŋba",
+      "gloss": "guest"
+    },
+    {
+      "word": "ŋgala",
+      "gloss": "song"
+    },
+    {
+      "word": "ŋma",
+      "gloss": "to roast"
+    },
+    {
+      "word": "toto",
+      "gloss": "grindstone"
+    },
+    {
+      "word": "tö'bö",
+      "gloss": "bushbuck"
+    },
+    {
+      "word": "tɔ'bɔ",
+      "gloss": "witch"
+    },
+    {
+      "word": "pisa",
+      "gloss": "claw"
+    },
+    {
+      "word": "raŋga",
+      "gloss": "vulture"
+    },
+    {
+      "word": "seyi",
+      "gloss": "famine"
+    },
+    {
+      "word": "tende",
+      "gloss": "brains"
+    },
+    {
+      "word": "tu'du",
+      "gloss": "heap"
+    },
+    {
+      "word": "wï",
+      "gloss": "milk"
+    },
+    {
+      "word": "yali",
+      "gloss": "bird"
+    },
+    {
+      "word": "zömbö",
+      "gloss": "lung-fish"
+    },
+    {
+      "word": "ɔ'ɔ",
+      "gloss": "to love"
+    }
+  ],
+  "num_graphemes": 40,
+  "confidence": "high",
+  "notes": "Hartell uses /ɩ/ and /ʊ/ or /v/ for lax vowels [ɪ] and [ʊ], mapped orthographically to 'i' and 'o', while tense /i/, /e/, /o/ are mapped to diaeresis forms 'ï', 'ë', 'ö'. Vowel length /V:/ is indicated by double vowels VV."
+}

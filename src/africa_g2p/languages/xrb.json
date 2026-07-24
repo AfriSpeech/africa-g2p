@@ -1,0 +1,176 @@
+{
+  "code": "xrb",
+  "name": "Karaboro",
+  "country": "Burkina Faso",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 139",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "c",
+    "j": "ɟ",
+    "k": "k",
+    "g": "ɡ",
+    "gb": "ɡ͡b",
+    "h": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "f": "f",
+    "s": "s",
+    "v": "v",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "̃": "̃",
+    "'": "˥",
+    "-": "˩"
+  },
+  "tones": {
+    "high": "' (word initial or final)",
+    "mid": "unmarked",
+    "low": "- (before the word)",
+    "rising": "unmarked"
+  },
+  "notes": "Hartell's /kj/ and /gj/ mapped to standard IPA palatals /c/ and /ɟ/. Hartell's /ʔ/ mapped to 'h'. Vowel length /V:/ is indicated by double vowels (VV) and nasalization /Ṽ/ by tilde above vowel (Ṽ). ISO 639-3 proposed as 'xrb' (Eastern Karaboro) or 'kza' (Western Karaboro).",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "bar",
+      "gloss": "porridges"
+    },
+    {
+      "word": "-bluhu",
+      "gloss": "large gourd"
+    },
+    {
+      "word": "draha",
+      "gloss": "place"
+    },
+    {
+      "word": "kande",
+      "gloss": "path"
+    },
+    {
+      "word": "-tɛhɛ",
+      "gloss": "times"
+    },
+    {
+      "word": "fãã",
+      "gloss": "hunger"
+    },
+    {
+      "word": "sugu",
+      "gloss": "to pound grain"
+    },
+    {
+      "word": "gbẽ",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "-taha",
+      "gloss": "to follow"
+    },
+    {
+      "word": "-dir",
+      "gloss": "food plants"
+    },
+    {
+      "word": "kar",
+      "gloss": "meat"
+    },
+    {
+      "word": "-lar",
+      "gloss": "tripes"
+    },
+    {
+      "word": "mar",
+      "gloss": "to stick, glue"
+    },
+    {
+      "word": "naa",
+      "gloss": "fire"
+    },
+    {
+      "word": "'ŋgoŋ",
+      "gloss": "hut"
+    },
+    {
+      "word": "yroŋ",
+      "gloss": "moon"
+    },
+    {
+      "word": "-trɔhɔ",
+      "gloss": "leg"
+    },
+    {
+      "word": "-paha",
+      "gloss": "flail"
+    },
+    {
+      "word": "-gyar",
+      "gloss": "lion"
+    },
+    {
+      "word": "saha",
+      "gloss": "place"
+    },
+    {
+      "word": "-tar",
+      "gloss": "field"
+    },
+    {
+      "word": "-kur",
+      "gloss": "cotton"
+    },
+    {
+      "word": "war",
+      "gloss": "silver"
+    },
+    {
+      "word": "yinde",
+      "gloss": "eye"
+    }
+  ]
+}

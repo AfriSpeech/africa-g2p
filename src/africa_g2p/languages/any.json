@@ -1,0 +1,219 @@
+{
+  "code": "any",
+  "name": "Agni Sanvi",
+  "country": "Côte d'Ivoire",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 8",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "nw": "ŋʷ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "hy": "ç",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ɩ": "ɪ",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "ə",
+    "ä": "ə",
+    "u": "u",
+    "ʊ": "ʊ",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̂": "˥˩",
+    "̌": "˩˥"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "unmarked",
+    "high-falling": "circumflex accent",
+    "low-rising": "caron accent"
+  },
+  "notes": "Hartell uses /ɩ/ and /ɷ/ for /ɪ/ and /ʊ/. Vowel nasalization /Ṽ/ is represented by Vn (except with /e/, /ɛ/, /o/, or /ɔ/). The diaeresis ä is used for vowel harmony exceptions. Tone is marked on a limited number of words.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "hy",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "nw",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "alaka",
+      "gloss": "suitcase"
+    },
+    {
+      "word": "baka",
+      "gloss": "tree"
+    },
+    {
+      "word": "cɛcɛ",
+      "gloss": "no"
+    },
+    {
+      "word": "dadɩɛ",
+      "gloss": "knife"
+    },
+    {
+      "word": "elue",
+      "gloss": "yam"
+    },
+    {
+      "word": "ɛlɛɛ",
+      "gloss": "canoe"
+    },
+    {
+      "word": "fufɔlɛ",
+      "gloss": "new"
+    },
+    {
+      "word": "gua",
+      "gloss": "market"
+    },
+    {
+      "word": "gbologbolo",
+      "gloss": "rubber boots"
+    },
+    {
+      "word": "hue",
+      "gloss": "chest"
+    },
+    {
+      "word": "hyeli",
+      "gloss": "lamp glass"
+    },
+    {
+      "word": "fiti",
+      "gloss": "to pierce"
+    },
+    {
+      "word": "sɩlɩ",
+      "gloss": "to laugh"
+    },
+    {
+      "word": "ejeje",
+      "gloss": "chewing stick"
+    },
+    {
+      "word": "koko",
+      "gloss": "cocoa"
+    },
+    {
+      "word": "kpa",
+      "gloss": "good, well"
+    },
+    {
+      "word": "likɛ",
+      "gloss": "thing"
+    },
+    {
+      "word": "man",
+      "gloss": "to give"
+    },
+    {
+      "word": "nɔsuba",
+      "gloss": "evening"
+    },
+    {
+      "word": "nwan",
+      "gloss": "who?"
+    },
+    {
+      "word": "nyanman",
+      "gloss": "vine"
+    },
+    {
+      "word": "tolo",
+      "gloss": "sauce"
+    },
+    {
+      "word": "fɔlɔlɔ",
+      "gloss": "shade"
+    },
+    {
+      "word": "pɔnʊn kun",
+      "gloss": "25 francs"
+    },
+    {
+      "word": "sua",
+      "gloss": "house"
+    },
+    {
+      "word": "taladɩɛ",
+      "gloss": "clothing"
+    },
+    {
+      "word": "uhue",
+      "gloss": "Thursday"
+    },
+    {
+      "word": "fulʊfulʊ",
+      "gloss": "easy"
+    },
+    {
+      "word": "nvɔlɛ",
+      "gloss": "termite"
+    },
+    {
+      "word": "wɔlɩɛ",
+      "gloss": "fork"
+    },
+    {
+      "word": "yâ",
+      "gloss": "Friday"
+    },
+    {
+      "word": "nzan",
+      "gloss": "beverage"
+    }
+  ]
+}

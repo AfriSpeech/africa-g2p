@@ -1,0 +1,252 @@
+{
+  "page": 117,
+  "is_language_page": true,
+  "language": "Soninke",
+  "iso639_3": "snk",
+  "country": "Mali",
+  "family": "Mande",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "q"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "χ",
+      "grapheme": "x"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "x",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "ka",
+      "gloss": "house"
+    },
+    {
+      "word": "binne",
+      "gloss": "black"
+    },
+    {
+      "word": "cakka",
+      "gloss": "necklace"
+    },
+    {
+      "word": "dunbe",
+      "gloss": "red"
+    },
+    {
+      "word": "mexe",
+      "gloss": "iron"
+    },
+    {
+      "word": "fare",
+      "gloss": "donkey"
+    },
+    {
+      "word": "gode",
+      "gloss": "5 franc coin"
+    },
+    {
+      "word": "hoore",
+      "gloss": "noble"
+    },
+    {
+      "word": "si",
+      "gloss": "horse"
+    },
+    {
+      "word": "gijinme",
+      "gloss": "chest"
+    },
+    {
+      "word": "kocce",
+      "gloss": "pebble"
+    },
+    {
+      "word": "labo",
+      "gloss": "knife"
+    },
+    {
+      "word": "muusine",
+      "gloss": "cat"
+    },
+    {
+      "word": "na",
+      "gloss": "cow"
+    },
+    {
+      "word": "nyexe",
+      "gloss": "fish"
+    },
+    {
+      "word": "ŋaali",
+      "gloss": "to shine"
+    },
+    {
+      "word": "toro",
+      "gloss": "ear"
+    },
+    {
+      "word": "konpe",
+      "gloss": "hut"
+    },
+    {
+      "word": "fanqe",
+      "gloss": "struggle"
+    },
+    {
+      "word": "ri",
+      "gloss": "come"
+    },
+    {
+      "word": "sere",
+      "gloss": "person"
+    },
+    {
+      "word": "tage",
+      "gloss": "blacksmith"
+    },
+    {
+      "word": "sugo",
+      "gloss": "goat"
+    },
+    {
+      "word": "wule",
+      "gloss": "dog"
+    },
+    {
+      "word": "xaso",
+      "gloss": "struggle"
+    },
+    {
+      "word": "yugo",
+      "gloss": "man"
+    }
+  ],
+  "num_graphemes": 26,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA palatal approximant [j]. Additional phonological notation rules listed: /C:/ -> CC (C = p, c, q) for long consonants, /V:/ -> VV for long vowels, and /Ṽ/ -> Vn for nasalized vowels."
+}

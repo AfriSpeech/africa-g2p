@@ -1,0 +1,191 @@
+{
+  "code": "hag",
+  "name": "Hanga",
+  "country": "Ghana",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 58",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "r": "d",
+    "ch": "t͡ʃ",
+    "j": "d͡ʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "ɪ",
+    "e": "ɛ",
+    "a": "a",
+    "u": "ʊ",
+    "o": "ɔ"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Hartell uses non-standard IPA symbols /ɩ/ for /ɪ/ and /ɷ/ for /ʊ/. 'd, r' share the phoneme /d/. 'Voiceless vowels' are noted as represented by 'h'.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ba",
+      "gloss": "father"
+    },
+    {
+      "word": "baa",
+      "gloss": "dog"
+    },
+    {
+      "word": "chaŋŋi",
+      "gloss": "to walk"
+    },
+    {
+      "word": "daba",
+      "gloss": "man"
+    },
+    {
+      "word": "yeli",
+      "gloss": "to say"
+    },
+    {
+      "word": "fe",
+      "gloss": "to think"
+    },
+    {
+      "word": "gaari",
+      "gloss": "to go"
+    },
+    {
+      "word": "gbisi",
+      "gloss": "to sleep"
+    },
+    {
+      "word": "halibee",
+      "gloss": "selfishness"
+    },
+    {
+      "word": "zinni",
+      "gloss": "today"
+    },
+    {
+      "word": "jilli",
+      "gloss": "egg"
+    },
+    {
+      "word": "koba",
+      "gloss": "hairs"
+    },
+    {
+      "word": "kpabi",
+      "gloss": "to want something"
+    },
+    {
+      "word": "la",
+      "gloss": "to laugh"
+    },
+    {
+      "word": "mogiri",
+      "gloss": "river"
+    },
+    {
+      "word": "naagɩ",
+      "gloss": "cows"
+    },
+    {
+      "word": "nye",
+      "gloss": "to see"
+    },
+    {
+      "word": "ŋa",
+      "gloss": "this"
+    },
+    {
+      "word": "ŋmama",
+      "gloss": "calabashes"
+    },
+    {
+      "word": "noori",
+      "gloss": "mouth"
+    },
+    {
+      "word": "puusi",
+      "gloss": "to greet"
+    },
+    {
+      "word": "soori",
+      "gloss": "road"
+    },
+    {
+      "word": "sulimi",
+      "gloss": "to tell a story"
+    },
+    {
+      "word": "ta",
+      "gloss": "to come"
+    },
+    {
+      "word": "ŋu",
+      "gloss": "to drink"
+    },
+    {
+      "word": "vaa",
+      "gloss": "leaf"
+    },
+    {
+      "word": "waafu",
+      "gloss": "snake"
+    },
+    {
+      "word": "yam",
+      "gloss": "wisdom"
+    },
+    {
+      "word": "zuuri",
+      "gloss": "tail"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "code": "tsp",
+  "name": "Toussian",
+  "country": "Burkina Faso",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 128",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "gb": "ɡ͡b",
+    "h": "ʔ",
+    "m": "m",
+    "n": "n",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ",
+    "Ṽ": "Ṽ"
+  },
+  "diacritics": {
+    "̀": "˩",
+    "́": "˥",
+    "̂": "˥˩",
+    "̌": "˩˥",
+    "̃": "̃"
+  },
+  "tones": {
+    "low": "grave accent",
+    "mid": "unmarked",
+    "high": "acute accent",
+    "slow falling": "circumflex accent",
+    "long falling": "caron",
+    "sharp rising": "caron",
+    "slow rising": "grave/rising accent"
+  },
+  "notes": "Hartell uses /?/ for glottal stop /ʔ/ mapped to orthographic 'h'. /j/ mapped to IPA /j/ (grapheme 'y'). /Ṽ/ represents nasalized vowels.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "yàwó",
+      "gloss": "cat"
+    },
+    {
+      "word": "bo",
+      "gloss": "father"
+    },
+    {
+      "word": "di",
+      "gloss": "man"
+    },
+    {
+      "word": "sê",
+      "gloss": "woman"
+    },
+    {
+      "word": "pɛ",
+      "gloss": "husband"
+    },
+    {
+      "word": "flo",
+      "gloss": "clothes"
+    },
+    {
+      "word": "gbɔ",
+      "gloss": "eggplant"
+    },
+    {
+      "word": "wóhó",
+      "gloss": "cup"
+    },
+    {
+      "word": "pi",
+      "gloss": "child"
+    },
+    {
+      "word": "kò",
+      "gloss": "meat"
+    },
+    {
+      "word": "lékwén",
+      "gloss": "knife"
+    },
+    {
+      "word": "mám",
+      "gloss": "rat"
+    },
+    {
+      "word": "nan",
+      "gloss": "grinding mold"
+    },
+    {
+      "word": "kõ",
+      "gloss": "stool"
+    },
+    {
+      "word": "yɔ",
+      "gloss": "swamp"
+    },
+    {
+      "word": "pãhā",
+      "gloss": "dog"
+    },
+    {
+      "word": "yâr",
+      "gloss": "porridge"
+    },
+    {
+      "word": "sẽbe",
+      "gloss": "baobab tree"
+    },
+    {
+      "word": "tɛke",
+      "gloss": "cliff"
+    },
+    {
+      "word": "dú",
+      "gloss": "basket"
+    },
+    {
+      "word": "vẽ",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "wòkò",
+      "gloss": "hut"
+    },
+    {
+      "word": "yaha",
+      "gloss": "face"
+    }
+  ]
+}

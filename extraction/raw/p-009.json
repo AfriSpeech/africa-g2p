@@ -1,0 +1,319 @@
+{
+  "page": 9,
+  "is_language_page": true,
+  "language": "Arabic (Northern Sudanese Colloquial)",
+  "iso639_3": "apd",
+  "country": "Sudan",
+  "family": "Afroasiatic",
+  "graphemes": [
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "dˤ",
+      "grapheme": "ḍ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "ħ",
+      "grapheme": "H"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "kh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "sˤ",
+      "grapheme": "ṣ"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "tˤ",
+      "grapheme": "ṭ"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "zˤ",
+      "grapheme": "ẓ"
+    },
+    {
+      "phoneme": "ʕ",
+      "grapheme": "9"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "aː",
+      "grapheme": "aa"
+    },
+    {
+      "phoneme": "eː",
+      "grapheme": "ee"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "iː",
+      "grapheme": "ii"
+    },
+    {
+      "phoneme": "oː",
+      "grapheme": "oo"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "uː",
+      "grapheme": "uu"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "ḍ",
+    "ee",
+    "f",
+    "g",
+    "gh",
+    "h",
+    "H",
+    "i",
+    "j",
+    "k",
+    "kh",
+    "l",
+    "m",
+    "n",
+    "oo",
+    "r",
+    "s",
+    "ṣ",
+    "sh",
+    "t",
+    "ṭ",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "ẓ",
+    "9",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "arḍ",
+      "gloss": "earth"
+    },
+    {
+      "word": "baab",
+      "gloss": "door"
+    },
+    {
+      "word": "dagiig",
+      "gloss": "flour"
+    },
+    {
+      "word": "ḍeef",
+      "gloss": "guest"
+    },
+    {
+      "word": "beet",
+      "gloss": "house"
+    },
+    {
+      "word": "fajur",
+      "gloss": "dawn"
+    },
+    {
+      "word": "guruush",
+      "gloss": "money"
+    },
+    {
+      "word": "ghanam",
+      "gloss": "goats"
+    },
+    {
+      "word": "hiduum",
+      "gloss": "clothes"
+    },
+    {
+      "word": "Humaar",
+      "gloss": "donkey"
+    },
+    {
+      "word": "miliH",
+      "gloss": "salt"
+    },
+    {
+      "word": "jeeraan",
+      "gloss": "neighbors"
+    },
+    {
+      "word": "kubri",
+      "gloss": "bridge"
+    },
+    {
+      "word": "khamsa",
+      "gloss": "five"
+    },
+    {
+      "word": "laban",
+      "gloss": "milk"
+    },
+    {
+      "word": "mooya",
+      "gloss": "water"
+    },
+    {
+      "word": "naas",
+      "gloss": "people"
+    },
+    {
+      "word": "mooz",
+      "gloss": "bananas"
+    },
+    {
+      "word": "raajil",
+      "gloss": "man"
+    },
+    {
+      "word": "samak",
+      "gloss": "fish"
+    },
+    {
+      "word": "ṣaabuun",
+      "gloss": "soap"
+    },
+    {
+      "word": "sharaab",
+      "gloss": "drink"
+    },
+    {
+      "word": "talaata",
+      "gloss": "three"
+    },
+    {
+      "word": "ṭeer",
+      "gloss": "bird"
+    },
+    {
+      "word": "sukkar",
+      "gloss": "sugar"
+    },
+    {
+      "word": "tilivizyoon",
+      "gloss": "television"
+    },
+    {
+      "word": "walad",
+      "gloss": "boy"
+    },
+    {
+      "word": "yoom",
+      "gloss": "day"
+    },
+    {
+      "word": "zool",
+      "gloss": "person"
+    },
+    {
+      "word": "ẓarif",
+      "gloss": "envelope"
+    },
+    {
+      "word": "9arabi",
+      "gloss": "Arabic"
+    },
+    {
+      "word": "su'aal",
+      "gloss": "question"
+    }
+  ],
+  "num_graphemes": 32,
+  "confidence": "high",
+  "notes": "Three orthographic conventions are compared: New Testament, Persson, and Hillelson. The primary alphabet list and examples follow Persson's orthography. Phoneme /ʔ/ is not written word-initially. Phoneme /v/ occurs only in borrowed words. All consonants can be doubled."
+}

@@ -1,0 +1,440 @@
+{
+  "page": 38,
+  "is_language_page": true,
+  "language": "Duruma",
+  "iso639_3": "dug",
+  "country": "Kenya",
+  "family": "Bantu (E.72D)",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "pʰ",
+      "grapheme": "p'"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t͡s",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "t͡sʰ",
+      "grapheme": "ts'"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "tʰ",
+      "grapheme": "t'"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "d͡z",
+      "grapheme": "dz"
+    },
+    {
+      "phoneme": "t͡ʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "t͡ʃʰ",
+      "grapheme": "ch'"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "kʰ",
+      "grapheme": "k'"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "k͡pʰ",
+      "grapheme": "k'w"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gw"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "m͡b",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "m͡v",
+      "grapheme": "mv"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "n͡d",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "n͡z",
+      "grapheme": "nz"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ɲd͡ʒ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ŋɡ",
+      "grapheme": "ng'"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "mw"
+    },
+    {
+      "phoneme": "ŋ͡mɡ͡b",
+      "grapheme": "ngw"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "ʒ",
+      "grapheme": "zh"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "β",
+      "grapheme": "ph"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [],
+  "tones": {
+    "high": "unmarked",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "ch'",
+    "d",
+    "dz",
+    "e",
+    "f",
+    "g",
+    "gw",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kw",
+    "k'",
+    "k'w",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ng",
+    "ngw",
+    "ng'",
+    "nj",
+    "ny",
+    "nz",
+    "o",
+    "p",
+    "p'",
+    "ph",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "t'",
+    "ts",
+    "ts'",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "zh"
+  ],
+  "examples": [
+    {
+      "word": "ats'a",
+      "gloss": "point"
+    },
+    {
+      "word": "beshe",
+      "gloss": "fish"
+    },
+    {
+      "word": "chihi",
+      "gloss": "chair"
+    },
+    {
+      "word": "ch'ingo",
+      "gloss": "hide (skin)"
+    },
+    {
+      "word": "daba",
+      "gloss": "kerosene tin"
+    },
+    {
+      "word": "dzuwa",
+      "gloss": "sun"
+    },
+    {
+      "word": "embe",
+      "gloss": "mango"
+    },
+    {
+      "word": "fumo",
+      "gloss": "arrow"
+    },
+    {
+      "word": "gogo",
+      "gloss": "log"
+    },
+    {
+      "word": "gwashe",
+      "gloss": "warthog"
+    },
+    {
+      "word": "hiha",
+      "gloss": "bundle"
+    },
+    {
+      "word": "izu",
+      "gloss": "banana"
+    },
+    {
+      "word": "jogolo",
+      "gloss": "cock"
+    },
+    {
+      "word": "kuch'i",
+      "gloss": "mat"
+    },
+    {
+      "word": "kwata",
+      "gloss": "kind of thorn tree"
+    },
+    {
+      "word": "k'uk'u",
+      "gloss": "chicken"
+    },
+    {
+      "word": "k'wek'we",
+      "gloss": "weeds"
+    },
+    {
+      "word": "lungo",
+      "gloss": "woven tray"
+    },
+    {
+      "word": "mazu",
+      "gloss": "bananas"
+    },
+    {
+      "word": "mbuzi",
+      "gloss": "goat"
+    },
+    {
+      "word": "mvarika",
+      "gloss": "female goat"
+    },
+    {
+      "word": "nazi",
+      "gloss": "coconut"
+    },
+    {
+      "word": "ndoso",
+      "gloss": "dream"
+    },
+    {
+      "word": "ngoma",
+      "gloss": "drum"
+    },
+    {
+      "word": "ngwadu",
+      "gloss": "bitter"
+    },
+    {
+      "word": "ng'ombe",
+      "gloss": "ox"
+    },
+    {
+      "word": "njira",
+      "gloss": "path"
+    },
+    {
+      "word": "nyuchi",
+      "gloss": "bee"
+    },
+    {
+      "word": "nzovu",
+      "gloss": "elephant"
+    },
+    {
+      "word": "ocha",
+      "gloss": "roast"
+    },
+    {
+      "word": "payu",
+      "gloss": "papaya"
+    },
+    {
+      "word": "p'anda",
+      "gloss": "catapult"
+    },
+    {
+      "word": "phalu",
+      "gloss": "building pole"
+    },
+    {
+      "word": "renje",
+      "gloss": "pumpkin"
+    },
+    {
+      "word": "saa",
+      "gloss": "clock"
+    },
+    {
+      "word": "shambi",
+      "gloss": "antelope"
+    },
+    {
+      "word": "tumbi",
+      "gloss": "egg"
+    },
+    {
+      "word": "t'indi",
+      "gloss": "tomato"
+    },
+    {
+      "word": "tsere",
+      "gloss": "maize"
+    },
+    {
+      "word": "ts'imba",
+      "gloss": "lion"
+    },
+    {
+      "word": "uha",
+      "gloss": "bow"
+    },
+    {
+      "word": "virahu",
+      "gloss": "shoes"
+    },
+    {
+      "word": "wari",
+      "gloss": "pounded maize"
+    },
+    {
+      "word": "yanga",
+      "gloss": "rattle"
+    },
+    {
+      "word": "ziya",
+      "gloss": "lake"
+    },
+    {
+      "word": "zhogotilo",
+      "gloss": "type of bird"
+    }
+  ],
+  "num_graphemes": 46,
+  "confidence": "high",
+  "notes": "Hartell's phoneme notation converted to standard IPA: labialized/coarticulated stops /kp/, /kph/, /gb/, /ŋm/, /ŋmgb/ rendered as /k͡p/, /k͡pʰ/, /ɡ͡b/, /ŋ͡m/, /ŋ͡mɡ͡b/; aspirates /ph/, /tsh/, /th/, /ch'/, /kh/, /kph/ mapped with ʰ; voiced palatal/alveolar affricates and fricatives mapped to standard IPA symbols."
+}

@@ -1,0 +1,191 @@
+{
+  "code": "mfi",
+  "name": "Mo",
+  "country": "Ghana",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 96",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "ɪ",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "ʊ",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": null,
+  "notes": "Vowel nasalization /Ṽ/ is written as Vh, and vowel length /V:/ is written as double vowels VV. Labialization indicated by 'w' digraphs (e.g. bw, kw, lw).",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "la",
+      "gloss": "to go"
+    },
+    {
+      "word": "ba",
+      "gloss": "to come"
+    },
+    {
+      "word": "che",
+      "gloss": "to stand"
+    },
+    {
+      "word": "di",
+      "gloss": "to eat"
+    },
+    {
+      "word": "lwe",
+      "gloss": "to go out"
+    },
+    {
+      "word": "lɛ",
+      "gloss": "to get"
+    },
+    {
+      "word": "fog",
+      "gloss": "to pour"
+    },
+    {
+      "word": "ger",
+      "gloss": "lizard"
+    },
+    {
+      "word": "gba",
+      "gloss": "also"
+    },
+    {
+      "word": "hal",
+      "gloss": "egg"
+    },
+    {
+      "word": "lii",
+      "gloss": "to remember"
+    },
+    {
+      "word": "jo",
+      "gloss": "to enter"
+    },
+    {
+      "word": "kaa",
+      "gloss": "to leave"
+    },
+    {
+      "word": "kpɔ",
+      "gloss": "to take"
+    },
+    {
+      "word": "la",
+      "gloss": "to go"
+    },
+    {
+      "word": "mɛɛ",
+      "gloss": "father"
+    },
+    {
+      "word": "na",
+      "gloss": "to see"
+    },
+    {
+      "word": "ŋɔ",
+      "gloss": "to say"
+    },
+    {
+      "word": "nya",
+      "gloss": "mother"
+    },
+    {
+      "word": "hog",
+      "gloss": "bone"
+    },
+    {
+      "word": "lɔ",
+      "gloss": "to hit"
+    },
+    {
+      "word": "pe",
+      "gloss": "yam"
+    },
+    {
+      "word": "berɛ",
+      "gloss": "to return"
+    },
+    {
+      "word": "so",
+      "gloss": "to sit"
+    },
+    {
+      "word": "tɔ",
+      "gloss": "to cover"
+    },
+    {
+      "word": "ku",
+      "gloss": "to break"
+    },
+    {
+      "word": "vog",
+      "gloss": "fetish"
+    },
+    {
+      "word": "we",
+      "gloss": "to hurt"
+    },
+    {
+      "word": "yawɛ",
+      "gloss": "to buy"
+    }
+  ]
+}

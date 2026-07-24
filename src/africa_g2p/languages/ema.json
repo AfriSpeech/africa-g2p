@@ -1,0 +1,223 @@
+{
+  "code": "ema",
+  "name": "Emai",
+  "country": "Nigeria",
+  "family": "Edoid",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 89",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "t͡ʃ",
+    "j": "d͡ʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "nw": "nw",
+    "f": "f",
+    "v": "v",
+    "vb": "β",
+    "s": "s",
+    "z": "z",
+    "sh": "ʃ",
+    "kh": "x",
+    "gh": "ɣ",
+    "r": "r",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ẹ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ọ": "ɔ"
+  },
+  "diacritics": {
+    "n": "◌̃"
+  },
+  "tones": null,
+  "notes": "Hartell uses /y/ for IPA /j/, /tʃ/ and /dʒ/ for affricates, and underdot diacritics for /ɛ/ (ẹ) and /ɔ/ (ọ). Nasalization is written with a digraph sequence Vn (except /e/ and /o/). Vowels are lengthened by doubling VV.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ẹ",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kh",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "nw",
+    "ny",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "vb",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ma",
+      "gloss": "to mould clay"
+    },
+    {
+      "word": "bee",
+      "gloss": "to start"
+    },
+    {
+      "word": "che",
+      "gloss": "again"
+    },
+    {
+      "word": "edo",
+      "gloss": "termite"
+    },
+    {
+      "word": "ye",
+      "gloss": "to reach"
+    },
+    {
+      "word": "hẹ",
+      "gloss": "to permeate"
+    },
+    {
+      "word": "fan",
+      "gloss": "to pluck"
+    },
+    {
+      "word": "ga",
+      "gloss": "to worship"
+    },
+    {
+      "word": "gba",
+      "gloss": "to be big"
+    },
+    {
+      "word": "ghaa",
+      "gloss": "to dry"
+    },
+    {
+      "word": "haa",
+      "gloss": "to be quiet"
+    },
+    {
+      "word": "si",
+      "gloss": "to pull"
+    },
+    {
+      "word": "je",
+      "gloss": "to laugh"
+    },
+    {
+      "word": "ka",
+      "gloss": "to dry"
+    },
+    {
+      "word": "khaa",
+      "gloss": "to carve"
+    },
+    {
+      "word": "kpa",
+      "gloss": "to vomit"
+    },
+    {
+      "word": "laa",
+      "gloss": "to be better"
+    },
+    {
+      "word": "emi",
+      "gloss": "thing"
+    },
+    {
+      "word": "eni",
+      "gloss": "name"
+    },
+    {
+      "word": "nwun",
+      "gloss": "to carry"
+    },
+    {
+      "word": "nyẹn",
+      "gloss": "to cook"
+    },
+    {
+      "word": "to",
+      "gloss": "to ache"
+    },
+    {
+      "word": "họ",
+      "gloss": "to slaughter"
+    },
+    {
+      "word": "pee",
+      "gloss": "to fill to the brim"
+    },
+    {
+      "word": "raa",
+      "gloss": "to steal"
+    },
+    {
+      "word": "se",
+      "gloss": "to be enough"
+    },
+    {
+      "word": "shasha",
+      "gloss": "to scrape (as a pot)"
+    },
+    {
+      "word": "eto",
+      "gloss": "hair"
+    },
+    {
+      "word": "khu",
+      "gloss": "to chase"
+    },
+    {
+      "word": "van",
+      "gloss": "to growl, bark"
+    },
+    {
+      "word": "vbee",
+      "gloss": "to twist (yam tendrils)"
+    },
+    {
+      "word": "wee",
+      "gloss": "to wear"
+    },
+    {
+      "word": "yaya",
+      "gloss": "to scavenge for food"
+    },
+    {
+      "word": "zẹ",
+      "gloss": "to germinate"
+    }
+  ]
+}

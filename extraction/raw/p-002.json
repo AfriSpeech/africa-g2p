@@ -1,0 +1,297 @@
+{
+  "page": 2,
+  "is_language_page": true,
+  "language": "Abidji",
+  "iso639_3": "abi",
+  "country": "Côte d'Ivoire",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "ʔ"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ɩ"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ʊ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "Ṽ",
+      "grapheme": "Vn"
+    }
+  ],
+  "diacritics": [],
+  "tones": {},
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "w",
+    "y",
+    "ʔ"
+  ],
+  "examples": [
+    {
+      "word": "a",
+      "gloss": "go!"
+    },
+    {
+      "word": "ba",
+      "gloss": "vine"
+    },
+    {
+      "word": "có",
+      "gloss": "place"
+    },
+    {
+      "word": "dada",
+      "gloss": "net"
+    },
+    {
+      "word": "egbe",
+      "gloss": "palm nuts"
+    },
+    {
+      "word": "tɛ",
+      "gloss": "over there"
+    },
+    {
+      "word": "kpɛnkpɛ",
+      "gloss": "skin"
+    },
+    {
+      "word": "fun",
+      "gloss": "lie"
+    },
+    {
+      "word": "ege",
+      "gloss": "behind"
+    },
+    {
+      "word": "gba",
+      "gloss": "now"
+    },
+    {
+      "word": "hɩ",
+      "gloss": "husband"
+    },
+    {
+      "word": "ti",
+      "gloss": "listen!"
+    },
+    {
+      "word": "rɩtɩ",
+      "gloss": "ear"
+    },
+    {
+      "word": "juju",
+      "gloss": "look for it!"
+    },
+    {
+      "word": "karʊ",
+      "gloss": "chicken"
+    },
+    {
+      "word": "kpan",
+      "gloss": "human being"
+    },
+    {
+      "word": "la",
+      "gloss": "fear"
+    },
+    {
+      "word": "mʊ",
+      "gloss": "in"
+    },
+    {
+      "word": "nʊ",
+      "gloss": "day"
+    },
+    {
+      "word": "okoko",
+      "gloss": "banana"
+    },
+    {
+      "word": "ɔbɔ",
+      "gloss": "thing"
+    },
+    {
+      "word": "plɛ",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "nyɔmbɔ",
+      "gloss": "stupidity"
+    },
+    {
+      "word": "rɩra",
+      "gloss": "noise"
+    },
+    {
+      "word": "sie",
+      "gloss": "fish"
+    },
+    {
+      "word": "tɛbua",
+      "gloss": "paddle"
+    },
+    {
+      "word": "lu",
+      "gloss": "year"
+    },
+    {
+      "word": "lʊ",
+      "gloss": "sickness"
+    },
+    {
+      "word": "wɩ",
+      "gloss": "child"
+    },
+    {
+      "word": "yi",
+      "gloss": "woman"
+    },
+    {
+      "word": "unʔun",
+      "gloss": "bad"
+    }
+  ],
+  "num_graphemes": 30,
+  "confidence": "high",
+  "notes": "Mapped Hartell vowel symbols /ɩ/ to IPA /ɪ/, /ɷ/ to IPA /ʊ/, and nasal vowel notation /Ṽ/ to grapheme digram sequence Vn."
+}

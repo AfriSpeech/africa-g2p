@@ -1,0 +1,318 @@
+{
+  "page": 17,
+  "is_language_page": true,
+  "language": "Bisa",
+  "iso639_3": "bib",
+  "country": "Burkina Faso",
+  "family": "Mande",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "t͡ʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ɩ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ʊ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0302",
+      "role": "high low tone",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent",
+    "high low": "circumflex accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "ɛ",
+    "f",
+    "g",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ka",
+      "gloss": "arrow"
+    },
+    {
+      "word": "basɩ",
+      "gloss": "eggplant"
+    },
+    {
+      "word": "cir",
+      "gloss": "chief"
+    },
+    {
+      "word": "da",
+      "gloss": "mother"
+    },
+    {
+      "word": "ser",
+      "gloss": "sheep"
+    },
+    {
+      "word": "fəm",
+      "gloss": "hare"
+    },
+    {
+      "word": "lɛ",
+      "gloss": "mouth"
+    },
+    {
+      "word": "fu",
+      "gloss": "white"
+    },
+    {
+      "word": "ga",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "hɛ",
+      "gloss": "calabash"
+    },
+    {
+      "word": "ji",
+      "gloss": "clay"
+    },
+    {
+      "word": "hɩ",
+      "gloss": "to say"
+    },
+    {
+      "word": "jeer",
+      "gloss": "court"
+    },
+    {
+      "word": "kaara",
+      "gloss": "maize"
+    },
+    {
+      "word": "la",
+      "gloss": "rain"
+    },
+    {
+      "word": "maasɩ",
+      "gloss": "broom"
+    },
+    {
+      "word": "noom",
+      "gloss": "folktale"
+    },
+    {
+      "word": "nyɩ",
+      "gloss": "child"
+    },
+    {
+      "word": "ŋua",
+      "gloss": "bull"
+    },
+    {
+      "word": "woso",
+      "gloss": "sun"
+    },
+    {
+      "word": "wɔ",
+      "gloss": "hand"
+    },
+    {
+      "word": "pɛɛra",
+      "gloss": "cloth"
+    },
+    {
+      "word": "bar",
+      "gloss": "rope"
+    },
+    {
+      "word": "sisi",
+      "gloss": "horse"
+    },
+    {
+      "word": "tur",
+      "gloss": "car"
+    },
+    {
+      "word": "muku",
+      "gloss": "worm"
+    },
+    {
+      "word": "kur",
+      "gloss": "chicken"
+    },
+    {
+      "word": "vɔŋgɔ",
+      "gloss": "branch"
+    },
+    {
+      "word": "woso",
+      "gloss": "sun"
+    },
+    {
+      "word": "yɛ",
+      "gloss": "salt"
+    },
+    {
+      "word": "zɔɔn",
+      "gloss": "bee"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/, /ɩ/ for IPA /ɪ/, and /tʃ/, /dʒ/ for affricates /t͡ʃ/, /d͡ʒ/. Length /V:/ is indicated by double vowels VV, and nasalization /Ṽ/ by digraph Vn."
+}

@@ -1,0 +1,178 @@
+{
+  "code": "bhy",
+  "name": "Bhele",
+  "country": "Zaire",
+  "family": "Border-Bantu",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 16",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "ɓ",
+    "bh": "b",
+    "t": "t",
+    "d": "d",
+    "dh": "ɗ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "s": "s",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥"
+  },
+  "tones": {
+    "high": "acute (only to clarify ambiguity)",
+    "low": "unmarked"
+  },
+  "notes": "Hartell transcribes implosives /ɓ/ and /ɗ/ mapped to orthographic 'b' and 'dh', whereas plain voiced stops /b/ and /d/ map to 'bh' and 'd'.",
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "d",
+    "dh",
+    "e",
+    "ɛ",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "ágɔ́",
+      "gloss": "bat"
+    },
+    {
+      "word": "bóski",
+      "gloss": "trap"
+    },
+    {
+      "word": "bholo",
+      "gloss": "water pot"
+    },
+    {
+      "word": "dodó",
+      "gloss": "ground"
+    },
+    {
+      "word": "dhidhá",
+      "gloss": "to go down"
+    },
+    {
+      "word": "ebale",
+      "gloss": "liver"
+    },
+    {
+      "word": "ɛtɛ́",
+      "gloss": "stone"
+    },
+    {
+      "word": "gagá",
+      "gloss": "to ferment"
+    },
+    {
+      "word": "gbomá",
+      "gloss": "to bark"
+    },
+    {
+      "word": "hiá",
+      "gloss": "to build"
+    },
+    {
+      "word": "íso",
+      "gloss": "eye"
+    },
+    {
+      "word": "jamu",
+      "gloss": "civet cat"
+    },
+    {
+      "word": "kókɔ́",
+      "gloss": "hen"
+    },
+    {
+      "word": "kpelu",
+      "gloss": "craving for meat"
+    },
+    {
+      "word": "lélɔ",
+      "gloss": "nose"
+    },
+    {
+      "word": "mémɛ́",
+      "gloss": "goat"
+    },
+    {
+      "word": "nunɔ",
+      "gloss": "old man"
+    },
+    {
+      "word": "nyɔnyɔ́",
+      "gloss": "edible grasshopper"
+    },
+    {
+      "word": "omi",
+      "gloss": "older brother"
+    },
+    {
+      "word": "óká",
+      "gloss": "understand"
+    },
+    {
+      "word": "pupá",
+      "gloss": "to tremble"
+    },
+    {
+      "word": "sosá",
+      "gloss": "to wash"
+    },
+    {
+      "word": "tútú",
+      "gloss": "calabash"
+    },
+    {
+      "word": "udá",
+      "gloss": "to cut"
+    },
+    {
+      "word": "wání",
+      "gloss": "where?"
+    },
+    {
+      "word": "yalá",
+      "gloss": "to fly"
+    }
+  ]
+}

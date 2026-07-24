@@ -1,0 +1,222 @@
+{
+  "code": "ade",
+  "name": "Adele",
+  "country": "Togo",
+  "family": "Niger-Congo",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 88",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "tʃ": "tʃ",
+    "dʒ": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "kw": "kʷ",
+    "'": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ɩ": "ɪ",
+    "e": "e",
+    "ɛ": "ɛ",
+    "ä": "ɨ",
+    "a": "a",
+    "u": "u",
+    "ʊ": "ʊ",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "acute accent (́)",
+    "low": "grave accent (̀)",
+    "falling": "circumflex accent (̂)"
+  },
+  "notes": "Language identified as Adele (Togo, page 296 in Hartell 1993). The ALPHABET line prints 32 items, but 'number of graphemes' states 33; 'gb' appears in the EXAMPLES column but was omitted from the ALPHABET line and phoneme block. Hartell's phoneme /y/ is mapped to IPA /j/. Phoneme /ɩ/ is transcribed as IPA /ɪ/ and /ɨ/ corresponds to grapheme 'ä'.",
+  "alphabet": [
+    "a",
+    "ä",
+    "b",
+    "d",
+    "dʒ",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "i",
+    "ɩ",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "tʃ",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "ada",
+      "gloss": "grandmother"
+    },
+    {
+      "word": "äri",
+      "gloss": "dust"
+    },
+    {
+      "word": "bilo",
+      "gloss": "sheep"
+    },
+    {
+      "word": "dì",
+      "gloss": "head"
+    },
+    {
+      "word": "dʒomî",
+      "gloss": "baboon"
+    },
+    {
+      "word": "eka",
+      "gloss": "red"
+    },
+    {
+      "word": "sɛsɛ",
+      "gloss": "slow"
+    },
+    {
+      "word": "fefe",
+      "gloss": "fast, rapid"
+    },
+    {
+      "word": "gúrè",
+      "gloss": "dove"
+    },
+    {
+      "word": "gbé",
+      "gloss": "fox"
+    },
+    {
+      "word": "ide",
+      "gloss": "rhinoceros"
+    },
+    {
+      "word": "ɩfɛ̀",
+      "gloss": "to run"
+    },
+    {
+      "word": "kágoré",
+      "gloss": "crocodile"
+    },
+    {
+      "word": "ɔkpá",
+      "gloss": "difficult"
+    },
+    {
+      "word": "lolu",
+      "gloss": "long"
+    },
+    {
+      "word": "moyí",
+      "gloss": "hyena"
+    },
+    {
+      "word": "inì",
+      "gloss": "snake"
+    },
+    {
+      "word": "nyí",
+      "gloss": "you (sg)"
+    },
+    {
+      "word": "laŋu",
+      "gloss": "honey"
+    },
+    {
+      "word": "ówá",
+      "gloss": "beer"
+    },
+    {
+      "word": "lɔsɔ",
+      "gloss": "good"
+    },
+    {
+      "word": "opōlöŋɔ̀",
+      "gloss": "lizard"
+    },
+    {
+      "word": "rú",
+      "gloss": "body"
+    },
+    {
+      "word": "sá",
+      "gloss": "there"
+    },
+    {
+      "word": "títi",
+      "gloss": "short"
+    },
+    {
+      "word": "tʃwì",
+      "gloss": "to tear"
+    },
+    {
+      "word": "údu",
+      "gloss": "frog"
+    },
+    {
+      "word": "ruŋa",
+      "gloss": "island"
+    },
+    {
+      "word": "vúrú",
+      "gloss": "earth"
+    },
+    {
+      "word": "wórɔ",
+      "gloss": "cotton"
+    },
+    {
+      "word": "eyí",
+      "gloss": "rain"
+    },
+    {
+      "word": "zá",
+      "gloss": "meat"
+    },
+    {
+      "word": "ɛ'ɛ",
+      "gloss": "arrow"
+    }
+  ]
+}

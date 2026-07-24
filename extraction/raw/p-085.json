@@ -1,0 +1,336 @@
+{
+  "page": 85,
+  "is_language_page": true,
+  "language": "Mbembe",
+  "iso639_3": "mfb",
+  "country": "Nigeria",
+  "family": "Benue-Congo, Cross-River",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "t͈",
+      "grapheme": "tt"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "k͈",
+      "grapheme": "kk"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ɸ",
+      "grapheme": "ph"
+    },
+    {
+      "phoneme": "β",
+      "grapheme": "bh"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "fh"
+    },
+    {
+      "phoneme": "f͈",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "s͈",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ẹ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ọ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "fortis / vowel quality dot below",
+      "ipa": ""
+    },
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute",
+    "low": "grave"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "ch",
+    "d",
+    "e",
+    "ẹ",
+    "f",
+    "fh",
+    "g",
+    "gb",
+    "i",
+    "j",
+    "k",
+    "kk",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "ny",
+    "o",
+    "ọ",
+    "p",
+    "ph",
+    "r",
+    "s",
+    "t",
+    "tt",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ana",
+      "gloss": "cooking oil"
+    },
+    {
+      "word": "eba",
+      "gloss": "breast"
+    },
+    {
+      "word": "obho",
+      "gloss": "leg, foot"
+    },
+    {
+      "word": "echi",
+      "gloss": "tree, stick"
+    },
+    {
+      "word": "oda",
+      "gloss": "sleep"
+    },
+    {
+      "word": "eten",
+      "gloss": "meat"
+    },
+    {
+      "word": "edẹ",
+      "gloss": "kind of large fish"
+    },
+    {
+      "word": "efa",
+      "gloss": "power"
+    },
+    {
+      "word": "efha",
+      "gloss": "bush rat"
+    },
+    {
+      "word": "agaana",
+      "gloss": "kind of wild fruit"
+    },
+    {
+      "word": "ogbaare",
+      "gloss": "floor"
+    },
+    {
+      "word": "ibyi",
+      "gloss": "place"
+    },
+    {
+      "word": "eja",
+      "gloss": "sacrifice"
+    },
+    {
+      "word": "oka",
+      "gloss": "fetish"
+    },
+    {
+      "word": "okka",
+      "gloss": "mother"
+    },
+    {
+      "word": "ekpa",
+      "gloss": "bag"
+    },
+    {
+      "word": "lọ",
+      "gloss": "to make noise"
+    },
+    {
+      "word": "imaana",
+      "gloss": "knife"
+    },
+    {
+      "word": "oraanga",
+      "gloss": "river"
+    },
+    {
+      "word": "enya",
+      "gloss": "dressing"
+    },
+    {
+      "word": "opo",
+      "gloss": "weight on fishing net"
+    },
+    {
+      "word": "onọng",
+      "gloss": "person"
+    },
+    {
+      "word": "epa",
+      "gloss": "river bank"
+    },
+    {
+      "word": "ophe",
+      "gloss": "moon, month"
+    },
+    {
+      "word": "irem",
+      "gloss": "punishment"
+    },
+    {
+      "word": "asi",
+      "gloss": "water"
+    },
+    {
+      "word": "ata",
+      "gloss": "stones"
+    },
+    {
+      "word": "etta",
+      "gloss": "quarreling"
+    },
+    {
+      "word": "ewu",
+      "gloss": "day"
+    },
+    {
+      "word": "evu",
+      "gloss": "goat"
+    },
+    {
+      "word": "awa",
+      "gloss": "soup"
+    },
+    {
+      "word": "eya",
+      "gloss": "afternoon"
+    },
+    {
+      "word": "izẹ",
+      "gloss": "blood"
+    }
+  ],
+  "num_graphemes": 34,
+  "confidence": "high",
+  "notes": "Examples are from the Adun dialect. Underdots in Hartell's phoneme notation (/ṭ/, /ḳ/, /f̣/, /ṣ/) represent fortis consonants, mapped to graphemes tt, kk, f, s respectively. Underdots on vowels (ẹ, ọ) indicate fortis vowels (/ɛ/, /ɔ/). Labialization (kw, gw, nw) and palatalization (py, by, phy, my) combinations are listed separately on page."
+}

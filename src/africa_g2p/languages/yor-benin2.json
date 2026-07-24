@@ -1,0 +1,175 @@
+{
+  "code": "yor-benin2",
+  "name": "Yoruba",
+  "country": "Benin",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 147",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "f": "f",
+    "s": "s",
+    "sh": "ʃ",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "n": "◌̃"
+  },
+  "tones": null,
+  "notes": "Hartell uses /y/ for IPA /j/, /∫/ for IPA /ʃ/, and /ʤ/ for IPA /dʒ/. Nasal vowels /Ṽ/ are written orthographically as Vn (vowel followed by 'n'), applicable to all vowels except /e/ and /o/.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "ata",
+      "gloss": "hot pepper"
+    },
+    {
+      "word": "baba",
+      "gloss": "father"
+    },
+    {
+      "word": "dudu",
+      "gloss": "black"
+    },
+    {
+      "word": "rere",
+      "gloss": "well"
+    },
+    {
+      "word": "ɛyɛ",
+      "gloss": "bird"
+    },
+    {
+      "word": "afa",
+      "gloss": "point"
+    },
+    {
+      "word": "gangan",
+      "gloss": "drum"
+    },
+    {
+      "word": "ighabhe",
+      "gloss": "forgetfulness"
+    },
+    {
+      "word": "aha",
+      "gloss": "calabash"
+    },
+    {
+      "word": "ibi",
+      "gloss": "bad"
+    },
+    {
+      "word": "aja",
+      "gloss": "dog"
+    },
+    {
+      "word": "kɔkɔro",
+      "gloss": "key"
+    },
+    {
+      "word": "kpaki",
+      "gloss": "manioc"
+    },
+    {
+      "word": "laalaa",
+      "gloss": "difficulty"
+    },
+    {
+      "word": "mimɔ",
+      "gloss": "pure"
+    },
+    {
+      "word": "ina",
+      "gloss": "fire"
+    },
+    {
+      "word": "oko",
+      "gloss": "field"
+    },
+    {
+      "word": "ɔkɔ",
+      "gloss": "husband"
+    },
+    {
+      "word": "pipan",
+      "gloss": "train"
+    },
+    {
+      "word": "rɔrowɔ",
+      "gloss": "vegetable"
+    },
+    {
+      "word": "eso",
+      "gloss": "fruit"
+    },
+    {
+      "word": "shasha",
+      "gloss": "quickly"
+    },
+    {
+      "word": "timuntimun",
+      "gloss": "pillow"
+    },
+    {
+      "word": "tubu",
+      "gloss": "prison"
+    },
+    {
+      "word": "werewere",
+      "gloss": "quickly"
+    },
+    {
+      "word": "iya",
+      "gloss": "mother"
+    }
+  ]
+}

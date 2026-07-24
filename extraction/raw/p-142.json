@@ -1,0 +1,336 @@
+{
+  "page": 142,
+  "is_language_page": true,
+  "language": "Yamba",
+  "iso639_3": "yam",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, North",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ts",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "dz",
+      "grapheme": "dz"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "ʉ",
+      "grapheme": "ʉ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "unmarked",
+    "mid": "unmarked",
+    "low": "grave accent (`)",
+    "rising": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "dz",
+    "e",
+    "ɛ",
+    "ə",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "ts",
+    "u",
+    "ʉ",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "gâp",
+      "gloss": "to share"
+    },
+    {
+      "word": "ba",
+      "gloss": "two"
+    },
+    {
+      "word": "cok",
+      "gloss": "to remove"
+    },
+    {
+      "word": "dak",
+      "gloss": "chair"
+    },
+    {
+      "word": "dzèn",
+      "gloss": "to reach"
+    },
+    {
+      "word": "tes",
+      "gloss": "to stand"
+    },
+    {
+      "word": "bɛ̀s",
+      "gloss": "calabash"
+    },
+    {
+      "word": "dzəm",
+      "gloss": "to love"
+    },
+    {
+      "word": "fa",
+      "gloss": "to give"
+    },
+    {
+      "word": "gù",
+      "gloss": "to do"
+    },
+    {
+      "word": "gbɛ̀'",
+      "gloss": "to chop"
+    },
+    {
+      "word": "gham",
+      "gloss": "to shout"
+    },
+    {
+      "word": "hum",
+      "gloss": "ten"
+    },
+    {
+      "word": "mì",
+      "gloss": "neck"
+    },
+    {
+      "word": "jòŋ",
+      "gloss": "mistake"
+    },
+    {
+      "word": "kam",
+      "gloss": "crab"
+    },
+    {
+      "word": "kpe'",
+      "gloss": "meeting"
+    },
+    {
+      "word": "làk",
+      "gloss": "to pay"
+    },
+    {
+      "word": "ma",
+      "gloss": "mother"
+    },
+    {
+      "word": "nàm",
+      "gloss": "animal"
+    },
+    {
+      "word": "ŋam",
+      "gloss": "squeeze"
+    },
+    {
+      "word": "nto'",
+      "gloss": "palace"
+    },
+    {
+      "word": "mpì",
+      "gloss": "eagle"
+    },
+    {
+      "word": "ràk",
+      "gloss": "fish trap"
+    },
+    {
+      "word": "sòŋ",
+      "gloss": "cobra"
+    },
+    {
+      "word": "tàk",
+      "gloss": "snail"
+    },
+    {
+      "word": "ntsoŋ",
+      "gloss": "firewood"
+    },
+    {
+      "word": "yu",
+      "gloss": "things"
+    },
+    {
+      "word": "kʉ̀",
+      "gloss": "rope"
+    },
+    {
+      "word": "va",
+      "gloss": "how"
+    },
+    {
+      "word": "wà",
+      "gloss": "nothing"
+    },
+    {
+      "word": "yam",
+      "gloss": "large"
+    },
+    {
+      "word": "zòŋ",
+      "gloss": "tomorrow"
+    },
+    {
+      "word": "ku'",
+      "gloss": "cocoyam"
+    }
+  ],
+  "num_graphemes": 34,
+  "confidence": "high",
+  "notes": "Hartell notations mapped to standard IPA: /tʃ/ to tʃ, /dʒ/ to dʒ, /y/ to j, /?/ to ʔ. Tone marks include low tone indicated by grave accent."
+}

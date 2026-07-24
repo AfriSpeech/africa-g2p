@@ -1,0 +1,360 @@
+{
+  "page": 70,
+  "is_language_page": true,
+  "language": "Karan",
+  "iso639_3": "krb",
+  "country": "Cameroon",
+  "family": "Adamawa-Ubangi, Adamawa B",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ɗ"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʄ",
+      "grapheme": "ƴ"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "m͡b",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "mɡ͡b",
+      "grapheme": "mgb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "n͡d",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "n͡z",
+      "grapheme": "nz"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋɡ",
+      "grapheme": "ŋg"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "v͡b",
+      "grapheme": "vb"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0327",
+      "role": "nasalization",
+      "ipa": "◌̃"
+    },
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+030C",
+      "role": "rising tone",
+      "ipa": "˩˥"
+    }
+  ],
+  "tones": {
+    "high": "acute",
+    "mid": "unmarked",
+    "low": "grave",
+    "rising": "caron"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "d",
+    "ɗ",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "mgb",
+    "n",
+    "nd",
+    "nz",
+    "ŋ",
+    "ŋg",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "vb",
+    "w",
+    "y",
+    "ƴ",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "mbáy",
+      "gloss": "chief"
+    },
+    {
+      "word": "bɔ̌h",
+      "gloss": "melon"
+    },
+    {
+      "word": "ɓày",
+      "gloss": "word"
+    },
+    {
+      "word": "dùhru",
+      "gloss": "baboon"
+    },
+    {
+      "word": "ɗuh",
+      "gloss": "to pound"
+    },
+    {
+      "word": "fê",
+      "gloss": "thing"
+    },
+    {
+      "word": "fay",
+      "gloss": "father-in-law"
+    },
+    {
+      "word": "gáy",
+      "gloss": "dog"
+    },
+    {
+      "word": "gbàhla",
+      "gloss": "weaver bird"
+    },
+    {
+      "word": "húm",
+      "gloss": "mushroom"
+    },
+    {
+      "word": "híh",
+      "gloss": "woven mat"
+    },
+    {
+      "word": "kúh",
+      "gloss": "gourd"
+    },
+    {
+      "word": "kpéh",
+      "gloss": "yam"
+    },
+    {
+      "word": "sàl",
+      "gloss": "rope"
+    },
+    {
+      "word": "máh",
+      "gloss": "mother"
+    },
+    {
+      "word": "mbìh",
+      "gloss": "water"
+    },
+    {
+      "word": "mgbama",
+      "gloss": "wild cat"
+    },
+    {
+      "word": "nah",
+      "gloss": "uncle"
+    },
+    {
+      "word": "ndɔ̀kɔ",
+      "gloss": "buffalo"
+    },
+    {
+      "word": "nzɔ́kɔ",
+      "gloss": "peanut"
+    },
+    {
+      "word": "nàŋ",
+      "gloss": "millet"
+    },
+    {
+      "word": "ŋgáɓi",
+      "gloss": "large antelope"
+    },
+    {
+      "word": "tòm",
+      "gloss": "salt"
+    },
+    {
+      "word": "nzɔ́kɔ",
+      "gloss": "peanut"
+    },
+    {
+      "word": "púh",
+      "gloss": "village"
+    },
+    {
+      "word": "làri",
+      "gloss": "silver"
+    },
+    {
+      "word": "sá̧w",
+      "gloss": "root"
+    },
+    {
+      "word": "tôm",
+      "gloss": "salt"
+    },
+    {
+      "word": "túl",
+      "gloss": "head"
+    },
+    {
+      "word": "vùl",
+      "gloss": "hut"
+    },
+    {
+      "word": "vbòl",
+      "gloss": "sorceress"
+    },
+    {
+      "word": "wáka",
+      "gloss": "field"
+    },
+    {
+      "word": "yáh",
+      "gloss": "friend"
+    },
+    {
+      "word": "yah",
+      "gloss": "to look for"
+    },
+    {
+      "word": "zuh",
+      "gloss": "to flee"
+    }
+  ],
+  "num_graphemes": 35,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ and hooked /ƴ/ in the phoneme table; /ƴ/ represents a palatal implosive (/ʄ/). Nasalization is marked by a cedilla under the first vowel of the word."
+}

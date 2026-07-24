@@ -1,0 +1,166 @@
+{
+  "code": "toq",
+  "name": "Toposa",
+  "country": "Sudan",
+  "family": "Eastern Nilotic, Teso-Turkana",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 127",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ị": "i̥",
+    "ụ": "u̥"
+  },
+  "diacritics": {
+    "̣": "̥",
+    "́": "˥"
+  },
+  "tones": {
+    "high": "marked only on the past tense marker in verbs (é, í)"
+  },
+  "notes": "Hartell symbol /y/ transcribed as IPA /j/. Hartell notation /Ṿ/ for voiceless vowels is transcribed as IPA voiceless ring /i̥, u̥/. Vowel harmony (/i, e, u, o/ vs /ɪ, ɛ, ʊ, ɔ/) is not differentiated in orthography. Voiceless vowels are marked orthographically with an underdot (ị, ụ); only ị and ụ are represented in orthography, other voiceless vowels are omitted.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "g",
+    "i",
+    "ị",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ụ",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "apa",
+      "gloss": "father"
+    },
+    {
+      "word": "nyebu",
+      "gloss": "hyena"
+    },
+    {
+      "word": "nyecom",
+      "gloss": "baboon"
+    },
+    {
+      "word": "nyedeŋo",
+      "gloss": "basket"
+    },
+    {
+      "word": "ee",
+      "gloss": "yes"
+    },
+    {
+      "word": "nyegete",
+      "gloss": "gazelle"
+    },
+    {
+      "word": "ito",
+      "gloss": "mother"
+    },
+    {
+      "word": "tokesị!",
+      "gloss": "comb your hair!"
+    },
+    {
+      "word": "nyejamu",
+      "gloss": "cow-skin"
+    },
+    {
+      "word": "nyekori",
+      "gloss": "giraffe"
+    },
+    {
+      "word": "nyaliru",
+      "gloss": "spear"
+    },
+    {
+      "word": "nyemoŋ",
+      "gloss": "ox"
+    },
+    {
+      "word": "nyanam",
+      "gloss": "river"
+    },
+    {
+      "word": "nyenyam",
+      "gloss": "marrow"
+    },
+    {
+      "word": "nyiŋok",
+      "gloss": "dog"
+    },
+    {
+      "word": "odo",
+      "gloss": "tag"
+    },
+    {
+      "word": "nyepir",
+      "gloss": "pole"
+    },
+    {
+      "word": "nyerot",
+      "gloss": "toad"
+    },
+    {
+      "word": "nyesebo",
+      "gloss": "stick"
+    },
+    {
+      "word": "nyetuko",
+      "gloss": "zebra"
+    },
+    {
+      "word": "nyauno",
+      "gloss": "rope"
+    },
+    {
+      "word": "topetụ!",
+      "gloss": "kick here!"
+    },
+    {
+      "word": "nyewapet",
+      "gloss": "eland"
+    },
+    {
+      "word": "loyomo",
+      "gloss": "hornbill"
+    }
+  ]
+}

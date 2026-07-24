@@ -1,0 +1,221 @@
+{
+  "code": "sag-congo",
+  "name": "Sango",
+  "country": "Congo",
+  "family": "Adamawa-Eastern",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 112",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "mb": "m͡b",
+    "mv": "m͡v",
+    "n": "n",
+    "nd": "n͡d",
+    "ng": "ŋ͡ɡ",
+    "ngb": "ŋ͡ɡ͡b",
+    "nz": "n͡z",
+    "ny": "ɲ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̀": "˩",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "acute (´)",
+    "mid": "macron (-)",
+    "low": "grave (`)",
+    "high-low": "circumflex (ˆ)"
+  },
+  "notes": "Hartell lists nasalized vowels /Ṽ/ indicated by Vn (except /ɛ/ or /ɔ/). Hartell uses /y/ for IPA /j/.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ng",
+    "ngb",
+    "nz",
+    "ny",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "la",
+      "gloss": "sun"
+    },
+    {
+      "word": "baba",
+      "gloss": "daddy"
+    },
+    {
+      "word": "doli",
+      "gloss": "elephant"
+    },
+    {
+      "word": "keke",
+      "gloss": "tree, wood"
+    },
+    {
+      "word": "pendere",
+      "gloss": "coquetry"
+    },
+    {
+      "word": "vene",
+      "gloss": "to lie"
+    },
+    {
+      "word": "fini",
+      "gloss": "nine"
+    },
+    {
+      "word": "gala",
+      "gloss": "market"
+    },
+    {
+      "word": "gbako",
+      "gloss": "forest"
+    },
+    {
+      "word": "hio",
+      "gloss": "quick"
+    },
+    {
+      "word": "ita",
+      "gloss": "brother"
+    },
+    {
+      "word": "kete",
+      "gloss": "small"
+    },
+    {
+      "word": "kpeka",
+      "gloss": "hoe"
+    },
+    {
+      "word": "lele",
+      "gloss": "donkey"
+    },
+    {
+      "word": "me",
+      "gloss": "ear"
+    },
+    {
+      "word": "mbeti",
+      "gloss": "paper"
+    },
+    {
+      "word": "mvene",
+      "gloss": "lie"
+    },
+    {
+      "word": "nako",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "ndo",
+      "gloss": "place"
+    },
+    {
+      "word": "ngu",
+      "gloss": "water, year"
+    },
+    {
+      "word": "ngbo",
+      "gloss": "snake"
+    },
+    {
+      "word": "nyama",
+      "gloss": "animal"
+    },
+    {
+      "word": "nzapa",
+      "gloss": "God"
+    },
+    {
+      "word": "ota",
+      "gloss": "three"
+    },
+    {
+      "word": "loro",
+      "gloss": "race"
+    },
+    {
+      "word": "pata",
+      "gloss": "5 francs"
+    },
+    {
+      "word": "sese",
+      "gloss": "earth"
+    },
+    {
+      "word": "tere",
+      "gloss": "story"
+    },
+    {
+      "word": "use",
+      "gloss": "two"
+    },
+    {
+      "word": "vi",
+      "gloss": "intestine"
+    },
+    {
+      "word": "wali",
+      "gloss": "woman"
+    },
+    {
+      "word": "yaka",
+      "gloss": "field"
+    },
+    {
+      "word": "zeme",
+      "gloss": "knife"
+    }
+  ]
+}

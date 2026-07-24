@@ -1,0 +1,65 @@
+{
+  "page": 126,
+  "is_language_page": true,
+  "language": "Loma",
+  "iso639_3": "lom",
+  "country": "Liberia",
+  "family": "Mande",
+  "graphemes": [],
+  "diacritics": [],
+  "tones": {},
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "d",
+    "ɗ",
+    "e",
+    "ɛ",
+    "ə",
+    "f",
+    "g",
+    "ɠ",
+    "gb",
+    "gw",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "nw",
+    "ɲ",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "v",
+    "ʋ",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "wɔnsaɩ",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "yɔlɔwoi",
+      "gloss": "chain"
+    },
+    {
+      "word": "zalai",
+      "gloss": "lion"
+    }
+  ],
+  "num_graphemes": 36,
+  "confidence": "low",
+  "notes": "The top half of the page scan (containing the header and phoneme-to-grapheme table) is missing/blank. Only the bottom section containing three examples, the ALPHABET list, number of graphemes (36), and page footer (176) is readable. Language identified as Loma (Liberia) based on orthography and vocabulary."
+}

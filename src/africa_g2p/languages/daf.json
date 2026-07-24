@@ -1,0 +1,238 @@
+{
+  "code": "daf",
+  "name": "Dan (Yacouba) (Blowo)",
+  "country": "Côte d'Ivoire",
+  "family": "Southern Mande",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 30",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "bh": "ɓ",
+    "m": "ɓ",
+    "t": "t",
+    "d": "d",
+    "dh": "ɗ",
+    "n": "ɗ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "kw": "kʷ",
+    "gw": "ɡʷ",
+    "ng": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "l",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "ɛa": "æ",
+    "ü": "ɯ",
+    "ö": "ɤ",
+    "ë": "ʌ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ",
+    "aɔ": "ɒ",
+    "Vn": "Ṽ"
+  },
+  "diacritics": {
+    "'": "˥",
+    "-": "˧",
+    "=": "˩"
+  },
+  "tones": {
+    "high": "'M",
+    "glide 1": "-M",
+    "glide 2": "M-",
+    "mid": "unmarked",
+    "low": "=M"
+  },
+  "notes": "Implosive symbols in text converted to IPA /ɓ/ and /ɗ/. Tone markings use symbols preceding or following words (' for high, - for glides, = for low).",
+  "alphabet": [
+    "a",
+    "aɔ",
+    "b",
+    "bh",
+    "d",
+    "dh",
+    "e",
+    "ɛ",
+    "ë",
+    "ɛa",
+    "f",
+    "g",
+    "gb",
+    "gw",
+    "i",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "o",
+    "ɔ",
+    "ö",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ü",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "=va",
+      "gloss": "large"
+    },
+    {
+      "word": "gbaɔ",
+      "gloss": "gift"
+    },
+    {
+      "word": "bu",
+      "gloss": "rifle"
+    },
+    {
+      "word": "-bho",
+      "gloss": "goat kid"
+    },
+    {
+      "word": "-du",
+      "gloss": "ox"
+    },
+    {
+      "word": "dhe",
+      "gloss": "mother"
+    },
+    {
+      "word": "ze",
+      "gloss": "beans"
+    },
+    {
+      "word": "'sɛ",
+      "gloss": "earth"
+    },
+    {
+      "word": "dë",
+      "gloss": "father"
+    },
+    {
+      "word": "'gbea",
+      "gloss": "large"
+    },
+    {
+      "word": "'fa",
+      "gloss": "slice"
+    },
+    {
+      "word": "-gen",
+      "gloss": "foot"
+    },
+    {
+      "word": "gbɛn-",
+      "gloss": "dog"
+    },
+    {
+      "word": "gwɛ-",
+      "gloss": "kind of tree"
+    },
+    {
+      "word": "'dhi",
+      "gloss": "mouth"
+    },
+    {
+      "word": "'ku",
+      "gloss": "yam"
+    },
+    {
+      "word": "kpö",
+      "gloss": "ball, bowl"
+    },
+    {
+      "word": "-kwɛ",
+      "gloss": "year"
+    },
+    {
+      "word": "=la",
+      "gloss": "trail"
+    },
+    {
+      "word": "mɛ",
+      "gloss": "person"
+    },
+    {
+      "word": "'në",
+      "gloss": "child"
+    },
+    {
+      "word": "gbeng",
+      "gloss": "night"
+    },
+    {
+      "word": "do",
+      "gloss": "one"
+    },
+    {
+      "word": "-gɔ",
+      "gloss": "head"
+    },
+    {
+      "word": "pö",
+      "gloss": "village"
+    },
+    {
+      "word": "=plɛ",
+      "gloss": "two"
+    },
+    {
+      "word": "'dra",
+      "gloss": "bridge of vines"
+    },
+    {
+      "word": "'sɛ",
+      "gloss": "earth"
+    },
+    {
+      "word": "'to",
+      "gloss": "name"
+    },
+    {
+      "word": "-du",
+      "gloss": "ox"
+    },
+    {
+      "word": "'lü",
+      "gloss": "tree"
+    },
+    {
+      "word": "=va",
+      "gloss": "big"
+    },
+    {
+      "word": "-wo",
+      "gloss": "voice"
+    },
+    {
+      "word": "'yi",
+      "gloss": "water"
+    },
+    {
+      "word": "=zɛ",
+      "gloss": "termite"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "code": "ffm",
+  "name": "Fulfulde (Peul)",
+  "country": "Mali",
+  "family": "West Atlantic",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 45",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "'": "ʔ",
+    "m": "m",
+    "mb": "ᵐb",
+    "n": "n",
+    "nd": "ⁿd",
+    "ng": "ŋɡ",
+    "nj": "ɲɟ",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "ƴ": "ʔj",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {},
+  "tones": {},
+  "notes": "Hartell uses /y/ for IPA /j/, /ʔy/ for /ʔj/ (represented by grapheme ƴ), and /nj/ for prenasalized palatal stop /ɲɟ/. Double consonants (CC) represent gemination (/C:/) and double vowels (VV) represent length (/V:/).",
+  "alphabet": [
+    "'",
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "ng",
+    "nj",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y",
+    "ƴ"
+  ],
+  "examples": [
+    {
+      "word": "bo'e",
+      "gloss": "carps (fish)"
+    },
+    {
+      "word": "Ali",
+      "gloss": "man's name"
+    },
+    {
+      "word": "be'i",
+      "gloss": "goats"
+    },
+    {
+      "word": "ɓoggol",
+      "gloss": "rope"
+    },
+    {
+      "word": "cofal",
+      "gloss": "chicken"
+    },
+    {
+      "word": "daago",
+      "gloss": "mat"
+    },
+    {
+      "word": "ɗatol",
+      "gloss": "way, path"
+    },
+    {
+      "word": "enen",
+      "gloss": "we"
+    },
+    {
+      "word": "faandu",
+      "gloss": "gourd"
+    },
+    {
+      "word": "gite",
+      "gloss": "eyes"
+    },
+    {
+      "word": "haako",
+      "gloss": "green leaves"
+    },
+    {
+      "word": "inna",
+      "gloss": "mother"
+    },
+    {
+      "word": "jamma",
+      "gloss": "night"
+    },
+    {
+      "word": "kudol",
+      "gloss": "spark"
+    },
+    {
+      "word": "laamu",
+      "gloss": "power"
+    },
+    {
+      "word": "maaro",
+      "gloss": "rice"
+    },
+    {
+      "word": "mbaalu",
+      "gloss": "sheep"
+    },
+    {
+      "word": "nano",
+      "gloss": "left hand"
+    },
+    {
+      "word": "ndamndi",
+      "gloss": "billy-goat"
+    },
+    {
+      "word": "ngaari",
+      "gloss": "bull"
+    },
+    {
+      "word": "njaareendi",
+      "gloss": "sand"
+    },
+    {
+      "word": "nyaamo",
+      "gloss": "right hand"
+    },
+    {
+      "word": "ŋoonyi",
+      "gloss": "biscuit"
+    },
+    {
+      "word": "oolo",
+      "gloss": "yellow"
+    },
+    {
+      "word": "paɗe",
+      "gloss": "shoes"
+    },
+    {
+      "word": "rimo",
+      "gloss": "cotton"
+    },
+    {
+      "word": "saaya",
+      "gloss": "caftan"
+    },
+    {
+      "word": "tati",
+      "gloss": "three"
+    },
+    {
+      "word": "uurdi",
+      "gloss": "incense"
+    },
+    {
+      "word": "waandu",
+      "gloss": "monkey"
+    },
+    {
+      "word": "yooro",
+      "gloss": "dryness"
+    },
+    {
+      "word": "ƴeeŋol",
+      "gloss": "rotation of livestock"
+    }
+  ]
+}

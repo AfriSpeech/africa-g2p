@@ -1,0 +1,141 @@
+{
+  "code": "beh",
+  "name": "Biali",
+  "country": "Benin",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 13",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "m": "m",
+    "n": "n",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ə": "ə",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̀": "˩",
+    "̃": "̃"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent"
+  },
+  "notes": "Hartell uses /y/ for IPA /j/. Phoneme /k/ includes allophones [k, x, g, ɣ]; /n/ includes [n, ɲ, ŋ]; /s/ includes [s, z]; /l/ includes [l, d]; /i/ includes [i, ɪ]; /e/ includes [e, ɛ]; /u/ includes [u, ʊ]; /o/ includes [o, ɔ]. Nasalization is indicated with a tilde on vowels except for [ɪ], [e], [ʊ], and [o].",
+  "alphabet": [
+    "a",
+    "ə",
+    "b",
+    "d",
+    "e",
+    "f",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "pabu",
+      "gloss": "gift"
+    },
+    {
+      "word": "tə̄pú",
+      "gloss": "compound"
+    },
+    {
+      "word": "bíkə̄",
+      "gloss": "child"
+    },
+    {
+      "word": "bēgāū",
+      "gloss": "chief"
+    },
+    {
+      "word": "firī",
+      "gloss": "lamp"
+    },
+    {
+      "word": "híráū",
+      "gloss": "person"
+    },
+    {
+      "word": "písī",
+      "gloss": "bed"
+    },
+    {
+      "word": "kūkō",
+      "gloss": "chicken"
+    },
+    {
+      "word": "lāú",
+      "gloss": "man"
+    },
+    {
+      "word": "matu",
+      "gloss": "iron"
+    },
+    {
+      "word": "nāfō",
+      "gloss": "ox"
+    },
+    {
+      "word": "nōú",
+      "gloss": "hand"
+    },
+    {
+      "word": "pwāhāū",
+      "gloss": "woman"
+    },
+    {
+      "word": "tarəkə",
+      "gloss": "cup"
+    },
+    {
+      "word": "sankə",
+      "gloss": "horse"
+    },
+    {
+      "word": "tíkə̄",
+      "gloss": "tree"
+    },
+    {
+      "word": "dōú",
+      "gloss": "wood"
+    },
+    {
+      "word": "wōfō",
+      "gloss": "snake"
+    },
+    {
+      "word": "yíá",
+      "gloss": "grain"
+    }
+  ]
+}

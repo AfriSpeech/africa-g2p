@@ -1,0 +1,299 @@
+{
+  "page": 42,
+  "is_language_page": true,
+  "language": "Engenni",
+  "iso639_3": "enn",
+  "country": "Nigeria",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ḅ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ḍ"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ị"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ẹ"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "ạ"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ụ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ọ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "subdot indicating open vowel set or implosive consonant",
+      "ipa": null
+    }
+  ],
+  "tones": {
+    "high": "unmarked lexically",
+    "low": "unmarked lexically",
+    "upstepped high": "unmarked lexically"
+  },
+  "alphabet": [
+    "a",
+    "ạ",
+    "b",
+    "ḅ",
+    "d",
+    "ḍ",
+    "e",
+    "ẹ",
+    "f",
+    "g",
+    "gb",
+    "i",
+    "ị",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ụ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "aswa",
+      "gloss": "hoe"
+    },
+    {
+      "word": "ạbina",
+      "gloss": "plantain"
+    },
+    {
+      "word": "obila",
+      "gloss": "pitcher"
+    },
+    {
+      "word": "eḅufumu",
+      "gloss": "ash"
+    },
+    {
+      "word": "edei",
+      "gloss": "man"
+    },
+    {
+      "word": "aḍu",
+      "gloss": "eye"
+    },
+    {
+      "word": "eseni",
+      "gloss": "fish"
+    },
+    {
+      "word": "ẹkasyi",
+      "gloss": "chair"
+    },
+    {
+      "word": "ọfai",
+      "gloss": "new"
+    },
+    {
+      "word": "egadiga",
+      "gloss": "fish-trap"
+    },
+    {
+      "word": "igbo",
+      "gloss": "fish-net"
+    },
+    {
+      "word": "imo",
+      "gloss": "children"
+    },
+    {
+      "word": "ịba",
+      "gloss": "you (pl)"
+    },
+    {
+      "word": "eki",
+      "gloss": "market"
+    },
+    {
+      "word": "ạkpukuro",
+      "gloss": "cassava"
+    },
+    {
+      "word": "olilo",
+      "gloss": "bottle"
+    },
+    {
+      "word": "ạmo",
+      "gloss": "child"
+    },
+    {
+      "word": "ẹnumani",
+      "gloss": "eight"
+    },
+    {
+      "word": "okubo",
+      "gloss": "box"
+    },
+    {
+      "word": "ọmu",
+      "gloss": "house"
+    },
+    {
+      "word": "opilopo",
+      "gloss": "pig"
+    },
+    {
+      "word": "ạvuramu",
+      "gloss": "woman"
+    },
+    {
+      "word": "ẹsaru",
+      "gloss": "mosquito"
+    },
+    {
+      "word": "ọta",
+      "gloss": "time"
+    },
+    {
+      "word": "utomu",
+      "gloss": "head"
+    },
+    {
+      "word": "ụkari",
+      "gloss": "power"
+    },
+    {
+      "word": "ạvuvo",
+      "gloss": "bat"
+    },
+    {
+      "word": "iwo",
+      "gloss": "you (sg)"
+    },
+    {
+      "word": "yila",
+      "gloss": "to stand"
+    },
+    {
+      "word": "za",
+      "gloss": "to remain"
+    }
+  ],
+  "num_graphemes": 30,
+  "confidence": "high",
+  "notes": "Hartell uses /ɩ/ for /ɪ/ and /ɷ/ for /ʊ/. /y/ is standard IPA /j/. Subdot under dot-open vowels is only written word-initially due to vowel harmony rules. No lexical tone is marked in orthography, only 3 clause tone patterns (negative, subjunctive, narrative)."
+}

@@ -1,0 +1,175 @@
+{
+  "code": "ngb-zaire",
+  "name": "Ngbandi",
+  "country": "Zaire",
+  "family": "Adamawa-Ubangi, Ubangi",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 97",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "z": "z",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "̃": "~"
+  },
+  "tones": null,
+  "notes": "Hartell's notation /y/ was converted to IPA /j/. Nasalization is indicated by tilde (~), except on /e/ or /o/.",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ala",
+      "gloss": "they"
+    },
+    {
+      "word": "bi",
+      "gloss": "night"
+    },
+    {
+      "word": "da",
+      "gloss": "house"
+    },
+    {
+      "word": "e",
+      "gloss": "us"
+    },
+    {
+      "word": "ɛnɛngɔ",
+      "gloss": "to increase"
+    },
+    {
+      "word": "fɔndɔ",
+      "gloss": "banana"
+    },
+    {
+      "word": "gegi",
+      "gloss": "outside"
+    },
+    {
+      "word": "gbia",
+      "gloss": "chief"
+    },
+    {
+      "word": "hɔngɔ",
+      "gloss": "to kill"
+    },
+    {
+      "word": "ili",
+      "gloss": "name"
+    },
+    {
+      "word": "kɛkɛ",
+      "gloss": "tree"
+    },
+    {
+      "word": "kpu",
+      "gloss": "rope"
+    },
+    {
+      "word": "la",
+      "gloss": "sun"
+    },
+    {
+      "word": "mɔ",
+      "gloss": "you (sg)"
+    },
+    {
+      "word": "nɔ",
+      "gloss": "walk"
+    },
+    {
+      "word": "nyi",
+      "gloss": "child"
+    },
+    {
+      "word": "oko",
+      "gloss": "that"
+    },
+    {
+      "word": "ɔngɔ",
+      "gloss": "to walk"
+    },
+    {
+      "word": "pele",
+      "gloss": "straw"
+    },
+    {
+      "word": "sese",
+      "gloss": "ground"
+    },
+    {
+      "word": "tɛlɛ",
+      "gloss": "body"
+    },
+    {
+      "word": "uzu",
+      "gloss": "before"
+    },
+    {
+      "word": "vɔlɔngɔ",
+      "gloss": "to worship"
+    },
+    {
+      "word": "wa",
+      "gloss": "fire"
+    },
+    {
+      "word": "yɛlɛ",
+      "gloss": "poverty"
+    },
+    {
+      "word": "zo",
+      "gloss": "man"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "page": 105,
+  "is_language_page": true,
+  "language": "Nawdem",
+  "iso639_3": "naw",
+  "country": "Togo",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "q"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [],
+  "tones": {
+    "note": "Tone is not written."
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "namga",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "buga",
+      "gloss": "baby"
+    },
+    {
+      "word": "dagre",
+      "gloss": "quiver"
+    },
+    {
+      "word": "ba kpenan",
+      "gloss": "they came back"
+    },
+    {
+      "word": "gɛn",
+      "gloss": "on"
+    },
+    {
+      "word": "fiigu",
+      "gloss": "mat"
+    },
+    {
+      "word": "gaqu",
+      "gloss": "nail"
+    },
+    {
+      "word": "gbuqte",
+      "gloss": "mushroom"
+    },
+    {
+      "word": "haare",
+      "gloss": "compound"
+    },
+    {
+      "word": "binde",
+      "gloss": "drum"
+    },
+    {
+      "word": "jibe",
+      "gloss": "snake"
+    },
+    {
+      "word": "kude",
+      "gloss": "turtle"
+    },
+    {
+      "word": "kpaang",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "loku",
+      "gloss": "well"
+    },
+    {
+      "word": "malqa",
+      "gloss": "maize"
+    },
+    {
+      "word": "naagbe",
+      "gloss": "buffalo"
+    },
+    {
+      "word": "ŋargoŋa",
+      "gloss": "ants"
+    },
+    {
+      "word": "ŋmeeni",
+      "gloss": "okra"
+    },
+    {
+      "word": "ronde",
+      "gloss": "yam"
+    },
+    {
+      "word": "dɔde",
+      "gloss": "warthog"
+    },
+    {
+      "word": "qiili",
+      "gloss": "horns"
+    },
+    {
+      "word": "raaru",
+      "gloss": "pole"
+    },
+    {
+      "word": "sumga",
+      "gloss": "plate"
+    },
+    {
+      "word": "tode",
+      "gloss": "baobab tree"
+    },
+    {
+      "word": "muqu",
+      "gloss": "trap"
+    },
+    {
+      "word": "viigu",
+      "gloss": "owl"
+    },
+    {
+      "word": "waamgu",
+      "gloss": "monkey"
+    },
+    {
+      "word": "yuuga",
+      "gloss": "rat"
+    }
+  ],
+  "num_graphemes": 28,
+  "confidence": "high",
+  "notes": "Hartell uses /?/ for glottal stop written as 'q'. /V:/ represents long vowels orthographically written as doubled vowels (VV)."
+}

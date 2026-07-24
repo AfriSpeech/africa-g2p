@@ -1,0 +1,262 @@
+{
+  "page": 27,
+  "is_language_page": true,
+  "language": "Bozo",
+  "iso639_3": "boz",
+  "country": "Mali",
+  "family": "Mande",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "x"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "è"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ò"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "è",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ò",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "x",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "Alimami",
+      "gloss": "man's name"
+    },
+    {
+      "word": "barabara",
+      "gloss": "porridge"
+    },
+    {
+      "word": "caro",
+      "gloss": "to slice"
+    },
+    {
+      "word": "dawa",
+      "gloss": "ink"
+    },
+    {
+      "word": "tele",
+      "gloss": "to ask"
+    },
+    {
+      "word": "pèdè",
+      "gloss": "outside"
+    },
+    {
+      "word": "fiè",
+      "gloss": "love"
+    },
+    {
+      "word": "gay",
+      "gloss": "west"
+    },
+    {
+      "word": "hinè",
+      "gloss": "power, possibility"
+    },
+    {
+      "word": "pin",
+      "gloss": "black"
+    },
+    {
+      "word": "jènè",
+      "gloss": "bow-net"
+    },
+    {
+      "word": "kamu",
+      "gloss": "wing"
+    },
+    {
+      "word": "la",
+      "gloss": "mouth"
+    },
+    {
+      "word": "mun",
+      "gloss": "nose"
+    },
+    {
+      "word": "namu",
+      "gloss": "knife"
+    },
+    {
+      "word": "nyiŋi",
+      "gloss": "to walk"
+    },
+    {
+      "word": "ŋòŋòn",
+      "gloss": "slave"
+    },
+    {
+      "word": "polo",
+      "gloss": "lobby"
+    },
+    {
+      "word": "pòdè",
+      "gloss": "piece"
+    },
+    {
+      "word": "palu",
+      "gloss": "donkey"
+    },
+    {
+      "word": "saro",
+      "gloss": "frog"
+    },
+    {
+      "word": "sala",
+      "gloss": "canal"
+    },
+    {
+      "word": "tori",
+      "gloss": "nine"
+    },
+    {
+      "word": "xulu",
+      "gloss": "canoe"
+    },
+    {
+      "word": "way",
+      "gloss": "today"
+    },
+    {
+      "word": "xalu",
+      "gloss": "man"
+    },
+    {
+      "word": "yalo",
+      "gloss": "woman"
+    }
+  ],
+  "num_graphemes": 27,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for grapheme 'y', which corresponds to IPA /j/. Double vowels (VV) represent long vowels (/V:/). Grave accents on è and ò represent open vowels /ɛ/ and /ɔ/."
+}

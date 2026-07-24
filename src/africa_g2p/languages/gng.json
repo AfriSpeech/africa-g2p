@@ -1,0 +1,195 @@
+{
+  "code": "gng",
+  "name": "Gangam",
+  "country": "Togo",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 56",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ñ": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ",
+    "Vn": "Ṽ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "unmarked",
+    "low": "grave accent"
+  },
+  "notes": "Hartell's /y/ mapped to IPA /j/. /Ṽ/ indicates nasalized vowel orthographically written as Vn. Studies on tone are not yet complete, tone is presently only marked on contrastive pairs of words.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ñ",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "uta",
+      "gloss": "rain"
+    },
+    {
+      "word": "ubul",
+      "gloss": "fetish"
+    },
+    {
+      "word": "litacali",
+      "gloss": "sandal"
+    },
+    {
+      "word": "udu",
+      "gloss": "village"
+    },
+    {
+      "word": "upe",
+      "gloss": "sheep"
+    },
+    {
+      "word": "unɛ",
+      "gloss": "ox"
+    },
+    {
+      "word": "ufɛn",
+      "gloss": "home"
+    },
+    {
+      "word": "ugur",
+      "gloss": "hedgehog"
+    },
+    {
+      "word": "hali",
+      "gloss": "far"
+    },
+    {
+      "word": "iji",
+      "gloss": "millet"
+    },
+    {
+      "word": "ujɛ",
+      "gloss": "man"
+    },
+    {
+      "word": "ukokol",
+      "gloss": "chicken"
+    },
+    {
+      "word": "ukpen",
+      "gloss": "swamp"
+    },
+    {
+      "word": "liloli",
+      "gloss": "truck"
+    },
+    {
+      "word": "midami",
+      "gloss": "drink"
+    },
+    {
+      "word": "unasɛl",
+      "gloss": "calf"
+    },
+    {
+      "word": "buñobu",
+      "gloss": "mouth"
+    },
+    {
+      "word": "uŋaan",
+      "gloss": "broom"
+    },
+    {
+      "word": "uŋmal",
+      "gloss": "moon"
+    },
+    {
+      "word": "upo",
+      "gloss": "spouse"
+    },
+    {
+      "word": "utɔb",
+      "gloss": "tobacco"
+    },
+    {
+      "word": "utɛnpik",
+      "gloss": "big spider"
+    },
+    {
+      "word": "kibɛrki",
+      "gloss": "box"
+    },
+    {
+      "word": "busabu",
+      "gloss": "millet porridge"
+    },
+    {
+      "word": "litubli",
+      "gloss": "ear"
+    },
+    {
+      "word": "usu",
+      "gloss": "yam field"
+    },
+    {
+      "word": "uwɔb",
+      "gloss": "goat"
+    },
+    {
+      "word": "kiyelki",
+      "gloss": "hatchet"
+    }
+  ]
+}

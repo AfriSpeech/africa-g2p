@@ -1,0 +1,237 @@
+{
+  "page": 6,
+  "is_language_page": true,
+  "language": "Akan",
+  "iso639_3": "aka",
+  "country": "Ghana",
+  "family": "Kwa",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nʷ",
+      "grapheme": "nw"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "saw",
+      "gloss": "to dance"
+    },
+    {
+      "word": "bu",
+      "gloss": "to break"
+    },
+    {
+      "word": "da",
+      "gloss": "day"
+    },
+    {
+      "word": "gye",
+      "gloss": "to receive"
+    },
+    {
+      "word": "sɛw",
+      "gloss": "to spread out"
+    },
+    {
+      "word": "fi",
+      "gloss": "to go out"
+    },
+    {
+      "word": "gow",
+      "gloss": "to be soft"
+    },
+    {
+      "word": "hu",
+      "gloss": "to see"
+    },
+    {
+      "word": "sie",
+      "gloss": "to hide"
+    },
+    {
+      "word": "kɔ",
+      "gloss": "to go"
+    },
+    {
+      "word": "lɔre",
+      "gloss": "lorry"
+    },
+    {
+      "word": "mba",
+      "gloss": "children"
+    },
+    {
+      "word": "nim",
+      "gloss": "to know"
+    },
+    {
+      "word": "ngo",
+      "gloss": "palm oil"
+    },
+    {
+      "word": "sɔw",
+      "gloss": "to catch"
+    },
+    {
+      "word": "petu",
+      "gloss": "to pretend"
+    },
+    {
+      "word": "frɛ",
+      "gloss": "to visit"
+    },
+    {
+      "word": "nsuo",
+      "gloss": "water"
+    },
+    {
+      "word": "tɔ",
+      "gloss": "to buy"
+    },
+    {
+      "word": "gua",
+      "gloss": "market"
+    },
+    {
+      "word": "ɛwɔ",
+      "gloss": "honey"
+    },
+    {
+      "word": "yi",
+      "gloss": "to remove"
+    }
+  ],
+  "num_graphemes": 22,
+  "confidence": "high",
+  "notes": "Hartell lists Palatalization (ky, gy, ny, hy) and Labial-palatalization (tw, dw, nw, hw) below the phoneme table. Letter l is noted as Asante only. Phonemes /y/, /I/, and /υ/ converted to standard IPA /j/, /ɪ/, and /ʊ/ respectively."
+}

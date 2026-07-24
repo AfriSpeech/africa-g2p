@@ -1,0 +1,425 @@
+{
+  "page": 21,
+  "is_language_page": true,
+  "language": "Banda",
+  "iso639_3": "bjo",
+  "country": "Central African Republic",
+  "family": "Adamawa-Ubangi",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "q"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "m͡b",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "m͡v",
+      "grapheme": "mv"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "n͡d",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "n͡dʒ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "n͡z",
+      "grapheme": "nz"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋɡ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ŋ͡m͡ɡ͡b",
+      "grapheme": "ngb"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "ṽ",
+      "grapheme": "vh"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "ʒ",
+      "grapheme": "zh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "ɾ",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "x"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "eh"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ah"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "ih"
+    },
+    {
+      "phoneme": "ə",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʉ",
+      "grapheme": "uh"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "oh"
+    },
+    {
+      "phoneme": "oa",
+      "grapheme": "oa"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0302",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0308",
+      "role": "mid tone",
+      "ipa": "˧"
+    }
+  ],
+  "tones": {
+    "high": "circumflex (^)",
+    "mid": "diaeresis (¨)",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "ah",
+    "b",
+    "c",
+    "d",
+    "e",
+    "eh",
+    "f",
+    "g",
+    "gb",
+    "i",
+    "ih",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ng",
+    "ngb",
+    "nj",
+    "ny",
+    "nz",
+    "o",
+    "oh",
+    "p",
+    "q",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "uh",
+    "v",
+    "vh",
+    "w",
+    "x",
+    "y",
+    "z",
+    "zh"
+  ],
+  "examples": [
+    {
+      "word": "kä",
+      "gloss": "to stop"
+    },
+    {
+      "word": "badâ",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "ca",
+      "gloss": "to resemble"
+    },
+    {
+      "word": "dambâ",
+      "gloss": "tail"
+    },
+    {
+      "word": "ke",
+      "gloss": "to be"
+    },
+    {
+      "word": "keh",
+      "gloss": "to shave"
+    },
+    {
+      "word": "fangû",
+      "gloss": "gruel"
+    },
+    {
+      "word": "gâlâ",
+      "gloss": "year"
+    },
+    {
+      "word": "gbâjâ",
+      "gloss": "wheel"
+    },
+    {
+      "word": "hâawa",
+      "gloss": "in vain"
+    },
+    {
+      "word": "ki",
+      "gloss": "to be sharpened"
+    },
+    {
+      "word": "kih",
+      "gloss": "to cry out"
+    },
+    {
+      "word": "jama",
+      "gloss": "green monkey"
+    },
+    {
+      "word": "kaga",
+      "gloss": "hill"
+    },
+    {
+      "word": "kpata",
+      "gloss": "mud"
+    },
+    {
+      "word": "läsû",
+      "gloss": "pot"
+    },
+    {
+      "word": "manda",
+      "gloss": "door"
+    },
+    {
+      "word": "mbätä",
+      "gloss": "stool"
+    },
+    {
+      "word": "mvâ",
+      "gloss": "apart"
+    },
+    {
+      "word": "nä",
+      "gloss": "to go"
+    },
+    {
+      "word": "ndâangbêh",
+      "gloss": "rabbit"
+    },
+    {
+      "word": "ngâpô",
+      "gloss": "hoe"
+    },
+    {
+      "word": "ngbâgû",
+      "gloss": "dry season"
+    },
+    {
+      "word": "njârâ",
+      "gloss": "gap"
+    },
+    {
+      "word": "nyäkä",
+      "gloss": "disobedience"
+    },
+    {
+      "word": "nzâgôâ",
+      "gloss": "jackal"
+    },
+    {
+      "word": "kö",
+      "gloss": "to take"
+    },
+    {
+      "word": "köh",
+      "gloss": "to return"
+    },
+    {
+      "word": "pâkâ",
+      "gloss": "wildcat"
+    },
+    {
+      "word": "qä",
+      "gloss": "to open"
+    },
+    {
+      "word": "rua",
+      "gloss": "to gather"
+    },
+    {
+      "word": "süngû",
+      "gloss": "fish"
+    },
+    {
+      "word": "sha",
+      "gloss": "to turn aside"
+    },
+    {
+      "word": "tama",
+      "gloss": "shoes"
+    },
+    {
+      "word": "kü",
+      "gloss": "to spit"
+    },
+    {
+      "word": "vanä",
+      "gloss": "four"
+    },
+    {
+      "word": "vhä",
+      "gloss": "to fight"
+    },
+    {
+      "word": "wäsâ",
+      "gloss": "tamarind"
+    },
+    {
+      "word": "exuru",
+      "gloss": "lungs"
+    },
+    {
+      "word": "yâgeh",
+      "gloss": "roan antelope"
+    },
+    {
+      "word": "zä",
+      "gloss": "to hold"
+    },
+    {
+      "word": "zhü",
+      "gloss": "to burn"
+    }
+  ],
+  "num_graphemes": 42,
+  "confidence": "high",
+  "notes": "Contextual vowel rules: /e/ is written 'e' after palatals and 'eh' elsewhere; /ə/ is written 'e' except after palatals where it does not occur. /ṽ/ is a nasalized fricative transcribed as /ṽ/ in Hartell. Tone rule note: 'When two tones appear on one vowel, it is doubled in order to be able to write both tones.' Printed number of graphemes is 42, although the alphabet array lists 43 items."
+}

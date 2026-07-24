@@ -1,0 +1,192 @@
+{
+  "code": "igb",
+  "name": "Ebira",
+  "country": "Nigeria",
+  "family": "New Benue-Congo",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 62",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng": "ŋ",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "h": "h",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ị": "ɪ",
+    "e": "e",
+    "ẹ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "ụ": "ʊ",
+    "o": "o",
+    "ọ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "unmarked",
+    "low": "grave accent"
+  },
+  "notes": "Hartell prints /y/ for IPA /j/. In the orthography, tone marks are only used in certain cases to remove ambiguity.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ẹ",
+    "g",
+    "h",
+    "i",
+    "ị",
+    "j",
+    "k",
+    "m",
+    "n",
+    "ny",
+    "ng",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ụ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ada",
+      "gloss": "father"
+    },
+    {
+      "word": "bo",
+      "gloss": "to be old"
+    },
+    {
+      "word": "chị",
+      "gloss": "to curse"
+    },
+    {
+      "word": "idu",
+      "gloss": "lion"
+    },
+    {
+      "word": "echi",
+      "gloss": "home"
+    },
+    {
+      "word": "ẹduụ",
+      "gloss": "hoe"
+    },
+    {
+      "word": "ga",
+      "gloss": "to share"
+    },
+    {
+      "word": "chẹ",
+      "gloss": "world"
+    },
+    {
+      "word": "irihi",
+      "gloss": "price"
+    },
+    {
+      "word": "ịta",
+      "gloss": "cloth"
+    },
+    {
+      "word": "aje",
+      "gloss": "egg"
+    },
+    {
+      "word": "ako",
+      "gloss": "cup"
+    },
+    {
+      "word": "amu",
+      "gloss": "hat"
+    },
+    {
+      "word": "ná",
+      "gloss": "to sell"
+    },
+    {
+      "word": "anya",
+      "gloss": "blood"
+    },
+    {
+      "word": "ngụ",
+      "gloss": "to enter"
+    },
+    {
+      "word": "ode",
+      "gloss": "(mud) bed"
+    },
+    {
+      "word": "ọgẹdẹ",
+      "gloss": "banana"
+    },
+    {
+      "word": "ẹpa",
+      "gloss": "root"
+    },
+    {
+      "word": "re",
+      "gloss": "to see"
+    },
+    {
+      "word": "sí",
+      "gloss": "to pay"
+    },
+    {
+      "word": "itu",
+      "gloss": "ceiling"
+    },
+    {
+      "word": "udi",
+      "gloss": "hut"
+    },
+    {
+      "word": "ụnọkọ",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "ọva",
+      "gloss": "husband"
+    },
+    {
+      "word": "ẹwa",
+      "gloss": "gray hair"
+    },
+    {
+      "word": "ịya",
+      "gloss": "pounded yam"
+    },
+    {
+      "word": "ẹza",
+      "gloss": "bean"
+    }
+  ]
+}

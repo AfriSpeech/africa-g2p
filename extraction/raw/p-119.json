@@ -1,0 +1,233 @@
+{
+  "page": 119,
+  "is_language_page": true,
+  "language": "Sabaot",
+  "iso639_3": "spy",
+  "country": "Kenya",
+  "family": "Southern Nilotic",
+  "graphemes": [
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng'"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "a̘",
+      "grapheme": "ā"
+    },
+    {
+      "phoneme": "e̘",
+      "grapheme": "ē"
+    },
+    {
+      "phoneme": "i̘",
+      "grapheme": "ī"
+    },
+    {
+      "phoneme": "o̘",
+      "grapheme": "ō"
+    },
+    {
+      "phoneme": "u̘",
+      "grapheme": "ū"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0304",
+      "role": "+ATR vowel quality",
+      "ipa": null
+    }
+  ],
+  "tones": {
+    "grammatical_markers": {
+      ":": "subject tone on noun in contrast to non-subject",
+      "/": "indefinite subject on verb in contrast to 'we' as subject",
+      "'": "2nd person as opposed to 3rd person subject",
+      "+": "future form",
+      "-": "negative non-past form",
+      "!": "emphatic form"
+    }
+  },
+  "alphabet": [
+    "a",
+    "ā",
+    "b",
+    "ch",
+    "e",
+    "ē",
+    "i",
+    "ī",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ng'",
+    "ny",
+    "o",
+    "ō",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ū",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "tarkeet",
+      "gloss": "gourd"
+    },
+    {
+      "word": "tāsōōk",
+      "gloss": "baskets"
+    },
+    {
+      "word": "beenteereet",
+      "gloss": "flag"
+    },
+    {
+      "word": "chookēēt",
+      "gloss": "granary"
+    },
+    {
+      "word": "ng'echereet",
+      "gloss": "chair"
+    },
+    {
+      "word": "kērēbēēt",
+      "gloss": "basket"
+    },
+    {
+      "word": "binikeet",
+      "gloss": "tea-pot"
+    },
+    {
+      "word": "kiyaang'ta",
+      "gloss": "bow"
+    },
+    {
+      "word": "lōōng'iit",
+      "gloss": "trousers"
+    },
+    {
+      "word": "moonkeesyeet",
+      "gloss": "monkey"
+    },
+    {
+      "word": "nasumnyaanik",
+      "gloss": "maize"
+    },
+    {
+      "word": "ng'ōōkit",
+      "gloss": "dog"
+    },
+    {
+      "word": "nyuuntuut",
+      "gloss": "hammer"
+    },
+    {
+      "word": "sokonnyeet",
+      "gloss": "branch"
+    },
+    {
+      "word": "nkōkōōk",
+      "gloss": "chicken"
+    },
+    {
+      "word": "rōōtwēēt",
+      "gloss": "knife"
+    },
+    {
+      "word": "sikiryēēt",
+      "gloss": "donkey"
+    },
+    {
+      "word": "teeta",
+      "gloss": "cow"
+    },
+    {
+      "word": "mutatuk",
+      "gloss": "ripe bananas"
+    },
+    {
+      "word": "waareek",
+      "gloss": "sheep"
+    },
+    {
+      "word": "yeeyiik",
+      "gloss": "oxen"
+    }
+  ],
+  "num_graphemes": 23,
+  "confidence": "high",
+  "notes": "Hartell presents -ATR and +ATR vowels separately using standard vowel symbols; +ATR vowels are represented with macrons in orthography (ā, ē, ī, ō, ū) and explicitly tagged here with ATR advanced diacritic notation. Long vowels are indicated orthographically by doubled vowel letters (VV). Punctuation marks prefixing words indicate grammatical tone distinctions."
+}

@@ -1,0 +1,171 @@
+{
+  "code": "tbz",
+  "name": "Ditammari",
+  "country": "Benin",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 121",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "k": "k",
+    "kp": "k͡p",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "s": "s",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̃": "̃"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid 1": "unmarked",
+    "mid 2": "unmarked",
+    "low": "grave accent",
+    "note": "Only the high and low tones are marked."
+  },
+  "notes": "Hartell uses /tʃ/ for orthographic 'c' and /y/ for orthographic 'y' (mapped to IPA /j/). Nasalization is indicated with a tilde on vowels except /e/ and /o/. Labialization (pw, bw, tw, dw, cw, kw, mw, nw, fw, sw) and Palatalization (py, by, ty, dy, cy, my, ny, fy, sy) sequences are listed explicitly.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "m",
+    "n",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "nca",
+      "gloss": "woman"
+    },
+    {
+      "word": "kubaku",
+      "gloss": "arms"
+    },
+    {
+      "word": "cɛ̀",
+      "gloss": "to sweep"
+    },
+    {
+      "word": "dɛbirɛ",
+      "gloss": "child"
+    },
+    {
+      "word": "ipɛ",
+      "gloss": "sheep"
+    },
+    {
+      "word": "tɛkotɛ",
+      "gloss": "chicken"
+    },
+    {
+      "word": "dɛfitirɛ",
+      "gloss": "lamp"
+    },
+    {
+      "word": "muhau",
+      "gloss": "to dance"
+    },
+    {
+      "word": "ditori",
+      "gloss": "spoon"
+    },
+    {
+      "word": "yɛkorɛ",
+      "gloss": "necklace"
+    },
+    {
+      "word": "kpa",
+      "gloss": "to quarrel"
+    },
+    {
+      "word": "tɛmɔtɛ",
+      "gloss": "dog"
+    },
+    {
+      "word": "diswónnì",
+      "gloss": "lizard"
+    },
+    {
+      "word": "ŋau",
+      "gloss": "I dance"
+    },
+    {
+      "word": "dikūŋmɛnni",
+      "gloss": "morning"
+    },
+    {
+      "word": "tɛkotɛ",
+      "gloss": "chicken"
+    },
+    {
+      "word": "yɛkorɛ",
+      "gloss": "necklace"
+    },
+    {
+      "word": "kupaku",
+      "gloss": "millet"
+    },
+    {
+      "word": "dɛfitirɛ",
+      "gloss": "lamp"
+    },
+    {
+      "word": "sɛu",
+      "gloss": "to pound"
+    },
+    {
+      "word": "iti",
+      "gloss": "mouse"
+    },
+    {
+      "word": "didúù",
+      "gloss": "water pot"
+    },
+    {
+      "word": "tɛwãatɛ",
+      "gloss": "pen, pencil"
+    },
+    {
+      "word": "siyii",
+      "gloss": "fish"
+    }
+  ]
+}

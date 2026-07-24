@@ -1,0 +1,291 @@
+{
+  "page": 47,
+  "is_language_page": true,
+  "language": "Fuliiru",
+  "iso639_3": "flr",
+  "country": "Zaire",
+  "family": "Niger-Congo, Bantu",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "mb",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nd",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "nz",
+      "grapheme": "nz"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ɲʒ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ŋɡ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [],
+  "tones": {
+    "note": "Tone is not written."
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "ng",
+    "nj",
+    "ny",
+    "nz",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "kaluku",
+      "gloss": "proper name"
+    },
+    {
+      "word": "ibiti",
+      "gloss": "trees"
+    },
+    {
+      "word": "uludaha",
+      "gloss": "bag, pocket"
+    },
+    {
+      "word": "ulugega",
+      "gloss": "big basket for carrying on the back"
+    },
+    {
+      "word": "ifuka",
+      "gloss": "hoe"
+    },
+    {
+      "word": "amagi",
+      "gloss": "eggs"
+    },
+    {
+      "word": "amahemba",
+      "gloss": "millet"
+    },
+    {
+      "word": "amagi",
+      "gloss": "eggs"
+    },
+    {
+      "word": "ulujanga",
+      "gloss": "small fish (sg)"
+    },
+    {
+      "word": "kaluku",
+      "gloss": "proper name"
+    },
+    {
+      "word": "kaluku",
+      "gloss": "proper name"
+    },
+    {
+      "word": "amakala",
+      "gloss": "charcoal"
+    },
+    {
+      "word": "umumbati",
+      "gloss": "cassava"
+    },
+    {
+      "word": "umwana",
+      "gloss": "child"
+    },
+    {
+      "word": "indimu",
+      "gloss": "orange"
+    },
+    {
+      "word": "inganga",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "injanga",
+      "gloss": "small fish"
+    },
+    {
+      "word": "inyumba",
+      "gloss": "house"
+    },
+    {
+      "word": "inzanzagi",
+      "gloss": "woven bag for a man"
+    },
+    {
+      "word": "imikonde",
+      "gloss": "bananas"
+    },
+    {
+      "word": "umupapali",
+      "gloss": "papaya tree"
+    },
+    {
+      "word": "imirondo",
+      "gloss": "clothes"
+    },
+    {
+      "word": "isaabuni",
+      "gloss": "soap"
+    },
+    {
+      "word": "ikishakulo",
+      "gloss": "mortar"
+    },
+    {
+      "word": "ibiti",
+      "gloss": "trees"
+    },
+    {
+      "word": "ulugega",
+      "gloss": "basket"
+    },
+    {
+      "word": "ivuha",
+      "gloss": "bone"
+    },
+    {
+      "word": "wehe",
+      "gloss": "you (sg)"
+    },
+    {
+      "word": "ayanika",
+      "gloss": "he puts out to dry"
+    },
+    {
+      "word": "ikibuzi",
+      "gloss": "sheep"
+    }
+  ],
+  "num_graphemes": 30,
+  "confidence": "high",
+  "notes": "Top header line partially cut off in scan, but header suffix '(FULIIRU)' identifies Fuliiru (Zaire / DRC). Converted phoneme /y/ to IPA /j/. Phoneme /p/ note: 'in borrowed words'. Labialization (CwV) and palatalization (CyV) noted. Vowel length represented by doubling vowel letters (VV)."
+}

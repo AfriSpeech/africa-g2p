@@ -1,0 +1,265 @@
+{
+  "page": 134,
+  "is_language_page": true,
+  "language": "Toussian",
+  "iso639_3": "wib",
+  "country": "Burkina Faso",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0300",
+      "role": "low / slow falling tone",
+      "ipa": "ˤ"
+    },
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0302",
+      "role": "long falling tone",
+      "ipa": "˥˩"
+    },
+    {
+      "mark": "U+030C",
+      "role": "sharp rising / slow rising tone",
+      "ipa": "˩˥"
+    },
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "˜"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone / line accent (in examples)",
+      "ipa": "˧"
+    }
+  ],
+  "tones": {
+    "low": "grave accent",
+    "mid": "unmarked",
+    "high": "acute accent",
+    "slow falling": "grave accent",
+    "long falling": "circumflex",
+    "sharp rising": "caron",
+    "slow rising": "caron"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "yàwó",
+      "gloss": "cat"
+    },
+    {
+      "word": "bo",
+      "gloss": "father"
+    },
+    {
+      "word": "di",
+      "gloss": "man"
+    },
+    {
+      "word": "sê",
+      "gloss": "woman"
+    },
+    {
+      "word": "pɛ",
+      "gloss": "husband"
+    },
+    {
+      "word": "flo",
+      "gloss": "clothes"
+    },
+    {
+      "word": "gbɔ",
+      "gloss": "eggplant"
+    },
+    {
+      "word": "wóhó",
+      "gloss": "cup"
+    },
+    {
+      "word": "pi",
+      "gloss": "child"
+    },
+    {
+      "word": "kò",
+      "gloss": "meat"
+    },
+    {
+      "word": "lékwén",
+      "gloss": "knife"
+    },
+    {
+      "word": "mám",
+      "gloss": "rat"
+    },
+    {
+      "word": "nan",
+      "gloss": "grinding mold"
+    },
+    {
+      "word": "kõ",
+      "gloss": "stool"
+    },
+    {
+      "word": "yɔ",
+      "gloss": "swamp"
+    },
+    {
+      "word": "pã̄hā",
+      "gloss": "dog"
+    },
+    {
+      "word": "yār",
+      "gloss": "porridge"
+    },
+    {
+      "word": "sēbe",
+      "gloss": "baobab tree"
+    },
+    {
+      "word": "tɛke",
+      "gloss": "cliff"
+    },
+    {
+      "word": "dú",
+      "gloss": "basket"
+    },
+    {
+      "word": "vē",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "wòkò",
+      "gloss": "hut"
+    },
+    {
+      "word": "yaha",
+      "gloss": "face"
+    }
+  ],
+  "num_graphemes": 23,
+  "confidence": "high",
+  "notes": "Glottal stop /ʔ/ mapped to orthographic 'h'. Hartell lists /j/ as 'y' and /gb/ as 'gb'. Nasalization is indicated with a tilde (/Ṽ/ -> Ṽ). Macro ISO 639-3 code for Southern Toussian is wib (Northern Toussian is tsp)."
+}

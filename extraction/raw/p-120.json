@@ -1,0 +1,352 @@
+{
+  "page": 120,
+  "is_language_page": true,
+  "language": "Swahili",
+  "iso639_3": "swh",
+  "country": "Kenya",
+  "family": "Bantu",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "mb",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "mv",
+      "grapheme": "mv"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nd",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "nz",
+      "grapheme": "nz"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ɲɟ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng'"
+    },
+    {
+      "phoneme": "ŋɡ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ʃ",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "x",
+      "grapheme": "kh"
+    },
+    {
+      "phoneme": "ɣ",
+      "grapheme": "gh"
+    },
+    {
+      "phoneme": "θ",
+      "grapheme": "th"
+    },
+    {
+      "phoneme": "ð",
+      "grapheme": "dh"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "dh",
+    "e",
+    "f",
+    "g",
+    "gh",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kh",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "ng",
+    "ng'",
+    "nj",
+    "ny",
+    "nz",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "th",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "mpaka",
+      "gloss": "boundary"
+    },
+    {
+      "word": "barua",
+      "gloss": "letter"
+    },
+    {
+      "word": "chumvi",
+      "gloss": "salt"
+    },
+    {
+      "word": "dada",
+      "gloss": "sister"
+    },
+    {
+      "word": "dhahabu",
+      "gloss": "gold"
+    },
+    {
+      "word": "pete",
+      "gloss": "ring"
+    },
+    {
+      "word": "fagio",
+      "gloss": "broom"
+    },
+    {
+      "word": "mgeni",
+      "gloss": "guest"
+    },
+    {
+      "word": "lugha",
+      "gloss": "language"
+    },
+    {
+      "word": "homa",
+      "gloss": "fever"
+    },
+    {
+      "word": "ndizi",
+      "gloss": "banana"
+    },
+    {
+      "word": "jembe",
+      "gloss": "hoe"
+    },
+    {
+      "word": "kikombe",
+      "gloss": "cup"
+    },
+    {
+      "word": "lugha",
+      "gloss": "language"
+    },
+    {
+      "word": "meza",
+      "gloss": "table"
+    },
+    {
+      "word": "mbegu",
+      "gloss": "seeds"
+    },
+    {
+      "word": "mvua",
+      "gloss": "rain"
+    },
+    {
+      "word": "nazi",
+      "gloss": "coconut"
+    },
+    {
+      "word": "ndizi",
+      "gloss": "banana"
+    },
+    {
+      "word": "nguo",
+      "gloss": "clothes"
+    },
+    {
+      "word": "ng'ombe",
+      "gloss": "cow"
+    },
+    {
+      "word": "njaa",
+      "gloss": "hunger"
+    },
+    {
+      "word": "nyoka",
+      "gloss": "snake"
+    },
+    {
+      "word": "nzige",
+      "gloss": "locust"
+    },
+    {
+      "word": "ndoto",
+      "gloss": "dream"
+    },
+    {
+      "word": "paka",
+      "gloss": "cat"
+    },
+    {
+      "word": "rafiki",
+      "gloss": "friend"
+    },
+    {
+      "word": "sikio",
+      "gloss": "ear"
+    },
+    {
+      "word": "shamba",
+      "gloss": "plantation"
+    },
+    {
+      "word": "twiga",
+      "gloss": "giraffe"
+    },
+    {
+      "word": "hadithi",
+      "gloss": "story"
+    },
+    {
+      "word": "ndugu",
+      "gloss": "brother"
+    },
+    {
+      "word": "viazi",
+      "gloss": "potatoes"
+    },
+    {
+      "word": "wimbo",
+      "gloss": "song"
+    },
+    {
+      "word": "yai",
+      "gloss": "egg"
+    },
+    {
+      "word": "mzigo",
+      "gloss": "luggage"
+    }
+  ],
+  "num_graphemes": 37,
+  "confidence": "high",
+  "notes": "Hartell's /y/ mapped to IPA /j/. *th, dh, kh, and gh are found in Arabic loanwords only. Swahili is not a tone language but has predictable stress on the penultimate syllable of every polysyllabic word. Any sequence of two like or unlike vowels is interpreted as two separate syllables. Palatalization: CyV, Labialization: CwV."
+}

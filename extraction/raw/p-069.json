@@ -1,0 +1,296 @@
+{
+  "page": 69,
+  "is_language_page": true,
+  "language": "Kusal",
+  "iso639_3": "kus",
+  "country": "Ghana",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "w̃",
+      "grapheme": "nw"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "n",
+      "role": "nasalization",
+      "ipa": "◌̃"
+    },
+    {
+      "mark": "VV",
+      "role": "vowel length",
+      "ipa": "ː"
+    }
+  ],
+  "tones": {
+    "note": "Tone is not marked. By marking long vowels, glottal and nasalization, almost all homographs are avoided."
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "nw",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "amaa",
+      "gloss": "but"
+    },
+    {
+      "word": "ba",
+      "gloss": "they"
+    },
+    {
+      "word": "daam",
+      "gloss": "corn beer"
+    },
+    {
+      "word": "bedego",
+      "gloss": "many, much"
+    },
+    {
+      "word": "faar",
+      "gloss": "inheritance"
+    },
+    {
+      "word": "gaŋ",
+      "gloss": "to choose"
+    },
+    {
+      "word": "gbigim",
+      "gloss": "lion"
+    },
+    {
+      "word": "hale",
+      "gloss": "greatly"
+    },
+    {
+      "word": "isig",
+      "gloss": "rise early"
+    },
+    {
+      "word": "kaas",
+      "gloss": "to cry out"
+    },
+    {
+      "word": "kpi",
+      "gloss": "to die"
+    },
+    {
+      "word": "lo",
+      "gloss": "to tie"
+    },
+    {
+      "word": "maal",
+      "gloss": "to make"
+    },
+    {
+      "word": "na'as",
+      "gloss": "to show respect"
+    },
+    {
+      "word": "nyalima",
+      "gloss": "wonderful"
+    },
+    {
+      "word": "yu'uŋ",
+      "gloss": "night"
+    },
+    {
+      "word": "nwiig",
+      "gloss": "rope"
+    },
+    {
+      "word": "yo",
+      "gloss": "to shut"
+    },
+    {
+      "word": "yu'ur",
+      "gloss": "name"
+    },
+    {
+      "word": "saam",
+      "gloss": "father"
+    },
+    {
+      "word": "tans",
+      "gloss": "to shout"
+    },
+    {
+      "word": "ugus",
+      "gloss": "to nurture"
+    },
+    {
+      "word": "vo!",
+      "gloss": "to swallow"
+    },
+    {
+      "word": "wan",
+      "gloss": "calabash"
+    },
+    {
+      "word": "ya'as",
+      "gloss": "again"
+    },
+    {
+      "word": "ziim",
+      "gloss": "blood"
+    },
+    {
+      "word": "ba'a",
+      "gloss": "responsibility"
+    }
+  ],
+  "num_graphemes": 28,
+  "confidence": "high",
+  "notes": "Hartell /y/ mapped to IPA /j/. Hartell /ɩ/ and /ʊ/ mapped to IPA /ɪ/ and /ʊ/. Hartell /?/ mapped to IPA /ʔ/. The tense/lax distinction is not marked orthographically, so multiple phonemes (i/ɪ, e/ɛ, u/ʊ, o/ɔ) map to single graphemes (i, e, u, o)."
+}

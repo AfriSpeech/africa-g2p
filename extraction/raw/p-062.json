@@ -1,0 +1,291 @@
+{
+  "page": 62,
+  "is_language_page": true,
+  "language": "Ebira",
+  "iso639_3": "igb",
+  "country": "Nigeria",
+  "family": "New Benue-Congo",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ị"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ẹ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ụ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ọ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "vowel quality (subdot)",
+      "ipa": null
+    },
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "unmarked",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ẹ",
+    "g",
+    "h",
+    "i",
+    "ị",
+    "j",
+    "k",
+    "m",
+    "n",
+    "ny",
+    "ng",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ụ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ada",
+      "gloss": "father"
+    },
+    {
+      "word": "bo",
+      "gloss": "to be old"
+    },
+    {
+      "word": "chị",
+      "gloss": "to curse"
+    },
+    {
+      "word": "idu",
+      "gloss": "lion"
+    },
+    {
+      "word": "echi",
+      "gloss": "home"
+    },
+    {
+      "word": "ẹduụ",
+      "gloss": "hoe"
+    },
+    {
+      "word": "ga",
+      "gloss": "to share"
+    },
+    {
+      "word": "chẹ",
+      "gloss": "world"
+    },
+    {
+      "word": "irihi",
+      "gloss": "price"
+    },
+    {
+      "word": "ịta",
+      "gloss": "cloth"
+    },
+    {
+      "word": "aje",
+      "gloss": "egg"
+    },
+    {
+      "word": "ako",
+      "gloss": "cup"
+    },
+    {
+      "word": "amu",
+      "gloss": "hat"
+    },
+    {
+      "word": "ná",
+      "gloss": "to sell"
+    },
+    {
+      "word": "anya",
+      "gloss": "blood"
+    },
+    {
+      "word": "ngụ",
+      "gloss": "to enter"
+    },
+    {
+      "word": "ode",
+      "gloss": "(mud) bed"
+    },
+    {
+      "word": "ọgẹdẹ",
+      "gloss": "banana"
+    },
+    {
+      "word": "ẹpa",
+      "gloss": "root"
+    },
+    {
+      "word": "re",
+      "gloss": "to see"
+    },
+    {
+      "word": "sí",
+      "gloss": "to pay"
+    },
+    {
+      "word": "itu",
+      "gloss": "ceiling"
+    },
+    {
+      "word": "udi",
+      "gloss": "hut"
+    },
+    {
+      "word": "ụnọkọ",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "ọva",
+      "gloss": "husband"
+    },
+    {
+      "word": "ẹwa",
+      "gloss": "gray hair"
+    },
+    {
+      "word": "ịya",
+      "gloss": "pounded yam"
+    },
+    {
+      "word": "ẹza",
+      "gloss": "bean"
+    }
+  ],
+  "num_graphemes": 28,
+  "confidence": "high",
+  "notes": "Hartell prints /y/ for IPA /j/. In the orthography, tone marks are only used in certain cases to remove ambiguity."
+}

@@ -1,0 +1,213 @@
+{
+  "code": "wan",
+  "name": "Wan",
+  "country": "Côte d'Ivoire",
+  "family": "Southern Mande",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 133",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "bh": "ɓ",
+    "m": "ɓ",
+    "t": "t",
+    "d": "d",
+    "c": "c",
+    "j": "ɟ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "kw": "kʷ",
+    "gw": "ɡʷ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "n": "l",
+    "r": "l",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "ŋ": "ŋ",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "'": "˥",
+    "-": "˩",
+    "n": "̃"
+  },
+  "tones": {
+    "high": "' before syllable",
+    "mid": "unmarked",
+    "low": "- before syllable",
+    "2d tone lower": "- after syllable",
+    "2d tone higher": "' after syllable"
+  },
+  "notes": "Nasalized vowels are written as Vn (except on /e/ or /o/). /ɓ/ is represented by 'bh' or 'm'. Phoneme /l/ is represented orthographically by 'l', 'n', or 'r'.",
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "gw",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ba",
+      "gloss": "field"
+    },
+    {
+      "word": "ba",
+      "gloss": "field"
+    },
+    {
+      "word": "'bholi-",
+      "gloss": "goat kid"
+    },
+    {
+      "word": "'cɛn",
+      "gloss": "foot"
+    },
+    {
+      "word": "di",
+      "gloss": "ox"
+    },
+    {
+      "word": "le",
+      "gloss": "woman"
+    },
+    {
+      "word": "balɛ",
+      "gloss": "rope"
+    },
+    {
+      "word": "feŋ'",
+      "gloss": "millet"
+    },
+    {
+      "word": "-gu",
+      "gloss": "famine"
+    },
+    {
+      "word": "gbɔ",
+      "gloss": "pot, pan"
+    },
+    {
+      "word": "-gwaan",
+      "gloss": "calabash"
+    },
+    {
+      "word": "'yi",
+      "gloss": "water"
+    },
+    {
+      "word": "-jɔ",
+      "gloss": "buffalo"
+    },
+    {
+      "word": "koli",
+      "gloss": "cola nut"
+    },
+    {
+      "word": "'kpɔ",
+      "gloss": "fish"
+    },
+    {
+      "word": "'kwɛkwɛ-",
+      "gloss": "chimpanzee"
+    },
+    {
+      "word": "lu",
+      "gloss": "hunger"
+    },
+    {
+      "word": "-maŋ",
+      "gloss": "rice"
+    },
+    {
+      "word": "-nɔ",
+      "gloss": "wife"
+    },
+    {
+      "word": "laŋ'",
+      "gloss": "leaf"
+    },
+    {
+      "word": "-loŋ",
+      "gloss": "hare"
+    },
+    {
+      "word": "'ɔ",
+      "gloss": "salt"
+    },
+    {
+      "word": "'poli-",
+      "gloss": "eggplant"
+    },
+    {
+      "word": "yre",
+      "gloss": "work"
+    },
+    {
+      "word": "sɔ",
+      "gloss": "skirt cloth"
+    },
+    {
+      "word": "'te",
+      "gloss": "fire"
+    },
+    {
+      "word": "'u",
+      "gloss": "wine"
+    },
+    {
+      "word": "-vlɛ",
+      "gloss": "deer"
+    },
+    {
+      "word": "'wei-",
+      "gloss": "monkey"
+    },
+    {
+      "word": "-yole",
+      "gloss": "agouti"
+    },
+    {
+      "word": "zi",
+      "gloss": "path"
+    }
+  ]
+}

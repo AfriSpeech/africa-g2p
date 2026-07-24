@@ -1,0 +1,271 @@
+{
+  "page": 139,
+  "is_language_page": true,
+  "language": "Karaboro",
+  "iso639_3": "xrb",
+  "country": "Burkina Faso",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    },
+    {
+      "mark": "U+0027",
+      "role": "high tone (word initial or final)",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+002D",
+      "role": "low tone (before the word)",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "' (word initial or final)",
+    "mid": "unmarked",
+    "low": "- (before the word)",
+    "rising": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "bar",
+      "gloss": "porridges"
+    },
+    {
+      "word": "-bluhu",
+      "gloss": "large gourd"
+    },
+    {
+      "word": "draha",
+      "gloss": "place"
+    },
+    {
+      "word": "kande",
+      "gloss": "path"
+    },
+    {
+      "word": "-tɛhɛ",
+      "gloss": "times"
+    },
+    {
+      "word": "fãã",
+      "gloss": "hunger"
+    },
+    {
+      "word": "sugu",
+      "gloss": "to pound grain"
+    },
+    {
+      "word": "gbẽ",
+      "gloss": "clay pot"
+    },
+    {
+      "word": "-taha",
+      "gloss": "to follow"
+    },
+    {
+      "word": "-dir",
+      "gloss": "food plants"
+    },
+    {
+      "word": "kar",
+      "gloss": "meat"
+    },
+    {
+      "word": "-lar",
+      "gloss": "tripes"
+    },
+    {
+      "word": "mar",
+      "gloss": "to stick, glue"
+    },
+    {
+      "word": "naa",
+      "gloss": "fire"
+    },
+    {
+      "word": "'ŋgoŋ",
+      "gloss": "hut"
+    },
+    {
+      "word": "yroŋ",
+      "gloss": "moon"
+    },
+    {
+      "word": "-trɔhɔ",
+      "gloss": "leg"
+    },
+    {
+      "word": "-paha",
+      "gloss": "flail"
+    },
+    {
+      "word": "-gyar",
+      "gloss": "lion"
+    },
+    {
+      "word": "saha",
+      "gloss": "place"
+    },
+    {
+      "word": "-tar",
+      "gloss": "field"
+    },
+    {
+      "word": "-kur",
+      "gloss": "cotton"
+    },
+    {
+      "word": "war",
+      "gloss": "silver"
+    },
+    {
+      "word": "yinde",
+      "gloss": "eye"
+    }
+  ],
+  "num_graphemes": 27,
+  "confidence": "high",
+  "notes": "Hartell's /kj/ and /gj/ mapped to standard IPA palatals /c/ and /ɟ/. Hartell's /ʔ/ mapped to 'h'. Vowel length /V:/ is indicated by double vowels (VV) and nasalization /Ṽ/ by tilde above vowel (Ṽ). ISO 639-3 proposed as 'xrb' (Eastern Karaboro) or 'kza' (Western Karaboro)."
+}

@@ -1,0 +1,202 @@
+{
+  "code": "abi",
+  "name": "Abidji",
+  "country": "Côte d'Ivoire",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 2",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "c",
+    "j": "ɟ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "ʔ": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɩ": "ɪ",
+    "ɛ": "ɛ",
+    "a": "a",
+    "ɔ": "ɔ",
+    "ʊ": "ʊ",
+    "o": "o",
+    "u": "u",
+    "Vn": "Ṽ"
+  },
+  "diacritics": {},
+  "tones": {},
+  "notes": "Mapped Hartell vowel symbols /ɩ/ to IPA /ɪ/, /ɷ/ to IPA /ʊ/, and nasal vowel notation /Ṽ/ to grapheme digram sequence Vn.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "w",
+    "y",
+    "ʔ"
+  ],
+  "examples": [
+    {
+      "word": "a",
+      "gloss": "go!"
+    },
+    {
+      "word": "ba",
+      "gloss": "vine"
+    },
+    {
+      "word": "có",
+      "gloss": "place"
+    },
+    {
+      "word": "dada",
+      "gloss": "net"
+    },
+    {
+      "word": "egbe",
+      "gloss": "palm nuts"
+    },
+    {
+      "word": "tɛ",
+      "gloss": "over there"
+    },
+    {
+      "word": "kpɛnkpɛ",
+      "gloss": "skin"
+    },
+    {
+      "word": "fun",
+      "gloss": "lie"
+    },
+    {
+      "word": "ege",
+      "gloss": "behind"
+    },
+    {
+      "word": "gba",
+      "gloss": "now"
+    },
+    {
+      "word": "hɩ",
+      "gloss": "husband"
+    },
+    {
+      "word": "ti",
+      "gloss": "listen!"
+    },
+    {
+      "word": "rɩtɩ",
+      "gloss": "ear"
+    },
+    {
+      "word": "juju",
+      "gloss": "look for it!"
+    },
+    {
+      "word": "karʊ",
+      "gloss": "chicken"
+    },
+    {
+      "word": "kpan",
+      "gloss": "human being"
+    },
+    {
+      "word": "la",
+      "gloss": "fear"
+    },
+    {
+      "word": "mʊ",
+      "gloss": "in"
+    },
+    {
+      "word": "nʊ",
+      "gloss": "day"
+    },
+    {
+      "word": "okoko",
+      "gloss": "banana"
+    },
+    {
+      "word": "ɔbɔ",
+      "gloss": "thing"
+    },
+    {
+      "word": "plɛ",
+      "gloss": "squirrel"
+    },
+    {
+      "word": "nyɔmbɔ",
+      "gloss": "stupidity"
+    },
+    {
+      "word": "rɩra",
+      "gloss": "noise"
+    },
+    {
+      "word": "sie",
+      "gloss": "fish"
+    },
+    {
+      "word": "tɛbua",
+      "gloss": "paddle"
+    },
+    {
+      "word": "lu",
+      "gloss": "year"
+    },
+    {
+      "word": "lʊ",
+      "gloss": "sickness"
+    },
+    {
+      "word": "wɩ",
+      "gloss": "child"
+    },
+    {
+      "word": "yi",
+      "gloss": "woman"
+    },
+    {
+      "word": "unʔun",
+      "gloss": "bad"
+    }
+  ]
+}

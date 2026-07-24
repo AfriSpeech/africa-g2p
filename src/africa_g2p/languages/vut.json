@@ -1,0 +1,255 @@
+{
+  "code": "vut",
+  "name": "Vute",
+  "country": "Cameroon",
+  "family": "Bantoid, Mambiloid",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 132",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "mb": "m͡b",
+    "mv": "m͡v",
+    "mgb": "mɡ͡b",
+    "n": "n",
+    "nd": "n͡d",
+    "ng": "ŋɡ",
+    "nj": "n͡dʒ",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "ɨ": "ɨ",
+    "ə": "ə",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̂": "˥˩",
+    "̀": "˩",
+    "̃": "̃"
+  },
+  "tones": {
+    "high": "acute (´)",
+    "falling": "circumflex (ˆ)",
+    "low_or_rising": "grave (`)",
+    "mid_and_mid_high": "unmarked"
+  },
+  "notes": "Hartell's /y/ mapped to IPA /j/. Tone mark alternatives and tone notation reflect dialectal variation noted on page.",
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɨ",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "mgb",
+    "n",
+    "nd",
+    "ng",
+    "nj",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "tá",
+      "gloss": "father"
+    },
+    {
+      "word": "balí",
+      "gloss": "type of leaf"
+    },
+    {
+      "word": "ɓíl",
+      "gloss": "sky"
+    },
+    {
+      "word": "cene",
+      "gloss": "chicken"
+    },
+    {
+      "word": "do",
+      "gloss": "hippopotamus"
+    },
+    {
+      "word": "ɗɨŋ",
+      "gloss": "melon"
+    },
+    {
+      "word": "ɓe",
+      "gloss": "with"
+    },
+    {
+      "word": "kər",
+      "gloss": "claw"
+    },
+    {
+      "word": "fam",
+      "gloss": "blow your nose"
+    },
+    {
+      "word": "gam",
+      "gloss": "take!"
+    },
+    {
+      "word": "gbɛ̀",
+      "gloss": "clan"
+    },
+    {
+      "word": "ham",
+      "gloss": "compound"
+    },
+    {
+      "word": "mí",
+      "gloss": "odor"
+    },
+    {
+      "word": "bír",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "jàm",
+      "gloss": "cobra"
+    },
+    {
+      "word": "kam",
+      "gloss": "crab"
+    },
+    {
+      "word": "kpáb",
+      "gloss": "lion"
+    },
+    {
+      "word": "lì",
+      "gloss": "dog"
+    },
+    {
+      "word": "mámá",
+      "gloss": "grandmother"
+    },
+    {
+      "word": "mbeè",
+      "gloss": "salt"
+    },
+    {
+      "word": "mvom",
+      "gloss": "tortoise"
+    },
+    {
+      "word": "mgbárè",
+      "gloss": "stone"
+    },
+    {
+      "word": "naná",
+      "gloss": "baby"
+    },
+    {
+      "word": "ndù",
+      "gloss": "trap"
+    },
+    {
+      "word": "ngár",
+      "gloss": "hand"
+    },
+    {
+      "word": "njín",
+      "gloss": "feather"
+    },
+    {
+      "word": "nyèm",
+      "gloss": "animal"
+    },
+    {
+      "word": "naŋ",
+      "gloss": "couscous"
+    },
+    {
+      "word": "no",
+      "gloss": "inside"
+    },
+    {
+      "word": "tɔ",
+      "gloss": "fish"
+    },
+    {
+      "word": "pia",
+      "gloss": "avocado"
+    },
+    {
+      "word": "tòrò",
+      "gloss": "papaya"
+    },
+    {
+      "word": "sítá",
+      "gloss": "hunter"
+    },
+    {
+      "word": "tó",
+      "gloss": "ear"
+    },
+    {
+      "word": "vuŋ",
+      "gloss": "egg"
+    },
+    {
+      "word": "vri",
+      "gloss": "twenty"
+    },
+    {
+      "word": "wùúm",
+      "gloss": "viper"
+    },
+    {
+      "word": "yáya",
+      "gloss": "yesterday"
+    }
+  ]
+}

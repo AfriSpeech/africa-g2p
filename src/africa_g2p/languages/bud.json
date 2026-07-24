@@ -1,0 +1,187 @@
+{
+  "code": "bud",
+  "name": "Bassar (N'tcham)",
+  "country": "Togo",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 25",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ee": "eː",
+    "a": "a",
+    "u": "u",
+    "oo": "oː",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˧",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent"
+  },
+  "notes": "Tone is written only on verbs and some verbal particles. Photocopied text notes 27 graphemes.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "ee",
+    "f",
+    "g",
+    "gb",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "oo",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "italandi",
+      "gloss": "but"
+    },
+    {
+      "word": "kibiki",
+      "gloss": "child"
+    },
+    {
+      "word": "ucaa",
+      "gloss": "blacksmith"
+    },
+    {
+      "word": "dakaa",
+      "gloss": "box"
+    },
+    {
+      "word": "ceeku",
+      "gloss": "axe"
+    },
+    {
+      "word": "fitila",
+      "gloss": "lamp"
+    },
+    {
+      "word": "kugɔtuu",
+      "gloss": "bathroom"
+    },
+    {
+      "word": "ugbïi",
+      "gloss": "panther"
+    },
+    {
+      "word": "idi",
+      "gloss": "millet"
+    },
+    {
+      "word": "kijiki",
+      "gloss": "knife"
+    },
+    {
+      "word": "kutuku",
+      "gloss": "sack"
+    },
+    {
+      "word": "ukpàan",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "ulantan",
+      "gloss": "monkey"
+    },
+    {
+      "word": "timool",
+      "gloss": "grass"
+    },
+    {
+      "word": "unaa",
+      "gloss": "cow"
+    },
+    {
+      "word": "kinyoŋ",
+      "gloss": "market"
+    },
+    {
+      "word": "ŋŋaan",
+      "gloss": "broom"
+    },
+    {
+      "word": "ŋŋmi",
+      "gloss": "fire"
+    },
+    {
+      "word": "anoo",
+      "gloss": "yams"
+    },
+    {
+      "word": "kɔlɔkɔlɔ",
+      "gloss": "turkey"
+    },
+    {
+      "word": "mpiin",
+      "gloss": "nail"
+    },
+    {
+      "word": "radioo",
+      "gloss": "radio"
+    },
+    {
+      "word": "sata",
+      "gloss": "skirt cloth"
+    },
+    {
+      "word": "kutuku",
+      "gloss": "sack"
+    },
+    {
+      "word": "kutuku",
+      "gloss": "sack"
+    },
+    {
+      "word": "kiwuŋ",
+      "gloss": "hare"
+    },
+    {
+      "word": "iyoo",
+      "gloss": "millet"
+    }
+  ]
+}

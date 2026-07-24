@@ -1,0 +1,179 @@
+{
+  "code": "rel",
+  "name": "Rendille",
+  "country": "Kenya",
+  "family": "Cushitic",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 110",
+  "confidence": "high",
+  "graphemes": {
+    "b": "b",
+    "dh": "ɗ",
+    "t": "t",
+    "d": "ɖ",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng'": "ŋ",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "kh": "x",
+    "h'": "h",
+    "h": "ħ",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "ɔ",
+    "VV": "Vː"
+  },
+  "diacritics": {
+    "́": "˥"
+  },
+  "tones": {
+    "high": "acute",
+    "low": "unmarked"
+  },
+  "notes": "Hartell uses /ɗ/ for grapheme 'dh' (implosive) and /ɖ/ for grapheme 'd' (retroflex). Grapheme 'h' maps to IPA /ħ/ (pharyngeal fricative), while 'h'' maps to IPA /h/ (glottal fricative). The vowel 'o' is rendered as IPA /ɔ/.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "dh",
+    "e",
+    "f",
+    "g",
+    "h",
+    "h'",
+    "i",
+    "j",
+    "k",
+    "kh",
+    "l",
+    "m",
+    "n",
+    "ng'",
+    "ny",
+    "o",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "bár",
+      "gloss": "body mark"
+    },
+    {
+      "word": "biché",
+      "gloss": "water"
+    },
+    {
+      "word": "chán",
+      "gloss": "five"
+    },
+    {
+      "word": "dam",
+      "gloss": "drink!"
+    },
+    {
+      "word": "dháb",
+      "gloss": "fire"
+    },
+    {
+      "word": "hér",
+      "gloss": "warriors"
+    },
+    {
+      "word": "fár",
+      "gloss": "finger"
+    },
+    {
+      "word": "gáal",
+      "gloss": "camel"
+    },
+    {
+      "word": "hóól",
+      "gloss": "gazelle"
+    },
+    {
+      "word": "h'óól",
+      "gloss": "problems"
+    },
+    {
+      "word": "mín",
+      "gloss": "house"
+    },
+    {
+      "word": "jíjo",
+      "gloss": "milk container"
+    },
+    {
+      "word": "kokóob",
+      "gloss": "cup"
+    },
+    {
+      "word": "khokhóom",
+      "gloss": "club"
+    },
+    {
+      "word": "lólyo",
+      "gloss": "ox"
+    },
+    {
+      "word": "míris",
+      "gloss": "clouds"
+    },
+    {
+      "word": "náh",
+      "gloss": "we (excl.)"
+    },
+    {
+      "word": "ng'ùr",
+      "gloss": "slash"
+    },
+    {
+      "word": "nyóór",
+      "gloss": "leg bell"
+    },
+    {
+      "word": "tór",
+      "gloss": "plain"
+    },
+    {
+      "word": "ráh",
+      "gloss": "frog"
+    },
+    {
+      "word": "saah",
+      "gloss": "separate!"
+    },
+    {
+      "word": "tuumán",
+      "gloss": "all"
+    },
+    {
+      "word": "búr",
+      "gloss": "hillock"
+    },
+    {
+      "word": "wáákh",
+      "gloss": "God"
+    },
+    {
+      "word": "yáakh",
+      "gloss": "pasture"
+    }
+  ]
+}

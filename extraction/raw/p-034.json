@@ -1,0 +1,390 @@
+{
+  "page": 34,
+  "is_language_page": true,
+  "language": "Dagara",
+  "iso639_3": "dgi",
+  "country": "Burkina Faso",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "t͡ʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "d͡ʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "ʔ"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ñ"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "ʔl",
+      "grapheme": "ʔl"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "ɾ",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "ɦ",
+      "grapheme": "ɦ"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "ʔw",
+      "grapheme": "ʔw"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "ʔj",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ι"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "υ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "ɦ",
+    "i",
+    "ι",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "ʔl",
+    "m",
+    "n",
+    "ñ",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "r",
+    "s",
+    "t",
+    "u",
+    "υ",
+    "v",
+    "w",
+    "ʔw",
+    "y",
+    "y",
+    "z",
+    "ʔ"
+  ],
+  "examples": [
+    {
+      "word": "tú",
+      "gloss": "to arrive"
+    },
+    {
+      "word": "bà",
+      "gloss": "to plant"
+    },
+    {
+      "word": "ɓà",
+      "gloss": "to slap"
+    },
+    {
+      "word": "cè",
+      "gloss": "to cut"
+    },
+    {
+      "word": "dà",
+      "gloss": "to buy"
+    },
+    {
+      "word": "bè",
+      "gloss": "to be"
+    },
+    {
+      "word": "kè",
+      "gloss": "to cut"
+    },
+    {
+      "word": "fú",
+      "gloss": "to blow"
+    },
+    {
+      "word": "gómó",
+      "gloss": "noises"
+    },
+    {
+      "word": "gbàá",
+      "gloss": "snake"
+    },
+    {
+      "word": "hélú",
+      "gloss": "to laugh"
+    },
+    {
+      "word": "ɦà",
+      "gloss": "all"
+    },
+    {
+      "word": "tí",
+      "gloss": "to begin"
+    },
+    {
+      "word": "bì",
+      "gloss": "to ripen"
+    },
+    {
+      "word": "jélé",
+      "gloss": "eggs"
+    },
+    {
+      "word": "ká",
+      "gloss": "to empty (water)"
+    },
+    {
+      "word": "kpà",
+      "gloss": "to nail"
+    },
+    {
+      "word": "lán",
+      "gloss": "purse"
+    },
+    {
+      "word": "ʔlà",
+      "gloss": "to spread out"
+    },
+    {
+      "word": "mè",
+      "gloss": "to build"
+    },
+    {
+      "word": "níɓé",
+      "gloss": "persons"
+    },
+    {
+      "word": "ñè",
+      "gloss": "to lay (egg)"
+    },
+    {
+      "word": "ŋà",
+      "gloss": "to resemble"
+    },
+    {
+      "word": "ŋmà",
+      "gloss": "to cut"
+    },
+    {
+      "word": "sò",
+      "gloss": "to wash"
+    },
+    {
+      "word": "tò",
+      "gloss": "to pound"
+    },
+    {
+      "word": "pè",
+      "gloss": "to empty"
+    },
+    {
+      "word": "gàrà",
+      "gloss": "worm"
+    },
+    {
+      "word": "gárʋ",
+      "gloss": "to lie"
+    },
+    {
+      "word": "sè",
+      "gloss": "to sew"
+    },
+    {
+      "word": "tùlú",
+      "gloss": "pestle"
+    },
+    {
+      "word": "tú",
+      "gloss": "to dig"
+    },
+    {
+      "word": "tú",
+      "gloss": "to insult"
+    },
+    {
+      "word": "và",
+      "gloss": "to hit"
+    },
+    {
+      "word": "wćé",
+      "gloss": "snails"
+    },
+    {
+      "word": "ʔwálá",
+      "gloss": "type of fish"
+    },
+    {
+      "word": "yí",
+      "gloss": "to leave"
+    },
+    {
+      "word": "yébá",
+      "gloss": "crocodile"
+    },
+    {
+      "word": "zè",
+      "gloss": "to plunder"
+    },
+    {
+      "word": "ʔárú",
+      "gloss": "to remain"
+    }
+  ],
+  "num_graphemes": 40,
+  "confidence": "high",
+  "notes": "Non-standard IPA symbols in source converted: /tʃ/ to t͡ʃ, /dʒ/ to d͡ʒ, /kp/ to k͡p, /gb/ to ɡ͡b, /ŋm/ to ŋ͡m, /ι/ to ɪ, /υ/ to ʊ. Glottalized phonemes /ʔl/, /ʔw/, /ʔy/ correspond to graphemes ʔl, ʔw, y. Tap /ɾ/ and trill /r/ are both represented orthographically as 'r'."
+}

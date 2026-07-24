@@ -1,0 +1,202 @@
+{
+  "code": "dow",
+  "name": "Doayo",
+  "country": "Cameroon",
+  "family": "Adamawa-Ubangi, Adamawa 4",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 37",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˦",
+    "̍": "˧",
+    "̀": "˩",
+    "̃": "̃"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mi-high": "macron",
+    "mid": "vertical tick / apostrophe",
+    "low": "grave accent"
+  },
+  "notes": "Hartell uses /y/ for IPA /j/, /6/ for /ɓ/, and hook-d for /ɗ/. Vowel length is indicated by vowel doubling (VV). Nasalization is indicated with tildes (Ṽ).",
+  "alphabet": [
+    "a",
+    "b",
+    "ɓ",
+    "d",
+    "ɗ",
+    "ɛ",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "ɔ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "Adzi",
+      "gloss": "girl's name"
+    },
+    {
+      "word": "bilɛ",
+      "gloss": "granary"
+    },
+    {
+      "word": "ɓaŋko",
+      "gloss": "wild cherry tree"
+    },
+    {
+      "word": "dɛlɛ",
+      "gloss": "basket"
+    },
+    {
+      "word": "ɗaŋgo",
+      "gloss": "cactus"
+    },
+    {
+      "word": "ɛldɛlyɔ",
+      "gloss": "old woman"
+    },
+    {
+      "word": "esigyɔ",
+      "gloss": "to be standing"
+    },
+    {
+      "word": "furyɔ",
+      "gloss": "hoe"
+    },
+    {
+      "word": "gɔɔyɔ",
+      "gloss": "peanut"
+    },
+    {
+      "word": "gbɔnɔyɔ",
+      "gloss": "way, path"
+    },
+    {
+      "word": "hɛlɛ",
+      "gloss": "broom"
+    },
+    {
+      "word": "isyɔ",
+      "gloss": "goat"
+    },
+    {
+      "word": "kaayɔ",
+      "gloss": "dog"
+    },
+    {
+      "word": "kpaasɛ",
+      "gloss": "straw"
+    },
+    {
+      "word": "lɛŋko",
+      "gloss": "bone"
+    },
+    {
+      "word": "maato",
+      "gloss": "yam"
+    },
+    {
+      "word": "nɔɔsɛ",
+      "gloss": "bird"
+    },
+    {
+      "word": "daŋgo",
+      "gloss": "knife"
+    },
+    {
+      "word": "ɔksigyɔ",
+      "gloss": "to unite"
+    },
+    {
+      "word": "orɛ",
+      "gloss": "co-wife"
+    },
+    {
+      "word": "pɛɛzumyɔ",
+      "gloss": "donkey"
+    },
+    {
+      "word": "romɔ",
+      "gloss": "hare"
+    },
+    {
+      "word": "sɔɔlɛ",
+      "gloss": "stick"
+    },
+    {
+      "word": "tonɛ",
+      "gloss": "ear"
+    },
+    {
+      "word": "dutu",
+      "gloss": "fish"
+    },
+    {
+      "word": "vimryɔ",
+      "gloss": "twisted"
+    },
+    {
+      "word": "waayɔ",
+      "gloss": "child"
+    },
+    {
+      "word": "yaayɔ",
+      "gloss": "monkey"
+    },
+    {
+      "word": "zulɛ",
+      "gloss": "head"
+    }
+  ]
+}

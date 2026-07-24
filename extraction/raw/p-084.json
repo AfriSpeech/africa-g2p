@@ -1,0 +1,442 @@
+{
+  "page": 84,
+  "is_language_page": true,
+  "language": "Mangbetu (Meje)",
+  "iso639_3": "mdj",
+  "country": "Zaire",
+  "family": "Central Sudanic",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "bh"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "dh"
+    },
+    {
+      "phoneme": "t͡r",
+      "grapheme": "tr"
+    },
+    {
+      "phoneme": "d͡r",
+      "grapheme": "dr"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "K"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "kʲ",
+      "grapheme": "ts"
+    },
+    {
+      "phoneme": "gʲ",
+      "grapheme": "dy"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "m͡b",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "N"
+    },
+    {
+      "phoneme": "n͡d",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "n͡d͡r",
+      "grapheme": "ndr"
+    },
+    {
+      "phoneme": "ŋ͡ɡ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "ŋ͡ɡ͡b",
+      "grapheme": "ngb"
+    },
+    {
+      "phoneme": "ŋɡʲ",
+      "grapheme": "ndj"
+    },
+    {
+      "phoneme": "ɱv",
+      "grapheme": "nv"
+    },
+    {
+      "phoneme": "n͡z",
+      "grapheme": "nz"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "ⱱ",
+      "grapheme": "vh"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ɨ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ʉ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "low": "unmarked"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "d",
+    "dh",
+    "dj",
+    "dr",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɨ",
+    "k",
+    "K",
+    "kp",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "N",
+    "nd",
+    "ndj",
+    "ndr",
+    "ng",
+    "ngb",
+    "nv",
+    "nz",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "tr",
+    "ts",
+    "u",
+    "ʉ",
+    "v",
+    "vh",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "kana",
+      "gloss": "one"
+    },
+    {
+      "word": "Néba",
+      "gloss": "breast"
+    },
+    {
+      "word": "Nébha",
+      "gloss": "village"
+    },
+    {
+      "word": "Nádɔ",
+      "gloss": "sadness"
+    },
+    {
+      "word": "Nódhɔ",
+      "gloss": "to insult"
+    },
+    {
+      "word": "Nédjó",
+      "gloss": "house"
+    },
+    {
+      "word": "Nédru",
+      "gloss": "head"
+    },
+    {
+      "word": "Nékele",
+      "gloss": "charcoal"
+    },
+    {
+      "word": "Nápɛ",
+      "gloss": "earth"
+    },
+    {
+      "word": "Náfedhɛ",
+      "gloss": "mucus"
+    },
+    {
+      "word": "Nógi",
+      "gloss": "garment"
+    },
+    {
+      "word": "Négbámá",
+      "gloss": "young man"
+    },
+    {
+      "word": "Náhí",
+      "gloss": "snail"
+    },
+    {
+      "word": "Nébí",
+      "gloss": "wound"
+    },
+    {
+      "word": "Nébɨ́",
+      "gloss": "ear"
+    },
+    {
+      "word": "Nókɔ́",
+      "gloss": "elephant"
+    },
+    {
+      "word": "Ka",
+      "gloss": "[negation]"
+    },
+    {
+      "word": "Nékpó",
+      "gloss": "civet cat"
+    },
+    {
+      "word": "náálé",
+      "gloss": "chicken"
+    },
+    {
+      "word": "Némo",
+      "gloss": "hunger"
+    },
+    {
+      "word": "nóombi",
+      "gloss": "ax"
+    },
+    {
+      "word": "nááne",
+      "gloss": "sand"
+    },
+    {
+      "word": "Nédru",
+      "gloss": "head"
+    },
+    {
+      "word": "nóokondó",
+      "gloss": "leopard"
+    },
+    {
+      "word": "Nágandjó",
+      "gloss": "rock salt"
+    },
+    {
+      "word": "Nándrɔ",
+      "gloss": "woman"
+    },
+    {
+      "word": "Néngɛrɛ",
+      "gloss": "fish"
+    },
+    {
+      "word": "Néngbángbá",
+      "gloss": "hangar"
+    },
+    {
+      "word": "Nónvo",
+      "gloss": "to wait for"
+    },
+    {
+      "word": "Nónzi",
+      "gloss": "death"
+    },
+    {
+      "word": "Néŋɔ",
+      "gloss": "eye (Meje)"
+    },
+    {
+      "word": "Nógo",
+      "gloss": "illness"
+    },
+    {
+      "word": "Námɔ",
+      "gloss": "nose"
+    },
+    {
+      "word": "Nápú",
+      "gloss": "ash(es)"
+    },
+    {
+      "word": "Nérí",
+      "gloss": "animal"
+    },
+    {
+      "word": "Nésí",
+      "gloss": "dog"
+    },
+    {
+      "word": "Nɛtɛ",
+      "gloss": "hand"
+    },
+    {
+      "word": "nóótrɨ",
+      "gloss": "tortoise tail"
+    },
+    {
+      "word": "Nótsa",
+      "gloss": "to limp"
+    },
+    {
+      "word": "Négúgú",
+      "gloss": "chest"
+    },
+    {
+      "word": "Nédhu",
+      "gloss": "thigh"
+    },
+    {
+      "word": "Névanga",
+      "gloss": "arrow"
+    },
+    {
+      "word": "Némɛivha",
+      "gloss": "cobra"
+    },
+    {
+      "word": "nóuwɔ",
+      "gloss": "raffia"
+    },
+    {
+      "word": "éyé",
+      "gloss": "sleep"
+    },
+    {
+      "word": "Némázámbúla",
+      "gloss": "lion"
+    }
+  ],
+  "num_graphemes": 46,
+  "confidence": "high",
+  "notes": "Hartell uses non-standard phoneme representations: /6/ for implosive /ɓ/ (grapheme bh), /d/ with hook for implosive /ɗ/ (grapheme dh), /'v/ for labiodental flap /ⱱ/ (grapheme vh), /ɩ/ and /ʋ/ for /ɪ/ and /ʊ/ mapped to bar-vowels ɨ and ʉ. /ky/, /gy/, and /ngy/ represent palatalized consonants mapped to ts, dy, and ndj."
+}

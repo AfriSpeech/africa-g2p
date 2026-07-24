@@ -1,0 +1,293 @@
+{
+  "page": 18,
+  "is_language_page": true,
+  "language": "Bimoba",
+  "iso639_3": "bim",
+  "country": "Ghana",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "ch"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0304",
+      "role": "mid tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "U+0027",
+      "role": "falling tone (only written when contrast)",
+      "ipa": "˥˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "macron",
+    "low": "grave accent",
+    "falling": "apostrophe (only written when contrast)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "naŋ",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "boŋ",
+      "gloss": "donkey"
+    },
+    {
+      "word": "bonchiann",
+      "gloss": "[intensifier]"
+    },
+    {
+      "word": "doorik",
+      "gloss": "pig"
+    },
+    {
+      "word": "set",
+      "gloss": "to stand"
+    },
+    {
+      "word": "fitir",
+      "gloss": "lamp"
+    },
+    {
+      "word": "giŋgann",
+      "gloss": "drum"
+    },
+    {
+      "word": "gbanant",
+      "gloss": "body, skin"
+    },
+    {
+      "word": "jena",
+      "gloss": "eggs"
+    },
+    {
+      "word": "hali",
+      "gloss": "much"
+    },
+    {
+      "word": "fit",
+      "gloss": "to be able"
+    },
+    {
+      "word": "kobuk",
+      "gloss": "feather"
+    },
+    {
+      "word": "kpint",
+      "gloss": "soup"
+    },
+    {
+      "word": "liatir",
+      "gloss": "shirt"
+    },
+    {
+      "word": "mɔb",
+      "gloss": "mouth"
+    },
+    {
+      "word": "naab",
+      "gloss": "cow"
+    },
+    {
+      "word": "nyɔku",
+      "gloss": "medicine"
+    },
+    {
+      "word": "ŋak",
+      "gloss": "to shake"
+    },
+    {
+      "word": "ŋaŋmaanii",
+      "gloss": "fear"
+    },
+    {
+      "word": "kok",
+      "gloss": "chair"
+    },
+    {
+      "word": "mɔtana",
+      "gloss": "now"
+    },
+    {
+      "word": "peuk",
+      "gloss": "sheep"
+    },
+    {
+      "word": "sapaanbik",
+      "gloss": "girl"
+    },
+    {
+      "word": "taal",
+      "gloss": "foot"
+    },
+    {
+      "word": "juk",
+      "gloss": "knife"
+    },
+    {
+      "word": "waok",
+      "gloss": "snake"
+    },
+    {
+      "word": "yelek",
+      "gloss": "music pipe"
+    }
+  ],
+  "num_graphemes": 28,
+  "confidence": "high",
+  "notes": "Hartell uses /y/ for IPA /j/. Long vowels are indicated orthographically as double vowels (VV), and nasal vowels are represented by vowel followed by 'n' (Vn). Tones are usually not written in practice."
+}

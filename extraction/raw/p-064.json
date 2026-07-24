@@ -1,0 +1,265 @@
+{
+  "page": 64,
+  "is_language_page": true,
+  "language": "Kanuri",
+  "iso639_3": "knc",
+  "country": "Niger",
+  "family": "Nilo-Saharan",
+  "graphemes": [
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "β",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "ð~ɖ",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tɕ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dz",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɨ",
+      "grapheme": "ə"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "ç",
+      "grapheme": "sh"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "ɽ",
+      "grapheme": "ɍ"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [],
+  "tones": null,
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "o",
+    "p",
+    "r",
+    "ɍ",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "am",
+      "gloss": "people"
+    },
+    {
+      "word": "be",
+      "gloss": "hot season"
+    },
+    {
+      "word": "ci",
+      "gloss": "mouth"
+    },
+    {
+      "word": "da",
+      "gloss": "meat"
+    },
+    {
+      "word": "fe",
+      "gloss": "cow"
+    },
+    {
+      "word": "bərbər",
+      "gloss": "dust"
+    },
+    {
+      "word": "fado",
+      "gloss": "compound"
+    },
+    {
+      "word": "garu",
+      "gloss": "wall"
+    },
+    {
+      "word": "hangal",
+      "gloss": "intelligence"
+    },
+    {
+      "word": "ingi",
+      "gloss": "water"
+    },
+    {
+      "word": "je",
+      "gloss": "rope"
+    },
+    {
+      "word": "ka",
+      "gloss": "stick"
+    },
+    {
+      "word": "lele",
+      "gloss": "sweetened"
+    },
+    {
+      "word": "mafi",
+      "gloss": "hail"
+    },
+    {
+      "word": "na",
+      "gloss": "place"
+    },
+    {
+      "word": "nyamnyam",
+      "gloss": "drizzle"
+    },
+    {
+      "word": "soro",
+      "gloss": "house"
+    },
+    {
+      "word": "naptəram",
+      "gloss": "seat"
+    },
+    {
+      "word": "rungo",
+      "gloss": "flour"
+    },
+    {
+      "word": "ɍeke",
+      "gloss": "sugar cane"
+    },
+    {
+      "word": "səmo",
+      "gloss": "ear"
+    },
+    {
+      "word": "shawa",
+      "gloss": "pretty"
+    },
+    {
+      "word": "timi",
+      "gloss": "tooth"
+    },
+    {
+      "word": "ku",
+      "gloss": "today"
+    },
+    {
+      "word": "wada",
+      "gloss": "dwarf"
+    },
+    {
+      "word": "ya",
+      "gloss": "mother"
+    }
+  ],
+  "num_graphemes": 26,
+  "confidence": "high",
+  "notes": "Grapheme ɍ (r with stroke/bar) corresponds to retroflex flap /ɽ/. Note at bottom indicates orthography represents Dagara, Manga, Mobeur, and Tumari dialects."
+}

@@ -1,0 +1,207 @@
+{
+  "code": "etn",
+  "name": "Western Ejagham",
+  "country": "Cameroon",
+  "family": "Ekoid Bantu",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 43",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "s": "s",
+    "r": "r",
+    "bh": "β",
+    "gh": "ɣ",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "ɛ",
+    "a": "a",
+    "ʉ": "ʉ",
+    "ə": "ə",
+    "u": "u",
+    "o": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "unmarked",
+    "falling to low": "circumflex accent",
+    "falling to downstepped high": "circumflex accent",
+    "rising": "unmarked",
+    "downstepped high": "unmarked"
+  },
+  "notes": "Hartell uses square brackets for phones [β] (bh) and [ɣ] (gh). Hartell uses /y/ for IPA /j/.",
+  "alphabet": [
+    "a",
+    "b",
+    "bh",
+    "ch",
+    "d",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʉ",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "aya",
+      "gloss": "river"
+    },
+    {
+      "word": "mbá",
+      "gloss": "road"
+    },
+    {
+      "word": "ebbhin",
+      "gloss": "farm"
+    },
+    {
+      "word": "echî",
+      "gloss": "head"
+    },
+    {
+      "word": "ndûm",
+      "gloss": "husband"
+    },
+    {
+      "word": "ejen",
+      "gloss": "journey"
+    },
+    {
+      "word": "ogəm",
+      "gloss": "market"
+    },
+    {
+      "word": "ofú",
+      "gloss": "day"
+    },
+    {
+      "word": "egan",
+      "gloss": "story"
+    },
+    {
+      "word": "egba",
+      "gloss": "fist"
+    },
+    {
+      "word": "nkoghe",
+      "gloss": "fallen tree"
+    },
+    {
+      "word": "ikom",
+      "gloss": "strength"
+    },
+    {
+      "word": "eji",
+      "gloss": "cola nut"
+    },
+    {
+      "word": "nkok",
+      "gloss": "fowl"
+    },
+    {
+      "word": "ekpa",
+      "gloss": "sleeping mat"
+    },
+    {
+      "word": "eme",
+      "gloss": "neck"
+    },
+    {
+      "word": "ane",
+      "gloss": "people"
+    },
+    {
+      "word": "onyam",
+      "gloss": "animals"
+    },
+    {
+      "word": "mbiŋ",
+      "gloss": "name"
+    },
+    {
+      "word": "otop",
+      "gloss": "mud"
+    },
+    {
+      "word": "opu",
+      "gloss": "fishing weight"
+    },
+    {
+      "word": "aron",
+      "gloss": "intelligence"
+    },
+    {
+      "word": "esa",
+      "gloss": "chewing stick"
+    },
+    {
+      "word": "eték",
+      "gloss": "village"
+    },
+    {
+      "word": "eyu",
+      "gloss": "yam"
+    },
+    {
+      "word": "ajʉ",
+      "gloss": "local plums"
+    },
+    {
+      "word": "iwá",
+      "gloss": "cassava"
+    },
+    {
+      "word": "eyom",
+      "gloss": "hoe"
+    },
+    {
+      "word": "ebhi",
+      "gloss": "mongoose"
+    },
+    {
+      "word": "ebhí",
+      "gloss": "cooking pot"
+    },
+    {
+      "word": "ebhî",
+      "gloss": "palm nut cluster"
+    }
+  ]
+}

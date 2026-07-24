@@ -1,0 +1,319 @@
+{
+  "page": 122,
+  "is_language_page": true,
+  "language": "Kroumen Tépo",
+  "iso639_3": "ted",
+  "country": "Côte d'Ivoire",
+  "family": "Kru",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "c",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "ɟ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "k͡w",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "ɪ",
+      "grapheme": "ɩ"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "ʋ"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "'",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "-",
+      "role": "low tone",
+      "ipa": "˩"
+    },
+    {
+      "mark": "=",
+      "role": "low-high tone",
+      "ipa": "˩˥"
+    }
+  ],
+  "tones": {
+    "high": "apostrophe (')",
+    "mid": "unmarked",
+    "low": "hyphen (-)",
+    "low-high": "equals sign (=)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʋ",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "kaka",
+      "gloss": "bucket"
+    },
+    {
+      "word": "daba",
+      "gloss": "duck"
+    },
+    {
+      "word": "ca",
+      "gloss": "parrot"
+    },
+    {
+      "word": "du",
+      "gloss": "rat"
+    },
+    {
+      "word": "ke",
+      "gloss": "eagle"
+    },
+    {
+      "word": "bɛnʋ",
+      "gloss": "stick carrier"
+    },
+    {
+      "word": "-faka",
+      "gloss": "knife"
+    },
+    {
+      "word": "-gaya",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "gbɔgbɔ",
+      "gloss": "toad"
+    },
+    {
+      "word": "'hipe",
+      "gloss": "canoe"
+    },
+    {
+      "word": "=pli",
+      "gloss": "porcupine"
+    },
+    {
+      "word": "'napɩ",
+      "gloss": "light"
+    },
+    {
+      "word": "-ji",
+      "gloss": "panther"
+    },
+    {
+      "word": "ka",
+      "gloss": "crab"
+    },
+    {
+      "word": "kwle",
+      "gloss": "white deer"
+    },
+    {
+      "word": "'lɔ",
+      "gloss": "nest"
+    },
+    {
+      "word": "'maɩ",
+      "gloss": "papo"
+    },
+    {
+      "word": "na",
+      "gloss": "wood"
+    },
+    {
+      "word": "''yo",
+      "gloss": "melons"
+    },
+    {
+      "word": "-ŋamʋ",
+      "gloss": "horn"
+    },
+    {
+      "word": "ŋmatu",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "-gblo",
+      "gloss": "enclosure"
+    },
+    {
+      "word": "kɔ",
+      "gloss": "skin"
+    },
+    {
+      "word": "pa",
+      "gloss": "African sword"
+    },
+    {
+      "word": "'yru",
+      "gloss": "kind of snake"
+    },
+    {
+      "word": "-sukuu",
+      "gloss": "school"
+    },
+    {
+      "word": "tutu",
+      "gloss": "trap"
+    },
+    {
+      "word": "'yu",
+      "gloss": "child"
+    },
+    {
+      "word": "yu",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "-wodu",
+      "gloss": "snail"
+    },
+    {
+      "word": "ya",
+      "gloss": "clay pot"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "Vn orthographically represents nasalized vowels, which are unmarked in syllables beginning with a nasal consonant. In tone description, 'M, -M, and =M represent high, low, and low-high tones relative to a mora/syllable."
+}

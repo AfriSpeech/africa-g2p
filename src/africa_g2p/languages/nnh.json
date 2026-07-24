@@ -1,0 +1,206 @@
+{
+  "code": "nnh",
+  "name": "Ngyembɔɔn",
+  "country": "Cameroon",
+  "family": "Grassfields Bantu, Bamileke",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 106",
+  "confidence": "high",
+  "graphemes": {
+    "pf": "p͡f",
+    "b": "b",
+    "p": "b",
+    "t": "t",
+    "d": "d",
+    "l": "d",
+    "ts": "t͡s",
+    "c": "t͡s",
+    "k": "k",
+    "'": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "sh": "s",
+    "z": "z",
+    "j": "z",
+    "w": "w",
+    "ẅ": "ẅ",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̌": "˩˥",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "acute",
+    "rising": "caron",
+    "falling": "circumflex",
+    "low": "unmarked"
+  },
+  "notes": "Hartell's /y/ rendered as IPA /j/. Hartell's /pf/ and /ts/ rendered as tie-bar affricates /p͡f/ and /t͡s/. /ẅ/ represents a central/velarized glide, rendered as IPA /ẅ/.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "pf",
+    "s",
+    "sh",
+    "t",
+    "ts",
+    "u",
+    "v",
+    "w",
+    "ẅ",
+    "y",
+    "z",
+    "'"
+  ],
+  "examples": [
+    {
+      "word": "tá",
+      "gloss": "father"
+    },
+    {
+      "word": "gubé",
+      "gloss": "children"
+    },
+    {
+      "word": "ncû",
+      "gloss": "war"
+    },
+    {
+      "word": "ndá",
+      "gloss": "house"
+    },
+    {
+      "word": "mé",
+      "gloss": "one (pron)"
+    },
+    {
+      "word": "pfɛ̂",
+      "gloss": "eat!"
+    },
+    {
+      "word": "fó",
+      "gloss": "come from"
+    },
+    {
+      "word": "gem",
+      "gloss": "hole"
+    },
+    {
+      "word": "ntí",
+      "gloss": "quality"
+    },
+    {
+      "word": "ǰuo",
+      "gloss": "tomorrow"
+    },
+    {
+      "word": "kú",
+      "gloss": "among"
+    },
+    {
+      "word": "alá'",
+      "gloss": "village"
+    },
+    {
+      "word": "má",
+      "gloss": "mother"
+    },
+    {
+      "word": "ná",
+      "gloss": "give!"
+    },
+    {
+      "word": "sáŋ",
+      "gloss": "moon"
+    },
+    {
+      "word": "tó",
+      "gloss": "come!"
+    },
+    {
+      "word": "wɔ́",
+      "gloss": "to be"
+    },
+    {
+      "word": "pú",
+      "gloss": "all"
+    },
+    {
+      "word": "pfó",
+      "gloss": "ash"
+    },
+    {
+      "word": "sǒ",
+      "gloss": "friend"
+    },
+    {
+      "word": "shú",
+      "gloss": "to traverse"
+    },
+    {
+      "word": "tá",
+      "gloss": "father"
+    },
+    {
+      "word": "tsǎ'",
+      "gloss": "brick"
+    },
+    {
+      "word": "kŭ",
+      "gloss": "bed"
+    },
+    {
+      "word": "vê",
+      "gloss": "wild cat"
+    },
+    {
+      "word": "kwô",
+      "gloss": "foot"
+    },
+    {
+      "word": "kẅé",
+      "gloss": "to take"
+    },
+    {
+      "word": "yé",
+      "gloss": "him"
+    },
+    {
+      "word": "lezíŋ",
+      "gloss": "name"
+    },
+    {
+      "word": "ma'á",
+      "gloss": "throw!"
+    }
+  ]
+}

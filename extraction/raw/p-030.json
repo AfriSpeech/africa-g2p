@@ -1,0 +1,360 @@
+{
+  "page": 30,
+  "is_language_page": true,
+  "language": "Dan (Yacouba) (Blowo)",
+  "iso639_3": "daf",
+  "country": "Côte d'Ivoire",
+  "family": "Southern Mande",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "bh"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "dh"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "kʷ",
+      "grapheme": "kw"
+    },
+    {
+      "phoneme": "ɡʷ",
+      "grapheme": "gw"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "z",
+      "grapheme": "z"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "æ",
+      "grapheme": "ɛa"
+    },
+    {
+      "phoneme": "ɯ",
+      "grapheme": "ü"
+    },
+    {
+      "phoneme": "ɤ",
+      "grapheme": "ö"
+    },
+    {
+      "phoneme": "ʌ",
+      "grapheme": "ë"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    },
+    {
+      "phoneme": "ɒ",
+      "grapheme": "aɔ"
+    },
+    {
+      "phoneme": "Ṽ",
+      "grapheme": "Vn"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "'",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "-",
+      "role": "glide tone",
+      "ipa": "˧"
+    },
+    {
+      "mark": "=",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "'M",
+    "glide 1": "-M",
+    "glide 2": "M-",
+    "mid": "unmarked",
+    "low": "=M"
+  },
+  "alphabet": [
+    "a",
+    "aɔ",
+    "b",
+    "bh",
+    "d",
+    "dh",
+    "e",
+    "ɛ",
+    "ë",
+    "ɛa",
+    "f",
+    "g",
+    "gb",
+    "gw",
+    "i",
+    "k",
+    "kp",
+    "kw",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "o",
+    "ɔ",
+    "ö",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ü",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "=va",
+      "gloss": "large"
+    },
+    {
+      "word": "gbaɔ",
+      "gloss": "gift"
+    },
+    {
+      "word": "bu",
+      "gloss": "rifle"
+    },
+    {
+      "word": "-bho",
+      "gloss": "goat kid"
+    },
+    {
+      "word": "-du",
+      "gloss": "ox"
+    },
+    {
+      "word": "dhe",
+      "gloss": "mother"
+    },
+    {
+      "word": "ze",
+      "gloss": "beans"
+    },
+    {
+      "word": "'sɛ",
+      "gloss": "earth"
+    },
+    {
+      "word": "dë",
+      "gloss": "father"
+    },
+    {
+      "word": "'gbea",
+      "gloss": "large"
+    },
+    {
+      "word": "'fa",
+      "gloss": "slice"
+    },
+    {
+      "word": "-gen",
+      "gloss": "foot"
+    },
+    {
+      "word": "gbɛn-",
+      "gloss": "dog"
+    },
+    {
+      "word": "gwɛ-",
+      "gloss": "kind of tree"
+    },
+    {
+      "word": "'dhi",
+      "gloss": "mouth"
+    },
+    {
+      "word": "'ku",
+      "gloss": "yam"
+    },
+    {
+      "word": "kpö",
+      "gloss": "ball, bowl"
+    },
+    {
+      "word": "-kwɛ",
+      "gloss": "year"
+    },
+    {
+      "word": "=la",
+      "gloss": "trail"
+    },
+    {
+      "word": "mɛ",
+      "gloss": "person"
+    },
+    {
+      "word": "'në",
+      "gloss": "child"
+    },
+    {
+      "word": "gbeng",
+      "gloss": "night"
+    },
+    {
+      "word": "do",
+      "gloss": "one"
+    },
+    {
+      "word": "-gɔ",
+      "gloss": "head"
+    },
+    {
+      "word": "pö",
+      "gloss": "village"
+    },
+    {
+      "word": "=plɛ",
+      "gloss": "two"
+    },
+    {
+      "word": "'dra",
+      "gloss": "bridge of vines"
+    },
+    {
+      "word": "'sɛ",
+      "gloss": "earth"
+    },
+    {
+      "word": "'to",
+      "gloss": "name"
+    },
+    {
+      "word": "-du",
+      "gloss": "ox"
+    },
+    {
+      "word": "'lü",
+      "gloss": "tree"
+    },
+    {
+      "word": "=va",
+      "gloss": "big"
+    },
+    {
+      "word": "-wo",
+      "gloss": "voice"
+    },
+    {
+      "word": "'yi",
+      "gloss": "water"
+    },
+    {
+      "word": "=zɛ",
+      "gloss": "termite"
+    }
+  ],
+  "num_graphemes": 35,
+  "confidence": "high",
+  "notes": "Implosive symbols in text converted to IPA /ɓ/ and /ɗ/. Tone markings use symbols preceding or following words (' for high, - for glides, = for low)."
+}

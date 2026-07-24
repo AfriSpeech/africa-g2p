@@ -1,0 +1,314 @@
+{
+  "page": 83,
+  "is_language_page": true,
+  "language": "Mambila",
+  "iso639_3": "mcu",
+  "country": "Cameroon",
+  "family": "Bantoid, Mambiloid",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "mb",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "mv",
+      "grapheme": "mv"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nd",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "ndʒ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ny"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋɡ",
+      "grapheme": "ŋg"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "v",
+      "grapheme": "v"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone (tone 1)",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone (tone 4)",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "1": "high (acute accent)",
+    "2": "unmarked",
+    "3": "unmarked",
+    "4": "low (grave accent)"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "mb",
+    "mv",
+    "n",
+    "nd",
+    "nj",
+    "ny",
+    "ŋ",
+    "ŋg",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "salé",
+      "gloss": "hot"
+    },
+    {
+      "word": "bo",
+      "gloss": "hole"
+    },
+    {
+      "word": "cèb",
+      "gloss": "melon"
+    },
+    {
+      "word": "dàb",
+      "gloss": "long"
+    },
+    {
+      "word": "kè",
+      "gloss": "mat"
+    },
+    {
+      "word": "fàl",
+      "gloss": "two"
+    },
+    {
+      "word": "gi",
+      "gloss": "to finish"
+    },
+    {
+      "word": "hin",
+      "gloss": "door"
+    },
+    {
+      "word": "kìn",
+      "gloss": "foreigner"
+    },
+    {
+      "word": "jeré",
+      "gloss": "pity, mercy"
+    },
+    {
+      "word": "kè",
+      "gloss": "mat"
+    },
+    {
+      "word": "lèl",
+      "gloss": "medicine"
+    },
+    {
+      "word": "nòmò",
+      "gloss": "water"
+    },
+    {
+      "word": "mbán",
+      "gloss": "breast"
+    },
+    {
+      "word": "mvulu",
+      "gloss": "brain"
+    },
+    {
+      "word": "non",
+      "gloss": "bird"
+    },
+    {
+      "word": "nde",
+      "gloss": "to go"
+    },
+    {
+      "word": "njaŋ",
+      "gloss": "guitar"
+    },
+    {
+      "word": "nyùm",
+      "gloss": "flour"
+    },
+    {
+      "word": "ŋam",
+      "gloss": "to suck"
+    },
+    {
+      "word": "ŋgàb",
+      "gloss": "calabash"
+    },
+    {
+      "word": "kómó",
+      "gloss": "cooking oil"
+    },
+    {
+      "word": "tòn",
+      "gloss": "elephant"
+    },
+    {
+      "word": "pe",
+      "gloss": "to cut"
+    },
+    {
+      "word": "furú",
+      "gloss": "to bury"
+    },
+    {
+      "word": "sér",
+      "gloss": "pounded yam"
+    },
+    {
+      "word": "tí",
+      "gloss": "hare"
+    },
+    {
+      "word": "bù",
+      "gloss": "knife"
+    },
+    {
+      "word": "vún",
+      "gloss": "hoe"
+    },
+    {
+      "word": "we",
+      "gloss": "fire"
+    },
+    {
+      "word": "yam",
+      "gloss": "to increase"
+    }
+  ],
+  "num_graphemes": 31,
+  "confidence": "high",
+  "notes": "Hartell's /y/ converted to IPA /j/. Tone levels 2 and 3 are unmarked. Long vowels /V:/ are written as doubled vowels (VV) where there is a tone glide. Labialization represented by kw or gw."
+}

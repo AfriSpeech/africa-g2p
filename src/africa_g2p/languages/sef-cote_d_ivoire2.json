@@ -1,0 +1,217 @@
+{
+  "code": "sef-cote_d_ivoire2",
+  "name": "Senoufo (Senari)",
+  "country": "Côte d'Ivoire",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 113",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "r": "d",
+    "c": "t͡ʃ",
+    "j": "d͡ʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "km": "k͡pᵐ",
+    "gm": "ɡ͡bᵐ",
+    "ʔ": "ʔ",
+    "m": "m",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "n": "l",
+    "w": "w",
+    "ŋ": "w",
+    "y": "j",
+    "ny": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent",
+    "mid": "unmarked"
+  },
+  "notes": "Hartell uses /y/ for IPA /j/, /tʃ/ for /t͡ʃ/, /dʒ/ for /d͡ʒ/, /kpm/ and /gbm/ for labial-velar nasalized stops /k͡pᵐ/ and /ɡ͡bᵐ/. Vowel length is indicated by doubled vowels (VV), nasalization by trailing 'n' (Vn). Labialization (Cw) and palatalization (Cy) noted as processes.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "gm",
+    "i",
+    "j",
+    "k",
+    "km",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "ʔ"
+  ],
+  "examples": [
+    {
+      "word": "tága",
+      "gloss": "to believe"
+    },
+    {
+      "word": "beè",
+      "gloss": "there"
+    },
+    {
+      "word": "caa",
+      "gloss": "to look for"
+    },
+    {
+      "word": "dàlí",
+      "gloss": "chimpanzee"
+    },
+    {
+      "word": "fe",
+      "gloss": "kind of grain"
+    },
+    {
+      "word": "sɛ́ʔɛ",
+      "gloss": "to examine"
+    },
+    {
+      "word": "fála",
+      "gloss": "to sow"
+    },
+    {
+      "word": "gòlo",
+      "gloss": "chicken"
+    },
+    {
+      "word": "gbaa",
+      "gloss": "to drink"
+    },
+    {
+      "word": "nìgmɔɔn",
+      "gloss": "healer"
+    },
+    {
+      "word": "sí",
+      "gloss": "and, but"
+    },
+    {
+      "word": "jaa",
+      "gloss": "to break"
+    },
+    {
+      "word": "kaarà",
+      "gloss": "meat"
+    },
+    {
+      "word": "kmɔ́ɔn",
+      "gloss": "to hit"
+    },
+    {
+      "word": "kpóo",
+      "gloss": "to kill"
+    },
+    {
+      "word": "lâla",
+      "gloss": "weather"
+    },
+    {
+      "word": "màni",
+      "gloss": "rice"
+    },
+    {
+      "word": "nɔ̀ɔ",
+      "gloss": "cow"
+    },
+    {
+      "word": "nyɔɔ",
+      "gloss": "to be good"
+    },
+    {
+      "word": "ŋɔnɔ",
+      "gloss": "knife"
+    },
+    {
+      "word": "kòlo",
+      "gloss": "chair"
+    },
+    {
+      "word": "kɔ̀lɔ",
+      "gloss": "hand"
+    },
+    {
+      "word": "pára",
+      "gloss": "to sell"
+    },
+    {
+      "word": "tàra",
+      "gloss": "to slip"
+    },
+    {
+      "word": "sɔ̀ɔ",
+      "gloss": "antelope"
+    },
+    {
+      "word": "too",
+      "gloss": "to fall"
+    },
+    {
+      "word": "súgo",
+      "gloss": "mortar"
+    },
+    {
+      "word": "vògo",
+      "gloss": "cabin"
+    },
+    {
+      "word": "wii",
+      "gloss": "to whistle"
+    },
+    {
+      "word": "yaamà",
+      "gloss": "illness"
+    },
+    {
+      "word": "zàʔá",
+      "gloss": "rain"
+    },
+    {
+      "word": "kàʔa",
+      "gloss": "village"
+    }
+  ]
+}

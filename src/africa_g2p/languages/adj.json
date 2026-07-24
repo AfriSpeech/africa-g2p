@@ -1,0 +1,192 @@
+{
+  "code": "adj",
+  "name": "Adioukrou",
+  "country": "Côte d'Ivoire",
+  "family": "Kru",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 4",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dz",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "̀": "˥",
+    "̂": "˥˩"
+  },
+  "tones": {
+    "high": "grave accent (`)",
+    "low": "unmarked",
+    "high-low": "circumflex (^), rare"
+  },
+  "notes": "Hartell lists orthographic 'y' as IPA /y/. In standard IPA, this represents the palatal approximant [j]. Hartell lists /dz/ for grapheme 'j' and /tʃ/ for grapheme 'c'. Only minimal pairs are marked for tone. High tone is marked with a grave-like accent. Hyphen (-) distinguishes plural from singular 3rd person pronouns (li and ni).",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "al",
+      "gloss": "fire"
+    },
+    {
+      "word": "bogŋ",
+      "gloss": "where?"
+    },
+    {
+      "word": "caca",
+      "gloss": "now"
+    },
+    {
+      "word": "dad'r",
+      "gloss": "tell him"
+    },
+    {
+      "word": "efi",
+      "gloss": "yesterday"
+    },
+    {
+      "word": "ɛm",
+      "gloss": "me, inside"
+    },
+    {
+      "word": "fafa",
+      "gloss": "fast"
+    },
+    {
+      "word": "gɔg",
+      "gloss": "cayman"
+    },
+    {
+      "word": "gbad",
+      "gloss": "skirt cloth"
+    },
+    {
+      "word": "ehe",
+      "gloss": "well-being"
+    },
+    {
+      "word": "im",
+      "gloss": "go!"
+    },
+    {
+      "word": "jam",
+      "gloss": "back"
+    },
+    {
+      "word": "kaka",
+      "gloss": "nothing"
+    },
+    {
+      "word": "kpekpe",
+      "gloss": "far"
+    },
+    {
+      "word": "lɔr",
+      "gloss": "bird"
+    },
+    {
+      "word": "mar",
+      "gloss": "drink"
+    },
+    {
+      "word": "namn",
+      "gloss": "hunger"
+    },
+    {
+      "word": "nyam",
+      "gloss": "God"
+    },
+    {
+      "word": "nuŋ",
+      "gloss": "head"
+    },
+    {
+      "word": "os",
+      "gloss": "money"
+    },
+    {
+      "word": "ɔcn",
+      "gloss": "fish"
+    },
+    {
+      "word": "prɛj",
+      "gloss": "civet"
+    },
+    {
+      "word": "sar",
+      "gloss": "saliva"
+    },
+    {
+      "word": "sos",
+      "gloss": "body"
+    },
+    {
+      "word": "tɛtɛ",
+      "gloss": "butterfly"
+    },
+    {
+      "word": "ulu",
+      "gloss": "basket"
+    },
+    {
+      "word": "wɛwɛ",
+      "gloss": "dry"
+    },
+    {
+      "word": "yɔw",
+      "gloss": "woman"
+    }
+  ]
+}

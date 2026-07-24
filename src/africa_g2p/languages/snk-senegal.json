@@ -1,0 +1,175 @@
+{
+  "code": "snk-senegal",
+  "name": "Sooninke (Sarakole)",
+  "country": "Senegal",
+  "family": "Mande",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 118",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "c",
+    "j": "ɟ",
+    "k": "k",
+    "g": "ɡ",
+    "q": "q",
+    "m": "m",
+    "n": "n",
+    "ñ": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "s": "s",
+    "x": "x",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "a": "a",
+    "u": "u",
+    "o": "o"
+  },
+  "diacritics": {},
+  "tones": {
+    "note": "Tone is not written."
+  },
+  "notes": "Vowel length is written as digraph VV (/V:/ -> VV). Gemination is represented by doubled consonant letters (pp, tt, dd, kk, qq, mm, nn, ŋŋ, ll).",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ñ",
+    "ŋ",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "x",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "abada",
+      "gloss": "always"
+    },
+    {
+      "word": "baade",
+      "gloss": "mourning"
+    },
+    {
+      "word": "cakka",
+      "gloss": "necklace"
+    },
+    {
+      "word": "daba",
+      "gloss": "mat"
+    },
+    {
+      "word": "benne",
+      "gloss": "horn"
+    },
+    {
+      "word": "fillo",
+      "gloss": "two"
+    },
+    {
+      "word": "gaare",
+      "gloss": "lie"
+    },
+    {
+      "word": "saha",
+      "gloss": "health"
+    },
+    {
+      "word": "si",
+      "gloss": "horse"
+    },
+    {
+      "word": "ji",
+      "gloss": "water"
+    },
+    {
+      "word": "kabu",
+      "gloss": "nine"
+    },
+    {
+      "word": "labo",
+      "gloss": "knife"
+    },
+    {
+      "word": "marafa",
+      "gloss": "gun"
+    },
+    {
+      "word": "naxato",
+      "gloss": "four"
+    },
+    {
+      "word": "ñeru",
+      "gloss": "seven"
+    },
+    {
+      "word": "ŋaame",
+      "gloss": "flood"
+    },
+    {
+      "word": "sokke",
+      "gloss": "straw"
+    },
+    {
+      "word": "pitolle",
+      "gloss": "trap"
+    },
+    {
+      "word": "feqe",
+      "gloss": "armpit"
+    },
+    {
+      "word": "ri",
+      "gloss": "to come"
+    },
+    {
+      "word": "suuge",
+      "gloss": "song"
+    },
+    {
+      "word": "toro",
+      "gloss": "ear"
+    },
+    {
+      "word": "dulle",
+      "gloss": "hunger"
+    },
+    {
+      "word": "wulle",
+      "gloss": "dog"
+    },
+    {
+      "word": "xana",
+      "gloss": "friend"
+    },
+    {
+      "word": "yugo",
+      "gloss": "man"
+    }
+  ]
+}

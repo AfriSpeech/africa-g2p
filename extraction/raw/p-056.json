@@ -1,0 +1,295 @@
+{
+  "page": 56,
+  "is_language_page": true,
+  "language": "Gangam",
+  "iso639_3": "gng",
+  "country": "Togo",
+  "family": "Gur",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "ɡ",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "k͡p",
+      "grapheme": "kp"
+    },
+    {
+      "phoneme": "ɡ͡b",
+      "grapheme": "gb"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ñ"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋ͡m",
+      "grapheme": "ŋm"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "ɛ",
+      "grapheme": "ɛ"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "u",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "o",
+      "grapheme": "o"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "ɔ"
+    },
+    {
+      "phoneme": "Ṽ",
+      "grapheme": "Vn"
+    }
+  ],
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": "˥"
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": "˩"
+    }
+  ],
+  "tones": {
+    "high": "acute accent",
+    "mid": "unmarked",
+    "low": "grave accent"
+  },
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ñ",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "uta",
+      "gloss": "rain"
+    },
+    {
+      "word": "ubul",
+      "gloss": "fetish"
+    },
+    {
+      "word": "litacali",
+      "gloss": "sandal"
+    },
+    {
+      "word": "udu",
+      "gloss": "village"
+    },
+    {
+      "word": "upe",
+      "gloss": "sheep"
+    },
+    {
+      "word": "unɛ",
+      "gloss": "ox"
+    },
+    {
+      "word": "ufɛn",
+      "gloss": "home"
+    },
+    {
+      "word": "ugur",
+      "gloss": "hedgehog"
+    },
+    {
+      "word": "hali",
+      "gloss": "far"
+    },
+    {
+      "word": "iji",
+      "gloss": "millet"
+    },
+    {
+      "word": "ujɛ",
+      "gloss": "man"
+    },
+    {
+      "word": "ukokol",
+      "gloss": "chicken"
+    },
+    {
+      "word": "ukpen",
+      "gloss": "swamp"
+    },
+    {
+      "word": "liloli",
+      "gloss": "truck"
+    },
+    {
+      "word": "midami",
+      "gloss": "drink"
+    },
+    {
+      "word": "unasɛl",
+      "gloss": "calf"
+    },
+    {
+      "word": "buñobu",
+      "gloss": "mouth"
+    },
+    {
+      "word": "uŋaan",
+      "gloss": "broom"
+    },
+    {
+      "word": "uŋmal",
+      "gloss": "moon"
+    },
+    {
+      "word": "upo",
+      "gloss": "spouse"
+    },
+    {
+      "word": "utɔb",
+      "gloss": "tobacco"
+    },
+    {
+      "word": "utɛnpik",
+      "gloss": "big spider"
+    },
+    {
+      "word": "kibɛrki",
+      "gloss": "box"
+    },
+    {
+      "word": "busabu",
+      "gloss": "millet porridge"
+    },
+    {
+      "word": "litubli",
+      "gloss": "ear"
+    },
+    {
+      "word": "usu",
+      "gloss": "yam field"
+    },
+    {
+      "word": "uwɔb",
+      "gloss": "goat"
+    },
+    {
+      "word": "kiyelki",
+      "gloss": "hatchet"
+    }
+  ],
+  "num_graphemes": 29,
+  "confidence": "high",
+  "notes": "Hartell's /y/ mapped to IPA /j/. /Ṽ/ indicates nasalized vowel orthographically written as Vn. Studies on tone are not yet complete, tone is presently only marked on contrastive pairs of words."
+}

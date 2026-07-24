@@ -1,0 +1,318 @@
+{
+  "page": 50,
+  "is_language_page": true,
+  "language": "Pulaar (Fulfulde)",
+  "iso639_3": "fuc",
+  "country": "Senegal",
+  "family": "West Atlantic",
+  "graphemes": [
+    {
+      "phoneme": "p",
+      "grapheme": "p"
+    },
+    {
+      "phoneme": "b",
+      "grapheme": "b"
+    },
+    {
+      "phoneme": "ɓ",
+      "grapheme": "ɓ"
+    },
+    {
+      "phoneme": "t",
+      "grapheme": "t"
+    },
+    {
+      "phoneme": "d",
+      "grapheme": "d"
+    },
+    {
+      "phoneme": "ɗ",
+      "grapheme": "ɗ"
+    },
+    {
+      "phoneme": "tʃ",
+      "grapheme": "c"
+    },
+    {
+      "phoneme": "dʒ",
+      "grapheme": "j"
+    },
+    {
+      "phoneme": "k",
+      "grapheme": "k"
+    },
+    {
+      "phoneme": "g",
+      "grapheme": "g"
+    },
+    {
+      "phoneme": "q",
+      "grapheme": "q"
+    },
+    {
+      "phoneme": "ʔ",
+      "grapheme": "'"
+    },
+    {
+      "phoneme": "m",
+      "grapheme": "m"
+    },
+    {
+      "phoneme": "mb",
+      "grapheme": "mb"
+    },
+    {
+      "phoneme": "n",
+      "grapheme": "n"
+    },
+    {
+      "phoneme": "nd",
+      "grapheme": "nd"
+    },
+    {
+      "phoneme": "ndʒ",
+      "grapheme": "nj"
+    },
+    {
+      "phoneme": "ɲ",
+      "grapheme": "ñ"
+    },
+    {
+      "phoneme": "ŋ",
+      "grapheme": "ŋ"
+    },
+    {
+      "phoneme": "ŋg",
+      "grapheme": "ng"
+    },
+    {
+      "phoneme": "f",
+      "grapheme": "f"
+    },
+    {
+      "phoneme": "s",
+      "grapheme": "s"
+    },
+    {
+      "phoneme": "l",
+      "grapheme": "l"
+    },
+    {
+      "phoneme": "r",
+      "grapheme": "r"
+    },
+    {
+      "phoneme": "h",
+      "grapheme": "h"
+    },
+    {
+      "phoneme": "w",
+      "grapheme": "w"
+    },
+    {
+      "phoneme": "j",
+      "grapheme": "y"
+    },
+    {
+      "phoneme": "ʔj",
+      "grapheme": "ƴ"
+    },
+    {
+      "phoneme": "i",
+      "grapheme": "i"
+    },
+    {
+      "phoneme": "e",
+      "grapheme": "e"
+    },
+    {
+      "phoneme": "a",
+      "grapheme": "a"
+    },
+    {
+      "phoneme": "ʊ",
+      "grapheme": "u"
+    },
+    {
+      "phoneme": "ɔ",
+      "grapheme": "o"
+    }
+  ],
+  "diacritics": [],
+  "tones": {
+    "note": "There is no phonemic tone."
+  },
+  "alphabet": [
+    "'",
+    "a",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "mb",
+    "n",
+    "nd",
+    "nj",
+    "ŋ",
+    "ng",
+    "ñ",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "w",
+    "y",
+    "ƴ"
+  ],
+  "examples": [
+    {
+      "word": "Haalpulaar'en",
+      "gloss": "Pulaar"
+    },
+    {
+      "word": "arde",
+      "gloss": "to come"
+    },
+    {
+      "word": "baaba",
+      "gloss": "father"
+    },
+    {
+      "word": "ɓirde",
+      "gloss": "to milk"
+    },
+    {
+      "word": "caali",
+      "gloss": "shelter"
+    },
+    {
+      "word": "debbo",
+      "gloss": "woman"
+    },
+    {
+      "word": "ɗiɗi",
+      "gloss": "two"
+    },
+    {
+      "word": "endam",
+      "gloss": "family bond"
+    },
+    {
+      "word": "faade",
+      "gloss": "to go in the direction of"
+    },
+    {
+      "word": "gorko",
+      "gloss": "man"
+    },
+    {
+      "word": "hoore",
+      "gloss": "head"
+    },
+    {
+      "word": "ilam",
+      "gloss": "flood"
+    },
+    {
+      "word": "jaŋggude",
+      "gloss": "to learn"
+    },
+    {
+      "word": "kosam",
+      "gloss": "milk"
+    },
+    {
+      "word": "lahal",
+      "gloss": "calabash"
+    },
+    {
+      "word": "maayo",
+      "gloss": "river"
+    },
+    {
+      "word": "mboomri",
+      "gloss": "young girl"
+    },
+    {
+      "word": "nagge",
+      "gloss": "cow"
+    },
+    {
+      "word": "ndiyam",
+      "gloss": "water"
+    },
+    {
+      "word": "njettoor",
+      "gloss": "praise"
+    },
+    {
+      "word": "ŋabbude",
+      "gloss": "to go up"
+    },
+    {
+      "word": "ŋguurndam",
+      "gloss": "life"
+    },
+    {
+      "word": "ñiire",
+      "gloss": "tooth"
+    },
+    {
+      "word": "ooyre",
+      "gloss": "light"
+    },
+    {
+      "word": "paho",
+      "gloss": "deaf"
+    },
+    {
+      "word": "qabri",
+      "gloss": "tomb"
+    },
+    {
+      "word": "rawaandu",
+      "gloss": "dog"
+    },
+    {
+      "word": "sawru",
+      "gloss": "flock"
+    },
+    {
+      "word": "tati",
+      "gloss": "three"
+    },
+    {
+      "word": "unde",
+      "gloss": "to pound"
+    },
+    {
+      "word": "waare",
+      "gloss": "chin, beard"
+    },
+    {
+      "word": "yoorde",
+      "gloss": "to dry"
+    },
+    {
+      "word": "ƴakkude",
+      "gloss": "to chew"
+    }
+  ],
+  "num_graphemes": 33,
+  "confidence": "high",
+  "notes": "Hartell uses /tʃ/ for orthographic 'c', /dʒ/ for 'j', /ndʒ/ for 'nj', /ʔy/ for 'ƴ', /ɔ/ for 'o', /ʊ/ for 'u', and /V:/ for doubled vowel graphemes (VV)."
+}

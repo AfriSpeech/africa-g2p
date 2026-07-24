@@ -1,0 +1,226 @@
+{
+  "code": "trc",
+  "name": "Tarok (Yergum)",
+  "country": "Nigeria",
+  "family": "Benue-Congo",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 145",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "ɓ": "ɓ",
+    "t": "t",
+    "d": "d",
+    "ɗ": "ɗ",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "sh": "ʃ",
+    "z": "z",
+    "zh": "ʒ",
+    "gh": "ɣ",
+    "l": "l",
+    "r": "r",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ə": "ɨ",
+    "a̱": "ə",
+    "a": "a",
+    "u": "u",
+    "o": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥"
+  },
+  "tones": {
+    "high": "marked with acute accent (´) in certain cases",
+    "general": "three level tones, usually not necessary to mark"
+  },
+  "notes": "Tarok distinguishes /ə/ and /a/ using 'a̱' (a with underline/macron below) for /ə/ and 'a' for /a/. Central vowel /ɨ/ is written with schwa 'ə'.",
+  "alphabet": [
+    "a",
+    "a̱",
+    "b",
+    "ɓ",
+    "c",
+    "d",
+    "ɗ",
+    "e",
+    "ə",
+    "f",
+    "g",
+    "gb",
+    "gh",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "p",
+    "r",
+    "s",
+    "sh",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "zh"
+  ],
+  "examples": [
+    {
+      "word": "aso",
+      "gloss": "beans"
+    },
+    {
+      "word": "isa̱m",
+      "gloss": "monkey"
+    },
+    {
+      "word": "bol",
+      "gloss": "to open"
+    },
+    {
+      "word": "aɓar",
+      "gloss": "spear"
+    },
+    {
+      "word": "ica",
+      "gloss": "net"
+    },
+    {
+      "word": "dan",
+      "gloss": "to sow"
+    },
+    {
+      "word": "aɗir",
+      "gloss": "hoe"
+    },
+    {
+      "word": "apye",
+      "gloss": "moon"
+    },
+    {
+      "word": "apər",
+      "gloss": "fire"
+    },
+    {
+      "word": "fa",
+      "gloss": "to germinate"
+    },
+    {
+      "word": "ga",
+      "gloss": "to go"
+    },
+    {
+      "word": "gba",
+      "gloss": "to flatter"
+    },
+    {
+      "word": "aghal",
+      "gloss": "hut"
+    },
+    {
+      "word": "iri",
+      "gloss": "wild pig"
+    },
+    {
+      "word": "jul",
+      "gloss": "to rest"
+    },
+    {
+      "word": "kak",
+      "gloss": "to break"
+    },
+    {
+      "word": "kpap",
+      "gloss": "to knock"
+    },
+    {
+      "word": "la",
+      "gloss": "to say"
+    },
+    {
+      "word": "mami",
+      "gloss": "I"
+    },
+    {
+      "word": "na",
+      "gloss": "to give"
+    },
+    {
+      "word": "nyi",
+      "gloss": "to know"
+    },
+    {
+      "word": "ipaŋ",
+      "gloss": "stone"
+    },
+    {
+      "word": "onəm",
+      "gloss": "people"
+    },
+    {
+      "word": "pa",
+      "gloss": "to cut"
+    },
+    {
+      "word": "ri",
+      "gloss": "to eat"
+    },
+    {
+      "word": "sak",
+      "gloss": "to comfort"
+    },
+    {
+      "word": "shak",
+      "gloss": "to filter"
+    },
+    {
+      "word": "tat",
+      "gloss": "to stitch"
+    },
+    {
+      "word": "udəda",
+      "gloss": "father"
+    },
+    {
+      "word": "avakci",
+      "gloss": "sheath"
+    },
+    {
+      "word": "wa",
+      "gloss": "to drink"
+    },
+    {
+      "word": "ya",
+      "gloss": "to see"
+    },
+    {
+      "word": "zar",
+      "gloss": "to shred"
+    },
+    {
+      "word": "izhizhap",
+      "gloss": "roofing grass"
+    }
+  ]
+}

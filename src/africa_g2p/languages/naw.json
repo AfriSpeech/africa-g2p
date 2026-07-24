@@ -1,0 +1,187 @@
+{
+  "code": "naw",
+  "name": "Nawdem",
+  "country": "Togo",
+  "family": "Gur",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 105",
+  "confidence": "high",
+  "graphemes": {
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "j": "d͡ʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "q": "ʔ",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "ŋm": "ŋ͡m",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {},
+  "tones": {
+    "note": "Tone is not written."
+  },
+  "notes": "Hartell uses /?/ for glottal stop written as 'q'. /V:/ represents long vowels orthographically written as doubled vowels (VV).",
+  "alphabet": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ŋ",
+    "ŋm",
+    "o",
+    "ɔ",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "namga",
+      "gloss": "scorpion"
+    },
+    {
+      "word": "buga",
+      "gloss": "baby"
+    },
+    {
+      "word": "dagre",
+      "gloss": "quiver"
+    },
+    {
+      "word": "ba kpenan",
+      "gloss": "they came back"
+    },
+    {
+      "word": "gɛn",
+      "gloss": "on"
+    },
+    {
+      "word": "fiigu",
+      "gloss": "mat"
+    },
+    {
+      "word": "gaqu",
+      "gloss": "nail"
+    },
+    {
+      "word": "gbuqte",
+      "gloss": "mushroom"
+    },
+    {
+      "word": "haare",
+      "gloss": "compound"
+    },
+    {
+      "word": "binde",
+      "gloss": "drum"
+    },
+    {
+      "word": "jibe",
+      "gloss": "snake"
+    },
+    {
+      "word": "kude",
+      "gloss": "turtle"
+    },
+    {
+      "word": "kpaang",
+      "gloss": "guinea fowl"
+    },
+    {
+      "word": "loku",
+      "gloss": "well"
+    },
+    {
+      "word": "malqa",
+      "gloss": "maize"
+    },
+    {
+      "word": "naagbe",
+      "gloss": "buffalo"
+    },
+    {
+      "word": "ŋargoŋa",
+      "gloss": "ants"
+    },
+    {
+      "word": "ŋmeeni",
+      "gloss": "okra"
+    },
+    {
+      "word": "ronde",
+      "gloss": "yam"
+    },
+    {
+      "word": "dɔde",
+      "gloss": "warthog"
+    },
+    {
+      "word": "qiili",
+      "gloss": "horns"
+    },
+    {
+      "word": "raaru",
+      "gloss": "pole"
+    },
+    {
+      "word": "sumga",
+      "gloss": "plate"
+    },
+    {
+      "word": "tode",
+      "gloss": "baobab tree"
+    },
+    {
+      "word": "muqu",
+      "gloss": "trap"
+    },
+    {
+      "word": "viigu",
+      "gloss": "owl"
+    },
+    {
+      "word": "waamgu",
+      "gloss": "monkey"
+    },
+    {
+      "word": "yuuga",
+      "gloss": "rat"
+    }
+  ]
+}

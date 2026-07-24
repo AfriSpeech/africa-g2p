@@ -1,0 +1,193 @@
+{
+  "code": "lig",
+  "name": "Ligbi",
+  "country": "Ghana",
+  "family": "Mande",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 75",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "kp": "k͡p",
+    "g": "ɡ",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "e": "e",
+    "ɛ": "ɛ",
+    "a": "a",
+    "u": "u",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩",
+    "̃": "̃"
+  },
+  "tones": {
+    "high": "acute accent",
+    "low": "grave accent"
+  },
+  "notes": "In the EXAMPLES column, the labels for 'c' and 'b' appear swapped in the source print (c is listed beside bégá 'axe', and b beside cɔ 'to be able'). /Ṽ/ indicates nasalized vowels.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ɛ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y"
+  ],
+  "examples": [
+    {
+      "word": "á",
+      "gloss": "we"
+    },
+    {
+      "word": "bégá",
+      "gloss": "axe"
+    },
+    {
+      "word": "cɔ",
+      "gloss": "to be able"
+    },
+    {
+      "word": "dé",
+      "gloss": "child"
+    },
+    {
+      "word": "jé",
+      "gloss": "father"
+    },
+    {
+      "word": "yè",
+      "gloss": "brother"
+    },
+    {
+      "word": "fɔ́m",
+      "gloss": "to dance"
+    },
+    {
+      "word": "goé",
+      "gloss": "wood"
+    },
+    {
+      "word": "baán",
+      "gloss": "room"
+    },
+    {
+      "word": "nuhu",
+      "gloss": "woman's name"
+    },
+    {
+      "word": "fí",
+      "gloss": "today"
+    },
+    {
+      "word": "jó",
+      "gloss": "river"
+    },
+    {
+      "word": "kolá",
+      "gloss": "monkey"
+    },
+    {
+      "word": "kpá",
+      "gloss": "to put down"
+    },
+    {
+      "word": "lón",
+      "gloss": "house"
+    },
+    {
+      "word": "mó",
+      "gloss": "to cook"
+    },
+    {
+      "word": "né",
+      "gloss": "mother"
+    },
+    {
+      "word": "nyá",
+      "gloss": "woman"
+    },
+    {
+      "word": "niŋ",
+      "gloss": "here"
+    },
+    {
+      "word": "kpo",
+      "gloss": "all"
+    },
+    {
+      "word": "nɔgɔ",
+      "gloss": "smooth"
+    },
+    {
+      "word": "péé",
+      "gloss": "red"
+    },
+    {
+      "word": "sɛ̃",
+      "gloss": "thing"
+    },
+    {
+      "word": "to",
+      "gloss": "ford"
+    },
+    {
+      "word": "túdú",
+      "gloss": "iron"
+    },
+    {
+      "word": "vuku",
+      "gloss": "flour"
+    },
+    {
+      "word": "wó",
+      "gloss": "yam"
+    },
+    {
+      "word": "yélí",
+      "gloss": "to pick up"
+    }
+  ]
+}

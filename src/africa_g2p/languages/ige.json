@@ -1,0 +1,225 @@
+{
+  "code": "ige",
+  "name": "Igede",
+  "country": "Nigeria",
+  "family": "Kwa",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 63",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "ch": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "kp": "k͡p",
+    "gb": "ɡ͡b",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ng": "ŋ",
+    "nm": "ŋ͡m",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ị": "ɪ",
+    "e": "e",
+    "ẹ": "ɛ",
+    "a": "ə",
+    "u": "u",
+    "ụ": "ʊ",
+    "o": "o",
+    "ọ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̄": "˦",
+    "̈": "˧",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute",
+    "high-mid": "macron",
+    "low-mid": "diaeresis",
+    "low": "grave"
+  },
+  "notes": "Hartell uses /y/ for palatal approximant grapheme 'y', mapped to IPA /j/. Phoneme /ə/ is noted as very rare and orthographically merged with /a/. Tone is not written in orthography except in a few minimal pairs.",
+  "alphabet": [
+    "a",
+    "b",
+    "ch",
+    "d",
+    "e",
+    "ẹ",
+    "f",
+    "g",
+    "gb",
+    "h",
+    "i",
+    "ị",
+    "j",
+    "k",
+    "kp",
+    "l",
+    "m",
+    "n",
+    "ng",
+    "nm",
+    "ny",
+    "o",
+    "ọ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ụ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "ba",
+      "gloss": "to follow"
+    },
+    {
+      "word": "ọbaba",
+      "gloss": "important"
+    },
+    {
+      "word": "ụcha",
+      "gloss": "soap"
+    },
+    {
+      "word": "da",
+      "gloss": "to do, make"
+    },
+    {
+      "word": "ihile",
+      "gloss": "rules"
+    },
+    {
+      "word": "utẹ",
+      "gloss": "root"
+    },
+    {
+      "word": "ẹfa",
+      "gloss": "home"
+    },
+    {
+      "word": "ogẹgẹ",
+      "gloss": "pineapple"
+    },
+    {
+      "word": "gba",
+      "gloss": "to take out"
+    },
+    {
+      "word": "ha",
+      "gloss": "to please"
+    },
+    {
+      "word": "ihi",
+      "gloss": "market"
+    },
+    {
+      "word": "itẹ",
+      "gloss": "pepper"
+    },
+    {
+      "word": "oja",
+      "gloss": "story"
+    },
+    {
+      "word": "ka",
+      "gloss": "to go"
+    },
+    {
+      "word": "akpa",
+      "gloss": "box"
+    },
+    {
+      "word": "la",
+      "gloss": "to have"
+    },
+    {
+      "word": "imẹ",
+      "gloss": "salt"
+    },
+    {
+      "word": "nẹ",
+      "gloss": "to suck"
+    },
+    {
+      "word": "ọngọ",
+      "gloss": "person"
+    },
+    {
+      "word": "nmọọ",
+      "gloss": "heavy"
+    },
+    {
+      "word": "ụnya",
+      "gloss": "trap"
+    },
+    {
+      "word": "wo",
+      "gloss": "to hear"
+    },
+    {
+      "word": "orị",
+      "gloss": "palm tree"
+    },
+    {
+      "word": "ẹpẹtẹ",
+      "gloss": "feet"
+    },
+    {
+      "word": "ra",
+      "gloss": "to buy"
+    },
+    {
+      "word": "isọmbị",
+      "gloss": "soybeans"
+    },
+    {
+      "word": "itẹ",
+      "gloss": "pepper"
+    },
+    {
+      "word": "wu",
+      "gloss": "to hear"
+    },
+    {
+      "word": "wụ",
+      "gloss": "to boil"
+    },
+    {
+      "word": "evu",
+      "gloss": "dog"
+    },
+    {
+      "word": "wa",
+      "gloss": "to count"
+    },
+    {
+      "word": "ya",
+      "gloss": "to speak"
+    },
+    {
+      "word": "ẹzẹ",
+      "gloss": "my friend"
+    }
+  ]
+}

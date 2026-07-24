@@ -1,0 +1,210 @@
+{
+  "code": "nnw",
+  "name": "Nuni",
+  "country": "Burkina Faso",
+  "family": "Central Gur, Northern Grusi",
+  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 107",
+  "confidence": "high",
+  "graphemes": {
+    "p": "p",
+    "b": "b",
+    "t": "t",
+    "d": "d",
+    "c": "tʃ",
+    "j": "dʒ",
+    "k": "k",
+    "g": "ɡ",
+    "m": "m",
+    "n": "n",
+    "ny": "ɲ",
+    "ŋ": "ŋ",
+    "f": "f",
+    "v": "v",
+    "s": "s",
+    "z": "z",
+    "l": "l",
+    "r": "r",
+    "h": "h",
+    "w": "w",
+    "y": "j",
+    "i": "i",
+    "ɩ": "ɪ",
+    "e": "e",
+    "ɛ": "ɛ",
+    "ə": "ə",
+    "a": "a",
+    "u": "u",
+    "ʊ": "ʊ",
+    "o": "o",
+    "ɔ": "ɔ"
+  },
+  "diacritics": {
+    "́": "˥",
+    "̀": "˩"
+  },
+  "tones": {
+    "high": "acute accent",
+    "mid": "unmarked",
+    "low": "grave accent"
+  },
+  "notes": "ISO 639-3 code 'nnw' chosen for Southern Nuni; Northern Nuni is 'nnv'. Vowel length is indicated by doubling the vowel symbol (VV = /V:/), and nasalization is orthographically indicated by following the vowel with 'n' (Vn = /Ṽ/). Phoneme symbol /ɷ/ mapped to IPA /ʊ/.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "ə",
+    "ɛ",
+    "f",
+    "g",
+    "h",
+    "i",
+    "ɩ",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "ny",
+    "ŋ",
+    "o",
+    "ɔ",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "ʊ",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "examples": [
+    {
+      "word": "dà",
+      "gloss": "to follow"
+    },
+    {
+      "word": "barɩ",
+      "gloss": "spouse"
+    },
+    {
+      "word": "cú",
+      "gloss": "to get down"
+    },
+    {
+      "word": "dàà",
+      "gloss": "sticks"
+    },
+    {
+      "word": "le",
+      "gloss": "to respond"
+    },
+    {
+      "word": "yəə",
+      "gloss": "market"
+    },
+    {
+      "word": "lɛ",
+      "gloss": "to overtake"
+    },
+    {
+      "word": "fíú",
+      "gloss": "termite"
+    },
+    {
+      "word": "tàgá",
+      "gloss": "tobacco"
+    },
+    {
+      "word": "hama",
+      "gloss": "hammer"
+    },
+    {
+      "word": "pìà",
+      "gloss": "sheep"
+    },
+    {
+      "word": "lɩ̀à",
+      "gloss": "people"
+    },
+    {
+      "word": "jɩŋɩ",
+      "gloss": "debt"
+    },
+    {
+      "word": "kárá",
+      "gloss": "field"
+    },
+    {
+      "word": "kúlú",
+      "gloss": "bump"
+    },
+    {
+      "word": "mánsá",
+      "gloss": "griddlecake"
+    },
+    {
+      "word": "cànà",
+      "gloss": "moon"
+    },
+    {
+      "word": "nyù",
+      "gloss": "to drink"
+    },
+    {
+      "word": "ŋoŋu",
+      "gloss": "mask"
+    },
+    {
+      "word": "too",
+      "gloss": "pig"
+    },
+    {
+      "word": "lɔ̀ɔ̀",
+      "gloss": "bag, sack"
+    },
+    {
+      "word": "pìì",
+      "gloss": "yam"
+    },
+    {
+      "word": "kúrú",
+      "gloss": "choice"
+    },
+    {
+      "word": "síó",
+      "gloss": "peanuts"
+    },
+    {
+      "word": "tì",
+      "gloss": "to die"
+    },
+    {
+      "word": "dù",
+      "gloss": "to sow"
+    },
+    {
+      "word": "nàŋʊ́",
+      "gloss": "meat"
+    },
+    {
+      "word": "vàrú",
+      "gloss": "hoe"
+    },
+    {
+      "word": "wárí",
+      "gloss": "brick"
+    },
+    {
+      "word": "yì",
+      "gloss": "to become sick"
+    },
+    {
+      "word": "zíín",
+      "gloss": "car"
+    }
+  ]
+}
