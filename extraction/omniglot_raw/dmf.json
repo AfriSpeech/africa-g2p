@@ -1,0 +1,465 @@
+{
+  "language": "Medefaidrin",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "𖹠",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹡",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹢",
+      "ipa": "v",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹣",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹤",
+      "ipa": "atiu",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹥",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹦",
+      "ipa": "k͡p",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹧",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹨",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹩",
+      "ipa": "ɡ",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹪",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹫",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹬",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹭",
+      "ipa": "a",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹮",
+      "ipa": "dʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹯",
+      "ipa": "e",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹰",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹱",
+      "ipa": "c",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹲",
+      "ipa": "u",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹳",
+      "ipa": "ju",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹴",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹵",
+      "ipa": "q",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹶",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹷",
+      "ipa": "ɲ",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹸",
+      "ipa": "x",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹹",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹺",
+      "ipa": "ø",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹻",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹼",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹽",
+      "ipa": "o",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹾",
+      "ipa": "ai",
+      "script": "native"
+    },
+    {
+      "grapheme": "𖹿",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "atiu",
+      "ipa": "atiu",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "k͡p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "dʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "yu",
+      "ipa": "ju",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñ",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ö",
+      "ipa": "ø",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ai",
+      "ipa": "ai",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "𖹠",
+      "latin": "m"
+    },
+    {
+      "native": "𖹡",
+      "latin": "s"
+    },
+    {
+      "native": "𖹢",
+      "latin": "v"
+    },
+    {
+      "native": "𖹣",
+      "latin": "w"
+    },
+    {
+      "native": "𖹤",
+      "latin": "atiu"
+    },
+    {
+      "native": "𖹥",
+      "latin": "z"
+    },
+    {
+      "native": "𖹦",
+      "latin": "kp"
+    },
+    {
+      "native": "𖹧",
+      "latin": "p"
+    },
+    {
+      "native": "𖹨",
+      "latin": "t"
+    },
+    {
+      "native": "𖹩",
+      "latin": "g"
+    },
+    {
+      "native": "𖹪",
+      "latin": "f"
+    },
+    {
+      "native": "𖹫",
+      "latin": "i"
+    },
+    {
+      "native": "𖹬",
+      "latin": "k"
+    },
+    {
+      "native": "𖹭",
+      "latin": "a"
+    },
+    {
+      "native": "𖹮",
+      "latin": "j"
+    },
+    {
+      "native": "𖹯",
+      "latin": "e"
+    },
+    {
+      "native": "𖹰",
+      "latin": "b"
+    },
+    {
+      "native": "𖹱",
+      "latin": "c"
+    },
+    {
+      "native": "𖹲",
+      "latin": "u"
+    },
+    {
+      "native": "𖹳",
+      "latin": "yu"
+    },
+    {
+      "native": "𖹴",
+      "latin": "l"
+    },
+    {
+      "native": "𖹵",
+      "latin": "q"
+    },
+    {
+      "native": "𖹶",
+      "latin": "h"
+    },
+    {
+      "native": "𖹷",
+      "latin": "ñ"
+    },
+    {
+      "native": "𖹸",
+      "latin": "x"
+    },
+    {
+      "native": "𖹹",
+      "latin": "d"
+    },
+    {
+      "native": "𖹺",
+      "latin": "ö"
+    },
+    {
+      "native": "𖹻",
+      "latin": "n"
+    },
+    {
+      "native": "𖹼",
+      "latin": "r"
+    },
+    {
+      "native": "𖹽",
+      "latin": "o"
+    },
+    {
+      "native": "𖹾",
+      "latin": "ai"
+    },
+    {
+      "native": "𖹿",
+      "latin": "y"
+    }
+  ],
+  "tones": {},
+  "diacritics": [],
+  "notes": "IPA values are inferred based on standard orthographic representations as explicit IPA transcription in brackets was not provided in the chart.",
+  "confidence": "high",
+  "iso": "dmf",
+  "name": "Medefaidrin",
+  "country": "NG",
+  "family": "Speech Register",
+  "slug": "medefaidrin.xls"
+}

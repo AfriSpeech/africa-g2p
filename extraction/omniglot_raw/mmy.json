@@ -1,0 +1,191 @@
+{
+  "language": "Migaama",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɓ",
+      "ipa": "ɓ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɗ",
+      "ipa": "ɗ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n̰",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r̰",
+      "ipa": "ɽ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "š",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aa",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ee",
+      "ipa": "eː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ii",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oo",
+      "ipa": "oː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uu",
+      "ipa": "uː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dy",
+      "ipa": "dʲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɗy",
+      "ipa": "ɗʲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ty",
+      "ipa": "tʲ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": null,
+  "confidence": "high",
+  "iso": "mmy",
+  "name": "Migaama",
+  "country": "TD",
+  "family": "Afro-Asiatic",
+  "slug": "migaama.xls"
+}

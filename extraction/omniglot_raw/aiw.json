@@ -1,0 +1,2014 @@
+{
+  "language": "Aari",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "č",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "čʼ",
+      "ipa": "t͡ʃ’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d’",
+      "ipa": "ɗ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p’",
+      "ipa": "pʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "š",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "t͡s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts’",
+      "ipa": "t͡s’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ž",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ā",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ሀ",
+      "ipa": "ha",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሁ",
+      "ipa": "hu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሂ",
+      "ipa": "hi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሃ",
+      "ipa": "haː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሄ",
+      "ipa": "hɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ህ",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሆ",
+      "ipa": "hɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ለ",
+      "ipa": "la",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሉ",
+      "ipa": "lu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሊ",
+      "ipa": "li",
+      "script": "native"
+    },
+    {
+      "grapheme": "ላ",
+      "ipa": "laː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሌ",
+      "ipa": "lɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ል",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሎ",
+      "ipa": "lɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "መ",
+      "ipa": "ma",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሙ",
+      "ipa": "mu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሚ",
+      "ipa": "mi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ማ",
+      "ipa": "maː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሜ",
+      "ipa": "mɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ም",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሞ",
+      "ipa": "mɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሠ",
+      "ipa": "ʃa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሡ",
+      "ipa": "ʃu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሢ",
+      "ipa": "ʃi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሣ",
+      "ipa": "ʃaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሤ",
+      "ipa": "ʃɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሥ",
+      "ipa": "ʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሦ",
+      "ipa": "ʃɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ረ",
+      "ipa": "ra",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሩ",
+      "ipa": "ru",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሪ",
+      "ipa": "ri",
+      "script": "native"
+    },
+    {
+      "grapheme": "ራ",
+      "ipa": "raː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሬ",
+      "ipa": "rɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ር",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሮ",
+      "ipa": "rɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሰ",
+      "ipa": "sa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሱ",
+      "ipa": "su",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሲ",
+      "ipa": "si",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሳ",
+      "ipa": "saː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሴ",
+      "ipa": "sɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ስ",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሶ",
+      "ipa": "sɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቀ",
+      "ipa": "qa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቁ",
+      "ipa": "qu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቂ",
+      "ipa": "qi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቃ",
+      "ipa": "qaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቄ",
+      "ipa": "qɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቅ",
+      "ipa": "q",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቆ",
+      "ipa": "qɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "በ",
+      "ipa": "ba",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቡ",
+      "ipa": "bu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቢ",
+      "ipa": "bi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ባ",
+      "ipa": "baː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቤ",
+      "ipa": "bɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ብ",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቦ",
+      "ipa": "bɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ተ",
+      "ipa": "ta",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቱ",
+      "ipa": "tu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቲ",
+      "ipa": "ti",
+      "script": "native"
+    },
+    {
+      "grapheme": "ታ",
+      "ipa": "taː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቴ",
+      "ipa": "tɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ት",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቶ",
+      "ipa": "tɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቸ",
+      "ipa": "t͡ʃa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቹ",
+      "ipa": "t͡ʃu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቺ",
+      "ipa": "t͡ʃi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቻ",
+      "ipa": "t͡ʃaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቼ",
+      "ipa": "t͡ʃɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ች",
+      "ipa": "t͡ʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቾ",
+      "ipa": "t͡ʃɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ነ",
+      "ipa": "na",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኑ",
+      "ipa": "nu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኒ",
+      "ipa": "ni",
+      "script": "native"
+    },
+    {
+      "grapheme": "ና",
+      "ipa": "naː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኔ",
+      "ipa": "nɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ን",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኖ",
+      "ipa": "nɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኘ",
+      "ipa": "ɲa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኙ",
+      "ipa": "ɲu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኚ",
+      "ipa": "ɲi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኛ",
+      "ipa": "ɲaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኜ",
+      "ipa": "ɲɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኝ",
+      "ipa": "ɲ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኞ",
+      "ipa": "ɲɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "አ",
+      "ipa": "a",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኡ",
+      "ipa": "u",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኢ",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኣ",
+      "ipa": "aː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኤ",
+      "ipa": "ɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "እ",
+      "ipa": "ʔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኦ",
+      "ipa": "ɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ከ",
+      "ipa": "ka",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኩ",
+      "ipa": "ku",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኪ",
+      "ipa": "ki",
+      "script": "native"
+    },
+    {
+      "grapheme": "ካ",
+      "ipa": "kaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኬ",
+      "ipa": "kɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ክ",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኮ",
+      "ipa": "kɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ወ",
+      "ipa": "wa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዉ",
+      "ipa": "wu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዊ",
+      "ipa": "wi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዋ",
+      "ipa": "waː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዌ",
+      "ipa": "wɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ው",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዎ",
+      "ipa": "wɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዐ",
+      "ipa": "a",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዑ",
+      "ipa": "u",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዒ",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዓ",
+      "ipa": "aː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዔ",
+      "ipa": "ɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዕ",
+      "ipa": "ʔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዖ",
+      "ipa": "ɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዘ",
+      "ipa": "za",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዙ",
+      "ipa": "zu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዚ",
+      "ipa": "zi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዛ",
+      "ipa": "zaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዜ",
+      "ipa": "zɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዝ",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዞ",
+      "ipa": "zɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዠ",
+      "ipa": "ʒa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዡ",
+      "ipa": "ʒu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዢ",
+      "ipa": "ʒi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዣ",
+      "ipa": "ʒaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዤ",
+      "ipa": "ʒɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዥ",
+      "ipa": "ʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዦ",
+      "ipa": "ʒɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "የ",
+      "ipa": "ja",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዩ",
+      "ipa": "ju",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዪ",
+      "ipa": "ji",
+      "script": "native"
+    },
+    {
+      "grapheme": "ያ",
+      "ipa": "jaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዬ",
+      "ipa": "jɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ይ",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዮ",
+      "ipa": "jɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ደ",
+      "ipa": "da",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዱ",
+      "ipa": "du",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዲ",
+      "ipa": "di",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዳ",
+      "ipa": "daː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዴ",
+      "ipa": "dɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ድ",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዶ",
+      "ipa": "dɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዸ",
+      "ipa": "ɗa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዹ",
+      "ipa": "ɗu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዺ",
+      "ipa": "ɗi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዻ",
+      "ipa": "ɗaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዼ",
+      "ipa": "ɗɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዽ",
+      "ipa": "ɗ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዾ",
+      "ipa": "ɗɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጀ",
+      "ipa": "d͡ʒa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጁ",
+      "ipa": "d͡ʒu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጂ",
+      "ipa": "d͡ʒi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጃ",
+      "ipa": "d͡ʒaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጄ",
+      "ipa": "d͡ʒɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጅ",
+      "ipa": "d͡ʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጆ",
+      "ipa": "d͡ʒɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ገ",
+      "ipa": "ɡa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጉ",
+      "ipa": "ɡu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጊ",
+      "ipa": "ɡi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጋ",
+      "ipa": "ɡaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጌ",
+      "ipa": "ɡɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ግ",
+      "ipa": "ɡ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጎ",
+      "ipa": "ɡɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጠ",
+      "ipa": "t͡s’a",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጡ",
+      "ipa": "t͡s’u",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጢ",
+      "ipa": "t͡s’i",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጣ",
+      "ipa": "t͡s’aː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጤ",
+      "ipa": "t͡s’ɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጥ",
+      "ipa": "t͡s’",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጦ",
+      "ipa": "t͡s’ɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጨ",
+      "ipa": "t͡ʃ’a",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጩ",
+      "ipa": "t͡ʃ’u",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጪ",
+      "ipa": "t͡ʃ’i",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጫ",
+      "ipa": "t͡ʃ’aː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጬ",
+      "ipa": "t͡ʃ’ɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጭ",
+      "ipa": "t͡ʃ’",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጮ",
+      "ipa": "t͡ʃ’ɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጰ",
+      "ipa": "pʼa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጱ",
+      "ipa": "pʼu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጲ",
+      "ipa": "pʼi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጳ",
+      "ipa": "pʼaː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጴ",
+      "ipa": "pʼɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጵ",
+      "ipa": "pʼ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጶ",
+      "ipa": "pʼɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጸ",
+      "ipa": "t͡sa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጹ",
+      "ipa": "t͡su",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጺ",
+      "ipa": "t͡si",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጻ",
+      "ipa": "t͡saː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጼ",
+      "ipa": "t͡sɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጽ",
+      "ipa": "t͡s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጾ",
+      "ipa": "t͡sɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፈ",
+      "ipa": "fa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፉ",
+      "ipa": "fu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፊ",
+      "ipa": "fi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፋ",
+      "ipa": "faː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፌ",
+      "ipa": "fɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፍ",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፎ",
+      "ipa": "fɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፐ",
+      "ipa": "pa",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፑ",
+      "ipa": "pu",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፒ",
+      "ipa": "pi",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፓ",
+      "ipa": "paː",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፔ",
+      "ipa": "pɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፕ",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፖ",
+      "ipa": "pɔ",
+      "script": "native"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "ሀ",
+      "latin": "ha"
+    },
+    {
+      "native": "ሁ",
+      "latin": "hu"
+    },
+    {
+      "native": "ሂ",
+      "latin": "hi"
+    },
+    {
+      "native": "ሃ",
+      "latin": "hā"
+    },
+    {
+      "native": "ሄ",
+      "latin": "he"
+    },
+    {
+      "native": "ህ",
+      "latin": "h"
+    },
+    {
+      "native": "ሆ",
+      "latin": "ho"
+    },
+    {
+      "native": "ለ",
+      "latin": "la"
+    },
+    {
+      "native": "ሉ",
+      "latin": "lu"
+    },
+    {
+      "native": "ሊ",
+      "latin": "li"
+    },
+    {
+      "native": "ላ",
+      "latin": "lā"
+    },
+    {
+      "native": "ሌ",
+      "latin": "le"
+    },
+    {
+      "native": "ል",
+      "latin": "l"
+    },
+    {
+      "native": "ሎ",
+      "latin": "lo"
+    },
+    {
+      "native": "መ",
+      "latin": "ma"
+    },
+    {
+      "native": "ሙ",
+      "latin": "mu"
+    },
+    {
+      "native": "ሚ",
+      "latin": "mi"
+    },
+    {
+      "native": "ማ",
+      "latin": "mā"
+    },
+    {
+      "native": "ሜ",
+      "latin": "me"
+    },
+    {
+      "native": "ም",
+      "latin": "m"
+    },
+    {
+      "native": "ሞ",
+      "latin": "mo"
+    },
+    {
+      "native": "ሠ",
+      "latin": "ša"
+    },
+    {
+      "native": "ሡ",
+      "latin": "šu"
+    },
+    {
+      "native": "ሢ",
+      "latin": "ši"
+    },
+    {
+      "native": "ሣ",
+      "latin": "šā"
+    },
+    {
+      "native": "ሤ",
+      "latin": "še"
+    },
+    {
+      "native": "ሥ",
+      "latin": "š"
+    },
+    {
+      "native": "ሦ",
+      "latin": "šo"
+    },
+    {
+      "native": "ረ",
+      "latin": "ra"
+    },
+    {
+      "native": "ሩ",
+      "latin": "ru"
+    },
+    {
+      "native": "ሪ",
+      "latin": "ri"
+    },
+    {
+      "native": "ራ",
+      "latin": "rā"
+    },
+    {
+      "native": "ሬ",
+      "latin": "re"
+    },
+    {
+      "native": "ር",
+      "latin": "r"
+    },
+    {
+      "native": "ሮ",
+      "latin": "ro"
+    },
+    {
+      "native": "ሰ",
+      "latin": "sa"
+    },
+    {
+      "native": "ሱ",
+      "latin": "su"
+    },
+    {
+      "native": "ሲ",
+      "latin": "si"
+    },
+    {
+      "native": "ሳ",
+      "latin": "sā"
+    },
+    {
+      "native": "ሴ",
+      "latin": "se"
+    },
+    {
+      "native": "ስ",
+      "latin": "s"
+    },
+    {
+      "native": "ሶ",
+      "latin": "so"
+    },
+    {
+      "native": "ቀ",
+      "latin": "qa"
+    },
+    {
+      "native": "ቁ",
+      "latin": "qu"
+    },
+    {
+      "native": "ቂ",
+      "latin": "qi"
+    },
+    {
+      "native": "ቃ",
+      "latin": "qā"
+    },
+    {
+      "native": "ቄ",
+      "latin": "qe"
+    },
+    {
+      "native": "ቅ",
+      "latin": "q"
+    },
+    {
+      "native": "ቆ",
+      "latin": "qo"
+    },
+    {
+      "native": "በ",
+      "latin": "ba"
+    },
+    {
+      "native": "ቡ",
+      "latin": "bu"
+    },
+    {
+      "native": "ቢ",
+      "latin": "bi"
+    },
+    {
+      "native": "ባ",
+      "latin": "bā"
+    },
+    {
+      "native": "ቤ",
+      "latin": "be"
+    },
+    {
+      "native": "ብ",
+      "latin": "b"
+    },
+    {
+      "native": "ቦ",
+      "latin": "bo"
+    },
+    {
+      "native": "ተ",
+      "latin": "ta"
+    },
+    {
+      "native": "ቱ",
+      "latin": "tu"
+    },
+    {
+      "native": "ቲ",
+      "latin": "ti"
+    },
+    {
+      "native": "ታ",
+      "latin": "tā"
+    },
+    {
+      "native": "ቴ",
+      "latin": "te"
+    },
+    {
+      "native": "ት",
+      "latin": "t"
+    },
+    {
+      "native": "ቶ",
+      "latin": "to"
+    },
+    {
+      "native": "ቸ",
+      "latin": "ča"
+    },
+    {
+      "native": "ቹ",
+      "latin": "ču"
+    },
+    {
+      "native": "ቺ",
+      "latin": "či"
+    },
+    {
+      "native": "ቻ",
+      "latin": "čā"
+    },
+    {
+      "native": "ቼ",
+      "latin": "če"
+    },
+    {
+      "native": "ች",
+      "latin": "č"
+    },
+    {
+      "native": "ቾ",
+      "latin": "čo"
+    },
+    {
+      "native": "ነ",
+      "latin": "na"
+    },
+    {
+      "native": "ኑ",
+      "latin": "nu"
+    },
+    {
+      "native": "ኒ",
+      "latin": "ni"
+    },
+    {
+      "native": "ና",
+      "latin": "nā"
+    },
+    {
+      "native": "ኔ",
+      "latin": "ne"
+    },
+    {
+      "native": "ን",
+      "latin": "n"
+    },
+    {
+      "native": "ኖ",
+      "latin": "no"
+    },
+    {
+      "native": "ኘ",
+      "latin": "ña"
+    },
+    {
+      "native": "ኙ",
+      "latin": "ñu"
+    },
+    {
+      "native": "ኚ",
+      "latin": "ñi"
+    },
+    {
+      "native": "ኛ",
+      "latin": "ñā"
+    },
+    {
+      "native": "ኜ",
+      "latin": "ñe"
+    },
+    {
+      "native": "ኝ",
+      "latin": "ñ"
+    },
+    {
+      "native": "ኞ",
+      "latin": "ño"
+    },
+    {
+      "native": "አ",
+      "latin": "a"
+    },
+    {
+      "native": "ኡ",
+      "latin": "u"
+    },
+    {
+      "native": "ኢ",
+      "latin": "i"
+    },
+    {
+      "native": "ኣ",
+      "latin": "ā"
+    },
+    {
+      "native": "ኤ",
+      "latin": "e"
+    },
+    {
+      "native": "እ",
+      "latin": "’"
+    },
+    {
+      "native": "ኦ",
+      "latin": "o"
+    },
+    {
+      "native": "ከ",
+      "latin": "ka"
+    },
+    {
+      "native": "ኩ",
+      "latin": "ku"
+    },
+    {
+      "native": "ኪ",
+      "latin": "ki"
+    },
+    {
+      "native": "ካ",
+      "latin": "kā"
+    },
+    {
+      "native": "ኬ",
+      "latin": "ke"
+    },
+    {
+      "native": "ክ",
+      "latin": "k"
+    },
+    {
+      "native": "ኮ",
+      "latin": "ko"
+    },
+    {
+      "native": "ወ",
+      "latin": "wa"
+    },
+    {
+      "native": "ዉ",
+      "latin": "wu"
+    },
+    {
+      "native": "ዊ",
+      "latin": "wi"
+    },
+    {
+      "native": "ዋ",
+      "latin": "wā"
+    },
+    {
+      "native": "ዌ",
+      "latin": "we"
+    },
+    {
+      "native": "ው",
+      "latin": "w"
+    },
+    {
+      "native": "ዎ",
+      "latin": "wo"
+    },
+    {
+      "native": "ዐ",
+      "latin": "a"
+    },
+    {
+      "native": "ዑ",
+      "latin": "u"
+    },
+    {
+      "native": "ዒ",
+      "latin": "i"
+    },
+    {
+      "native": "ዓ",
+      "latin": "ā"
+    },
+    {
+      "native": "ዔ",
+      "latin": "e"
+    },
+    {
+      "native": "ዕ",
+      "latin": "’"
+    },
+    {
+      "native": "ዖ",
+      "latin": "o"
+    },
+    {
+      "native": "ዘ",
+      "latin": "za"
+    },
+    {
+      "native": "ዙ",
+      "latin": "zu"
+    },
+    {
+      "native": "ዚ",
+      "latin": "zi"
+    },
+    {
+      "native": "ዛ",
+      "latin": "zā"
+    },
+    {
+      "native": "ዜ",
+      "latin": "ze"
+    },
+    {
+      "native": "ዝ",
+      "latin": "z"
+    },
+    {
+      "native": "ዞ",
+      "latin": "zo"
+    },
+    {
+      "native": "ዠ",
+      "latin": "ža"
+    },
+    {
+      "native": "ዡ",
+      "latin": "žu"
+    },
+    {
+      "native": "ዢ",
+      "latin": "ži"
+    },
+    {
+      "native": "ዣ",
+      "latin": "žā"
+    },
+    {
+      "native": "ዤ",
+      "latin": "že"
+    },
+    {
+      "native": "ዥ",
+      "latin": "ž"
+    },
+    {
+      "native": "ዦ",
+      "latin": "žo"
+    },
+    {
+      "native": "የ",
+      "latin": "ya"
+    },
+    {
+      "native": "ዩ",
+      "latin": "yu"
+    },
+    {
+      "native": "ዪ",
+      "latin": "yi"
+    },
+    {
+      "native": "ያ",
+      "latin": "yā"
+    },
+    {
+      "native": "ዬ",
+      "latin": "ye"
+    },
+    {
+      "native": "ይ",
+      "latin": "y"
+    },
+    {
+      "native": "ዮ",
+      "latin": "yo"
+    },
+    {
+      "native": "ደ",
+      "latin": "da"
+    },
+    {
+      "native": "ዱ",
+      "latin": "du"
+    },
+    {
+      "native": "ዲ",
+      "latin": "di"
+    },
+    {
+      "native": "ዳ",
+      "latin": "dā"
+    },
+    {
+      "native": "ዴ",
+      "latin": "de"
+    },
+    {
+      "native": "ድ",
+      "latin": "d"
+    },
+    {
+      "native": "ዶ",
+      "latin": "do"
+    },
+    {
+      "native": "ዸ",
+      "latin": "d’a"
+    },
+    {
+      "native": "ዹ",
+      "latin": "d’u"
+    },
+    {
+      "native": "ዺ",
+      "latin": "d’i"
+    },
+    {
+      "native": "ዻ",
+      "latin": "d’ā"
+    },
+    {
+      "native": "ዼ",
+      "latin": "d’e"
+    },
+    {
+      "native": "ዽ",
+      "latin": "d’"
+    },
+    {
+      "native": "ዾ",
+      "latin": "d’o"
+    },
+    {
+      "native": "ጀ",
+      "latin": "ja"
+    },
+    {
+      "native": "ጁ",
+      "latin": "ju"
+    },
+    {
+      "native": "ጂ",
+      "latin": "ji"
+    },
+    {
+      "native": "ጃ",
+      "latin": "jā"
+    },
+    {
+      "native": "ጄ",
+      "latin": "je"
+    },
+    {
+      "native": "ጅ",
+      "latin": "j"
+    },
+    {
+      "native": "ጆ",
+      "latin": "jo"
+    },
+    {
+      "native": "ገ",
+      "latin": "ga"
+    },
+    {
+      "native": "ጉ",
+      "latin": "gu"
+    },
+    {
+      "native": "ጊ",
+      "latin": "gi"
+    },
+    {
+      "native": "ጋ",
+      "latin": "gā"
+    },
+    {
+      "native": "ጌ",
+      "latin": "ge"
+    },
+    {
+      "native": "ግ",
+      "latin": "g"
+    },
+    {
+      "native": "ጎ",
+      "latin": "go"
+    },
+    {
+      "native": "ጠ",
+      "latin": "ts’a"
+    },
+    {
+      "native": "ጡ",
+      "latin": "ts’u"
+    },
+    {
+      "native": "ጢ",
+      "latin": "ts’i"
+    },
+    {
+      "native": "ጣ",
+      "latin": "ts’ā"
+    },
+    {
+      "native": "ጤ",
+      "latin": "ts’e"
+    },
+    {
+      "native": "ጥ",
+      "latin": "ts’"
+    },
+    {
+      "native": "ጦ",
+      "latin": "ts’o"
+    },
+    {
+      "native": "ጨ",
+      "latin": "čʼa"
+    },
+    {
+      "native": "ጩ",
+      "latin": "čʼu"
+    },
+    {
+      "native": "ጪ",
+      "latin": "čʼi"
+    },
+    {
+      "native": "ጫ",
+      "latin": "čʼā"
+    },
+    {
+      "native": "ጬ",
+      "latin": "čʼe"
+    },
+    {
+      "native": "ጭ",
+      "latin": "čʼ"
+    },
+    {
+      "native": "ጮ",
+      "latin": "čʼo"
+    },
+    {
+      "native": "ጰ",
+      "latin": "pʼa"
+    },
+    {
+      "native": "ጱ",
+      "latin": "pʼu"
+    },
+    {
+      "native": "ጲ",
+      "latin": "pʼi"
+    },
+    {
+      "native": "ጳ",
+      "latin": "pʼā"
+    },
+    {
+      "native": "ጴ",
+      "latin": "pʼe"
+    },
+    {
+      "native": "ጵ",
+      "latin": "pʼ"
+    },
+    {
+      "native": "ጶ",
+      "latin": "pʼo"
+    },
+    {
+      "native": "ጸ",
+      "latin": "tsa"
+    },
+    {
+      "native": "ጹ",
+      "latin": "tsu"
+    },
+    {
+      "native": "ጺ",
+      "latin": "tsi"
+    },
+    {
+      "native": "ጻ",
+      "latin": "tsā"
+    },
+    {
+      "native": "ጼ",
+      "latin": "tse"
+    },
+    {
+      "native": "ጽ",
+      "latin": "ts"
+    },
+    {
+      "native": "ጾ",
+      "latin": "tso"
+    },
+    {
+      "native": "ፈ",
+      "latin": "fa"
+    },
+    {
+      "native": "ፉ",
+      "latin": "fu"
+    },
+    {
+      "native": "ፊ",
+      "latin": "fi"
+    },
+    {
+      "native": "ፋ",
+      "latin": "fā"
+    },
+    {
+      "native": "ፌ",
+      "latin": "fe"
+    },
+    {
+      "native": "ፍ",
+      "latin": "f"
+    },
+    {
+      "native": "ፎ",
+      "latin": "fo"
+    },
+    {
+      "native": "ፐ",
+      "latin": "pa"
+    },
+    {
+      "native": "ፑ",
+      "latin": "pu"
+    },
+    {
+      "native": "ፒ",
+      "latin": "pi"
+    },
+    {
+      "native": "ፓ",
+      "latin": "pā"
+    },
+    {
+      "native": "ፔ",
+      "latin": "pe"
+    },
+    {
+      "native": "ፕ",
+      "latin": "p"
+    },
+    {
+      "native": "ፖ",
+      "latin": "po"
+    }
+  ],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Aari is written in both Ethiopic script (adapted abugida) and Latin alphabet. First option from IPA alternatives was chosen for grapheme values.",
+  "confidence": "high",
+  "iso": "aiw",
+  "name": "Aari",
+  "country": "ET",
+  "family": "South Omotic",
+  "slug": "aari.xls"
+}

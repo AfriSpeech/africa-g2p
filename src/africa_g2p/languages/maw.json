@@ -1,61 +1,104 @@
 {
   "code": "maw",
   "name": "Mampruli",
-  "country": "Ghana",
-  "family": "Central Gur",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 81",
-  "confidence": "high",
+  "country": "GH",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (mampruli.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "aa",
+      "b",
+      "d",
+      "e",
+      "ee",
+      "f",
+      "g",
+      "gb",
+      "gy",
+      "h",
+      "i",
+      "ii",
+      "k",
+      "kp",
+      "ky",
+      "l",
+      "m",
+      "n",
+      "ny",
+      "o",
+      "oo",
+      "p",
+      "r",
+      "s",
+      "t",
+      "u",
+      "uu",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ŋ",
+      "ŋm",
+      "ɔ",
+      "ɛ",
+      "’"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
     "d": "d",
-    "r": "d",
-    "ky": "c",
-    "gy": "ɟ",
-    "k": "k",
+    "e": "e",
+    "ɛ": "ɛ",
+    "f": "f",
     "g": "ɡ",
-    "'": "ɡ",
-    "kp": "k͡p",
     "gb": "ɡ͡b",
+    "gy": "ɟ",
+    "h": "h",
+    "i": "i",
+    "k": "k",
+    "kp": "k͡p",
+    "ky": "c",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ny": "ɲ",
     "ŋ": "ŋ",
     "ŋm": "ŋ͡m",
-    "f": "f",
-    "v": "v",
+    "o": "o",
+    "ɔ": "ɔ",
+    "p": "p",
+    "r": "r",
     "s": "s",
-    "h": "s",
-    "z": "z",
-    "l": "l",
-    "w": "w",
-    "y": "j",
-    "i": "i",
-    "ii": "iː",
-    "ɛ": "e",
-    "ee": "eː",
-    "a": "a",
-    "aa": "aː",
+    "t": "t",
     "u": "u",
-    "uu": "uː",
-    "ɔ": "o",
-    "oo": "oː"
+    "v": "v",
+    "w": "ʋ",
+    "y": "j",
+    "z": "z",
+    "’": "Ɂ",
+    "aa": "aː",
+    "ee": "eː",
+    "ii": "iː",
+    "oo": "oː",
+    "uu": "uː"
   },
+  "romanization": {},
   "diacritics": {},
-  "tones": null,
-  "notes": "Hartell uses /c/ for palatal stop [c], /ɟ/ for [ɟ], and /y/ for [j]. Allophones listed in brackets in original text: /d/ [r] -> d, r; /g/ [ʔ] -> g, '; /s/ [ʃ] [h] -> s, h; /z/ [ʒ] -> z. Vowel length /V:/ is represented orthographically by doubling the letter (VV).",
+  "tones": {},
+  "notes": "",
   "alphabet": [
     "a",
     "aa",
     "b",
     "d",
     "e",
-    "ɛ",
     "ee",
     "f",
     "g",
-    "'",
     "gb",
     "gy",
     "h",
@@ -68,10 +111,7 @@
     "m",
     "n",
     "ny",
-    "ŋ",
-    "ŋm",
     "o",
-    "ɔ",
     "oo",
     "p",
     "r",
@@ -82,148 +122,12 @@
     "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ŋ",
+    "ŋm",
+    "ɔ",
+    "ɛ",
+    "’"
   ],
-  "examples": [
-    {
-      "word": "m ba",
-      "gloss": "my father"
-    },
-    {
-      "word": "baasi",
-      "gloss": "dogs"
-    },
-    {
-      "word": "daasi",
-      "gloss": "markets"
-    },
-    {
-      "word": "deaai",
-      "gloss": "to get"
-    },
-    {
-      "word": "bɛ ni",
-      "gloss": "is there"
-    },
-    {
-      "word": "feesi",
-      "gloss": "to wipe"
-    },
-    {
-      "word": "gaasi",
-      "gloss": "Diospyros fruits"
-    },
-    {
-      "word": "sɛ'asi",
-      "gloss": "to prepare"
-    },
-    {
-      "word": "gbaasi",
-      "gloss": "to catch (many)"
-    },
-    {
-      "word": "gyaasi",
-      "gloss": "twins"
-    },
-    {
-      "word": "halaali",
-      "gloss": "pure (loanword)"
-    },
-    {
-      "word": "bibila",
-      "gloss": "small child"
-    },
-    {
-      "word": "diisi",
-      "gloss": "to feed"
-    },
-    {
-      "word": "kaasi",
-      "gloss": "to cry"
-    },
-    {
-      "word": "kpaasi",
-      "gloss": "nails"
-    },
-    {
-      "word": "kyeesi",
-      "gloss": "parrots"
-    },
-    {
-      "word": "laasi",
-      "gloss": "bowls"
-    },
-    {
-      "word": "maasim",
-      "gloss": "shade"
-    },
-    {
-      "word": "naasi",
-      "gloss": "four"
-    },
-    {
-      "word": "nyaari",
-      "gloss": "chests"
-    },
-    {
-      "word": "ŋobi",
-      "gloss": "to chew"
-    },
-    {
-      "word": "ŋmaasi",
-      "gloss": "to break (many)"
-    },
-    {
-      "word": "doaai",
-      "gloss": "to get up"
-    },
-    {
-      "word": "bɔ...?",
-      "gloss": "what?"
-    },
-    {
-      "word": "doosi",
-      "gloss": "to week"
-    },
-    {
-      "word": "paasi",
-      "gloss": "to add"
-    },
-    {
-      "word": "daari",
-      "gloss": "sticks"
-    },
-    {
-      "word": "saasi",
-      "gloss": "rains"
-    },
-    {
-      "word": "taasi",
-      "gloss": "to send"
-    },
-    {
-      "word": "bu",
-      "gloss": "to beat"
-    },
-    {
-      "word": "buusi",
-      "gloss": "goats"
-    },
-    {
-      "word": "vaari",
-      "gloss": "leaves"
-    },
-    {
-      "word": "waasi",
-      "gloss": "dances"
-    },
-    {
-      "word": "yaari",
-      "gloss": "fishing"
-    },
-    {
-      "word": "zaasim",
-      "gloss": "fishes"
-    }
-  ]
+  "examples": []
 }

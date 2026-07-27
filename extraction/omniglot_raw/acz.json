@@ -1,0 +1,151 @@
+{
+  "language": "Acheron",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ä",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "t̺",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ë",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ï",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ngw",
+      "ipa": "ŋʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ö",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’r",
+      "ipa": "ɽ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ü",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "s",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "",
+  "confidence": "high",
+  "iso": "acz",
+  "name": "Acheron",
+  "country": "SD",
+  "family": "Narrow Talodi",
+  "slug": "acheron.xls"
+}

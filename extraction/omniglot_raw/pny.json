@@ -1,0 +1,216 @@
+{
+  "language": "Pinyin",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "ɑ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "β",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǝ",
+      "ipa": "ǝ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gh",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɨ",
+      "ipa": "ɨ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "t͡s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʉ",
+      "ipa": "ʉ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẅ",
+      "ipa": "ɥ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zh",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʼ",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "ɣʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ie",
+      "ipa": "i̯ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "iǝ",
+      "ipa": "iə̯",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ue",
+      "ipa": "uə̯",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʉe",
+      "ipa": "ʉə̯",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Tone marks are indicated in the language title (Àshwəŋnə̀ Pìnyinə) using grave accents, but are not explicitly listed in a separate tone chart in this sheet.",
+  "confidence": "high",
+  "iso": "pny",
+  "name": "Pinyin",
+  "country": "CM",
+  "family": "Atlantic-Congo",
+  "slug": "pinyin.xls"
+}

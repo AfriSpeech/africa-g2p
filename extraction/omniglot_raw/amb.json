@@ -1,0 +1,152 @@
+{
+  "language": "Andoa",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "ʧʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "ʦ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ã",
+      "ipa": "ã",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẽ",
+      "ipa": "ĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ĩ",
+      "ipa": "ĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "õ",
+      "ipa": "ɔ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ũ",
+      "ipa": "ũ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "notes": "Where multiple allophones or variants were listed (separated by ~), the first listed IPA representation was selected as per guidelines.",
+  "confidence": "high",
+  "iso": "amb",
+  "name": "Andoa",
+  "country": "NG",
+  "family": "Atlantic-Congo",
+  "slug": "andoa.xls"
+}

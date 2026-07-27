@@ -1,62 +1,99 @@
 {
   "code": "ada",
-  "name": "Dangme (Adangme)",
-  "country": "Ghana",
-  "family": "Kwa",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 3",
-  "confidence": "high",
+  "name": "Dangme",
+  "country": "GH",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (dangme.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "d",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "i",
+      "j",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "n",
+      "ng",
+      "ngm",
+      "ny",
+      "o",
+      "p",
+      "s",
+      "t",
+      "ts",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ã",
+      "ĩ",
+      "ũ",
+      "ɔ",
+      "ɔ̃",
+      "ɛ",
+      "ɛ̃"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a̠",
+    "ã": "ã",
+    "e": "e",
+    "ɛ": "æ",
+    "ɛ̃": "ɛ̃",
+    "i": "i",
+    "ĩ": "ĩ",
+    "o": "o",
+    "ɔ": "ɔ̞",
+    "ɔ̃": "ɔ̃",
+    "u": "u",
+    "ũ": "ũ",
     "b": "b",
-    "t": "t",
     "d": "d",
-    "ts": "tʃ",
-    "j": "dʒ",
-    "k": "k",
+    "f": "f",
     "g": "ɡ",
-    "kp": "k͡p",
     "gb": "ɡ͡b",
+    "j": "d͡ʒ",
+    "k": "k",
+    "kp": "k͡p",
+    "l": "l",
     "m": "m",
     "n": "n",
+    "ng": "ŋ",
+    "ngm": "ŋ͡m",
     "ny": "ɲ",
-    "ŋ": "ŋ",
-    "ŋm": "ŋ͡m",
-    "f": "f",
-    "v": "v",
+    "p": "p",
     "s": "s",
-    "z": "z",
-    "l": "l",
-    "h": "h",
+    "t": "t",
+    "ts": "t͡ʃ",
+    "v": "v",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "e": "e",
-    "ɛ": "ɛ",
-    "a": "a",
-    "u": "u",
-    "o": "o",
-    "ɔ": "ɔ"
+    "z": "z"
   },
+  "romanization": {},
   "diacritics": {
     "̃": "̃"
   },
-  "tones": {
-    "high": "acute (´)",
-    "mid": "macron (¯)",
-    "low": "grave (`)",
-    "downstep": "exclamation mark (!)"
-  },
-  "notes": "Tone is not written in standard orthography. Hartell's /tʃ/ mapped to IPA tʃ, /dʒ/ to dʒ, /y/ to j, /kp/ to k͡p, /gb/ to ɡ͡b, /ŋm/ to ŋ͡m. Nasalization /Ṽ/ applies to all vowels except /e/ and /o/.",
+  "tones": {},
+  "notes": "Where multiple IPA options were provided (e.g. [d͡ʒ/ʒ] for j, [l/r] for l), the first option was preserved.",
   "alphabet": [
     "a",
     "b",
     "d",
     "e",
-    "ɛ",
     "f",
     "g",
     "gb",
-    "h",
     "i",
     "j",
     "k",
@@ -64,11 +101,10 @@
     "l",
     "m",
     "n",
+    "ng",
+    "ngm",
     "ny",
-    "ŋ",
-    "ŋm",
     "o",
-    "ɔ",
     "p",
     "s",
     "t",
@@ -77,128 +113,14 @@
     "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ã",
+    "ĩ",
+    "ũ",
+    "ɔ",
+    "ɔ̃",
+    "ɛ",
+    "ɛ̃"
   ],
-  "examples": [
-    {
-      "word": "yà",
-      "gloss": "to go"
-    },
-    {
-      "word": "bà",
-      "gloss": "to beg"
-    },
-    {
-      "word": "dà",
-      "gloss": "to lure"
-    },
-    {
-      "word": "tè",
-      "gloss": "to fly"
-    },
-    {
-      "word": "bɛ́",
-      "gloss": "broom"
-    },
-    {
-      "word": "fàa",
-      "gloss": "freely"
-    },
-    {
-      "word": "gà",
-      "gloss": "ring"
-    },
-    {
-      "word": "gbà",
-      "gloss": "to prophesy"
-    },
-    {
-      "word": "hà",
-      "gloss": "kind of plant"
-    },
-    {
-      "word": "sí",
-      "gloss": "to pound"
-    },
-    {
-      "word": "jà",
-      "gloss": "to strip"
-    },
-    {
-      "word": "kà",
-      "gloss": "to try"
-    },
-    {
-      "word": "kpà",
-      "gloss": "to roam"
-    },
-    {
-      "word": "lá",
-      "gloss": "to sing"
-    },
-    {
-      "word": "mà",
-      "gloss": "to be in motion"
-    },
-    {
-      "word": "nà",
-      "gloss": "man's name"
-    },
-    {
-      "word": "nyumu",
-      "gloss": "man"
-    },
-    {
-      "word": "ŋà",
-      "gloss": "weaver bird"
-    },
-    {
-      "word": "ŋmõŋmõ",
-      "gloss": "side of the ribs"
-    },
-    {
-      "word": "sò",
-      "gloss": "Thursday"
-    },
-    {
-      "word": "ŋɔ̀",
-      "gloss": "to be sweet"
-    },
-    {
-      "word": "pà",
-      "gloss": "to drink soup"
-    },
-    {
-      "word": "só",
-      "gloss": "seed"
-    },
-    {
-      "word": "tà",
-      "gloss": "to chew"
-    },
-    {
-      "word": "tsà",
-      "gloss": "to heal"
-    },
-    {
-      "word": "mú",
-      "gloss": "dirt"
-    },
-    {
-      "word": "vàá",
-      "gloss": "a river grass"
-    },
-    {
-      "word": "wà",
-      "gloss": "our"
-    },
-    {
-      "word": "yà",
-      "gloss": "to go"
-    },
-    {
-      "word": "zāmi",
-      "gloss": "urine"
-    }
-  ]
+  "examples": []
 }

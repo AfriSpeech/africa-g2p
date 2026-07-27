@@ -1,0 +1,161 @@
+{
+  "language": "Makonde",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "ᵐb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "ⁿd",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ᵑg",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng’",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nj",
+      "ipa": "ᶮɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "ʋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Stray 'Dagaare' label ignored in grid. Alternatives in IPA like [l~ɾ] and [r~ɾ] simplified to primary phones.",
+  "confidence": "high",
+  "iso": "kde",
+  "name": "Makonde",
+  "country": "MZ",
+  "family": "Atlantic-Congo",
+  "slug": "makonde.xls"
+}

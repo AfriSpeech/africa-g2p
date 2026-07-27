@@ -1,157 +1,112 @@
 {
   "code": "lug",
   "name": "Luganda",
-  "country": "Uganda",
-  "family": "Bantu",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 80",
-  "confidence": "high",
+  "country": "UG",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (luganda.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "aa",
+      "b",
+      "c",
+      "d",
+      "e",
+      "ee",
+      "f",
+      "g",
+      "i",
+      "ii",
+      "j",
+      "k",
+      "l",
+      "m",
+      "n",
+      "ny",
+      "o",
+      "oo",
+      "p",
+      "r",
+      "s",
+      "t",
+      "u",
+      "uu",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ŋ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
+    "c": "ʧ",
     "d": "d",
-    "ch": "tʃ",
-    "j": "dʒ",
-    "k": "k",
+    "e": "e",
+    "f": "f",
     "g": "ɡ",
+    "i": "i",
+    "j": "ʤ",
+    "k": "k",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ny": "ɲ",
     "ŋ": "ŋ",
+    "o": "o",
+    "p": "p",
+    "r": "r",
+    "s": "s",
+    "t": "t",
+    "u": "u",
     "v": "v",
-    "z": "z",
-    "l": "l",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "e": "e",
-    "a": "a",
-    "u": "u",
-    "o": "o"
+    "z": "z",
+    "aa": "aː",
+    "ee": "eː",
+    "ii": "iː",
+    "oo": "oː",
+    "uu": "uː"
   },
-  "diacritics": {
-    "́": "˥",
-    "̀": "˩",
-    "̂": "˥˩"
-  },
-  "tones": {
-    "high": "acute accent",
-    "low": "grave accent",
-    "falling": "circumflex accent"
-  },
-  "notes": "Hartell lists /y/ for grapheme 'y', transcribed here as IPA /j/. Page also notes consonant gemination /C:/ -> CC, vowel lengthening /V:/ -> VV, labialization (bw, pw, mw), and palatalization (by, py, my).",
+  "romanization": {},
+  "diacritics": {},
+  "tones": {},
+  "notes": "Used first value for slash-separated alternative IPA values (e.g. [g/ʤ] -> g, [k/ʧ] -> k, [l/r] -> l). Letter names in rows 1, 4, 7, 10 were ignored.",
   "alphabet": [
     "a",
+    "aa",
     "b",
-    "ch",
+    "c",
     "d",
     "e",
+    "ee",
+    "f",
     "g",
     "i",
+    "ii",
     "j",
     "k",
     "l",
     "m",
     "n",
     "ny",
-    "ŋ",
     "o",
+    "oo",
     "p",
+    "r",
+    "s",
     "t",
     "u",
+    "uu",
     "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ŋ"
   ],
-  "examples": [
-    {
-      "word": "abantu",
-      "gloss": "men"
-    },
-    {
-      "word": "bajja",
-      "gloss": "they came"
-    },
-    {
-      "word": "chakula",
-      "gloss": "food"
-    },
-    {
-      "word": "dda",
-      "gloss": "to return"
-    },
-    {
-      "word": "ekifo",
-      "gloss": "place"
-    },
-    {
-      "word": "gobya",
-      "gloss": "to be sent away"
-    },
-    {
-      "word": "ekintu",
-      "gloss": "thing"
-    },
-    {
-      "word": "jagala",
-      "gloss": "to want"
-    },
-    {
-      "word": "kukula",
-      "gloss": "to grow"
-    },
-    {
-      "word": "laba",
-      "gloss": "to see"
-    },
-    {
-      "word": "musota",
-      "gloss": "snake"
-    },
-    {
-      "word": "ente",
-      "gloss": "cow"
-    },
-    {
-      "word": "amannya",
-      "gloss": "names"
-    },
-    {
-      "word": "ensoŋa",
-      "gloss": "reason"
-    },
-    {
-      "word": "omwana",
-      "gloss": "child"
-    },
-    {
-      "word": "pa-",
-      "gloss": "[locative]"
-    },
-    {
-      "word": "emiti",
-      "gloss": "trees"
-    },
-    {
-      "word": "obuntu",
-      "gloss": "existence"
-    },
-    {
-      "word": "omuddugavu",
-      "gloss": "black"
-    },
-    {
-      "word": "kuwola",
-      "gloss": "to borrow"
-    },
-    {
-      "word": "eryato",
-      "gloss": "boat"
-    },
-    {
-      "word": "zoono",
-      "gloss": "yesterday"
-    }
-  ]
+  "examples": []
 }

@@ -1,0 +1,352 @@
+{
+  "language": "Medumba",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɑ",
+      "ipa": "ɑ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ə",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gh",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "ʦ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʉ",
+      "ipa": "ʉ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʼ",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bw",
+      "ipa": "bʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "cw",
+      "ipa": "t͡ʃʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "fw",
+      "ipa": "fʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "ɡʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "jw",
+      "ipa": "ɟʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "ᵐb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mbw",
+      "ipa": "ᵐbʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mf",
+      "ipa": "ᵐf",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mfw",
+      "ipa": "ᵐfʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nc",
+      "ipa": "ᶮc",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ncw",
+      "ipa": "ᶮcʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "ⁿd",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nj",
+      "ipa": "ᶮɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "njw",
+      "ipa": "ᶮɟʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ns",
+      "ipa": "ⁿs",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nsw",
+      "ipa": "ⁿsʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nt",
+      "ipa": "ⁿt",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nw",
+      "ipa": "ɲʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋg",
+      "ipa": "ᵑg",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋgw",
+      "ipa": "ᵑgʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋk",
+      "ipa": "ᵑk",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋkw",
+      "ipa": "ᵑkʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋw",
+      "ipa": "ŋʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sw",
+      "ipa": "sʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ia",
+      "ipa": "ia",
+      "script": "latin"
+    },
+    {
+      "grapheme": "iə",
+      "ipa": "iə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uɑ",
+      "ipa": "uɑ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʉa",
+      "ipa": "ʉa",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʉɑ",
+      "ipa": "ʉɑ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "high tone": "unmarked (a)",
+    "low tone": "grave accent (à)",
+    "rising tone": "caron (ǎ)",
+    "falling tone": "circumflex (â)"
+  },
+  "diacritics": [
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": ""
+    },
+    {
+      "mark": "U+030C",
+      "role": "rising tone",
+      "ipa": ""
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": ""
+    }
+  ],
+  "notes": null,
+  "confidence": "high",
+  "iso": "byv",
+  "name": "Medumba",
+  "country": "CM",
+  "family": "Atlantic-Congo",
+  "slug": "medumba.xls"
+}

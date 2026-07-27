@@ -1,0 +1,101 @@
+{
+  "language": "Garrwa",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ly",
+      "ipa": "ʎ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɹ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "rr",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Where multiple slash-separated IPA alternatives were given in brackets, the first option was selected.",
+  "confidence": "high",
+  "iso": "grr",
+  "name": "Garawa",
+  "country": "DZ",
+  "family": "Afro-Asiatic",
+  "slug": "garawa.xls"
+}

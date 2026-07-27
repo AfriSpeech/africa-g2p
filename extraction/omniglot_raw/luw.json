@@ -1,0 +1,416 @@
+{
+  "language": "Dholuo",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "ʧ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ʤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "Ɩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "au",
+      "ipa": "au̯",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aw",
+      "ipa": "aɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dh",
+      "ipa": "ð",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ᵑɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng’",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "θ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uo",
+      "ipa": "u̯ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "native"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "ʧ",
+      "script": "native"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "native"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "native"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ŋ",
+      "script": "native"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "native"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "Ɩ",
+      "script": "native"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "native"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "ǃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "native"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "native"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "native"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "a",
+      "latin": "a"
+    },
+    {
+      "native": "b",
+      "latin": "b"
+    },
+    {
+      "native": "c",
+      "latin": "ch"
+    },
+    {
+      "native": "d",
+      "latin": "d"
+    },
+    {
+      "native": "e",
+      "latin": "e"
+    },
+    {
+      "native": "f",
+      "latin": "f"
+    },
+    {
+      "native": "g",
+      "latin": "g"
+    },
+    {
+      "native": "x",
+      "latin": "ng’"
+    },
+    {
+      "native": "h",
+      "latin": "h"
+    },
+    {
+      "native": "i",
+      "latin": "i"
+    },
+    {
+      "native": "j",
+      "latin": "j"
+    },
+    {
+      "native": "k",
+      "latin": "k"
+    },
+    {
+      "native": "l",
+      "latin": "l"
+    },
+    {
+      "native": "m",
+      "latin": "m"
+    },
+    {
+      "native": "n",
+      "latin": "n"
+    },
+    {
+      "native": "o",
+      "latin": "o"
+    },
+    {
+      "native": "p",
+      "latin": "p"
+    },
+    {
+      "native": "q",
+      "latin": "q"
+    },
+    {
+      "native": "r",
+      "latin": "r"
+    },
+    {
+      "native": "s",
+      "latin": "s"
+    },
+    {
+      "native": "t",
+      "latin": "t"
+    },
+    {
+      "native": "u",
+      "latin": "u"
+    },
+    {
+      "native": "v",
+      "latin": "v"
+    },
+    {
+      "native": "w",
+      "latin": "w"
+    },
+    {
+      "native": "y",
+      "latin": "y"
+    },
+    {
+      "native": "z",
+      "latin": "z"
+    }
+  ],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Lakeside Script characters are represented via font ASCII mappings (e.g. C/c for 'ch', X/x for 'ng’', Q/q for click). Syllables and numerals in rows 18-25 were ignored per instructions.",
+  "confidence": "high",
+  "iso": "luw",
+  "name": "Luo",
+  "country": "CM",
+  "family": "Atlantic-Congo",
+  "slug": "luo.xls"
+}

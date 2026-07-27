@@ -1,0 +1,390 @@
+{
+  "language": "Chadian Arabic",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "ا",
+      "ipa": "∅",
+      "script": "native"
+    },
+    {
+      "grapheme": "ب",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "ت",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ث",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ج",
+      "ipa": "d͡ʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ح",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "خ",
+      "ipa": "x",
+      "script": "native"
+    },
+    {
+      "grapheme": "د",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ذ",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ر",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "ز",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "س",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ش",
+      "ipa": "ʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ص",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ض",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ط",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ظ",
+      "ipa": "ð",
+      "script": "native"
+    },
+    {
+      "grapheme": "ع",
+      "ipa": "∅",
+      "script": "native"
+    },
+    {
+      "grapheme": "غ",
+      "ipa": "x",
+      "script": "native"
+    },
+    {
+      "grapheme": "ف",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "ق",
+      "ipa": "g",
+      "script": "native"
+    },
+    {
+      "grapheme": "ك",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "ل",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "م",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "ن",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ه",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "و",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "ي",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "š",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṭ",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "ا",
+      "latin": "∅/ʔ"
+    },
+    {
+      "native": "ب",
+      "latin": "b"
+    },
+    {
+      "native": "ت",
+      "latin": "t"
+    },
+    {
+      "native": "ث",
+      "latin": "t"
+    },
+    {
+      "native": "ج",
+      "latin": "j"
+    },
+    {
+      "native": "ح",
+      "latin": "h"
+    },
+    {
+      "native": "خ",
+      "latin": "x"
+    },
+    {
+      "native": "د",
+      "latin": "d"
+    },
+    {
+      "native": "ذ",
+      "latin": "d"
+    },
+    {
+      "native": "ر",
+      "latin": "r"
+    },
+    {
+      "native": "ز",
+      "latin": "z"
+    },
+    {
+      "native": "س",
+      "latin": "s"
+    },
+    {
+      "native": "ش",
+      "latin": "š"
+    },
+    {
+      "native": "ص",
+      "latin": "s"
+    },
+    {
+      "native": "ض",
+      "latin": "d"
+    },
+    {
+      "native": "ط",
+      "latin": "ṭ"
+    },
+    {
+      "native": "ظ",
+      "latin": "z"
+    },
+    {
+      "native": "ع",
+      "latin": "ʔ"
+    },
+    {
+      "native": "غ",
+      "latin": "x"
+    },
+    {
+      "native": "ف",
+      "latin": "f"
+    },
+    {
+      "native": "ق",
+      "latin": "g"
+    },
+    {
+      "native": "ك",
+      "latin": "k"
+    },
+    {
+      "native": "ل",
+      "latin": "l"
+    },
+    {
+      "native": "م",
+      "latin": "m"
+    },
+    {
+      "native": "ن",
+      "latin": "n"
+    },
+    {
+      "native": "ه",
+      "latin": "h"
+    },
+    {
+      "native": "و",
+      "latin": "w"
+    },
+    {
+      "native": "ي",
+      "latin": "y"
+    }
+  ],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+064E",
+      "role": "short vowel a",
+      "ipa": "a"
+    },
+    {
+      "mark": "U+0650",
+      "role": "short vowel i",
+      "ipa": "i"
+    },
+    {
+      "mark": "U+064F",
+      "role": "short vowel u",
+      "ipa": "u"
+    },
+    {
+      "mark": "U+0652",
+      "role": "sukun / no vowel",
+      "ipa": "∅"
+    },
+    {
+      "mark": "U+0651",
+      "role": "gemination",
+      "ipa": ""
+    }
+  ],
+  "notes": "Chadian Arabic is written using Arabic script as well as a Latin orthography. Alternative phonetic/allophonic IPA values were simplified to the primary listed sound per schema rules.",
+  "confidence": "high",
+  "iso": "shu",
+  "name": "Arabic (Chadian)",
+  "country": "CM",
+  "family": "Afro-Asiatic",
+  "slug": "arabic_chadian.xls"
+}

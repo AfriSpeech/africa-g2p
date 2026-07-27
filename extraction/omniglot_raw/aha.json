@@ -1,0 +1,181 @@
+{
+  "language": "Ahanta",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "ɐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɩ",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʋ",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dy",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "ɡ͡b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "k͡p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ɕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ty",
+      "ipa": "c",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Endonym 'Ayɩnda' listed in grid header. Alternative pronunciations simplified to first option per instructions.",
+  "confidence": "high",
+  "iso": "aha",
+  "name": "Ahanta",
+  "country": "GH",
+  "family": "Atlantic-Congo",
+  "slug": "ahanta.xls"
+}

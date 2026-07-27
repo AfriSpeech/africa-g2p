@@ -1,0 +1,261 @@
+{
+  "language": "Tswa",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṅ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŝ",
+      "ipa": "ʂ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẑ",
+      "ipa": "ʐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bv",
+      "ipa": "b͡v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bẑ",
+      "ipa": "b͡ʐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dl",
+      "ipa": "ɮ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dz",
+      "ipa": "d͡z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hl",
+      "ipa": "ɬ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mh",
+      "ipa": "mʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nh",
+      "ipa": "nʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṅh",
+      "ipa": "ŋʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pf",
+      "ipa": "p͡fʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ph",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pŝ",
+      "ipa": "p͡ʂ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tl",
+      "ipa": "t͡ɬʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tlh",
+      "ipa": "t͡ɬʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "t͡sʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tsh",
+      "ipa": "t͡sʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tŝ",
+      "ipa": "t͡ʂʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tŝh",
+      "ipa": "t͡ʂʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zh",
+      "ipa": "ʒ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": null,
+  "confidence": "high",
+  "iso": "tsc",
+  "name": "Tswa",
+  "country": "MZ",
+  "family": "Atlantic-Congo",
+  "slug": "tswa.xls"
+}

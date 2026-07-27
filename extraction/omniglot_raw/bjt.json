@@ -1,0 +1,207 @@
+{
+  "language": "Balanta-Ganja",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɓ",
+      "ipa": "ɓ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñ",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŧ",
+      "ipa": "θ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "é",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "ɡ͡b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "í",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "ᵐb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mf",
+      "ipa": "ᶬf",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "ⁿd",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ns",
+      "ipa": "ⁿs",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nt",
+      "ipa": "ⁿt",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nŧ",
+      "ipa": "ⁿθ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñj",
+      "ipa": "ᶮɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋg",
+      "ipa": "ᵑɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋgb",
+      "ipa": "ᵑɡ͡b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ó",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ú",
+      "ipa": "u",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "vowel quality",
+      "ipa": ""
+    }
+  ],
+  "notes": "Cell for 'T t' corresponds to IPA [r] in row 5. 'E e' lists alternative IPA [ɛ/ə], first alternative [ɛ] was taken.",
+  "confidence": "high",
+  "iso": "bjt",
+  "name": "Balanta-Ganja",
+  "country": "GW",
+  "family": "Atlantic-Congo",
+  "slug": "balantaganja.xls"
+}

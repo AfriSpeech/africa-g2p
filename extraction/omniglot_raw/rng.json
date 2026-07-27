@@ -1,0 +1,211 @@
+{
+  "language": "Ronga",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "by",
+      "ipa": "b͡ʐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "tʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "tʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hl",
+      "ipa": "ɸ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "dʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "lh",
+      "ipa": "ʎ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṅ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n’",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ps",
+      "ipa": "p͡ʂ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŝ",
+      "ipa": "ʂ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sv",
+      "ipa": "ʂ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sw",
+      "ipa": "sʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "vh",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "xj",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẑ",
+      "ipa": "ʐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zv",
+      "ipa": "ʐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zw",
+      "ipa": "zʷ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Includes graphemes from both the Methodist orthography and the 1989 orthography for Ronga.",
+  "confidence": "high",
+  "iso": "rng",
+  "name": "Ronga",
+  "country": "MZ",
+  "family": "Atlantic-Congo",
+  "slug": "ronga.xls"
+}

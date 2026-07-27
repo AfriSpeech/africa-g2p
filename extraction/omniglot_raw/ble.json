@@ -1,0 +1,232 @@
+{
+  "language": "Balanta-Kentohe",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɓ",
+      "ipa": "ɓ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñ",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŧ",
+      "ipa": "θ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "ɡ͡b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "í",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "k͡p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "ᵐb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mf",
+      "ipa": "ᶬf",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "ⁿd",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ns",
+      "ipa": "ⁿs",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nt",
+      "ipa": "ⁿt",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nŧ",
+      "ipa": "ⁿθ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñc",
+      "ipa": "ᶮc",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñj",
+      "ipa": "ᶮɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋg",
+      "ipa": "ᵑɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋgb",
+      "ipa": "ᵑɡ͡b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋk",
+      "ipa": "ᵑk",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋkp",
+      "ipa": "ᵑk͡p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ó",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ú",
+      "ipa": "u",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0301",
+      "role": "vowel quality distinction (tense/close vowels í, ó, ú)",
+      "ipa": ""
+    }
+  ],
+  "notes": "The acute accent is used on í, ó, ú to distinguish close vowels [i, o, u] from near-close/open-mid vowels [ɪ, ɔ, ʊ]. The alternative IPA [ɛ/e] for 'e' was recorded as 'ɛ' per the first-option rule.",
+  "confidence": "high",
+  "iso": "ble",
+  "name": "Balanta-Kentohe",
+  "country": "GW",
+  "family": "Atlantic-Congo",
+  "slug": "balantakentohe.xls"
+}

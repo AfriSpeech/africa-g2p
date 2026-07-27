@@ -1,0 +1,237 @@
+{
+  "language": "Tamahaq",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ă",
+      "ipa": "ɐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ə",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḍ",
+      "ipa": "dˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǧ",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǰ",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɣ",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḷ",
+      "ipa": "lˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṣ",
+      "ipa": "sˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "š",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṭ",
+      "ipa": "tˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẓ",
+      "ipa": "zˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "â",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ê",
+      "ipa": "eː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "î",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ô",
+      "ipa": "oː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "û",
+      "ipa": "uː",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0302",
+      "role": "vowel length",
+      "ipa": "ː"
+    },
+    {
+      "mark": "U+0323",
+      "role": "pharyngealization",
+      "ipa": "ˤ"
+    }
+  ],
+  "notes": "In row 8-9, W w is aligned with IPA [x], which may be a typographical error in the source table for [w].",
+  "confidence": "medium",
+  "iso": "thv",
+  "name": "Tamahaq",
+  "country": "DZ",
+  "family": "Afro-Asiatic",
+  "slug": "tamahaq.xls"
+}

@@ -1,0 +1,171 @@
+{
+  "language": "Bari",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’b",
+      "ipa": "b’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’d",
+      "ipa": "d’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’y",
+      "ipa": "j’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ö",
+      "ipa": "ö̠",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e̠",
+      "ipa": "e̠",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i̠",
+      "ipa": "i̠",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o̠",
+      "ipa": "o̠",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u̠",
+      "ipa": "u̠",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ngw",
+      "ipa": "ŋʷ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Extracted all graphemes and additional letters (vowels with retracting diacritics and labialized consonants) for Bari.",
+  "confidence": "high",
+  "iso": "bfa",
+  "name": "Bari",
+  "country": "SS",
+  "family": "Nilotic",
+  "slug": "bari.xls"
+}

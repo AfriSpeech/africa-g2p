@@ -1,0 +1,231 @@
+{
+  "language": "Bodo",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "ɦ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṅ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŏ",
+      "ipa": "ɯ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ph",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "ʈ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "ʈʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "à",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ô",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "á",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ā",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "í",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ī",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ê",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "è",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "é",
+      "ipa": "eː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ē",
+      "ipa": "eː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "å",
+      "ipa": "ɯ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ō",
+      "ipa": "oː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ù",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŭ",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ú",
+      "ipa": "uː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ū",
+      "ipa": "uː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṛ",
+      "ipa": "ɽ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Included additional accented letters listed under 'Other letters'. Taken the first option where multiple IPA options were provided in slash notation.",
+  "confidence": "high",
+  "iso": "boy",
+  "name": "Bodo",
+  "country": "CF",
+  "family": "Atlantic-Congo",
+  "slug": "bodo.xls"
+}

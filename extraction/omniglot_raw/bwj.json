@@ -1,0 +1,245 @@
+{
+  "language": "Láá Láá Bwamu",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɓ",
+      "ipa": "ɓ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "ƙ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɲ",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "y",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ã",
+      "ipa": "ã",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aa",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ãa",
+      "ipa": "ãː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ̃",
+      "ipa": "ɛ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ee",
+      "ipa": "eː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛɛ",
+      "ipa": "ɛː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ̃ɛ",
+      "ipa": "ɛ̃ː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ĩ",
+      "ipa": "ĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ii",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oo",
+      "ipa": "oː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ̃",
+      "ipa": "ɔ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔɔ",
+      "ipa": "ɔː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ũ",
+      "ipa": "ũ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uu",
+      "ipa": "uː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ũu",
+      "ipa": "ũː",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "high": "á (acute accent)",
+    "low": "à (grave accent)"
+  },
+  "diacritics": [
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    },
+    {
+      "mark": "U+0301",
+      "role": "high tone",
+      "ipa": ""
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": ""
+    }
+  ],
+  "notes": "Used primary alternative 'ƙ' for 'kh' from bracketed '[ƙ/kʰ]'. Script is Latin-based.",
+  "confidence": "high",
+  "iso": "bwj",
+  "name": "Láá Láá Bwamu",
+  "country": "BF",
+  "family": "Atlantic-Congo",
+  "slug": "laalaabwamu.xls"
+}

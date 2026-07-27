@@ -1,54 +1,87 @@
 {
   "code": "ncu",
   "name": "Chumburung",
-  "country": "Ghana",
-  "family": "Kwa",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 98",
-  "confidence": "high",
+  "country": "GH",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (chumburung.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "d",
+      "e",
+      "e̱",
+      "f",
+      "g",
+      "gb",
+      "gy",
+      "h",
+      "i",
+      "k",
+      "kp",
+      "ky",
+      "l",
+      "m",
+      "n",
+      "ny",
+      "o",
+      "o̱",
+      "p",
+      "r",
+      "s",
+      "t",
+      "u",
+      "w",
+      "y",
+      "ŋ",
+      "ɔ",
+      "ɛ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
     "d": "d",
-    "ky": "tʃ",
-    "gy": "dʒ",
-    "k": "k",
+    "e": "e",
+    "e̱": "ɪ",
+    "ɛ": "ɛ",
+    "f": "f",
     "g": "ɡ",
-    "kp": "k͡p",
     "gb": "ɡ͡b",
+    "gy": "d͡ʒ",
+    "h": "h",
+    "i": "i",
+    "k": "k",
+    "kp": "k͡p",
+    "ky": "t͡ʃ",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ny": "ɲ",
     "ŋ": "ŋ",
-    "f": "f",
-    "s": "s",
-    "l": "l",
-    "r": "r",
-    "h": "h",
-    "w": "w",
-    "y": "j",
-    "i": "i",
-    "ẹ": "ɪ",
-    "e": "e",
-    "ɛ": "ɛ",
-    "a": "a",
-    "u": "u",
-    "ọ": "ʊ",
     "o": "o",
-    "ɔ": "ɔ"
+    "o̱": "ʊ",
+    "ɔ": "ɔ",
+    "p": "p",
+    "r": "r",
+    "s": "s",
+    "t": "t",
+    "u": "u",
+    "w": "w",
+    "y": "j"
   },
-  "diacritics": {
-    "̣": "ɪ, ʊ"
-  },
-  "tones": null,
-  "notes": "Hartell uses /ɩ/ for IPA /ɪ/, /ɷ/ for IPA /ʊ/, and /y/ for IPA /j/. Letters e and o with subscript vertical tick/dot are represented with U+0323. Asterisks on g and h indicate loan words only.",
+  "romanization": {},
+  "diacritics": {},
+  "tones": {},
+  "notes": "Example syllable rows (row1, row4, row7, row10) were ignored as per instructions.",
   "alphabet": [
     "a",
     "b",
     "d",
     "e",
-    "ẹ",
-    "ɛ",
+    "e̱",
     "f",
     "g",
     "gb",
@@ -62,138 +95,18 @@
     "m",
     "n",
     "ny",
-    "ŋ",
     "o",
-    "ọ",
-    "ɔ",
+    "o̱",
     "p",
     "r",
     "s",
     "t",
     "u",
     "w",
-    "y"
+    "y",
+    "ŋ",
+    "ɔ",
+    "ɛ"
   ],
-  "examples": [
-    {
-      "word": "sa",
-      "gloss": "to give"
-    },
-    {
-      "word": "boŋ",
-      "gloss": "to be square"
-    },
-    {
-      "word": "kwadu",
-      "gloss": "banana"
-    },
-    {
-      "word": "lee",
-      "gloss": "to take out"
-    },
-    {
-      "word": "dabẹ",
-      "gloss": "big"
-    },
-    {
-      "word": "nɛɛnɛɛ",
-      "gloss": "well [adv]"
-    },
-    {
-      "word": "fa",
-      "gloss": "to think"
-    },
-    {
-      "word": "gari",
-      "gloss": "cassava flour"
-    },
-    {
-      "word": "gbaa",
-      "gloss": "also"
-    },
-    {
-      "word": "gyono",
-      "gloss": "dog"
-    },
-    {
-      "word": "hama",
-      "gloss": "hammer"
-    },
-    {
-      "word": "buwi",
-      "gloss": "to search for"
-    },
-    {
-      "word": "kano",
-      "gloss": "mouth"
-    },
-    {
-      "word": "kpa",
-      "gloss": "to love"
-    },
-    {
-      "word": "kyaŋ",
-      "gloss": "guinea fowl"
-    },
-    {
-      "word": "loŋ",
-      "gloss": "house"
-    },
-    {
-      "word": "mɛnaŋ",
-      "gloss": "quickly"
-    },
-    {
-      "word": "narẹ",
-      "gloss": "to walk"
-    },
-    {
-      "word": "kanye",
-      "gloss": "night"
-    },
-    {
-      "word": "loŋ",
-      "gloss": "house"
-    },
-    {
-      "word": "gyono",
-      "gloss": "dog"
-    },
-    {
-      "word": "kowọrẹ",
-      "gloss": "cloud"
-    },
-    {
-      "word": "kano",
-      "gloss": "mouth"
-    },
-    {
-      "word": "pipee",
-      "gloss": "red"
-    },
-    {
-      "word": "karẹ",
-      "gloss": "to read"
-    },
-    {
-      "word": "sa",
-      "gloss": "to give"
-    },
-    {
-      "word": "teŋpa",
-      "gloss": "cat"
-    },
-    {
-      "word": "kuruma",
-      "gloss": "donkey"
-    },
-    {
-      "word": "buwi",
-      "gloss": "to search for"
-    },
-    {
-      "word": "yuri",
-      "gloss": "coldness"
-    }
-  ]
+  "examples": []
 }

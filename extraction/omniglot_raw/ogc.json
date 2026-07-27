@@ -1,0 +1,222 @@
+{
+  "language": "Ọgba",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẹ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ị",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ọ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ụ",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "ɡ͡b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gh",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "ɡʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "k͡p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nw",
+      "ipa": "nʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "wh",
+      "ipa": "w̥",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "high tone": "unmarked (a)",
+    "low tone": "grave accent (à)",
+    "falling tone": "circumflex (â)",
+    "downstep": "macron (ā)"
+  },
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "sub-dot / vowel quality distinction",
+      "ipa": ""
+    },
+    {
+      "mark": "U+0300",
+      "role": "low tone",
+      "ipa": ""
+    },
+    {
+      "mark": "U+0302",
+      "role": "falling tone",
+      "ipa": ""
+    },
+    {
+      "mark": "U+0304",
+      "role": "downstep",
+      "ipa": ""
+    }
+  ],
+  "notes": "The digraph 'wh' was listed in row 14 alongside tone examples, but corresponds to the IPA voiceless labial-velar fricative/glide [w̥].",
+  "confidence": "high",
+  "iso": "ogc",
+  "name": "Ogba",
+  "country": "NG",
+  "family": "Atlantic-Congo",
+  "slug": "ogba.xls"
+}

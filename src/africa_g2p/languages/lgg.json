@@ -1,241 +1,181 @@
 {
   "code": "lgg",
   "name": "Lugbara",
-  "country": "Uganda",
+  "country": "CD",
   "family": "Central Sudanic",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 74",
-  "confidence": "high",
+  "source": "Omniglot chart (lugbara.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "ba",
+      "bh",
+      "c",
+      "d",
+      "dh",
+      "dr",
+      "dy",
+      "dz",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "h",
+      "hw",
+      "i",
+      "j",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "mb",
+      "mgb",
+      "mv",
+      "n",
+      "nd",
+      "ndr",
+      "ng",
+      "ny",
+      "nz",
+      "o",
+      "p",
+      "r",
+      "s",
+      "t",
+      "tr",
+      "ts",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ŋ",
+      "ɨ",
+      "ʉ",
+      "’",
+      "’b",
+      "’d",
+      "’w",
+      "’y"
+    ]
+  },
   "graphemes": {
-    "p": "p",
-    "b": "b",
-    "'b": "ɓ",
-    "t": "t",
-    "d": "d",
-    "'d": "ɗ",
-    "c": "tʃ",
-    "j": "dʒ",
-    "k": "k",
-    "g": "ɡ",
-    "kp": "k͡p",
-    "gb": "ɡ͡b",
-    "'": "ʔ",
-    "m": "m",
-    "n": "n",
-    "ny": "ɲ",
-    "ng": "ŋ",
-    "f": "f",
-    "v": "v",
-    "s": "s",
-    "z": "z",
-    "r": "r",
-    "l": "l",
-    "h": "h",
-    "w": "w",
-    "y": "j",
-    "i": "i",
-    "ä": "ɨ",
-    "ɩ": "ɪ",
-    "e": "e",
-    "ɛ": "ɛ",
     "a": "a",
-    "u": "u",
-    "ʊ": "ʊ",
+    "b": "b",
+    "’b": "ɓ",
+    "c": "ts",
+    "d": "d",
+    "dr": "ɖ",
+    "’d": "ɗ",
+    "e": "e",
+    "f": "f",
+    "g": "ɡ",
+    "gb": "ɡ͡b",
+    "h": "h",
+    "hw": "hw",
+    "’": "ʔ",
+    "i": "i",
+    "ɨ": "ɪ",
+    "j": "dz",
+    "k": "k",
+    "kp": "k͡p",
+    "l": "l",
+    "m": "m",
+    "mb": "ᵐb",
+    "mgb": "ᵑᵐɡ͡b",
+    "mv": "ᶬv",
+    "n": "n",
+    "nd": "ⁿd",
+    "ndr": "ᶯɖ",
+    "ng": "ᵑɡ",
+    "ny": "ɲ",
+    "nz": "ⁿdz",
+    "ŋ": "ŋ",
     "o": "o",
-    "ɔ": "ɔ"
+    "p": "p",
+    "r": "r",
+    "s": "s",
+    "t": "t",
+    "tr": "ʈ",
+    "u": "u",
+    "ʉ": "ʊ",
+    "v": "v",
+    "w": "w",
+    "’w": "ˀw",
+    "y": "j",
+    "’y": "ˀj",
+    "z": "z",
+    "ba": "b",
+    "bh": "ɓ",
+    "dh": "ɗ",
+    "dy": "ˀj",
+    "dz": "dz",
+    "ts": "ts"
   },
-  "diacritics": {
-    "́": "˥",
-    "̄": "˧",
-    "̀": "˩"
-  },
+  "romanization": {},
+  "diacritics": {},
   "tones": {
-    "high": "acute accent",
-    "mid": "macron",
-    "low": "grave accent"
+    "high tone": "acute accent (á)",
+    "mid tone": "unmarked (a)",
+    "low tone": "grave accent (à)",
+    "rising tone": "caron (ǎ)",
+    "falling tone": "circumflex (â)"
   },
-  "notes": "Hartell's /y/ converted to IPA /j/. Phoneme /ɨ/ maps to grapheme 'ä'. The phoneme table renders /ŋ/ as 'ng' in the grapheme column, while the alphabet lists 'ŋ'.",
+  "notes": "Combines conventions from both Uganda and DRC sheets. Uganda orthography uses apostrophes (’b, ’d, ’w, ’y) and special vowel characters (ɨ, ʉ), whereas DRC orthography uses digraphic conventions (bh, dh, dy, ‘w) and standard Latin vowels. DRC sheet lists 'b' as 'ba' in row 0.",
   "alphabet": [
     "a",
-    "ä",
     "b",
-    "'b",
+    "ba",
+    "bh",
     "c",
     "d",
-    "'d",
+    "dh",
+    "dr",
+    "dy",
+    "dz",
     "e",
-    "ɛ",
     "f",
     "g",
     "gb",
     "h",
+    "hw",
     "i",
-    "ɩ",
     "j",
     "k",
     "kp",
     "l",
     "m",
+    "mb",
+    "mgb",
+    "mv",
     "n",
+    "nd",
+    "ndr",
+    "ng",
     "ny",
-    "ŋ",
+    "nz",
     "o",
-    "ɔ",
     "p",
     "r",
     "s",
     "t",
+    "tr",
+    "ts",
     "u",
-    "ʊ",
     "v",
     "w",
     "y",
     "z",
-    "'"
+    "ŋ",
+    "ɨ",
+    "ʉ",
+    "’",
+    "’b",
+    "’d",
+    "’w",
+    "’y"
   ],
-  "examples": [
-    {
-      "word": "ata",
-      "gloss": "father"
-    },
-    {
-      "word": "mārí",
-      "gloss": "debt"
-    },
-    {
-      "word": "bà",
-      "gloss": "good"
-    },
-    {
-      "word": "'ba",
-      "gloss": "person"
-    },
-    {
-      "word": "cucu",
-      "gloss": "saliva"
-    },
-    {
-      "word": "dà",
-      "gloss": "to throw away"
-    },
-    {
-      "word": "'da",
-      "gloss": "there"
-    },
-    {
-      "word": "ètú",
-      "gloss": "sun"
-    },
-    {
-      "word": "ɛlɛ",
-      "gloss": "to exchange"
-    },
-    {
-      "word": "fu",
-      "gloss": "to kill"
-    },
-    {
-      "word": "gu",
-      "gloss": "to laugh"
-    },
-    {
-      "word": "gbà",
-      "gloss": "to beat"
-    },
-    {
-      "word": "òhelú",
-      "gloss": "golden-crested crane"
-    },
-    {
-      "word": "tri",
-      "gloss": "to rub on"
-    },
-    {
-      "word": "trɩ",
-      "gloss": "to curse"
-    },
-    {
-      "word": "jó",
-      "gloss": "house"
-    },
-    {
-      "word": "òku",
-      "gloss": "woman"
-    },
-    {
-      "word": "kpò",
-      "gloss": "to knock"
-    },
-    {
-      "word": "eli",
-      "gloss": "year"
-    },
-    {
-      "word": "òmú",
-      "gloss": "guest"
-    },
-    {
-      "word": "nì",
-      "gloss": "to know"
-    },
-    {
-      "word": "nyɔ̀",
-      "gloss": "to break"
-    },
-    {
-      "word": "ògúŋá",
-      "gloss": "throne"
-    },
-    {
-      "word": "ògù",
-      "gloss": "to steal"
-    },
-    {
-      "word": "lò",
-      "gloss": "to harvest"
-    },
-    {
-      "word": "pè",
-      "gloss": "to choose"
-    },
-    {
-      "word": "àrà",
-      "gloss": "python"
-    },
-    {
-      "word": "sa",
-      "gloss": "to plant"
-    },
-    {
-      "word": "tù",
-      "gloss": "much"
-    },
-    {
-      "word": "rú",
-      "gloss": "name"
-    },
-    {
-      "word": "tʊ",
-      "gloss": "to kick"
-    },
-    {
-      "word": "và",
-      "gloss": "to understand"
-    },
-    {
-      "word": "èwá",
-      "gloss": "elephant"
-    },
-    {
-      "word": "ɛyíŋá",
-      "gloss": "crocodile"
-    },
-    {
-      "word": "èzɔ̄",
-      "gloss": "pig"
-    },
-    {
-      "word": "a'u",
-      "gloss": "to yawn"
-    }
-  ]
+  "examples": []
 }

@@ -1,0 +1,227 @@
+{
+  "language": "Luba-Katanga",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ā",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ē",
+      "ipa": "eː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ī",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ō",
+      "ipa": "oː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ū",
+      "ipa": "uː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "ᵐb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mf",
+      "ipa": "ᶬf",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mp",
+      "ipa": "ᵐp",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "ⁿd",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ᵑɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng'",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nj",
+      "ipa": "ⁿʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nk",
+      "ipa": "ᵑk",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ns",
+      "ipa": "ⁿs",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nsh",
+      "ipa": "ⁿʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nt",
+      "ipa": "ⁿt",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nz",
+      "ipa": "ⁿz",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0304",
+      "role": "vowel length",
+      "ipa": "ː"
+    }
+  ],
+  "notes": "Slash-separated alternative pronunciations were reduced to the first alternative. Macron indicates long vowels.",
+  "confidence": "high",
+  "iso": "lub",
+  "name": "Luba-Katanga",
+  "country": "CD",
+  "family": "Atlantic-Congo",
+  "slug": "lubakatanga.xls"
+}

@@ -1,0 +1,571 @@
+{
+  "language": "Amharic",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "ሀ",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "ለ",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሐ",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "መ",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሠ",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ረ",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሰ",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሸ",
+      "ipa": "ʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቀ",
+      "ipa": "k’",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቈ",
+      "ipa": "k’ʷ",
+      "script": "native"
+    },
+    {
+      "grapheme": "በ",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "ተ",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቸ",
+      "ipa": "ʧ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኀ",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኈ",
+      "ipa": "hʷ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ነ",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኘ",
+      "ipa": "ɲ",
+      "script": "native"
+    },
+    {
+      "grapheme": "አ",
+      "ipa": "ʔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ከ",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኸ",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "ወ",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዐ",
+      "ipa": "ʔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዘ",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዠ",
+      "ipa": "ʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "የ",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "ደ",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጀ",
+      "ipa": "ʤ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ገ",
+      "ipa": "g",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጐ",
+      "ipa": "gʷ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጠ",
+      "ipa": "t’",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጨ",
+      "ipa": "ʧ’",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጰ",
+      "ipa": "p’",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጸ",
+      "ipa": "tsʼ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፀ",
+      "ipa": "tsʼ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፈ",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፐ",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḥ",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ś",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "š",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "k’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "qu",
+      "ipa": "k’ʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "č",
+      "ipa": "ʧ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḫ",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḫu",
+      "ipa": "hʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñ",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʾ",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḵ",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʿ",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ž",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǧ",
+      "ipa": "ʤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gu",
+      "ipa": "gʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṭ",
+      "ipa": "t’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "č̣",
+      "ipa": "ʧ’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p̣",
+      "ipa": "p’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṣ",
+      "ipa": "tsʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṣ́",
+      "ipa": "tsʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ä",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ə",
+      "ipa": "ɨ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "ሀ",
+      "latin": "h"
+    },
+    {
+      "native": "ለ",
+      "latin": "l"
+    },
+    {
+      "native": "ሐ",
+      "latin": "ḥ"
+    },
+    {
+      "native": "መ",
+      "latin": "m"
+    },
+    {
+      "native": "ሠ",
+      "latin": "ś"
+    },
+    {
+      "native": "ረ",
+      "latin": "r"
+    },
+    {
+      "native": "ሰ",
+      "latin": "s"
+    },
+    {
+      "native": "ሸ",
+      "latin": "š"
+    },
+    {
+      "native": "ቀ",
+      "latin": "q"
+    },
+    {
+      "native": "ቈ",
+      "latin": "qu"
+    },
+    {
+      "native": "በ",
+      "latin": "b"
+    },
+    {
+      "native": "ተ",
+      "latin": "t"
+    },
+    {
+      "native": "ቸ",
+      "latin": "č"
+    },
+    {
+      "native": "ኀ",
+      "latin": "ḫ"
+    },
+    {
+      "native": "ኈ",
+      "latin": "ḫu"
+    },
+    {
+      "native": "ነ",
+      "latin": "n"
+    },
+    {
+      "native": "ኘ",
+      "latin": "ny"
+    },
+    {
+      "native": "አ",
+      "latin": "ʾ"
+    },
+    {
+      "native": "ከ",
+      "latin": "k"
+    },
+    {
+      "native": "ኸ",
+      "latin": "ḵ"
+    },
+    {
+      "native": "ወ",
+      "latin": "w"
+    },
+    {
+      "native": "ዐ",
+      "latin": "ʿ"
+    },
+    {
+      "native": "ዘ",
+      "latin": "z"
+    },
+    {
+      "native": "ዠ",
+      "latin": "ž"
+    },
+    {
+      "native": "የ",
+      "latin": "y"
+    },
+    {
+      "native": "ደ",
+      "latin": "d"
+    },
+    {
+      "native": "ጀ",
+      "latin": "ǧ"
+    },
+    {
+      "native": "ገ",
+      "latin": "g"
+    },
+    {
+      "native": "ጐ",
+      "latin": "gu"
+    },
+    {
+      "native": "ጠ",
+      "latin": "ṭ"
+    },
+    {
+      "native": "ጨ",
+      "latin": "č̣"
+    },
+    {
+      "native": "ጰ",
+      "latin": "p̣"
+    },
+    {
+      "native": "ጸ",
+      "latin": "ṣ"
+    },
+    {
+      "native": "ፀ",
+      "latin": "ṣ́"
+    },
+    {
+      "native": "ፈ",
+      "latin": "f"
+    },
+    {
+      "native": "ፐ",
+      "latin": "p"
+    }
+  ],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Amharic script (Amara Fidel) is an abugida where each consonant has seven vowel forms. The listed native graphemes represent the base (1st order / consonant) forms.",
+  "confidence": "high",
+  "iso": "amh",
+  "name": "Amharic",
+  "country": "DJ",
+  "family": "Afro-Asiatic",
+  "slug": "amharic.xls"
+}

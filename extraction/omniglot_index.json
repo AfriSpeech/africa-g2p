@@ -1,0 +1,2284 @@
+[
+ {
+  "slug": "aari.xls",
+  "name": "Aari",
+  "iso": "aiw",
+  "country": "ET",
+  "family": "South Omotic"
+ },
+ {
+  "slug": "abidji.xls",
+  "name": "Abidji",
+  "iso": "abi",
+  "country": "CI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "acheron.xls",
+  "name": "Acheron",
+  "iso": "acz",
+  "country": "SD",
+  "family": "Narrow Talodi"
+ },
+ {
+  "slug": "acholi.xls",
+  "name": "Acholi",
+  "iso": "ach",
+  "country": "SS",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "afar.xls",
+  "name": "Afar",
+  "iso": "aar",
+  "country": "DJ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "afrikaans.xls",
+  "name": "Afrikaans",
+  "iso": "afr",
+  "country": "BW",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "ahanta.xls",
+  "name": "Ahanta",
+  "iso": "aha",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "aja.xls",
+  "name": "Aja",
+  "iso": "ajg",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "akan.xls",
+  "name": "Akan",
+  "iso": "aka",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "akum.xls",
+  "name": "Akum",
+  "iso": "aku",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "alur.xls",
+  "name": "Alur",
+  "iso": "alz",
+  "country": "CD",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "ambala.xls",
+  "name": "Ambala",
+  "iso": "ael",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "amharic.xls",
+  "name": "Amharic",
+  "iso": "amh",
+  "country": "DJ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "andoa.xls",
+  "name": "Andoa",
+  "iso": "amb",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "anyin.xls",
+  "name": "Anyin",
+  "iso": "any",
+  "country": "CI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "arabela.xls",
+  "name": "Arabela",
+  "iso": "amb",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "arabic_chadian.xls",
+  "name": "Arabic (Chadian)",
+  "iso": "shu",
+  "country": "CM",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "arabic_egyptian.xls",
+  "name": "Arabic (Egyptian)",
+  "iso": "arz",
+  "country": "EG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "arabic_msa.xls",
+  "name": "Arabic (Modern Standard)",
+  "iso": "arb",
+  "country": "DJ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "arabic_morocco.xls",
+  "name": "Arabic (Moroccan)",
+  "iso": "ary",
+  "country": "DZ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "arabic_tunisian.xls",
+  "name": "Arabic (Tunisian)",
+  "iso": "aeb",
+  "country": "DZ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "aringa.xls",
+  "name": "Aringa",
+  "iso": "luc",
+  "country": "SS",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "ateso.xls",
+  "name": "Ateso",
+  "iso": "teo",
+  "country": "KE",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "atong.xls",
+  "name": "Atong",
+  "iso": "ato",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "avatime.xls",
+  "name": "Avatime",
+  "iso": "avn",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "avokaya.xls",
+  "name": "Avokaya",
+  "iso": "avu",
+  "country": "CD",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "awing.xls",
+  "name": "Awing",
+  "iso": "azo",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "ayizo.xls",
+  "name": "Ayizo",
+  "iso": "ayb",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "babatana.xls",
+  "name": "Babatana",
+  "iso": "bbq",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bade.xls",
+  "name": "Bade",
+  "iso": "bde",
+  "country": "NG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "bafanji.xls",
+  "name": "Bafanji",
+  "iso": "bfj",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bai.xls",
+  "name": "Bai",
+  "iso": "bdj",
+  "country": "SS",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "baka.xls",
+  "name": "Baka",
+  "iso": "bkc",
+  "country": "CF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "balantaganja.xls",
+  "name": "Balanta-Ganja",
+  "iso": "bjt",
+  "country": "GW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "balantakentohe.xls",
+  "name": "Balanta-Kentohe",
+  "iso": "ble",
+  "country": "GW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bambara.xls",
+  "name": "Bambara",
+  "iso": "bam",
+  "country": "CI",
+  "family": "Mande"
+ },
+ {
+  "slug": "bambassi.xls",
+  "name": "Bambassi",
+  "iso": "myf",
+  "country": "ET",
+  "family": "Blue Nile Mao"
+ },
+ {
+  "slug": "bamum.xls",
+  "name": "Bamum",
+  "iso": "bax",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bamunka.xls",
+  "name": "Bamunka",
+  "iso": "bvm",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bandial.xls",
+  "name": "Bandial",
+  "iso": "bqj",
+  "country": "SN",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bangi.xls",
+  "name": "Bangi",
+  "iso": "bni",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "baoule.xls",
+  "name": "Baoulé",
+  "iso": "bci",
+  "country": "CI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "barein.xls",
+  "name": "Barein",
+  "iso": "bva",
+  "country": "TD",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "bari.xls",
+  "name": "Bari",
+  "iso": "bfa",
+  "country": "SS",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "bariba.xls",
+  "name": "Bariba",
+  "iso": "bba",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bassa.xls",
+  "name": "Bassa",
+  "iso": "bsq",
+  "country": "LR",
+  "family": "Kru"
+ },
+ {
+  "slug": "bassari.xls",
+  "name": "Bassari",
+  "iso": "bsc",
+  "country": "GN",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "beja.xls",
+  "name": "Beja",
+  "iso": "bej",
+  "country": "EG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "beli.xls",
+  "name": "Beli",
+  "iso": "blm",
+  "country": "SS",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "bemba.xls",
+  "name": "Bemba",
+  "iso": "bem",
+  "country": "BW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bena.xls",
+  "name": "Bena",
+  "iso": "yun",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bench.xls",
+  "name": "Bench",
+  "iso": "bcq",
+  "country": "ET",
+  "family": "Ta-Ne-Omotic"
+ },
+ {
+  "slug": "benga.xls",
+  "name": "Benga",
+  "iso": "bng",
+  "country": "GA",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "berba.xls",
+  "name": "Berba",
+  "iso": "bba",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "berom.xls",
+  "name": "Berom",
+  "iso": "bom",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "blin.xls",
+  "name": "Blin",
+  "iso": "byn",
+  "country": "ER",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "bola.xls",
+  "name": "Bola",
+  "iso": "knf",
+  "country": "GW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bole.xls",
+  "name": "Bole",
+  "iso": "bol",
+  "country": "NG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "bodo.xls",
+  "name": "Bodo",
+  "iso": "boy",
+  "country": "CF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "boko.xls",
+  "name": "Boko",
+  "iso": "aiw",
+  "country": "ET",
+  "family": "South Omotic"
+ },
+ {
+  "slug": "bongo.xls",
+  "name": "Bongo",
+  "iso": "bot",
+  "country": "SD",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "borgu.xls",
+  "name": "Borgu Fulfulde",
+  "iso": "fue",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bukusu.xls",
+  "name": "Bukusu",
+  "iso": "bxk",
+  "country": "KE",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "bulu.xls",
+  "name": "Bulu",
+  "iso": "bum",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "busa.xls",
+  "name": "Busa",
+  "iso": "bqp",
+  "country": "NG",
+  "family": "Mande"
+ },
+ {
+  "slug": "bushi.xls",
+  "name": "Bushi",
+  "iso": "buc",
+  "country": "YT",
+  "family": "Austronesian"
+ },
+ {
+  "slug": "bushong.xls",
+  "name": "Bushong",
+  "iso": "buf",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "capeverdeancreole.xls",
+  "name": "Cape Verdean Creole",
+  "iso": "kea",
+  "country": "CV",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "centralteke.xls",
+  "name": "Central Teke",
+  "iso": "ebo",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "chakosi.xls",
+  "name": "Chakosi",
+  "iso": "cko",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "chichewa.xls",
+  "name": "Chichewa",
+  "iso": "nya",
+  "country": "MW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "chokwe.xls",
+  "name": "Chokwe",
+  "iso": "cjk",
+  "country": "AO",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "chumburung.xls",
+  "name": "Chumburung",
+  "iso": "ncu",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "comorian.xls",
+  "name": "Comorian",
+  "iso": "swb",
+  "country": "KM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "coptic.xls",
+  "name": "Coptic",
+  "iso": "cop",
+  "country": "EG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "arabic_cypriot.xls",
+  "name": "Cypriot Arabic",
+  "iso": "ara",
+  "country": "CF",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "daasanach.xls",
+  "name": "Daasanach",
+  "iso": "dsh",
+  "country": "ET",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "dagaare.xls",
+  "name": "Dagaare",
+  "iso": "dgd",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "dagbani.xls",
+  "name": "Dagbani",
+  "iso": "dag",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "dan.xls",
+  "name": "Dan",
+  "iso": "dnj",
+  "country": "CI",
+  "family": "Mande"
+ },
+ {
+  "slug": "dangaleat.xls",
+  "name": "Dangaléat",
+  "iso": "daa",
+  "country": "TD",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "dangme.xls",
+  "name": "Dangme",
+  "iso": "ada",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "daza.xls",
+  "name": "Daza",
+  "iso": "dzd",
+  "country": "NG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "dengebu.xls",
+  "name": "Dengebu",
+  "iso": "dec",
+  "country": "SD",
+  "family": "Narrow Talodi"
+ },
+ {
+  "slug": "dinka.xls",
+  "name": "Dinka",
+  "iso": "din",
+  "country": "SD",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "domari.xls",
+  "name": "Domari",
+  "iso": "rmt",
+  "country": "EG",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "duala.xls",
+  "name": "Duala",
+  "iso": "dua",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "efik.xls",
+  "name": "Efik",
+  "iso": "efi",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "english.xls",
+  "name": "English",
+  "iso": "eng",
+  "country": "LR",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "esimbi.xls",
+  "name": "Esimbi",
+  "iso": "ags",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "eton.xls",
+  "name": "Eton",
+  "iso": "eto",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "ewe.xls",
+  "name": "Ewe",
+  "iso": "ewe",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "ewondo.xls",
+  "name": "Ewondo",
+  "iso": "ewo",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "fanagalo.xls",
+  "name": "Fanagalo",
+  "iso": "fng",
+  "country": "CD",
+  "family": "Pidgin"
+ },
+ {
+  "slug": "fang.xls",
+  "name": "Fang",
+  "iso": "fak",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "fante.xls",
+  "name": "Fante",
+  "iso": "aka",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "fon.xls",
+  "name": "Fon",
+  "iso": "fon",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "foodo.xls",
+  "name": "Foodo",
+  "iso": "fod",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "frafra.xls",
+  "name": "Frafra",
+  "iso": "gur",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "ga.xls",
+  "name": "Ga",
+  "iso": "gaa",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "gan.xls",
+  "name": "Gan",
+  "iso": "nhb",
+  "country": "CI",
+  "family": "Mande"
+ },
+ {
+  "slug": "garawa.xls",
+  "name": "Garawa",
+  "iso": "grr",
+  "country": "DZ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "gawar.xls",
+  "name": "Gawar",
+  "iso": "gou",
+  "country": "CM",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "gawwada.xls",
+  "name": "Gawwada",
+  "iso": "gwd",
+  "country": "ET",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "gen.xls",
+  "name": "Gen",
+  "iso": "gej",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "ghadames.xls",
+  "name": "Ghadamès",
+  "iso": "gha",
+  "country": "DZ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "ghomara.xls",
+  "name": "Ghomara",
+  "iso": "gho",
+  "country": "MA",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "godie.xls",
+  "name": "Godié",
+  "iso": "god",
+  "country": "CI",
+  "family": "Kru"
+ },
+ {
+  "slug": "goemai.xls",
+  "name": "Goemai",
+  "iso": "ank",
+  "country": "NG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "gogo.xls",
+  "name": "Gogo",
+  "iso": "gog",
+  "country": "TZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "gonja.xls",
+  "name": "Gonja",
+  "iso": "gjn",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "gourmanchema.xls",
+  "name": "Gourmanchéma",
+  "iso": "gux",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "greek.xls",
+  "name": "Greek",
+  "iso": "ell",
+  "country": "EG",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "guere.xls",
+  "name": "Guere",
+  "iso": "gxx",
+  "country": "CI",
+  "family": "Kru"
+ },
+ {
+  "slug": "guineabissaucreole.xls",
+  "name": "Guinea-Bissau Creole",
+  "iso": "pov",
+  "country": "GM",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "gumuz.xls",
+  "name": "Gumuz",
+  "iso": "guk",
+  "country": "ET",
+  "family": "Gumuz"
+ },
+ {
+  "slug": "gussi.xls",
+  "name": "Gusii",
+  "iso": "guz",
+  "country": "KE",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "gwere.xls",
+  "name": "Gwere",
+  "iso": "gwr",
+  "country": "UG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "hadza.xls",
+  "name": "Hadza",
+  "iso": "hts",
+  "country": "TZ",
+  "family": "Hadza (isolate)"
+ },
+ {
+  "slug": "hamer.xls",
+  "name": "Hamer",
+  "iso": "amf",
+  "country": "ET",
+  "family": "South Omotic"
+ },
+ {
+  "slug": "harari.xls",
+  "name": "Harari",
+  "iso": "har",
+  "country": "ET",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "haya.xls",
+  "name": "Haya",
+  "iso": "hay",
+  "country": "TZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "hadiyya.xls",
+  "name": "Hadiyya",
+  "iso": "hdy",
+  "country": "ET",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "iceve-maci.xls",
+  "name": "Iceve-Maci",
+  "iso": "bec",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "igala.xls",
+  "name": "Igala",
+  "iso": "igl",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "igbo.xls",
+  "name": "Igbo",
+  "iso": "ibo",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "ikwerre.xls",
+  "name": "Ikwerre",
+  "iso": "ikw",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "iraqw.xls",
+  "name": "Iraqw",
+  "iso": "irk",
+  "country": "TZ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "isoko.xls",
+  "name": "Isoko",
+  "iso": "iso",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "jibu.xls",
+  "name": "Jibu",
+  "iso": "jib",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "jolafonyi.xls",
+  "name": "Jola-Fonyi",
+  "iso": "dyo",
+  "country": "GM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "juhoan.xls",
+  "name": "Juǀʼhoan",
+  "iso": "ktz",
+  "country": "BW",
+  "family": "Kxa"
+ },
+ {
+  "slug": "jurmodo.xls",
+  "name": "Jur Modo",
+  "iso": "bex",
+  "country": "SS",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "kabiye.xls",
+  "name": "Kabiye",
+  "iso": "kbp",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kabyle.xls",
+  "name": "Kabyle",
+  "iso": "kab",
+  "country": "DZ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "kafa.xls",
+  "name": "Kafa",
+  "iso": "kbr",
+  "country": "ET",
+  "family": "Ta-Ne-Omotic"
+ },
+ {
+  "slug": "kam.xls",
+  "name": "Kam",
+  "iso": "kdx",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kamba.xls",
+  "name": "Kamba",
+  "iso": "aks",
+  "country": "TG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kambari.xls",
+  "name": "Kambari",
+  "iso": "bqx",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kar.xls",
+  "name": "Kar",
+  "iso": "xrb",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "karamojong.xls",
+  "name": "Karamojong",
+  "iso": "kdj",
+  "country": "KE",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "kasem.xls",
+  "name": "Kasem",
+  "iso": "xsm",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "keiga.xls",
+  "name": "Keiga",
+  "iso": "kec",
+  "country": "SD",
+  "family": "Kadugli-Krongo"
+ },
+ {
+  "slug": "keliko.xls",
+  "name": "Keliko",
+  "iso": "kbo",
+  "country": "CD",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "kensweinsei.xls",
+  "name": "Kenswei Nsei",
+  "iso": "ndb",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kera.xls",
+  "name": "Kera",
+  "iso": "ker",
+  "country": "CM",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "kiga.xls",
+  "name": "Kiga",
+  "iso": "cgg",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kikuyu.xls",
+  "name": "Kikuyu",
+  "iso": "kik",
+  "country": "KE",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kili.xls",
+  "name": "Kili",
+  "iso": "khy",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kimbundu.xls",
+  "name": "Kimbundu",
+  "iso": "kmb",
+  "country": "AO",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kinyarwanda.xls",
+  "name": "Kinyarwanda",
+  "iso": "kin",
+  "country": "BI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kirundi.xls",
+  "name": "Kirundi",
+  "iso": "run",
+  "country": "BI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kisi.xls",
+  "name": "Kisi",
+  "iso": "kiz",
+  "country": "MW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kissi.xls",
+  "name": "Kissi",
+  "iso": "kqs",
+  "country": "GN",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kituba.xls",
+  "name": "Kituba",
+  "iso": "mkw",
+  "country": "CG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kom.xls",
+  "name": "Kom (Cameroon)",
+  "iso": "bkm",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "konjo.xls",
+  "name": "Konjo",
+  "iso": "koo",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "konkomba.xls",
+  "name": "Konkomba",
+  "iso": "xon",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kpelle.xls",
+  "name": "Kpelle",
+  "iso": "kpe",
+  "country": "GN",
+  "family": "Mande"
+ },
+ {
+  "slug": "kuku.xls",
+  "name": "Kuku",
+  "iso": "ukv",
+  "country": "SS",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "kunda.xls",
+  "name": "Kunda",
+  "iso": "kdn",
+  "country": "MZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kuria.xls",
+  "name": "Kuria",
+  "iso": "kuj",
+  "country": "KE",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kusaal.xls",
+  "name": "Kusaal",
+  "iso": "kus",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "kyode.xls",
+  "name": "Kyode",
+  "iso": "acd",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "laalaabwamu.xls",
+  "name": "Láá Láá Bwamu",
+  "iso": "bwj",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "ladino.xls",
+  "name": "Ladino",
+  "iso": "lad",
+  "country": "DZ",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "lahu.xls",
+  "name": "Lahu",
+  "iso": "avi",
+  "country": "CI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "lambya.xls",
+  "name": "Lambya",
+  "iso": "lai",
+  "country": "MW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "lango.xls",
+  "name": "Lango",
+  "iso": "did",
+  "country": "SS",
+  "family": "Surmic"
+ },
+ {
+  "slug": "lele.xls",
+  "name": "Lele",
+  "iso": "lln",
+  "country": "TD",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "limba.xls",
+  "name": "Limba",
+  "iso": "lma",
+  "country": "GN",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "lingala.xls",
+  "name": "Lingala",
+  "iso": "lin",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "logba.xls",
+  "name": "Logba",
+  "iso": "lgq",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "loma.xls",
+  "name": "Loma",
+  "iso": "loi",
+  "country": "CI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "lotuko.xls",
+  "name": "Lotuko",
+  "iso": "lot",
+  "country": "SS",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "lokoya.xls",
+  "name": "Lokoya",
+  "iso": "lky",
+  "country": "SS",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "lopit.xls",
+  "name": "Lopit",
+  "iso": "lpx",
+  "country": "SS",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "lubakatanga.xls",
+  "name": "Luba-Katanga",
+  "iso": "lub",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "luchazi.xls",
+  "name": "Luchazi",
+  "iso": "lch",
+  "country": "AO",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "luganda.xls",
+  "name": "Luganda",
+  "iso": "lug",
+  "country": "UG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "lugbara.xls",
+  "name": "Lugbara",
+  "iso": "lgg",
+  "country": "CD",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "lumun.xls",
+  "name": "Lumun",
+  "iso": "lmd",
+  "country": "SD",
+  "family": "Narrow Talodi"
+ },
+ {
+  "slug": "lunda.xls",
+  "name": "Lunda",
+  "iso": "lun",
+  "country": "AO",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "luo.xls",
+  "name": "Luo",
+  "iso": "luw",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "luri.xls",
+  "name": "Luri",
+  "iso": "ldd",
+  "country": "NG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "luvale.xls",
+  "name": "Luvale",
+  "iso": "lue",
+  "country": "AO",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "maasai.xls",
+  "name": "Maasai",
+  "iso": "mas",
+  "country": "KE",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "madi.xls",
+  "name": "Ma'di",
+  "iso": "mhi",
+  "country": "SS",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "makaa.xls",
+  "name": "Makaa",
+  "iso": "mcp",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "makonde.xls",
+  "name": "Makonde",
+  "iso": "kde",
+  "country": "MZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "makhuwa.xls",
+  "name": "Makhuwa",
+  "iso": "vmw",
+  "country": "MZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "malagasy.xls",
+  "name": "Malagasy",
+  "iso": "mlg",
+  "country": "MG",
+  "family": "Austronesian"
+ },
+ {
+  "slug": "mampruli.xls",
+  "name": "Mampruli",
+  "iso": "maw",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "mandari.xls",
+  "name": "Mandari",
+  "iso": "mqu",
+  "country": "SS",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "mao.xls",
+  "name": "Mao",
+  "iso": "myo",
+  "country": "ET",
+  "family": "Ta-Ne-Omotic"
+ },
+ {
+  "slug": "mauritiancreole.xls",
+  "name": "Mauritian Creole",
+  "iso": "mfe",
+  "country": "MU",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "mandinka.xls",
+  "name": "Mandinka",
+  "iso": "mnk",
+  "country": "GM",
+  "family": "Mande"
+ },
+ {
+  "slug": "maninka.xls",
+  "name": "Maninka",
+  "iso": "emk",
+  "country": "CI",
+  "family": "Mande"
+ },
+ {
+  "slug": "mankanya.xls",
+  "name": "Mankanya",
+  "iso": "knf",
+  "country": "GW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "mano.xls",
+  "name": "Mano",
+  "iso": "mev",
+  "country": "CI",
+  "family": "Mande"
+ },
+ {
+  "slug": "marba.xls",
+  "name": "Marba",
+  "iso": "mpg",
+  "country": "TD",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "masaaba.xls",
+  "name": "Masaaba",
+  "iso": "myx",
+  "country": "KE",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "mato.xls",
+  "name": "Mato",
+  "iso": "mgh",
+  "country": "MZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "mbato.xls",
+  "name": "Mbato",
+  "iso": "gwa",
+  "country": "CI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "mbunda.xls",
+  "name": "Mbunda",
+  "iso": "mck",
+  "country": "AO",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "medefaidrin.xls",
+  "name": "Medefaidrin",
+  "iso": "dmf",
+  "country": "NG",
+  "family": "Speech Register"
+ },
+ {
+  "slug": "medumba.xls",
+  "name": "Medumba",
+  "iso": "byv",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "menik.xls",
+  "name": "Ménik",
+  "iso": "tnr",
+  "country": "SN",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "migaama.xls",
+  "name": "Migaama",
+  "iso": "mmy",
+  "country": "TD",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "miya.xls",
+  "name": "Miya",
+  "iso": "mkf",
+  "country": "NG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "mmen.xls",
+  "name": "Mmen",
+  "iso": "bfm",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "moba.xls",
+  "name": "Moba",
+  "iso": "mfq",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "moloko.xls",
+  "name": "Moloko",
+  "iso": "mlw",
+  "country": "CM",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "mongo.xls",
+  "name": "Mongo",
+  "iso": "lol",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "morokodo.xls",
+  "name": "Morokodo",
+  "iso": "mgc",
+  "country": "SS",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "moru.xls",
+  "name": "Moru",
+  "iso": "mgd",
+  "country": "SS",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "mossi.xls",
+  "name": "Mossi",
+  "iso": "mos",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "mundari.xls",
+  "name": "Mundari",
+  "iso": "mqu",
+  "country": "SS",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "musey.xls",
+  "name": "Musey",
+  "iso": "mse",
+  "country": "CM",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "mwaghavul.xls",
+  "name": "Mwaghavul",
+  "iso": "sur",
+  "country": "NG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "mwani.xls",
+  "name": "Mwani",
+  "iso": "wmw",
+  "country": "MZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "nambya.xls",
+  "name": "Nambya",
+  "iso": "nmq",
+  "country": "BW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "nande.xls",
+  "name": "Nande",
+  "iso": "nnb",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "neyo.xls",
+  "name": "Neyo",
+  "iso": "ney",
+  "country": "CI",
+  "family": "Kru"
+ },
+ {
+  "slug": "ngizim.xls",
+  "name": "Ngizim",
+  "iso": "ngi",
+  "country": "NG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "nko.xls",
+  "name": "N'Ko",
+  "iso": "nqo",
+  "country": "BF",
+  "family": "Artificial Language"
+ },
+ {
+  "slug": "nkonya.xls",
+  "name": "Nkonya",
+  "iso": "nko",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "nobiin.xls",
+  "name": "Nobiin",
+  "iso": "fia",
+  "country": "EG",
+  "family": "Nubian"
+ },
+ {
+  "slug": "noni.xls",
+  "name": "Noni",
+  "iso": "nhu",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "northernsotho.xls",
+  "name": "Northern Sotho",
+  "iso": "nso",
+  "country": "BW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "nso.xls",
+  "name": "Nso",
+  "iso": "lns",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "nubi.xls",
+  "name": "Nubi",
+  "iso": "kcn",
+  "country": "CD",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "nuer.xls",
+  "name": "Nuer",
+  "iso": "nus",
+  "country": "ET",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "nupe.xls",
+  "name": "Nupe",
+  "iso": "nup",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "nng.xls",
+  "name": "Nǁng",
+  "iso": "ngh",
+  "country": "ZA",
+  "family": "Tuu"
+ },
+ {
+  "slug": "nyabwa.xls",
+  "name": "Nyabwa",
+  "iso": "nwb",
+  "country": "CI",
+  "family": "Kru"
+ },
+ {
+  "slug": "nyamwezi.xls",
+  "name": "Nyamwezi",
+  "iso": "nym",
+  "country": "TZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "nyemba.xls",
+  "name": "Nyemba",
+  "iso": "nba",
+  "country": "AO",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "nyole.xls",
+  "name": "Nyole",
+  "iso": "nuj",
+  "country": "UG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "nzadi.xls",
+  "name": "Nzadi",
+  "iso": "nzd",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "nzema.xls",
+  "name": "Nzema",
+  "iso": "nzi",
+  "country": "CI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "obolo.xls",
+  "name": "Obolo",
+  "iso": "ann",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "ogba.xls",
+  "name": "Ogba",
+  "iso": "ogc",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "oku.xls",
+  "name": "Oku",
+  "iso": "oku",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "oldnubian.xls",
+  "name": "Old Nubian",
+  "iso": "onw",
+  "country": "SD",
+  "family": "Nubian"
+ },
+ {
+  "slug": "olubo.xls",
+  "name": "Olu'bo",
+  "iso": "lul",
+  "country": "SS",
+  "family": "Central Sudanic"
+ },
+ {
+  "slug": "oroko.xls",
+  "name": "Oroko",
+  "iso": "bdu",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "oshiwambo.xls",
+  "name": "Oshiwambo",
+  "iso": "ndo",
+  "country": "AO",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "paasaal.xls",
+  "name": "Paasaal",
+  "iso": "sig",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "pagibete.xls",
+  "name": "Pagibete",
+  "iso": "pae",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "pinyin.xls",
+  "name": "Pinyin",
+  "iso": "pny",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "polci.xls",
+  "name": "Polci",
+  "iso": "pze",
+  "country": "NG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "punu.xls",
+  "name": "Punu",
+  "iso": "puu",
+  "country": "CG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "romani.xls",
+  "name": "Romani",
+  "iso": "rmt",
+  "country": "EG",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "ronga.xls",
+  "name": "Ronga",
+  "iso": "rng",
+  "country": "MZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "sa.xls",
+  "name": "Sa",
+  "iso": "sym",
+  "country": "BF",
+  "family": "Mande"
+ },
+ {
+  "slug": "safen.xls",
+  "name": "Safen",
+  "iso": "sav",
+  "country": "SN",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "sandawe.xls",
+  "name": "Sandawe",
+  "iso": "sad",
+  "country": "TZ",
+  "family": "Sandawe (isolate)"
+ },
+ {
+  "slug": "sena.xls",
+  "name": "Sena",
+  "iso": "seh",
+  "country": "MW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "sengele.xls",
+  "name": "Sengele",
+  "iso": "szg",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "shambala.xls",
+  "name": "Shambala",
+  "iso": "ksb",
+  "country": "TZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "shawiya.xls",
+  "name": "Shawiya",
+  "iso": "shy",
+  "country": "DZ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "sheko.xls",
+  "name": "Sheko",
+  "iso": "she",
+  "country": "ET",
+  "family": "Dizoid"
+ },
+ {
+  "slug": "shilha.xls",
+  "name": "Shilha",
+  "iso": "tzm",
+  "country": "DZ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "shilluk.xls",
+  "name": "Shilluk",
+  "iso": "shk",
+  "country": "SD",
+  "family": "Nilotic"
+ },
+ {
+  "slug": "shompen.xls",
+  "name": "Shompen",
+  "iso": "sil",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "shona.xls",
+  "name": "Shona",
+  "iso": "sna",
+  "country": "BW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "sisaali.xls",
+  "name": "Sisaali",
+  "iso": "sld",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "siwi.xls",
+  "name": "Siwi",
+  "iso": "siz",
+  "country": "EG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "siwu.xls",
+  "name": "Siwu",
+  "iso": "akp",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "soga.xls",
+  "name": "Soga",
+  "iso": "xog",
+  "country": "UG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "sokoro.xls",
+  "name": "Sokoro",
+  "iso": "sok",
+  "country": "TD",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "songe.xls",
+  "name": "Songe",
+  "iso": "sop",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "soninke.xls",
+  "name": "Soninke",
+  "iso": "snk",
+  "country": "GM",
+  "family": "Mande"
+ },
+ {
+  "slug": "spanish.xls",
+  "name": "Spanish",
+  "iso": "spa",
+  "country": "MA",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "sukuma.xls",
+  "name": "Sukuma",
+  "iso": "suk",
+  "country": "TZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "susu.xls",
+  "name": "Susu",
+  "iso": "sus",
+  "country": "GN",
+  "family": "Mande"
+ },
+ {
+  "slug": "swahili.xls",
+  "name": "Swahili",
+  "iso": "swh",
+  "country": "BI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "swati.xls",
+  "name": "Swati",
+  "iso": "ssw",
+  "country": "LS",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "taa.xls",
+  "name": "Taa",
+  "iso": "nmn",
+  "country": "BW",
+  "family": "Tuu"
+ },
+ {
+  "slug": "tamahaq.xls",
+  "name": "Tamahaq",
+  "iso": "thv",
+  "country": "DZ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "tamasheq.xls",
+  "name": "Tamasheq",
+  "iso": "taq",
+  "country": "BF",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "tamazight.xls",
+  "name": "Tamazight",
+  "iso": "tzm",
+  "country": "DZ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "tangale.xls",
+  "name": "Tangale",
+  "iso": "tan",
+  "country": "NG",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "tamajaq.xls",
+  "name": "Tawallammat Tamajaq",
+  "iso": "ttq",
+  "country": "BF",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "tamajeq.xls",
+  "name": "Tayart Tamajeq",
+  "iso": "thz",
+  "country": "NE",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "tchaman.xls",
+  "name": "Tchaman",
+  "iso": "ebr",
+  "country": "CI",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "tem.xls",
+  "name": "Tem",
+  "iso": "kdh",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "tembo.xls",
+  "name": "Tembo",
+  "iso": "tbt",
+  "country": "CD",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "temne.xls",
+  "name": "Themne",
+  "iso": "tem",
+  "country": "GN",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "tigre.xls",
+  "name": "Tigre",
+  "iso": "tig",
+  "country": "ER",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "tigrinya.xls",
+  "name": "Tigrinya",
+  "iso": "tir",
+  "country": "DJ",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "tocho.xls",
+  "name": "Tocho",
+  "iso": "taz",
+  "country": "SD",
+  "family": "Narrow Talodi"
+ },
+ {
+  "slug": "tonga.xls",
+  "name": "Tonga",
+  "iso": "toh",
+  "country": "MZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "tsonga.xls",
+  "name": "Tsonga",
+  "iso": "tso",
+  "country": "MZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "tswa.xls",
+  "name": "Tswa",
+  "iso": "tsc",
+  "country": "MZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "tumak.xls",
+  "name": "Tumak",
+  "iso": "tmc",
+  "country": "TD",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "tumbuka.xls",
+  "name": "Tumbuka",
+  "iso": "tum",
+  "country": "MW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "tumulungsisaala.xls",
+  "name": "Tumulung Sisaala",
+  "iso": "sil",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "tupuri.xls",
+  "name": "Tupuri",
+  "iso": "tui",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "turka.xls",
+  "name": "Turka",
+  "iso": "tuz",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "twi.xls",
+  "name": "Twi",
+  "iso": "twi",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "ubang.xls",
+  "name": "Ubang",
+  "iso": "uba",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "uduk.xls",
+  "name": "Uduk",
+  "iso": "udu",
+  "country": "ET",
+  "family": "Koman"
+ },
+ {
+  "slug": "urhobo.xls",
+  "name": "Urhobo",
+  "iso": "urh",
+  "country": "NG",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "vai.xls",
+  "name": "Vai",
+  "iso": "vai",
+  "country": "LR",
+  "family": "Mande"
+ },
+ {
+  "slug": "venda.xls",
+  "name": "Venda",
+  "iso": "ven",
+  "country": "BW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "vengo.xls",
+  "name": "Vengo",
+  "iso": "bav",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "vute.xls",
+  "name": "Vute",
+  "iso": "vut",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "wa.xls",
+  "name": "Wa",
+  "iso": "dgd",
+  "country": "BF",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "waama.xls",
+  "name": "Waama",
+  "iso": "wwa",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "waata.xls",
+  "name": "Waata",
+  "iso": "ssn",
+  "country": "KE",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "westernsisaala.xls",
+  "name": "Western Sisaala",
+  "iso": "ssl",
+  "country": "GH",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "wobe.xls",
+  "name": "Wobé",
+  "iso": "wob",
+  "country": "CI",
+  "family": "Kru"
+ },
+ {
+  "slug": "wolof.xls",
+  "name": "Wolof",
+  "iso": "wol",
+  "country": "GM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "xhosa.xls",
+  "name": "Xhosa",
+  "iso": "xho",
+  "country": "BW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "yasa.xls",
+  "name": "Yasa",
+  "iso": "yko",
+  "country": "CM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "yiddish.xls",
+  "name": "Yiddish",
+  "iso": "yid",
+  "country": "ZA",
+  "family": "Indo-European"
+ },
+ {
+  "slug": "yocobouedida.xls",
+  "name": "Yocoboué Dida",
+  "iso": "gud",
+  "country": "CI",
+  "family": "Kru"
+ },
+ {
+  "slug": "yola.xls",
+  "name": "Yola",
+  "iso": "dyo",
+  "country": "GM",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "yoruba.xls",
+  "name": "Yoruba",
+  "iso": "yor",
+  "country": "BJ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "zaghawa.xls",
+  "name": "Zaghawa",
+  "iso": "zag",
+  "country": "LY",
+  "family": "Saharan"
+ },
+ {
+  "slug": "zenaga.xls",
+  "name": "Zenaga",
+  "iso": "zen",
+  "country": "EH",
+  "family": "Afro-Asiatic"
+ },
+ {
+  "slug": "zigula.xls",
+  "name": "Zigula",
+  "iso": "ziw",
+  "country": "TZ",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "zulu.xls",
+  "name": "Zulu",
+  "iso": "zul",
+  "country": "BW",
+  "family": "Atlantic-Congo"
+ },
+ {
+  "slug": "ethiopic.xls",
+  "name": "Ethiopic",
+  "iso": "gez",
+  "country": "ER",
+  "family": "Afro-Asiatic"
+ }
+]

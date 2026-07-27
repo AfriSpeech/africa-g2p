@@ -1,0 +1,206 @@
+{
+  "language": "Mauritian Creole",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "an",
+      "ipa": "ɑ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "ʧ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "in",
+      "ipa": "ɛ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "dʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "on",
+      "ipa": "ɔ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ou",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "ʌ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "gz",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ann",
+      "ipa": "an",
+      "script": "latin"
+    },
+    {
+      "grapheme": "enn",
+      "ipa": "ɛn",
+      "script": "latin"
+    },
+    {
+      "grapheme": "er",
+      "ipa": "eːʳ~œːʳ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "inn",
+      "ipa": "in",
+      "script": "latin"
+    },
+    {
+      "grapheme": "onn",
+      "ipa": "ɔn",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ounn",
+      "ipa": "un",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gn",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "",
+  "confidence": "high",
+  "iso": "mfe",
+  "name": "Mauritian Creole",
+  "country": "MU",
+  "family": "Indo-European",
+  "slug": "mauritiancreole.xls"
+}

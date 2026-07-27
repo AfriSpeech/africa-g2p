@@ -1,0 +1,254 @@
+{
+  "language": "Lahu",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ph",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "cʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ç",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "ʝ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "ts",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zh",
+      "ipa": "tsʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dz",
+      "ipa": "dz",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "qh",
+      "ipa": "qʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ie",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ui",
+      "ipa": "ɨ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "eu",
+      "ipa": "ɘ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "v̩",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aw",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ia",
+      "ipa": "ia",
+      "script": "latin"
+    },
+    {
+      "grapheme": "iu",
+      "ipa": "iu",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ua",
+      "ipa": "ua",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ei",
+      "ipa": "ei",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ai",
+      "ipa": "ai",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ao",
+      "ipa": "au",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ou",
+      "ipa": "ou",
+      "script": "latin"
+    },
+    {
+      "grapheme": "iao",
+      "ipa": "iau",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uai",
+      "ipa": "uai",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "Mid": "- [˧]",
+    "Low-falling": "l [˨˩]",
+    "High-falling": "d [˥˦]",
+    "Very-low": "r [˩]",
+    "High-rising": "q [˦˥]",
+    "High-checked": "t [˥˦ˀ]",
+    "Low-checked": "f [˨˩ˀ]"
+  },
+  "diacritics": [],
+  "notes": null,
+  "confidence": "high",
+  "iso": "avi",
+  "name": "Lahu",
+  "country": "CI",
+  "family": "Atlantic-Congo",
+  "slug": "lahu.xls"
+}

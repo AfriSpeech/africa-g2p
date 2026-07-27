@@ -1,0 +1,211 @@
+{
+  "language": "Shilha",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḍ",
+      "ipa": "dˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ε",
+      "ipa": "ʕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gʷ",
+      "ipa": "ɡʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɣ",
+      "ipa": "ʁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɣʷ",
+      "ipa": "ʁʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḥ",
+      "ipa": "ħ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kʷ",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḷ",
+      "ipa": "lˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṃ",
+      "ipa": "mˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṛ",
+      "ipa": "rˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṣ",
+      "ipa": "sˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "š",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṭ",
+      "ipa": "tˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "χ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "xʷ",
+      "ipa": "χʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẓ",
+      "ipa": "zˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ž",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʔ",
+      "ipa": "ʔ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": null,
+  "confidence": "high",
+  "iso": "tzm",
+  "name": "Shilha",
+  "country": "DZ",
+  "family": "Afro-Asiatic",
+  "slug": "shilha.xls"
+}

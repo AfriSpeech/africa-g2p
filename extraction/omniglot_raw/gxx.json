@@ -1,0 +1,227 @@
+{
+  "language": "Guere",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "[a]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "an",
+      "ipa": "[ã]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "[e]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "[ɛ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛn",
+      "ipa": "[ɛ̃]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "[i]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "in",
+      "ipa": "[ĩ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɪ",
+      "ipa": "[ɪ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɪn",
+      "ipa": "[ɪ̃]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "[o]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "on",
+      "ipa": "[õ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "[ɔ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔn",
+      "ipa": "[ɔ̃]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "[u]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "un",
+      "ipa": "[ũ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʋ",
+      "ipa": "[ʊ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʋn",
+      "ipa": "[ʊ̃]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "[b]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɓ",
+      "ipa": "[ɓ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "[c]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "[d]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "[f]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "[ɡ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "[ɡ͡b]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "[ɡʷ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "[ɟ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "[k]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "[k͡p]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "[kʷ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "[l]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "[m]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "[n]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "[ɲ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "[p]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "[s]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "[t]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "[v]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "[w]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "[j]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "[z]",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "low": "˩",
+    "mid": "˧",
+    "high": "˦",
+    "extra high": "˥",
+    "low-high": "˩˦",
+    "low-extra high": "˩˥",
+    "mid-high": "˧˦",
+    "high-extra high": "˦˥",
+    "high-low": "˦˩",
+    "mid-low": "˧˩"
+  },
+  "diacritics": [],
+  "notes": "Nasal vowels are written using digraphs ending in 'n'. Some consonant IPA values had alternative pronunciations separated by slashes in the chart (e.g., gb -> [ɡ͡b/ŋ͡m], kp -> [k͡p/k͡m], l -> [l/ɗ/r], w -> [w/ŋʷ]); only the first option was kept in accordance with extraction rules.",
+  "confidence": "high",
+  "iso": "gxx",
+  "name": "Guere",
+  "country": "CI",
+  "family": "Kru",
+  "slug": "guere.xls"
+}

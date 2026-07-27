@@ -1,0 +1,246 @@
+{
+  "language": "Kisi",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɪ",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʊ",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aa",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ee",
+      "ipa": "eː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɪɪ",
+      "ipa": "ɪː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ii",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oo",
+      "ipa": "oː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uu",
+      "ipa": "uː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʊʊ",
+      "ipa": "ʊː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bh",
+      "ipa": "β",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "tʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gh",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "ᵐb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mf",
+      "ipa": "ᶬf",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mh",
+      "ipa": "mʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mp",
+      "ipa": "ᵐpʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nch",
+      "ipa": "ⁿtʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "ⁿd",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ngg",
+      "ipa": "ᵑɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ngk",
+      "ipa": "ᵑkʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nh",
+      "ipa": "nʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nj",
+      "ipa": "ᶮɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ns",
+      "ipa": "ⁿs",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nt",
+      "ipa": "ⁿtʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nyh",
+      "ipa": "ɲʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "ʝ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "",
+  "confidence": "high",
+  "iso": "kiz",
+  "name": "Kisi",
+  "country": "MW",
+  "family": "Atlantic-Congo",
+  "slug": "kisi.xls"
+}

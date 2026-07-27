@@ -1,0 +1,403 @@
+{
+  "language": "N'Ko",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "ߊ",
+      "ipa": "a",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߋ",
+      "ipa": "e",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߌ",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߍ",
+      "ipa": "ɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߎ",
+      "ipa": "u",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߏ",
+      "ipa": "o",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߐ",
+      "ipa": "ɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߓ",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߔ",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߕ",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߖ",
+      "ipa": "dʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߗ",
+      "ipa": "tʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߘ",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߙ",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߚ",
+      "ipa": "rr",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߛ",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߜ",
+      "ipa": "ɡ͡b",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߝ",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߞ",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߟ",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߡ",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߢ",
+      "ipa": "ɲ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߣ",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߤ",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߥ",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߦ",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߒ",
+      "ipa": "ŋ",
+      "script": "native"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ba",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pa",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ta",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ja",
+      "ipa": "dʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ca",
+      "ipa": "tʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "da",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ra",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "rra",
+      "ipa": "rr",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sa",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gba",
+      "ipa": "ɡ͡b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "fa",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ka",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "la",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ma",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nya",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "na",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ha",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "wa",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ya",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n'",
+      "ipa": "ŋ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "ߊ",
+      "latin": "a"
+    },
+    {
+      "native": "ߋ",
+      "latin": "e"
+    },
+    {
+      "native": "ߌ",
+      "latin": "i"
+    },
+    {
+      "native": "ߍ",
+      "latin": "ɛ"
+    },
+    {
+      "native": "ߎ",
+      "latin": "u"
+    },
+    {
+      "native": "ߏ",
+      "latin": "o"
+    },
+    {
+      "native": "ߐ",
+      "latin": "ɔ"
+    },
+    {
+      "native": "ߓ",
+      "latin": "ba"
+    },
+    {
+      "native": "ߔ",
+      "latin": "pa"
+    },
+    {
+      "native": "ߕ",
+      "latin": "ta"
+    },
+    {
+      "native": "ߖ",
+      "latin": "ja"
+    },
+    {
+      "native": "ߗ",
+      "latin": "ca"
+    },
+    {
+      "native": "ߘ",
+      "latin": "da"
+    },
+    {
+      "native": "ߙ",
+      "latin": "ra"
+    },
+    {
+      "native": "ߚ",
+      "latin": "rra"
+    },
+    {
+      "native": "ߛ",
+      "latin": "sa"
+    },
+    {
+      "native": "ߜ",
+      "latin": "gba"
+    },
+    {
+      "native": "ߝ",
+      "latin": "fa"
+    },
+    {
+      "native": "ߞ",
+      "latin": "ka"
+    },
+    {
+      "native": "ߟ",
+      "latin": "la"
+    },
+    {
+      "native": "ߡ",
+      "latin": "ma"
+    },
+    {
+      "native": "ߢ",
+      "latin": "nya"
+    },
+    {
+      "native": "ߣ",
+      "latin": "na"
+    },
+    {
+      "native": "ߤ",
+      "latin": "ha"
+    },
+    {
+      "native": "ߥ",
+      "latin": "wa"
+    },
+    {
+      "native": "ߦ",
+      "latin": "ya"
+    },
+    {
+      "native": "ߒ",
+      "latin": "n'"
+    }
+  ],
+  "tones": {
+    "short high": "߫",
+    "short low": "߬",
+    "short rising": "߭",
+    "long high": "߯",
+    "long low": "߰",
+    "long rising": "߱",
+    "long falling": "߮"
+  },
+  "diacritics": [],
+  "notes": "Consonant labels in the chart are syllable names ending in -a (e.g. ba, pa, ca); base consonant values are derived from standard N'Ko pronunciation.",
+  "confidence": "high",
+  "iso": "nqo",
+  "name": "N'Ko",
+  "country": "BF",
+  "family": "Artificial Language",
+  "slug": "nko.xls"
+}

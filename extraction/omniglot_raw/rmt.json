@@ -1,0 +1,257 @@
+{
+  "language": "Domari",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "ʾ",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "ɑ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "â",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ĉ",
+      "ipa": "tʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḍ",
+      "ipa": "d̪ˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ð",
+      "ipa": "ð",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ê",
+      "ipa": "eː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ĝ",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḥ",
+      "ipa": "ħ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "î",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ĵ",
+      "ipa": "ʤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʿ",
+      "ipa": "ʕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ô",
+      "ipa": "oː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṣ",
+      "ipa": "sˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŝ",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṭ",
+      "ipa": "t̪ˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "þ",
+      "ipa": "θ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "û",
+      "ipa": "uː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẓ",
+      "ipa": "zˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẑ",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǝ",
+      "ipa": "ə",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0302",
+      "role": "vowel length / consonant modifier",
+      "ipa": "ː"
+    },
+    {
+      "mark": "U+0323",
+      "role": "pharyngealization",
+      "ipa": "ˤ"
+    }
+  ],
+  "notes": "Letters 'c' and 'j' lacked explicit IPA values in the chart. IPA entries with tilde alternatives (e.g. f~ɸ, ɣ~ʁ, r~ɾ, v~β, x~χ, ə~ʌ) were reduced to their first variant.",
+  "confidence": "high",
+  "iso": "rmt",
+  "name": "Domari",
+  "country": "EG",
+  "family": "Indo-European",
+  "slug": "domari.xls"
+}

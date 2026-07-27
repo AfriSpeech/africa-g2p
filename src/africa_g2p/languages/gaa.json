@@ -1,219 +1,162 @@
 {
   "code": "gaa",
   "name": "Ga",
-  "country": "Ghana",
-  "family": "Kwa",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 51",
-  "confidence": "high",
+  "country": "GH",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (ga.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "d",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "gw",
+      "h",
+      "hw",
+      "i",
+      "j",
+      "jw",
+      "k",
+      "kp",
+      "kw",
+      "l",
+      "m",
+      "n",
+      "ny",
+      "o",
+      "p",
+      "r",
+      "s",
+      "sh",
+      "shw",
+      "t",
+      "ts",
+      "tsw",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ã",
+      "õ",
+      "ĩ",
+      "ŋ",
+      "ŋm",
+      "ŋw",
+      "ũ",
+      "ɔ",
+      "ɔ̃",
+      "ɛ",
+      "ɛ̃",
+      "ẽ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
+    "e": "e",
+    "ɛ": "ε",
+    "i": "i",
+    "o": "o",
+    "ɔ": "ɔ",
+    "u": "u",
+    "ã": "ã",
+    "ẽ": "ẽ",
+    "ɛ̃": "ɛ̃",
+    "ĩ": "ĩ",
+    "õ": "õ",
+    "ɔ̃": "ɔ̃",
+    "ũ": "ũ",
     "b": "b",
-    "t": "t",
     "d": "d",
-    "ts": "tʃ",
-    "j": "dʒ",
-    "k": "k",
-    "kp": "k͡p",
+    "f": "f",
     "g": "ɡ",
-    "gb": "ɡ͡b",
+    "gb": "ɡb",
+    "gw": "ɡʷ",
+    "h": "h",
+    "hw": "hʷ",
+    "j": "ʤ",
+    "jw": "ʤʷ",
+    "k": "k",
+    "kp": "kp",
+    "kw": "kʷ",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ny": "ɲ",
     "ŋ": "ŋ",
-    "ŋm": "ŋ͡m",
-    "f": "f",
-    "v": "v",
+    "ŋm": "ŋm",
+    "ŋw": "ŋʷ",
+    "p": "p",
+    "r": "r",
     "s": "s",
-    "z": "z",
     "sh": "ʃ",
-    "l": "l",
-    "r": "l",
-    "h": "h",
+    "shw": "ʃʷ",
+    "t": "t",
+    "ts": "tʃ",
+    "tsw": "tʃʷ",
+    "v": "v",
     "w": "w",
-    "ŋw": "ŋw",
-    "hw": "hw",
     "y": "j",
-    "i": "i",
-    "e": "e",
-    "ɛ": "ɛ",
-    "a": "a",
-    "u": "u",
-    "o": "o",
-    "ɔ": "ɔ"
+    "z": "z"
   },
+  "romanization": {},
   "diacritics": {
-    "̃": "̃",
-    "́": "˥",
-    "̀": "˩"
+    "̃": "̃"
   },
-  "tones": {
-    "high": "acute (´)",
-    "low": "grave (`)",
-    "downstep": "exclamation mark (!)"
-  },
-  "notes": "Hartell uses /tʃ/ for ts, /dʒ/ for j, /ʃ/ for sh, and /y/ for IPA /j/. Orthographically 'r' is a non-initial variant of /l/. Labialization examples provided: tʃw, dʒw, kw, gw, ʃw, hw, ŋw. Nasalization applies to all vowels except /e/ and /o/.",
+  "tones": {},
+  "notes": null,
   "alphabet": [
     "a",
     "b",
     "d",
     "e",
-    "ɛ",
     "f",
     "g",
     "gb",
+    "gw",
     "h",
+    "hw",
     "i",
     "j",
+    "jw",
     "k",
     "kp",
+    "kw",
     "l",
     "m",
     "n",
     "ny",
-    "ŋ",
-    "ŋm",
     "o",
-    "ɔ",
     "p",
     "r",
     "s",
     "sh",
+    "shw",
     "t",
     "ts",
+    "tsw",
     "u",
     "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ã",
+    "õ",
+    "ĩ",
+    "ŋ",
+    "ŋm",
+    "ŋw",
+    "ũ",
+    "ɔ",
+    "ɔ̃",
+    "ɛ",
+    "ɛ̃",
+    "ẽ"
   ],
-  "examples": [
-    {
-      "word": "màŋ",
-      "gloss": "town"
-    },
-    {
-      "word": "bà",
-      "gloss": "to come"
-    },
-    {
-      "word": "dàmɔ̀",
-      "gloss": "to stand"
-    },
-    {
-      "word": "ké",
-      "gloss": "to shout"
-    },
-    {
-      "word": "tsɛ̀",
-      "gloss": "father"
-    },
-    {
-      "word": "fó",
-      "gloss": "to cry"
-    },
-    {
-      "word": "gósì",
-      "gloss": "to belch"
-    },
-    {
-      "word": "gbó",
-      "gloss": "to die"
-    },
-    {
-      "word": "hà",
-      "gloss": "to wear"
-    },
-    {
-      "word": "shítɔ́",
-      "gloss": "pepper"
-    },
-    {
-      "word": "téjí",
-      "gloss": "donkey"
-    },
-    {
-      "word": "kɛ̀",
-      "gloss": "to present"
-    },
-    {
-      "word": "kpé",
-      "gloss": "to chew"
-    },
-    {
-      "word": "là",
-      "gloss": "fire"
-    },
-    {
-      "word": "màŋ",
-      "gloss": "town"
-    },
-    {
-      "word": "nà",
-      "gloss": "to see"
-    },
-    {
-      "word": "nyɔ̀",
-      "gloss": "person"
-    },
-    {
-      "word": "ŋàa",
-      "gloss": "advice"
-    },
-    {
-      "word": "ŋmé!né",
-      "gloss": "today"
-    },
-    {
-      "word": "òyá",
-      "gloss": "quickly"
-    },
-    {
-      "word": "gɔ́ì",
-      "gloss": "to belch"
-    },
-    {
-      "word": "ám!páŋ",
-      "gloss": "bat"
-    },
-    {
-      "word": "jùrɔ̀",
-      "gloss": "good"
-    },
-    {
-      "word": "sèè",
-      "gloss": "back"
-    },
-    {
-      "word": "shiká",
-      "gloss": "money"
-    },
-    {
-      "word": "téjí",
-      "gloss": "donkey"
-    },
-    {
-      "word": "tsɛ̀",
-      "gloss": "father"
-    },
-    {
-      "word": "bù",
-      "gloss": "to respect"
-    },
-    {
-      "word": "vòò",
-      "gloss": "deep"
-    },
-    {
-      "word": "wòlò",
-      "gloss": "book"
-    },
-    {
-      "word": "yòò",
-      "gloss": "woman"
-    },
-    {
-      "word": "zàŋŋ",
-      "gloss": "aloof"
-    }
-  ]
+  "examples": []
 }

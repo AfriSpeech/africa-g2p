@@ -1,0 +1,227 @@
+{
+  "language": "Nyabwa",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bh",
+      "ipa": "ɓ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "ɡ͡b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "ɡʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɩ",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "k͡p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʊ",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "an",
+      "ipa": "ã",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛn",
+      "ipa": "ɛ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "in",
+      "ipa": "ĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɩn",
+      "ipa": "ɪ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔn",
+      "ipa": "ɔ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "un",
+      "ipa": "ũ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʊn",
+      "ipa": "ʊ̃",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "High": "Prefix \" (e.g. \"a)",
+    "High-Mid": "Prefix ' (e.g. 'a)",
+    "Mid": "Unmarked (e.g. a)",
+    "Low": "Prefix - (e.g. -a)"
+  },
+  "diacritics": [
+    {
+      "mark": "n",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "notes": null,
+  "confidence": "high",
+  "iso": "nwb",
+  "name": "Nyabwa",
+  "country": "CI",
+  "family": "Kru",
+  "slug": "nyabwa.xls"
+}

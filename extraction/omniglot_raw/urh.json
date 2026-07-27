@@ -1,0 +1,242 @@
+{
+  "language": "Urhobo",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dj",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẹ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "ɡ͡b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gh",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ghw",
+      "ipa": "ɣ̞",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hw",
+      "ipa": "x̞",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "k͡p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ọ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ph",
+      "ipa": "ɸ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "rh",
+      "ipa": "r̥",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "β̞",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "an",
+      "ipa": "ã",
+      "script": "latin"
+    },
+    {
+      "grapheme": "en",
+      "ipa": "ẽ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẹn",
+      "ipa": "ɛ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "in",
+      "ipa": "ĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "on",
+      "ipa": "õ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ọn",
+      "ipa": "ɔ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "un",
+      "ipa": "ũ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mw",
+      "ipa": "ŋ͡m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "vw",
+      "ipa": "β̞̃",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "vowel quality (open vowels ẹ, ọ)",
+      "ipa": ""
+    }
+  ],
+  "notes": "First listed IPA alternative was taken where slashes indicated multiple pronunciations (e.g., [d͡ʒ/ɟ͡ʝ/ʝ] -> [d͡ʒ]). Nasal vowels are written as digraphs with trailing 'n'.",
+  "confidence": "high",
+  "iso": "urh",
+  "name": "Urhobo",
+  "country": "NG",
+  "family": "Atlantic-Congo",
+  "slug": "urhobo.xls"
+}

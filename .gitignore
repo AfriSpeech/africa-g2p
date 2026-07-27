@@ -7,3 +7,6 @@ dist/
 extraction/pages/
 .env
 *.pdf
+extraction/omniglot_charts/
+*.xls
+*.xlsx

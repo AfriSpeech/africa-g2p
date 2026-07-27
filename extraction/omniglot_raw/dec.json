@@ -1,0 +1,146 @@
+{
+  "language": "Dengebu",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ä",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dh",
+      "ipa": "ð",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ï",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nh",
+      "ipa": "n̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’r",
+      "ipa": "ɽ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "t̺",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ü",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Rows 1, 4, 7 contain letter names or example pronunciations and were excluded as per instructions. First IPA alternative retained where multiple were provided.",
+  "confidence": "high",
+  "iso": "dec",
+  "name": "Dengebu",
+  "country": "SD",
+  "family": "Narrow Talodi",
+  "slug": "dengebu.xls"
+}

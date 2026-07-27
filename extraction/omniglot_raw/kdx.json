@@ -1,0 +1,426 @@
+{
+  "language": "Kam",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "b",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bi",
+      "ipa": "pʲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pi",
+      "ipa": "pʲʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "li",
+      "ipa": "lʲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "tɕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "tɕʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "nʲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ɕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gu",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ku",
+      "ipa": "kʷʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ngu",
+      "ipa": "ŋʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zh",
+      "ipa": "tʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "tʃʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɻ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "ts",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "tsʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ai",
+      "ipa": "ai",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ao",
+      "ipa": "aʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "am",
+      "ipa": "am",
+      "script": "latin"
+    },
+    {
+      "grapheme": "an",
+      "ipa": "an",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ang",
+      "ipa": "aŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ab",
+      "ipa": "ap",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ad",
+      "ipa": "at",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ag",
+      "ipa": "ak",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aem",
+      "ipa": "ɐm",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aen",
+      "ipa": "ɐn",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aeng",
+      "ipa": "ɐŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ei",
+      "ipa": "əi",
+      "script": "latin"
+    },
+    {
+      "grapheme": "em",
+      "ipa": "əm",
+      "script": "latin"
+    },
+    {
+      "grapheme": "en",
+      "ipa": "ən",
+      "script": "latin"
+    },
+    {
+      "grapheme": "eng",
+      "ipa": "əŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "eb",
+      "ipa": "əp",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ed",
+      "ipa": "ət",
+      "script": "latin"
+    },
+    {
+      "grapheme": "eg",
+      "ipa": "ək",
+      "script": "latin"
+    },
+    {
+      "grapheme": "eeu",
+      "ipa": "eʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "eem",
+      "ipa": "em",
+      "script": "latin"
+    },
+    {
+      "grapheme": "een",
+      "ipa": "en",
+      "script": "latin"
+    },
+    {
+      "grapheme": "eeng",
+      "ipa": "eŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "iu",
+      "ipa": "iʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "im",
+      "ipa": "im",
+      "script": "latin"
+    },
+    {
+      "grapheme": "in",
+      "ipa": "in",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ing",
+      "ipa": "iŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ib",
+      "ipa": "ip",
+      "script": "latin"
+    },
+    {
+      "grapheme": "id",
+      "ipa": "it",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ig",
+      "ipa": "ik",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oi",
+      "ipa": "oi",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ou",
+      "ipa": "oʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "om",
+      "ipa": "om",
+      "script": "latin"
+    },
+    {
+      "grapheme": "on",
+      "ipa": "on",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ong",
+      "ipa": "oŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ob",
+      "ipa": "op",
+      "script": "latin"
+    },
+    {
+      "grapheme": "od",
+      "ipa": "ot",
+      "script": "latin"
+    },
+    {
+      "grapheme": "og",
+      "ipa": "ok",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uu",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ui",
+      "ipa": "ui",
+      "script": "latin"
+    },
+    {
+      "grapheme": "um",
+      "ipa": "um",
+      "script": "latin"
+    },
+    {
+      "grapheme": "un",
+      "ipa": "un",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ung",
+      "ipa": "uŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ub",
+      "ipa": "up",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ug",
+      "ipa": "uk",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "-l": "high",
+    "-p": "high rising",
+    "-c": "low",
+    "-s": "dipping",
+    "-t": "low rising",
+    "-x": "low falling",
+    "-v": "high falling",
+    "-k": "peaking",
+    "-h": "mid"
+  },
+  "diacritics": [],
+  "notes": "Kam is written in a Latin-based orthography (lix Gaeml). Tones are indicated by letter suffixes appended to syllables.",
+  "confidence": "high",
+  "iso": "kdx",
+  "name": "Kam",
+  "country": "NG",
+  "family": "Atlantic-Congo",
+  "slug": "kam.xls"
+}

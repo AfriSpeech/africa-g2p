@@ -1,213 +1,112 @@
 {
   "code": "mkw",
-  "name": "Mekaa",
-  "country": "Cameroon",
-  "family": "Bantu A.83",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 82",
-  "confidence": "high",
+  "name": "Kituba",
+  "country": "CG",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (kituba.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "d",
+      "e",
+      "f",
+      "g",
+      "i",
+      "k",
+      "l",
+      "m",
+      "mb",
+      "mf",
+      "mp",
+      "mv",
+      "n",
+      "nd",
+      "ng",
+      "nk",
+      "ns",
+      "nt",
+      "nz",
+      "o",
+      "p",
+      "s",
+      "t",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z"
+    ]
+  },
   "graphemes": {
+    "a": "a",
     "b": "b",
-    "t": "t",
     "d": "d",
-    "c": "tʃ",
-    "j": "dʒ",
-    "k": "k",
-    "g": "ɡ",
-    "kp": "k͡p",
-    "m": "m",
-    "n": "n",
-    "ny": "ɲ",
-    "ŋ": "ŋ",
+    "e": "e",
     "f": "f",
-    "v": "v",
-    "s": "s",
-    "z": "z",
-    "sh": "ʃ",
-    "zh": "ʒ",
+    "g": "ɡ",
+    "i": "i",
+    "k": "k",
     "l": "l",
-    "h": "h",
+    "m": "m",
+    "mb": "ᵐb",
+    "mf": "ᶬf",
+    "mp": "ᵐp",
+    "mv": "ᶬv",
+    "n": "n",
+    "nd": "ⁿd",
+    "ng": "ᵑɡ",
+    "nk": "ᵑk",
+    "nt": "ⁿt",
+    "ns": "ⁿs",
+    "nz": "ⁿz",
+    "o": "o",
+    "p": "p",
+    "s": "s~ɕ",
+    "t": "t",
+    "u": "u",
+    "v": "v",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "ɨ": "ɨ",
-    "e": "e",
-    "ɛ": "ɛ",
-    "ʉ": "ʉ",
-    "ə": "ə",
-    "a": "a",
-    "u": "u",
-    "o": "o"
+    "z": "z~ʑ"
   },
-  "diacritics": {
-    "́": "˥",
-    "̂": "˥˩",
-    "̌": "˩˥",
-    "̧": "̃"
-  },
-  "tones": {
-    "high": "acute accent",
-    "high-low": "circumflex accent",
-    "low-high": "caron",
-    "low": "unmarked"
-  },
-  "notes": "Hartell uses /y/ for IPA /j/, /tʃ/ represented as /t∫/ in text, /dʒ/ represented as /dʒ/. Vowel phoneme /ʉ/ corresponds to grapheme ʉ (barred u) and /ɨ/ to ɨ (barred i). Prenasalization sequence listed: mp, mb, nt, nd, nc, nj, nk, ng. Nasalization indicated by cedilla/subscript mark (V̧) on /ɛ/ or /o/ only.",
+  "romanization": {},
+  "diacritics": {},
+  "tones": {},
+  "notes": "",
   "alphabet": [
     "a",
     "b",
-    "c",
     "d",
     "e",
-    "ɛ",
-    "ə",
     "f",
     "g",
-    "h",
     "i",
-    "ɨ",
-    "j",
     "k",
-    "kp",
     "l",
     "m",
+    "mb",
+    "mf",
+    "mp",
+    "mv",
     "n",
-    "ny",
-    "ŋ",
+    "nd",
+    "ng",
+    "nk",
+    "ns",
+    "nt",
+    "nz",
     "o",
     "p",
     "s",
-    "sh",
+    "t",
     "u",
-    "ʉ",
     "v",
     "w",
     "y",
-    "z",
-    "zh"
+    "z"
   ],
-  "examples": [
-    {
-      "word": "bâ",
-      "gloss": "marriage"
-    },
-    {
-      "word": "bímbí",
-      "gloss": "price"
-    },
-    {
-      "word": "ci",
-      "gloss": "say"
-    },
-    {
-      "word": "dánd",
-      "gloss": "village"
-    },
-    {
-      "word": "fámé",
-      "gloss": "true, pure"
-    },
-    {
-      "word": "bɛmb",
-      "gloss": "worry"
-    },
-    {
-      "word": "fambá",
-      "gloss": "field"
-    },
-    {
-      "word": "fáf",
-      "gloss": "paper"
-    },
-    {
-      "word": "kugú",
-      "gloss": "evening"
-    },
-    {
-      "word": "ha",
-      "gloss": "strong wine"
-    },
-    {
-      "word": "mbi",
-      "gloss": "profit"
-    },
-    {
-      "word": "lɨ́ɨ́",
-      "gloss": "tree"
-    },
-    {
-      "word": "ji",
-      "gloss": "what"
-    },
-    {
-      "word": "kâm",
-      "gloss": "monkey"
-    },
-    {
-      "word": "lâm",
-      "gloss": "heart"
-    },
-    {
-      "word": "mán",
-      "gloss": "tomorrow"
-    },
-    {
-      "word": "na",
-      "gloss": "there"
-    },
-    {
-      "word": "nyâ",
-      "gloss": "fingernail"
-    },
-    {
-      "word": "lăŋ",
-      "gloss": "story"
-    },
-    {
-      "word": "domb",
-      "gloss": "war"
-    },
-    {
-      "word": "mpal",
-      "gloss": "eagle"
-    },
-    {
-      "word": "sás",
-      "gloss": "girl"
-    },
-    {
-      "word": "shí",
-      "gloss": "earth, ground"
-    },
-    {
-      "word": "taand",
-      "gloss": "umbrella"
-    },
-    {
-      "word": "mús",
-      "gloss": "today"
-    },
-    {
-      "word": "mpúsə",
-      "gloss": "behind"
-    },
-    {
-      "word": "vúndə",
-      "gloss": "window"
-    },
-    {
-      "word": "wáás",
-      "gloss": "twin"
-    },
-    {
-      "word": "yûl",
-      "gloss": "viper"
-    },
-    {
-      "word": "zanz",
-      "gloss": "corrugated iron"
-    },
-    {
-      "word": "zhíi",
-      "gloss": "trail"
-    }
-  ]
+  "examples": []
 }

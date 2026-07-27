@@ -1,0 +1,291 @@
+{
+  "language": "Swati",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "ɓ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bh",
+      "ipa": "bʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "ᵏǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "ᵏǀʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "dʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dl",
+      "ipa": "ɮ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dv",
+      "ipa": "dv",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dvw",
+      "ipa": "dvʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dz",
+      "ipa": "dz",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "gʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gc",
+      "ipa": "ᶢǀʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hh",
+      "ipa": "ɦ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hl",
+      "ipa": "ɬ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "dʒʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "kʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "khw",
+      "ipa": "kʰʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kl",
+      "ipa": "kɬ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "lw",
+      "ipa": "lʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "mb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nc",
+      "ipa": "ᵑǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nch",
+      "ipa": "ᵑǀʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ndl",
+      "ipa": "ⁿɮ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ngc",
+      "ipa": "ᵑǀʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ngw",
+      "ipa": "ᵑ(g)ʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nhl",
+      "ipa": "ⁿɫ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nkhw",
+      "ipa": "ᵑkʰʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ph",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "kʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sw",
+      "ipa": "sʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tf",
+      "ipa": "tf",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tj",
+      "ipa": "tʃʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "tsʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "vw",
+      "ipa": "vʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zh",
+      "ipa": "ʒ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "First alternative taken where slash-separated IPA alternatives were provided in the chart.",
+  "confidence": "high",
+  "iso": "ssw",
+  "name": "Swati",
+  "country": "LS",
+  "family": "Atlantic-Congo",
+  "slug": "swati.xls"
+}

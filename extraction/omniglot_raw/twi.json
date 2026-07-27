@@ -1,0 +1,211 @@
+{
+  "language": "Twi",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "æ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dw",
+      "ipa": "dʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dwi",
+      "ipa": "dʑʷi",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "gʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gyi",
+      "ipa": "dʑi",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hw",
+      "ipa": "hʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hwi",
+      "ipa": "çʷi",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hyi",
+      "ipa": "çi",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kyi",
+      "ipa": "tɕʰi",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ngi",
+      "ipa": "ɲĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nw",
+      "ipa": "ŋŋʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nu",
+      "ipa": "ɲʷĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nyi",
+      "ipa": "ɲːĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nnyi",
+      "ipa": "ɲːĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ti",
+      "ipa": "ti",
+      "script": "latin"
+    },
+    {
+      "grapheme": "twi",
+      "ipa": "tɕʷi",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "wi",
+      "ipa": "ɥi",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Consonant-vowel combinations explicitly listed as distinct orthographic units under the Consonants section were captured as graphemes.",
+  "confidence": "high",
+  "iso": "twi",
+  "name": "Twi",
+  "country": "GH",
+  "family": "Atlantic-Congo",
+  "slug": "twi.xls"
+}

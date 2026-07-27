@@ -1,64 +1,120 @@
 {
   "code": "cko",
-  "name": "Anufɔ (Tchokossi)",
-  "country": "Togo",
-  "family": "Kwa",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 28",
-  "confidence": "high",
+  "name": "Chakosi",
+  "country": "BJ",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (chakosi.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "aa",
+      "an",
+      "b",
+      "c",
+      "d",
+      "e",
+      "ee",
+      "f",
+      "g",
+      "gb",
+      "h",
+      "i",
+      "in",
+      "j",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "n",
+      "ny",
+      "o",
+      "oo",
+      "p",
+      "r",
+      "s",
+      "t",
+      "u",
+      "un",
+      "uu",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ŋ",
+      "ŋm",
+      "ɔ",
+      "ɔn",
+      "ɔɔ",
+      "ɛ",
+      "ɛn",
+      "ɛɛ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
+    "c": "c",
     "d": "d",
-    "c": "tʃ",
-    "j": "dʒ",
-    "k": "k",
+    "e": "e",
+    "ɛ": "ɛ",
+    "f": "f",
     "g": "ɡ",
-    "kp": "k͡p",
     "gb": "ɡ͡b",
+    "h": "h",
+    "i": "i",
+    "j": "ɟ",
+    "k": "k",
+    "kp": "k͡p",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ny": "ɲ",
     "ŋ": "ŋ",
     "ŋm": "ŋ͡m",
-    "f": "f",
-    "v": "f",
+    "o": "o",
+    "ɔ": "ɔ",
+    "p": "p",
+    "r": "r",
     "s": "s",
-    "z": "s",
-    "l": "l",
-    "r": "l",
-    "h": "h",
+    "t": "t",
+    "u": "u",
+    "v": "v",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "e": "e",
-    "ɛ": "ɛ",
-    "a": "a",
-    "u": "u",
-    "o": "o",
-    "ɔ": "ɔ"
+    "z": "z",
+    "aa": "aː",
+    "ee": "eː",
+    "ɛɛ": "ɛː",
+    "oo": "oː",
+    "ɔɔ": "ɔː",
+    "uu": "uː",
+    "an": "ã",
+    "ɛn": "ɛ̃",
+    "in": "ĩ",
+    "ɔn": "ɔ̃",
+    "un": "ũ"
   },
-  "diacritics": {
-    "́": "˥",
-    "̀": "˩"
-  },
-  "tones": {
-    "high": "acute accent",
-    "low": "grave accent"
-  },
-  "notes": "Hartell's /y/ converted to IPA /j/. Labialization and palatalization are written as vocalic sequences. Vowels can be lengthened (VV) or nasalized (Vn, except for /e/ or /o/).",
+  "romanization": {},
+  "diacritics": {},
+  "tones": {},
+  "notes": "Language is also known as Anufo. Alternative pronunciations present in grid for 'c' ([c/tʃ]), 'j' ([ɟ/dʒ]), and 'v' ([v/f]); first IPA option was retained in each case.",
   "alphabet": [
     "a",
+    "aa",
+    "an",
     "b",
     "c",
     "d",
     "e",
-    "ɛ",
+    "ee",
     "f",
     "g",
     "gb",
     "h",
     "i",
+    "in",
     "j",
     "k",
     "kp",
@@ -66,144 +122,27 @@
     "m",
     "n",
     "ny",
-    "ŋ",
-    "ŋm",
     "o",
-    "ɔ",
+    "oo",
     "p",
     "r",
     "s",
     "t",
     "u",
+    "un",
+    "uu",
     "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ŋ",
+    "ŋm",
+    "ɔ",
+    "ɔn",
+    "ɔɔ",
+    "ɛ",
+    "ɛn",
+    "ɛɛ"
   ],
-  "examples": [
-    {
-      "word": "sa",
-      "gloss": "to draw water"
-    },
-    {
-      "word": "bisa",
-      "gloss": "to ask"
-    },
-    {
-      "word": "caa",
-      "gloss": "dog"
-    },
-    {
-      "word": "diedie",
-      "gloss": "knife"
-    },
-    {
-      "word": "bue",
-      "gloss": "half"
-    },
-    {
-      "word": "buɛ",
-      "gloss": "sheep"
-    },
-    {
-      "word": "fɛmɛ",
-      "gloss": "chief"
-    },
-    {
-      "word": "gise",
-      "gloss": "cotton"
-    },
-    {
-      "word": "gbagba",
-      "gloss": "sandal"
-    },
-    {
-      "word": "hun",
-      "gloss": "husband"
-    },
-    {
-      "word": "bi",
-      "gloss": "ripe"
-    },
-    {
-      "word": "jojɔ",
-      "gloss": "to talk"
-    },
-    {
-      "word": "kɛrɛ",
-      "gloss": "to write"
-    },
-    {
-      "word": "kpien",
-      "gloss": "old"
-    },
-    {
-      "word": "lolo",
-      "gloss": "shade"
-    },
-    {
-      "word": "ma",
-      "gloss": "to give"
-    },
-    {
-      "word": "na",
-      "gloss": "then"
-    },
-    {
-      "word": "nya",
-      "gloss": "to have"
-    },
-    {
-      "word": "ŋa",
-      "gloss": "to say"
-    },
-    {
-      "word": "ŋma",
-      "gloss": "who?"
-    },
-    {
-      "word": "nzo",
-      "gloss": "seven"
-    },
-    {
-      "word": "nɔnɔ",
-      "gloss": "milk"
-    },
-    {
-      "word": "pui",
-      "gloss": "nothing"
-    },
-    {
-      "word": "bara",
-      "gloss": "woman"
-    },
-    {
-      "word": "si",
-      "gloss": "to know"
-    },
-    {
-      "word": "fiti",
-      "gloss": "to make a hole"
-    },
-    {
-      "word": "ju",
-      "gloss": "to arrive"
-    },
-    {
-      "word": "nvɔrɛ",
-      "gloss": "termite"
-    },
-    {
-      "word": "awuru",
-      "gloss": "house"
-    },
-    {
-      "word": "yandi",
-      "gloss": "to yawn"
-    },
-    {
-      "word": "nzɛn",
-      "gloss": "if"
-    }
-  ]
+  "examples": []
 }

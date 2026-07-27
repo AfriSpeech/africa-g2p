@@ -1,155 +1,118 @@
 {
   "code": "kuj",
   "name": "Kuria",
-  "country": "Kenya",
-  "family": "Bantu",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 68",
-  "confidence": "high",
+  "country": "KE",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (kuria.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "aa",
+      "b",
+      "ch",
+      "e",
+      "ee",
+      "g",
+      "h",
+      "i",
+      "ii",
+      "k",
+      "m",
+      "mb",
+      "n",
+      "nd",
+      "ng'",
+      "ngg",
+      "ny",
+      "o",
+      "oo",
+      "r",
+      "rr",
+      "s",
+      "t",
+      "u",
+      "uu",
+      "w",
+      "y",
+      "ë",
+      "ëë",
+      "ö",
+      "öö"
+    ]
+  },
   "graphemes": {
-    "t": "t",
-    "ch": "c",
+    "a": "a",
+    "b": "β",
+    "ch": "t͡ʃ",
+    "e": "e",
+    "ë": "ɛ",
+    "g": "ɣ",
+    "h": "h",
+    "i": "i",
     "k": "k",
     "m": "m",
     "n": "n",
-    "nd": "ⁿd",
+    "nd": "n͡d",
     "ny": "ɲ",
-    "ng": "ŋɡ",
-    "s": "s",
-    "b": "β",
-    "g": "ɣ",
-    "rr": "r",
+    "ng'": "ŋ",
+    "o": "o",
+    "ö": "ɔ",
     "r": "ɾ",
-    "h": "h",
+    "rr": "r",
+    "s": "s",
+    "t": "t",
+    "u": "u",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "e": "e",
-    "ë": "ɛ",
-    "a": "a",
-    "u": "u",
-    "o": "o",
-    "ö": "ɔ"
+    "aa": "aː",
+    "ee": "eː",
+    "ëë": "ɛː",
+    "ii": "iː",
+    "oo": "oː",
+    "öö": "ɔː",
+    "uu": "uː",
+    "mb": "ᵐb",
+    "ngg": "ŋ͡ɡ"
   },
+  "romanization": {},
   "diacritics": {},
-  "tones": null,
-  "notes": "Note on page: 'N.B.: This orthography is still under development.' The orthographic symbol for /ŋɡ/ is listed as 'ng' in the phoneme table, but 'ng'' in the alphabet and examples. Phoneme /y/ is mapped to IPA /j/, /ç/ is mapped to IPA /c/, /nd/ to /ⁿd/, and /r/ phonemes [r] and /r/ are mapped to /r/ (trill) and /ɾ/ (tap).",
+  "tones": {},
+  "notes": "",
   "alphabet": [
     "a",
+    "aa",
     "b",
     "ch",
     "e",
-    "ë",
+    "ee",
     "g",
     "h",
     "i",
+    "ii",
     "k",
     "m",
+    "mb",
     "n",
     "nd",
-    "ny",
     "ng'",
+    "ngg",
+    "ny",
     "o",
-    "ö",
+    "oo",
     "r",
     "rr",
     "s",
     "t",
     "u",
+    "uu",
     "w",
-    "y"
+    "y",
+    "ë",
+    "ëë",
+    "ö",
+    "öö"
   ],
-  "examples": [
-    {
-      "word": "ahase",
-      "gloss": "place"
-    },
-    {
-      "word": "obota",
-      "gloss": "bow"
-    },
-    {
-      "word": "omosaacha",
-      "gloss": "man"
-    },
-    {
-      "word": "irigena",
-      "gloss": "stone"
-    },
-    {
-      "word": "omogëni",
-      "gloss": "visitor"
-    },
-    {
-      "word": "ekegabo",
-      "gloss": "basket"
-    },
-    {
-      "word": "omohëënë",
-      "gloss": "righteous man"
-    },
-    {
-      "word": "iriiso",
-      "gloss": "eye"
-    },
-    {
-      "word": "urukui",
-      "gloss": "firewood"
-    },
-    {
-      "word": "amatui",
-      "gloss": "ears"
-    },
-    {
-      "word": "omonënë",
-      "gloss": "fat man"
-    },
-    {
-      "word": "cenda",
-      "gloss": "belly"
-    },
-    {
-      "word": "inyaamu",
-      "gloss": "cat"
-    },
-    {
-      "word": "eng'öömbë",
-      "gloss": "cow"
-    },
-    {
-      "word": "omote",
-      "gloss": "tree"
-    },
-    {
-      "word": "omööna",
-      "gloss": "child"
-    },
-    {
-      "word": "urusiko",
-      "gloss": "day"
-    },
-    {
-      "word": "irrëkö",
-      "gloss": "shoulder"
-    },
-    {
-      "word": "eseese",
-      "gloss": "dog"
-    },
-    {
-      "word": "agatimo",
-      "gloss": "small spear"
-    },
-    {
-      "word": "umumura",
-      "gloss": "young man"
-    },
-    {
-      "word": "ekeweere",
-      "gloss": "wildebeest"
-    },
-    {
-      "word": "ekebaayi",
-      "gloss": "weeding hoe"
-    }
-  ]
+  "examples": []
 }

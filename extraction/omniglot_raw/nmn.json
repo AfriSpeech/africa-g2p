@@ -1,0 +1,921 @@
+{
+  "language": "Taa",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "β",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "_ᵡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a’",
+      "ipa": "aˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "an",
+      "ipa": "ã",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a’h",
+      "ipa": "a̤ˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a’q",
+      "ipa": "ɑ̰ˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ae",
+      "ipa": "aḙ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ah",
+      "ipa": "a̤",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ai",
+      "ipa": "ai̭",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ao",
+      "ipa": "ao̭",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aq",
+      "ipa": "aˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aqh",
+      "ipa": "aʢ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "au",
+      "ipa": "aṷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bh",
+      "ipa": "bʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dh",
+      "ipa": "dʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dt’kx’",
+      "ipa": "dᵡ’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dth",
+      "ipa": "d͡tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dts’",
+      "ipa": "d͡ts’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dts’kx’",
+      "ipa": "ʣᵡ’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dtsh",
+      "ipa": "d͡tsʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dtshx",
+      "ipa": "ʣᵡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dtx",
+      "ipa": "dᵡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dz",
+      "ipa": "ʣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dz’",
+      "ipa": "ʣˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dzh",
+      "ipa": "ʣʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e’",
+      "ipa": "eˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "eh",
+      "ipa": "e̤",
+      "script": "latin"
+    },
+    {
+      "grapheme": "en",
+      "ipa": "ẽ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "eq",
+      "ipa": "eˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "eqh",
+      "ipa": "ɛʢ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g’",
+      "ipa": "ɡˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gh",
+      "ipa": "ɡʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gkh",
+      "ipa": "ɡ͡kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gkx’",
+      "ipa": "ɡ͡kx’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i’",
+      "ipa": "ɪ̞ˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ih",
+      "ipa": "i̤",
+      "script": "latin"
+    },
+    {
+      "grapheme": "in",
+      "ipa": "ĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "iq",
+      "ipa": "iˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "iqh",
+      "ipa": "ɪʢ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k’",
+      "ipa": "k’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kx’",
+      "ipa": "kx’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’m",
+      "ipa": "ˀm",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’n",
+      "ipa": "ˀn",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nq",
+      "ipa": "ɢ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nqh",
+      "ipa": "ɢ͡qʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nqx’",
+      "ipa": "ɢ͡ʁʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o’",
+      "ipa": "oˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o’h",
+      "ipa": "o̤ˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oa",
+      "ipa": "oa̭",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oe",
+      "ipa": "oḙ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oh",
+      "ipa": "o̤",
+      "script": "latin"
+    },
+    {
+      "grapheme": "on",
+      "ipa": "õ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oq",
+      "ipa": "oˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oqh",
+      "ipa": "ɔʢ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ou",
+      "ipa": "oṷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p’",
+      "ipa": "p’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p’kx’",
+      "ipa": "pᵡ’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ph",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q’",
+      "ipa": "q’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "qh",
+      "ipa": "qʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "qx’",
+      "ipa": "q͡χ’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t’",
+      "ipa": "t’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t’kx’",
+      "ipa": "tᵡ’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "ʦ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts’",
+      "ipa": "ʦ’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts’kx’",
+      "ipa": "ʦᵡ’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tsh",
+      "ipa": "ʦʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tshx",
+      "ipa": "ʦᵡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tx",
+      "ipa": "tᵡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u’",
+      "ipa": "uˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u’h",
+      "ipa": "ṳˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u’q",
+      "ipa": "ʊ̰ˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ua",
+      "ipa": "ṷa",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ue",
+      "ipa": "ṷe",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uh",
+      "ipa": "ṳ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ui",
+      "ipa": "ṷi",
+      "script": "latin"
+    },
+    {
+      "grapheme": "un",
+      "ipa": "ũ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uq",
+      "ipa": "uˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uqh",
+      "ipa": "ʊʢ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʘ",
+      "ipa": "ʘ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʘ’",
+      "ipa": "ʘˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʘh",
+      "ipa": "ʘʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gʘ",
+      "ipa": "ᶢʘ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gʘh",
+      "ipa": "ᶢʘʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nʘ",
+      "ipa": "ᵑʘ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nʘh",
+      "ipa": "ᵑ̊ʘ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nʘhh",
+      "ipa": "↓ᵑ̊ʘʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’nʘ",
+      "ipa": "ˀᵑʘ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nʘ’",
+      "ipa": "ᵑʘˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʘq",
+      "ipa": "ʘ͡q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʘqh",
+      "ipa": "ʘ͡qʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gʘq",
+      "ipa": "ᶢʘ͡ɢ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʘx",
+      "ipa": "ᵏʘˣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gʘx",
+      "ipa": "ᶢʘˣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʘq’",
+      "ipa": "ʘ͡qˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’ʘq’",
+      "ipa": "ᵏ’ʘ͡q’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gʘq’",
+      "ipa": "ᶢʘ͡q’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǀ",
+      "ipa": "ǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǀ’",
+      "ipa": "ǀˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǀh",
+      "ipa": "ǀʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǀ",
+      "ipa": "ᶢǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǀh",
+      "ipa": "ᶢǀʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǀ",
+      "ipa": "ᵑǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǀh",
+      "ipa": "ᵑ̊ǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǀhh",
+      "ipa": "↓ᵑ̊ǀʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’nǀ",
+      "ipa": "ˀᵑǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǀ’",
+      "ipa": "ᵑǀˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǀq",
+      "ipa": "ǀ͡q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǀqh",
+      "ipa": "ǀ͡qʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǀq",
+      "ipa": "ᶢǀ͡ɢ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǀqh",
+      "ipa": "ᶢǀ͡ɢʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǀx",
+      "ipa": "ᵏǀˣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǀx",
+      "ipa": "ᶢǀˣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǀq’",
+      "ipa": "ǀ͡qˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’ǀq’",
+      "ipa": "ᵏ’ǀ͡q’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǀq’",
+      "ipa": "ᶢǀ͡q’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǁ",
+      "ipa": "ǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǁ’",
+      "ipa": "ǁˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǁh",
+      "ipa": "ǁʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǁ",
+      "ipa": "ᶢǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǁh",
+      "ipa": "ᶢǁʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǁ",
+      "ipa": "ᵑǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǁh",
+      "ipa": "ᵑ̊ǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǁhh",
+      "ipa": "↓ᵑ̊ǁʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’nǁ",
+      "ipa": "ˀᵑǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǁ’",
+      "ipa": "ᵑǁˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǁq",
+      "ipa": "ǁ͡q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǁqh",
+      "ipa": "ǁ͡qʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǁq",
+      "ipa": "ᶢǁ͡ɢ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǁx",
+      "ipa": "ᵏǁˣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǁx",
+      "ipa": "ᶢǁˣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǁq’",
+      "ipa": "ǁ͡qˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’ǁq’",
+      "ipa": "ᵏ’ǁ͡q’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǁq’",
+      "ipa": "ᶢǁ͡q’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǃ",
+      "ipa": "ǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǃ’",
+      "ipa": "ǃˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǃh",
+      "ipa": "ǃʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǃ",
+      "ipa": "ᶢǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǃh",
+      "ipa": "ᶢǃʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǃ",
+      "ipa": "ᵑǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǃh",
+      "ipa": "ᵑ̊ǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǃhh",
+      "ipa": "↓ᵑ̊ǃʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’nǃ",
+      "ipa": "ˀᵑǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nǃ’",
+      "ipa": "ᵑǃˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǃq",
+      "ipa": "ǃ͡q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǃqh",
+      "ipa": "ǃ͡qʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǃq",
+      "ipa": "ᶢǃ͡ɢ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǃqh",
+      "ipa": "ᶢǃ͡ɢʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǃx",
+      "ipa": "ᵏǃˣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǃx",
+      "ipa": "ᶢǃˣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǃq’",
+      "ipa": "ǃ͡qˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’ǃq’",
+      "ipa": "ᵏ’ǃ͡q’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǃq’",
+      "ipa": "ᶢǃ͡q’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǂ",
+      "ipa": "ǂ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǂ’",
+      "ipa": "ǂˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǂh",
+      "ipa": "ǂʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gǂ",
+      "ipa": "ᶢǂ",
+      "script": "latin"
+    }
+  ],
+  "iso": "nmn",
+  "name": "Taa",
+  "country": "BW",
+  "family": "Tuu",
+  "slug": "taa.xls"
+}

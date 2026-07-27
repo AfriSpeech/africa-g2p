@@ -1,0 +1,186 @@
+{
+  "language": "Mbunda",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "ʧ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "ʧ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ʤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "mb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mp",
+      "ipa": "mpʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "nd",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ndthz",
+      "ipa": "nd̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nj",
+      "ipa": "ndʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nt",
+      "ipa": "ntʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nths",
+      "ipa": "nt̪ʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nk",
+      "ipa": "ŋkʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "θ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ths",
+      "ipa": "t̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "thz",
+      "ipa": "ð",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Separated the variant orthographic representation 'ch/c' into two distinct grapheme entries ('ch' and 'c').",
+  "confidence": "high",
+  "iso": "mck",
+  "name": "Mbunda",
+  "country": "AO",
+  "family": "Atlantic-Congo",
+  "slug": "mbunda.xls"
+}

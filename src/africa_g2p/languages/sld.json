@@ -1,221 +1,147 @@
 {
   "code": "sld",
-  "name": "Sissala",
-  "country": "Burkina Faso",
-  "family": "Gur",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 116",
-  "confidence": "high",
+  "name": "Sisaali",
+  "country": "BF",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (sisaali.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "h",
+      "i",
+      "j",
+      "k",
+      "l",
+      "m",
+      "n",
+      "ny",
+      "o",
+      "p",
+      "r",
+      "s",
+      "t",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ã",
+      "õ",
+      "ĩ",
+      "ŋ",
+      "ŋm",
+      "ɓ",
+      "ɔ",
+      "ɔ̃",
+      "ɛ",
+      "ɛ̃",
+      "ɩ",
+      "ɩ̃",
+      "ʋ",
+      "ʋ̃",
+      "ẽ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
+    "ã": "ã",
     "b": "b",
     "ɓ": "ɓ",
-    "t": "t",
+    "c": "t͡ʃ",
     "d": "d",
-    "r": "d",
-    "c": "tʃ",
-    "j": "dʒ",
-    "k": "k",
+    "e": "e",
+    "ẽ": "ẽ",
+    "ɛ": "ɛ",
+    "ɛ̃": "ɛ̃",
+    "f": "f",
     "g": "ɡ",
     "gb": "ɡ͡b",
+    "h": "h",
+    "i": "i",
+    "ĩ": "ĩ",
+    "ɩ": "ɪ",
+    "ɩ̃": "ɪ̃",
+    "j": "d͡ʒ",
+    "k": "k",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ny": "ɲ",
     "ŋ": "ŋ",
     "ŋm": "ŋ͡m",
-    "f": "f",
-    "v": "v",
+    "o": "o",
+    "õ": "õ",
+    "ɔ": "ɔ",
+    "ɔ̃": "ɔ̃",
+    "p": "p",
+    "r": "r",
     "s": "s",
-    "z": "z",
-    "l": "l",
-    "h": "h",
+    "t": "t",
+    "u": "u",
+    "ʋ": "ʊ",
+    "ʋ̃": "ʊ̃",
+    "v": "v",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "ɩ": "ɪ",
-    "e": "e",
-    "ɛ": "ɛ",
-    "a": "a",
-    "u": "u",
-    "υ": "ʊ",
-    "o": "o",
-    "ɔ": "ɔ"
+    "z": "z"
   },
+  "romanization": {},
   "diacritics": {
-    "́": "˥",
-    "̃": "~"
+    "̃": "̃"
   },
-  "tones": {
-    "high": "acute accent",
-    "low": "unmarked"
-  },
-  "notes": "Hartell's /y/ is mapped to IPA /j/. /ɩ/ and /υ/ are mapped to IPA /ɪ/ and /ʊ/. ISO 639-3 code for Sissala in Burkina Faso is likely 'sld' (Tumulung Sisaala) or 'ssx' (Western Sisaala). Glosses for 'r nire' and 's saa' are partially unreadable/faded in the source print.",
+  "tones": {},
+  "notes": "",
   "alphabet": [
     "a",
     "b",
-    "ɓ",
     "c",
     "d",
     "e",
-    "ɛ",
     "f",
     "g",
     "gb",
     "h",
     "i",
-    "ɩ",
     "j",
     "k",
     "l",
     "m",
     "n",
     "ny",
-    "ŋ",
-    "ŋm",
     "o",
-    "ɔ",
     "p",
     "r",
     "s",
     "t",
     "u",
-    "υ",
     "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ã",
+    "õ",
+    "ĩ",
+    "ŋ",
+    "ŋm",
+    "ɓ",
+    "ɔ",
+    "ɔ̃",
+    "ɛ",
+    "ɛ̃",
+    "ɩ",
+    "ɩ̃",
+    "ʋ",
+    "ʋ̃",
+    "ẽ"
   ],
-  "examples": [
-    {
-      "word": "bala",
-      "gloss": "husband"
-    },
-    {
-      "word": "bul",
-      "gloss": "to speak"
-    },
-    {
-      "word": "ɓú",
-      "gloss": "to kill"
-    },
-    {
-      "word": "có",
-      "gloss": "to cook"
-    },
-    {
-      "word": "duŋ",
-      "gloss": "to sting"
-    },
-    {
-      "word": "ké",
-      "gloss": "this"
-    },
-    {
-      "word": "pé",
-      "gloss": "to help"
-    },
-    {
-      "word": "fɩela",
-      "gloss": "rest"
-    },
-    {
-      "word": "gerɔ",
-      "gloss": "cloth"
-    },
-    {
-      "word": "gbaŋa",
-      "gloss": "calabash"
-    },
-    {
-      "word": "háálɔ",
-      "gloss": "woman"
-    },
-    {
-      "word": "dí",
-      "gloss": "to eat"
-    },
-    {
-      "word": "tɩg",
-      "gloss": "to follow"
-    },
-    {
-      "word": "jaa",
-      "gloss": "house"
-    },
-    {
-      "word": "kéŋ",
-      "gloss": "to catch"
-    },
-    {
-      "word": "la",
-      "gloss": "to get"
-    },
-    {
-      "word": "mú",
-      "gloss": "to go"
-    },
-    {
-      "word": "namɩɛ",
-      "gloss": "meat"
-    },
-    {
-      "word": "nyɔ́ɔ́",
-      "gloss": "grass"
-    },
-    {
-      "word": "tuŋ",
-      "gloss": "to crunch"
-    },
-    {
-      "word": "ŋmaŋ",
-      "gloss": "okra"
-    },
-    {
-      "word": "có",
-      "gloss": "to like"
-    },
-    {
-      "word": "có",
-      "gloss": "to cook"
-    },
-    {
-      "word": "píɛ",
-      "gloss": "yams"
-    },
-    {
-      "word": "nire",
-      "gloss": "[faded]"
-    },
-    {
-      "word": "saa",
-      "gloss": "[faded]"
-    },
-    {
-      "word": "tuu",
-      "gloss": "tree"
-    },
-    {
-      "word": "bul",
-      "gloss": "to burst"
-    },
-    {
-      "word": "bul",
-      "gloss": "to talk"
-    },
-    {
-      "word": "váá",
-      "gloss": "dog"
-    },
-    {
-      "word": "wɛ",
-      "gloss": "to be painful"
-    },
-    {
-      "word": "yɔwɔ",
-      "gloss": "market"
-    },
-    {
-      "word": "zυ",
-      "gloss": "to enter"
-    }
-  ]
+  "examples": []
 }

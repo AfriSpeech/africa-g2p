@@ -1,190 +1,142 @@
 {
   "code": "dag",
-  "name": "DAGBANI",
-  "country": "GHANA",
-  "family": "GUR",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 31",
-  "confidence": "high",
+  "name": "Dagbani",
+  "country": "GH",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (dagbani.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "aa",
+      "b",
+      "ch",
+      "d",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "h",
+      "i",
+      "ii",
+      "j",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "n",
+      "nny",
+      "ny",
+      "o",
+      "p",
+      "r",
+      "s",
+      "sh",
+      "t",
+      "u",
+      "uu",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ŋ",
+      "ŋm",
+      "ɔ",
+      "ɛ",
+      "ɣ",
+      "ɨ",
+      "ʒ",
+      "’"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
+    "ch": "t͡ʃ",
     "d": "d",
-    "tʃ": "tʃ",
-    "dz": "dʒ",
-    "k": "k",
+    "e": "eː",
+    "ɛ": "ɛ",
+    "f": "f",
     "g": "ɡ",
-    "ɣ": "ɡ",
-    "kp": "k͡p",
     "gb": "ɡ͡b",
+    "ɣ": "ɣ",
+    "h": "h",
+    "i": "i",
+    "ɨ": "ɨ",
+    "j": "d͡ʒ",
+    "k": "k",
+    "kp": "k͡p",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ny": "ɲ",
     "ŋ": "ŋ",
-    "ŋm": "ŋ͡m",
-    "f": "f",
-    "v": "v",
+    "o": "oː",
+    "ɔ": "ɔ",
+    "p": "p",
+    "r": "r",
     "s": "s",
-    "ʃ": "s",
-    "z": "z",
-    "ʒ": "z",
-    "h": "h",
-    "l": "l",
+    "sh": "ʃ",
+    "t": "t",
+    "u": "u",
+    "v": "v",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "e": "e",
-    "a": "a",
-    "u": "u",
-    "o": "o"
+    "z": "z",
+    "ʒ": "ʒ",
+    "’": "ʔ",
+    "aa": "aː",
+    "ii": "iː",
+    "uu": "uː",
+    "nny": "ɲ̩ɲ",
+    "ŋm": "ŋ͡m"
   },
-  "diacritics": {
-    "́": "˥",
-    "̀": "˩"
-  },
-  "tones": {
-    "high": "acute accent",
-    "low": "grave accent",
-    "downstep": "exclamation mark"
-  },
-  "notes": "Hartell uses /y/ for IPA /j/. /ɨ/ is written as barred i. Explicit note states: 'However, tone is not written.' Vowel length represented as /V:/ -> VV.",
+  "romanization": {},
+  "diacritics": {},
+  "tones": {},
+  "notes": "Where multiple allophones/alternatives were listed in slash notation, the first IPA option was selected as per guidelines.",
   "alphabet": [
     "a",
+    "aa",
     "b",
+    "ch",
     "d",
-    "dz",
     "e",
     "f",
     "g",
     "gb",
+    "h",
     "i",
+    "ii",
+    "j",
     "k",
     "kp",
     "l",
     "m",
     "n",
+    "nny",
     "ny",
-    "ŋ",
-    "ŋm",
     "o",
     "p",
+    "r",
     "s",
+    "sh",
     "t",
-    "tʃ",
     "u",
+    "uu",
     "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ŋ",
+    "ŋm",
+    "ɔ",
+    "ɛ",
+    "ɣ",
+    "ɨ",
+    "ʒ",
+    "’"
   ],
-  "examples": [
-    {
-      "word": "ka",
-      "gloss": "to come"
-    },
-    {
-      "word": "baa",
-      "gloss": "dog"
-    },
-    {
-      "word": "duni",
-      "gloss": "knee"
-    },
-    {
-      "word": "dzahi",
-      "gloss": "twins"
-    },
-    {
-      "word": "yeli",
-      "gloss": "to say"
-    },
-    {
-      "word": "-fu",
-      "gloss": "[suffix]"
-    },
-    {
-      "word": "galli",
-      "gloss": "egg"
-    },
-    {
-      "word": "gbaŋ",
-      "gloss": "skin"
-    },
-    {
-      "word": "di",
-      "gloss": "to eat"
-    },
-    {
-      "word": "ka",
-      "gloss": "to come"
-    },
-    {
-      "word": "kpi",
-      "gloss": "to die"
-    },
-    {
-      "word": "ligri",
-      "gloss": "money"
-    },
-    {
-      "word": "mi",
-      "gloss": "to know"
-    },
-    {
-      "word": "nini",
-      "gloss": "eye"
-    },
-    {
-      "word": "nyɛe",
-      "gloss": "nose"
-    },
-    {
-      "word": "tiŋa",
-      "gloss": "ground"
-    },
-    {
-      "word": "ŋma",
-      "gloss": "to break"
-    },
-    {
-      "word": "doo",
-      "gloss": "man"
-    },
-    {
-      "word": "paga",
-      "gloss": "woman"
-    },
-    {
-      "word": "soli",
-      "gloss": "path"
-    },
-    {
-      "word": "ti",
-      "gloss": "to give"
-    },
-    {
-      "word": "tʃi",
-      "gloss": "wheat"
-    },
-    {
-      "word": "du",
-      "gloss": "house"
-    },
-    {
-      "word": "vieli",
-      "gloss": "beautiful"
-    },
-    {
-      "word": "wum",
-      "gloss": "to hear"
-    },
-    {
-      "word": "yuŋ",
-      "gloss": "night"
-    },
-    {
-      "word": "zugu",
-      "gloss": "head"
-    }
-  ]
+  "examples": []
 }

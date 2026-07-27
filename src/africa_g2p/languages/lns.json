@@ -1,259 +1,232 @@
 {
   "code": "lns",
-  "name": "Nso'",
-  "country": "Cameroon",
-  "family": "Grassfields Bantu, Ring",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 78",
-  "confidence": "high",
+  "name": "Nso",
+  "country": "CM",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (nso.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "aa",
+      "ay",
+      "b",
+      "bv",
+      "c",
+      "d",
+      "dz",
+      "e",
+      "ee",
+      "ey",
+      "f",
+      "g",
+      "gb",
+      "gh",
+      "ghv",
+      "gv",
+      "gw",
+      "h",
+      "i",
+      "ii",
+      "iy",
+      "j",
+      "jw",
+      "k",
+      "kf",
+      "kp",
+      "kw",
+      "l",
+      "m",
+      "mb",
+      "mbv",
+      "mf",
+      "mt",
+      "mv",
+      "n",
+      "ndz",
+      "nj",
+      "ns",
+      "nsh",
+      "nt",
+      "ny",
+      "o",
+      "oo",
+      "oy",
+      "p",
+      "r",
+      "s",
+      "sh",
+      "shw",
+      "t",
+      "ts",
+      "u",
+      "uu",
+      "uy",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ŋ",
+      "ŋg",
+      "ŋgv",
+      "ŋgw",
+      "ŋk",
+      "ŋsh",
+      "ŋw",
+      "ə",
+      "əy",
+      "əə",
+      "ʼ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "bv": "bv",
-    "t": "t",
-    "ts": "ts",
+    "c": "ʧ",
     "d": "d",
-    "dz": "dz",
-    "c": "tʃ",
-    "j": "dʒ",
-    "k": "k",
-    "kf": "k",
-    "g": "ɡ",
-    "gv": "ɡv",
-    "kp": "k͡p",
-    "gb": "ɡ͡b",
-    "'": "ʔ",
-    "m": "m",
-    "mv": "mv",
-    "n": "n",
-    "ny": "ɲ",
-    "ŋ": "ŋ",
-    "f": "f",
-    "v": "v",
-    "s": "s",
-    "sh": "ʃ",
-    "gh": "ɣ",
-    "ghv": "ɣv",
-    "h": "h",
-    "l": "l",
-    "r": "r",
-    "w": "w",
-    "y": "j",
-    "i": "i",
     "e": "ɛ",
     "ə": "ə",
-    "a": "a",
+    "f": "f",
+    "g": "ɡ",
+    "h": "h",
+    "i": "i",
+    "j": "d͡ʒ",
+    "k": "k",
+    "l": "l",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
+    "o": "ɔ",
+    "p": "p",
+    "r": "ɾ",
+    "s": "s",
+    "t": "t",
     "u": "u",
-    "o": "ɔ"
+    "v": "v",
+    "w": "w",
+    "y": "j",
+    "z": "z",
+    "ʼ": "ʔ",
+    "aa": "aː",
+    "ee": "eː",
+    "əə": "əː",
+    "ii": "iː",
+    "oo": "oː",
+    "uu": "uː",
+    "ay": "aj",
+    "ey": "ɛj",
+    "əy": "əj",
+    "iy": "ij",
+    "oy": "ɔj",
+    "uy": "uj",
+    "bv": "b͡v",
+    "dz": "d͡z",
+    "gb": "ɡ͡b",
+    "gh": "ɣ",
+    "ghv": "ɣ͡v",
+    "gv": "ɡ͡v",
+    "gw": "ɡʷ",
+    "jw": "d͡ʒʷ",
+    "kf": "k͡f",
+    "kp": "k͡p",
+    "kw": "kʷ",
+    "mb": "ᵐb",
+    "mbv": "ᵐb͡v",
+    "mf": "ᵐf",
+    "mt": "ᵐt",
+    "mv": "m͡v",
+    "ndz": "ⁿd͡z",
+    "nj": "ⁿd͡ʒ",
+    "ns": "ⁿs",
+    "nsh": "ⁿʃ",
+    "nt": "ⁿt",
+    "ny": "ɲ",
+    "ŋg": "ᵑɡ",
+    "ŋgv": "ᵑɡ͡v",
+    "ŋgw": "ᵑɡʷ",
+    "ŋk": "ᵑk",
+    "ŋsh": "ᵑʃ",
+    "ŋw": "ŋʷ",
+    "sh": "ʃ",
+    "shw": "ʃʷ",
+    "ts": "t͡s"
   },
-  "diacritics": {
-    "́": "˥",
-    "̂": "˥˩",
-    "̀": "˩",
-    "̌": "˩˥"
-  },
-  "tones": {
-    "high": "acute accent",
-    "high falling": "circumflex accent",
-    "high rising": "unmarked",
-    "mid": "unmarked",
-    "mid-falling": "unmarked",
-    "low": "grave accent",
-    "low-falling": "grave accent",
-    "low-high": "caron"
-  },
-  "notes": "Hartell uses /y/ for IPA [j]. Bracketed items [bv], [ts], [dz], [gv], [mv] indicate phonetic/affricate variants. /k/ is transcribed with graphemes k and kf. The source note lists labialized sequences (kw, shw, gw, jw, ŋw) and prenasalized sequences (mf, ngw, mb, nd, ndz, nj, njw, ns, nsh, nshw, nt, nts, ng, ngw, nk, nkw).",
+  "romanization": {},
+  "diacritics": {},
+  "tones": {},
+  "notes": null,
   "alphabet": [
     "a",
+    "aa",
+    "ay",
     "b",
     "bv",
     "c",
     "d",
     "dz",
     "e",
-    "ə",
+    "ee",
+    "ey",
     "f",
     "g",
     "gb",
     "gh",
     "ghv",
     "gv",
+    "gw",
     "h",
     "i",
+    "ii",
+    "iy",
     "j",
+    "jw",
     "k",
     "kf",
     "kp",
+    "kw",
     "l",
     "m",
+    "mb",
+    "mbv",
+    "mf",
+    "mt",
     "mv",
     "n",
+    "ndz",
+    "nj",
+    "ns",
+    "nsh",
+    "nt",
     "ny",
-    "ŋ",
     "o",
+    "oo",
+    "oy",
     "p",
     "r",
     "s",
     "sh",
+    "shw",
     "t",
     "ts",
     "u",
+    "uu",
+    "uy",
     "v",
     "w",
     "y",
-    "'"
+    "z",
+    "ŋ",
+    "ŋg",
+    "ŋgv",
+    "ŋgw",
+    "ŋk",
+    "ŋsh",
+    "ŋw",
+    "ə",
+    "əy",
+    "əə",
+    "ʼ"
   ],
-  "examples": [
-    {
-      "word": "kibán",
-      "gloss": "pounded yam"
-    },
-    {
-      "word": "bíy",
-      "gloss": "cola nut"
-    },
-    {
-      "word": "bváy",
-      "gloss": "goat"
-    },
-    {
-      "word": "kicí",
-      "gloss": "tree"
-    },
-    {
-      "word": "déŋ",
-      "gloss": "horse tail"
-    },
-    {
-      "word": "dzén",
-      "gloss": "to dance"
-    },
-    {
-      "word": "bé'",
-      "gloss": "to carry"
-    },
-    {
-      "word": "sɔ",
-      "gloss": "fish"
-    },
-    {
-      "word": "faáy",
-      "gloss": "compound chief"
-    },
-    {
-      "word": "go'",
-      "gloss": "to remain"
-    },
-    {
-      "word": "gbu",
-      "gloss": "to fall"
-    },
-    {
-      "word": "ghán",
-      "gloss": "to travel"
-    },
-    {
-      "word": "ghvəm",
-      "gloss": "ten"
-    },
-    {
-      "word": "gvə́tí",
-      "gloss": "to bow"
-    },
-    {
-      "word": "haàn",
-      "gloss": "I don't know"
-    },
-    {
-      "word": "kíy",
-      "gloss": "fireplace"
-    },
-    {
-      "word": "jum",
-      "gloss": "to chase"
-    },
-    {
-      "word": "kán",
-      "gloss": "monkey"
-    },
-    {
-      "word": "kfə̀'",
-      "gloss": "weevil"
-    },
-    {
-      "word": "kpú",
-      "gloss": "to die"
-    },
-    {
-      "word": "lá'",
-      "gloss": "compound"
-    },
-    {
-      "word": "ma'",
-      "gloss": "to throw"
-    },
-    {
-      "word": "mvən",
-      "gloss": "arrow"
-    },
-    {
-      "word": "nà'",
-      "gloss": "cow"
-    },
-    {
-      "word": "nyám",
-      "gloss": "animal"
-    },
-    {
-      "word": "ŋár",
-      "gloss": "to lift"
-    },
-    {
-      "word": "kóm",
-      "gloss": "to peel"
-    },
-    {
-      "word": "pan",
-      "gloss": "pan, dish"
-    },
-    {
-      "word": "ru'",
-      "gloss": "raffia"
-    },
-    {
-      "word": "su",
-      "gloss": "to wash"
-    },
-    {
-      "word": "shuu",
-      "gloss": "mouth"
-    },
-    {
-      "word": "tán",
-      "gloss": "hat"
-    },
-    {
-      "word": "tsóy",
-      "gloss": "to knock"
-    },
-    {
-      "word": "kún",
-      "gloss": "tail"
-    },
-    {
-      "word": "vín",
-      "gloss": "breast"
-    },
-    {
-      "word": "wán",
-      "gloss": "child"
-    },
-    {
-      "word": "yí",
-      "gloss": "to eat"
-    },
-    {
-      "word": "tú'",
-      "gloss": "potatoes"
-    }
-  ]
+  "examples": []
 }

@@ -1,0 +1,541 @@
+{
+  "language": "Yiddish",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "א",
+      "ipa": "",
+      "script": "native"
+    },
+    {
+      "grapheme": "אַ",
+      "ipa": "a",
+      "script": "native"
+    },
+    {
+      "grapheme": "אָ",
+      "ipa": "ɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ב",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "בֿ",
+      "ipa": "v",
+      "script": "native"
+    },
+    {
+      "grapheme": "ג",
+      "ipa": "ɡ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ד",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ה",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "ו",
+      "ipa": "ʊ",
+      "script": "native"
+    },
+    {
+      "grapheme": "וּ",
+      "ipa": "ʊ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ז",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "ח",
+      "ipa": "x",
+      "script": "native"
+    },
+    {
+      "grapheme": "ט",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "י",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "כּ",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "כ",
+      "ipa": "x",
+      "script": "native"
+    },
+    {
+      "grapheme": "ך",
+      "ipa": "x",
+      "script": "native"
+    },
+    {
+      "grapheme": "ל",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "מ",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "ם",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "נ",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ן",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ס",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ע",
+      "ipa": "ɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "פּ",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "פֿ",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "ף",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "צ",
+      "ipa": "ts",
+      "script": "native"
+    },
+    {
+      "grapheme": "ץ",
+      "ipa": "ts",
+      "script": "native"
+    },
+    {
+      "grapheme": "ק",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "ר",
+      "ipa": "ʀ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ש",
+      "ipa": "ʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "שׂ",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "תּ",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ת",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "װ",
+      "ipa": "v",
+      "script": "native"
+    },
+    {
+      "grapheme": "זש",
+      "ipa": "ʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "דזש",
+      "ipa": "d͡ʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "טש",
+      "ipa": "t͡ʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "וי",
+      "ipa": "ɔj",
+      "script": "native"
+    },
+    {
+      "grapheme": "ײ",
+      "ipa": "ɛj",
+      "script": "native"
+    },
+    {
+      "grapheme": "ײַ",
+      "ipa": "aj",
+      "script": "native"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "ts",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ʀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zh",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dzh",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tsh",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oy",
+      "ipa": "ɔj",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ey",
+      "ipa": "ɛj",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ay",
+      "ipa": "aj",
+      "script": "latin"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "א",
+      "latin": "-"
+    },
+    {
+      "native": "אַ",
+      "latin": "a"
+    },
+    {
+      "native": "אָ",
+      "latin": "o"
+    },
+    {
+      "native": "ב",
+      "latin": "b"
+    },
+    {
+      "native": "בֿ",
+      "latin": "v"
+    },
+    {
+      "native": "ג",
+      "latin": "g"
+    },
+    {
+      "native": "ד",
+      "latin": "d"
+    },
+    {
+      "native": "ה",
+      "latin": "h"
+    },
+    {
+      "native": "ו",
+      "latin": "u"
+    },
+    {
+      "native": "וּ",
+      "latin": "u"
+    },
+    {
+      "native": "ז",
+      "latin": "z"
+    },
+    {
+      "native": "ח",
+      "latin": "kh"
+    },
+    {
+      "native": "ט",
+      "latin": "t"
+    },
+    {
+      "native": "י",
+      "latin": "y"
+    },
+    {
+      "native": "כּ",
+      "latin": "k"
+    },
+    {
+      "native": "כ ך",
+      "latin": "kh"
+    },
+    {
+      "native": "ל",
+      "latin": "l"
+    },
+    {
+      "native": "מ ם",
+      "latin": "m"
+    },
+    {
+      "native": "נ ן",
+      "latin": "n"
+    },
+    {
+      "native": "ס",
+      "latin": "s"
+    },
+    {
+      "native": "ע",
+      "latin": "e"
+    },
+    {
+      "native": "פּ",
+      "latin": "p"
+    },
+    {
+      "native": "פֿ ף",
+      "latin": "f"
+    },
+    {
+      "native": "צ ץ",
+      "latin": "ts"
+    },
+    {
+      "native": "ק",
+      "latin": "k"
+    },
+    {
+      "native": "ר",
+      "latin": "r"
+    },
+    {
+      "native": "ש",
+      "latin": "sh"
+    },
+    {
+      "native": "שׂ",
+      "latin": "s"
+    },
+    {
+      "native": "תּ",
+      "latin": "t"
+    },
+    {
+      "native": "ת",
+      "latin": "s"
+    },
+    {
+      "native": "װ",
+      "latin": "v"
+    },
+    {
+      "native": "זש",
+      "latin": "zh"
+    },
+    {
+      "native": "דזש",
+      "latin": "dzh"
+    },
+    {
+      "native": "טש",
+      "latin": "tsh"
+    },
+    {
+      "native": "וי",
+      "latin": "oy"
+    },
+    {
+      "native": "ײ",
+      "latin": "ey"
+    },
+    {
+      "native": "ײַ",
+      "latin": "ay"
+    }
+  ],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+05BF",
+      "role": "rafe (modifies pronunciation, e.g., b -> v, fey -> f)",
+      "ipa": ""
+    },
+    {
+      "mark": "U+05BC",
+      "role": "dagesh (modifies pronunciation, e.g., khof -> kof, pey -> p)",
+      "ipa": ""
+    },
+    {
+      "mark": "U+05B7",
+      "role": "pasekh (vowel vowel quality a)",
+      "ipa": "a"
+    },
+    {
+      "mark": "U+05B8",
+      "role": "komets (vowel quality o)",
+      "ipa": "ɔ"
+    }
+  ],
+  "notes": "Yiddish is written in a modified Hebrew alphabet with specific digraphs and diacritics used as standard vowels/consonants.",
+  "confidence": "high",
+  "iso": "yid",
+  "name": "Yiddish",
+  "country": "ZA",
+  "family": "Indo-European",
+  "slug": "yiddish.xls"
+}

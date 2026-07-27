@@ -1,0 +1,231 @@
+{
+  "language": "Bushi",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɓ",
+      "ipa": "ɓ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɗ",
+      "ipa": "ɗ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n̈",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɗy",
+      "ipa": "ʄ̵",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dj",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dh",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dhw",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dr",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dw",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dz",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ndj",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sw",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tr",
+      "ipa": "β",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tw",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "vh",
+      "ipa": "",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "IPA values were missing in the grid for most digraphs/multigraphs under 'Other letters'. [β] is positioned under column 5 (tr) in the grid, though it may be intended for another labial digraph.",
+  "confidence": "medium",
+  "iso": "buc",
+  "name": "Bushi",
+  "country": "YT",
+  "family": "Austronesian",
+  "slug": "bushi.xls"
+}

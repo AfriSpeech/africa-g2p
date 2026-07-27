@@ -1,0 +1,271 @@
+{
+  "language": "Kinyarwanda",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "β",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "cy",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "jy",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pf",
+      "ipa": "p͡f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "t͡s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bw",
+      "ipa": "bɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "by",
+      "ipa": "bɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "cw",
+      "ipa": "t͡ʃkw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dw",
+      "ipa": "dɡw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dy",
+      "ipa": "dɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "fw",
+      "ipa": "fk",
+      "script": "latin"
+    },
+    {
+      "grapheme": "jw",
+      "ipa": "ʒɡw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mw",
+      "ipa": "mŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "my",
+      "ipa": "mɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nw",
+      "ipa": "nŋw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pfw",
+      "ipa": "p͡fk",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pw",
+      "ipa": "pk",
+      "script": "latin"
+    },
+    {
+      "grapheme": "py",
+      "ipa": "pc",
+      "script": "latin"
+    },
+    {
+      "grapheme": "rw",
+      "ipa": "ɾɡw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ry",
+      "ipa": "ɾɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "shw",
+      "ipa": "ʃkw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sw",
+      "ipa": "skw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sy",
+      "ipa": "sc",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tsw",
+      "ipa": "t͡skw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tw",
+      "ipa": "tkw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ty",
+      "ipa": "tc",
+      "script": "latin"
+    },
+    {
+      "grapheme": "vw",
+      "ipa": "vɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zw",
+      "ipa": "zɡw",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Where multiple IPA variants were given (separated by slashes), only the first variant was selected per instructions.",
+  "confidence": "high",
+  "iso": "kin",
+  "name": "Kinyarwanda",
+  "country": "BI",
+  "family": "Atlantic-Congo",
+  "slug": "kinyarwanda.xls"
+}

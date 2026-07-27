@@ -1,0 +1,221 @@
+{
+  "language": "Kirundi",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "[a]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "[β]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "[t͡ʃ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "[d]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "[e]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "[f]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "[ɡ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "[h]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "[i]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "[d͡ʒ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "[k]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "[l]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "[m]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "[n]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "[o]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "[p]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "[ɾ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "[s]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "[t]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "[u]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "[ᵇv]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "[w]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "[j]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "[ᵈz]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bw",
+      "ipa": "[bᵍ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bg",
+      "ipa": "[bᵍ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "cy",
+      "ipa": "[kʲ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "jy",
+      "ipa": "[ɡʲ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "[ᵐb]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mp",
+      "ipa": "[ᵐp]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nk",
+      "ipa": "[ŋx]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nn",
+      "ipa": "[nː]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nt",
+      "ipa": "[nh]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "[ɲ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "rw",
+      "ipa": "[ɾᵍw]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ry",
+      "ipa": "[ɾᵍj]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "rty",
+      "ipa": "[ɾtʲ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "[ʃ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "shy",
+      "ipa": "[ʆ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sw",
+      "ipa": "[sᵏw]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sy",
+      "ipa": "[sᵏj]",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Slash-separated alternative pronunciations were resolved to the first option according to instructions. Combined entry bw/bg was split into two separate graphemes sharing the same IPA.",
+  "confidence": "high",
+  "iso": "run",
+  "name": "Kirundi",
+  "country": "BI",
+  "family": "Atlantic-Congo",
+  "slug": "kirundi.xls"
+}

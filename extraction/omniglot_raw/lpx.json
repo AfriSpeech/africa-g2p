@@ -1,0 +1,161 @@
+{
+  "language": "Lopit",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "ʧ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e~ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f~ɸ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i~ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o~ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u~ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pp",
+      "ipa": "pː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tt",
+      "ipa": "tː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ww",
+      "ipa": "wː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "yy",
+      "ipa": "jː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʼ",
+      "ipa": "ʔ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "",
+  "confidence": "high",
+  "iso": "lpx",
+  "name": "Lopit",
+  "country": "SS",
+  "family": "Nilotic",
+  "slug": "lopit.xls"
+}

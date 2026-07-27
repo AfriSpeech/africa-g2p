@@ -1,0 +1,166 @@
+{
+  "language": "Cape Verdean Creole",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "be",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "se",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "de",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "ɛf(i)",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ʒe",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "ɐˈɡa",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ˈʒɔtɐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "ˈkapɐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "ˈɛl(i)",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "ˈɛm(i)",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "ˈɛn(i)",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pe",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "ke",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ˈɛr(i)",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "ˈɛs(i)",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "te",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "ve",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "ˈdɐbliu",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ʃiz",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "ˈipsilɔn",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "ze",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dj",
+      "ipa": "ʤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "lh",
+      "ipa": "ʎ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nh",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tx",
+      "ipa": "ʧ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Rows 2, 5, and 8 provide the pronunciations of the letter names in IPA rather than individual phoneme values for consonant singletons. Rows 11-12 list digraphs with explicit phoneme IPA values.",
+  "confidence": "medium",
+  "iso": "kea",
+  "name": "Cape Verdean Creole",
+  "country": "CV",
+  "family": "Indo-European",
+  "slug": "capeverdeancreole.xls"
+}

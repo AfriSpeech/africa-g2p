@@ -1,0 +1,246 @@
+{
+  "language": "Luchazi",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɹ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "β",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ai",
+      "ipa": "aɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "au",
+      "ipa": "aʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ei",
+      "ipa": "eɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ia",
+      "ipa": "i̯a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ie",
+      "ipa": "i̯e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "io",
+      "ipa": "i̯o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "iu",
+      "ipa": "i̯u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "ᵐb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mp",
+      "ipa": "ᵐpʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nc",
+      "ipa": "ᶮt͡ʃʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "ⁿd",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ᵑɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nj",
+      "ipa": "ᶮd͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nk",
+      "ipa": "ᵑkʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nt",
+      "ipa": "ⁿtʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nts",
+      "ipa": "ⁿt͡ʃʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "t͡s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ua",
+      "ipa": "u̯a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ue",
+      "ipa": "u̯e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ui",
+      "ipa": "u̯i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uo",
+      "ipa": "u̯o",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Luchazi is written in the Latin alphabet. Where multiple IPA variants were listed (e.g. [d/d̺/ð]), the first alternative was selected.",
+  "confidence": "high",
+  "iso": "lch",
+  "name": "Luchazi",
+  "country": "AO",
+  "family": "Atlantic-Congo",
+  "slug": "luchazi.xls"
+}

@@ -1,0 +1,256 @@
+{
+  "language": "Cypriot Arabic",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "δ",
+      "ipa": "ð",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ġ",
+      "ipa": "ʤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ċ",
+      "ipa": "ʧ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "θ",
+      "ipa": "θ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ss",
+      "ipa": "ss",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ş",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aw",
+      "ipa": "au",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ay",
+      "ipa": "ai",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bb",
+      "ipa": "bʱ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dz",
+      "ipa": "ʣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ey",
+      "ipa": "ei",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kk",
+      "ipa": "kʰː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mp",
+      "ipa": "mb̥",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nk",
+      "ipa": "ŋg̊",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nt",
+      "ipa": "nd̥",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ntj",
+      "ipa": "nʤ̊",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nts",
+      "ipa": "nʣ̥",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pp",
+      "ipa": "pʰː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "py",
+      "ipa": "pc",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "ʦ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tt",
+      "ipa": "tʰː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ty",
+      "ipa": "ʨ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "xx",
+      "ipa": "χː",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": null,
+  "confidence": "high",
+  "iso": "ara",
+  "name": "Cypriot Arabic",
+  "country": "CF",
+  "family": "Afro-Asiatic",
+  "slug": "arabic_cypriot.xls"
+}

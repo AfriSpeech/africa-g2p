@@ -1,53 +1,95 @@
 {
   "code": "swh",
   "name": "Swahili",
-  "country": "Kenya",
-  "family": "Bantu",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 120",
-  "confidence": "high",
+  "country": "BI",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (swahili.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "ch",
+      "d",
+      "dh",
+      "e",
+      "f",
+      "g",
+      "gh",
+      "h",
+      "i",
+      "j",
+      "k",
+      "kh",
+      "l",
+      "m",
+      "mb",
+      "mv",
+      "n",
+      "nd",
+      "ng",
+      "ng'",
+      "nj",
+      "ny",
+      "nz",
+      "o",
+      "p",
+      "r",
+      "s",
+      "sh",
+      "t",
+      "th",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z"
+    ]
+  },
   "graphemes": {
-    "p": "p",
-    "b": "b",
-    "t": "t",
-    "d": "d",
-    "ch": "tʃ",
-    "c": "tʃ",
-    "j": "ɟ",
-    "k": "k",
-    "g": "ɡ",
-    "m": "m",
-    "mb": "mb",
-    "mv": "mv",
-    "n": "n",
-    "nd": "nd",
-    "nz": "nz",
-    "ny": "ɲ",
-    "nj": "ɲɟ",
-    "ng'": "ŋ",
-    "ng": "ŋɡ",
+    "a": "ɑ",
+    "b": "ɓ",
+    "ch": "ʧ",
+    "d": "ɗ",
+    "e": "ɛ",
     "f": "f",
-    "v": "v",
-    "s": "s",
-    "sh": "ʃ",
-    "z": "z",
-    "l": "l",
-    "r": "r",
-    "kh": "x",
-    "gh": "ɣ",
-    "th": "θ",
-    "dh": "ð",
+    "g": "ɠ",
     "h": "h",
+    "i": "i",
+    "j": "ʄ",
+    "k": "k",
+    "l": "l",
+    "m": "m",
+    "n": "n",
+    "o": "ɔ",
+    "p": "p",
+    "r": "r",
+    "s": "s",
+    "t": "t",
+    "u": "u",
+    "v": "v",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "e": "ɛ",
-    "a": "a",
-    "u": "u",
-    "o": "ɔ"
+    "z": "z",
+    "dh": "ð",
+    "gh": "ɣ",
+    "kh": "x",
+    "mb": "ᵐb",
+    "mv": "ᶬv",
+    "nd": "ⁿd",
+    "ng": "ᵑɡ",
+    "ng'": "ŋ",
+    "nj": "ⁿdʒ",
+    "ny": "ɲ",
+    "nz": "ⁿz",
+    "sh": "ʃ",
+    "th": "θ"
   },
+  "romanization": {},
   "diacritics": {},
-  "tones": null,
-  "notes": "Hartell's /y/ mapped to IPA /j/. *th, dh, kh, and gh are found in Arabic loanwords only. Swahili is not a tone language but has predictable stress on the penultimate syllable of every polysyllabic word. Any sequence of two like or unlike vowels is interpreted as two separate syllables. Palatalization: CyV, Labialization: CwV.",
+  "tones": {},
+  "notes": "IPA alternatives separated by slashes (e.g., aspirates like [k/kʰ]) were truncated to the first IPA alternative as instructed.",
   "alphabet": [
     "a",
     "b",
@@ -87,150 +129,5 @@
     "y",
     "z"
   ],
-  "examples": [
-    {
-      "word": "mpaka",
-      "gloss": "boundary"
-    },
-    {
-      "word": "barua",
-      "gloss": "letter"
-    },
-    {
-      "word": "chumvi",
-      "gloss": "salt"
-    },
-    {
-      "word": "dada",
-      "gloss": "sister"
-    },
-    {
-      "word": "dhahabu",
-      "gloss": "gold"
-    },
-    {
-      "word": "pete",
-      "gloss": "ring"
-    },
-    {
-      "word": "fagio",
-      "gloss": "broom"
-    },
-    {
-      "word": "mgeni",
-      "gloss": "guest"
-    },
-    {
-      "word": "lugha",
-      "gloss": "language"
-    },
-    {
-      "word": "homa",
-      "gloss": "fever"
-    },
-    {
-      "word": "ndizi",
-      "gloss": "banana"
-    },
-    {
-      "word": "jembe",
-      "gloss": "hoe"
-    },
-    {
-      "word": "kikombe",
-      "gloss": "cup"
-    },
-    {
-      "word": "lugha",
-      "gloss": "language"
-    },
-    {
-      "word": "meza",
-      "gloss": "table"
-    },
-    {
-      "word": "mbegu",
-      "gloss": "seeds"
-    },
-    {
-      "word": "mvua",
-      "gloss": "rain"
-    },
-    {
-      "word": "nazi",
-      "gloss": "coconut"
-    },
-    {
-      "word": "ndizi",
-      "gloss": "banana"
-    },
-    {
-      "word": "nguo",
-      "gloss": "clothes"
-    },
-    {
-      "word": "ng'ombe",
-      "gloss": "cow"
-    },
-    {
-      "word": "njaa",
-      "gloss": "hunger"
-    },
-    {
-      "word": "nyoka",
-      "gloss": "snake"
-    },
-    {
-      "word": "nzige",
-      "gloss": "locust"
-    },
-    {
-      "word": "ndoto",
-      "gloss": "dream"
-    },
-    {
-      "word": "paka",
-      "gloss": "cat"
-    },
-    {
-      "word": "rafiki",
-      "gloss": "friend"
-    },
-    {
-      "word": "sikio",
-      "gloss": "ear"
-    },
-    {
-      "word": "shamba",
-      "gloss": "plantation"
-    },
-    {
-      "word": "twiga",
-      "gloss": "giraffe"
-    },
-    {
-      "word": "hadithi",
-      "gloss": "story"
-    },
-    {
-      "word": "ndugu",
-      "gloss": "brother"
-    },
-    {
-      "word": "viazi",
-      "gloss": "potatoes"
-    },
-    {
-      "word": "wimbo",
-      "gloss": "song"
-    },
-    {
-      "word": "yai",
-      "gloss": "egg"
-    },
-    {
-      "word": "mzigo",
-      "gloss": "luggage"
-    }
-  ]
+  "examples": []
 }

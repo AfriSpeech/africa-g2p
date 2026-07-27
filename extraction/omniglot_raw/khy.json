@@ -1,0 +1,569 @@
+{
+  "language": "Kili",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "а",
+      "ipa": "a",
+      "script": "native"
+    },
+    {
+      "grapheme": "а̄",
+      "ipa": "a:",
+      "script": "native"
+    },
+    {
+      "grapheme": "б",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "в",
+      "ipa": "v",
+      "script": "native"
+    },
+    {
+      "grapheme": "г",
+      "ipa": "g",
+      "script": "native"
+    },
+    {
+      "grapheme": "ӷ",
+      "ipa": "ɣ",
+      "script": "native"
+    },
+    {
+      "grapheme": "д",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "дь",
+      "ipa": "dj",
+      "script": "native"
+    },
+    {
+      "grapheme": "е",
+      "ipa": "e",
+      "script": "native"
+    },
+    {
+      "grapheme": "е̄",
+      "ipa": "e:",
+      "script": "native"
+    },
+    {
+      "grapheme": "з",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "ӡ",
+      "ipa": "dʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "и",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "ӣ",
+      "ipa": "i:",
+      "script": "native"
+    },
+    {
+      "grapheme": "і",
+      "ipa": "ị",
+      "script": "native"
+    },
+    {
+      "grapheme": "ј",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "к",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "қ",
+      "ipa": "q",
+      "script": "native"
+    },
+    {
+      "grapheme": "л",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "м",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "н",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "нь",
+      "ipa": "ń",
+      "script": "native"
+    },
+    {
+      "grapheme": "ң",
+      "ipa": "ŋ",
+      "script": "native"
+    },
+    {
+      "grapheme": "о",
+      "ipa": "o",
+      "script": "native"
+    },
+    {
+      "grapheme": "о̄",
+      "ipa": "o:",
+      "script": "native"
+    },
+    {
+      "grapheme": "п",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "р",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "с",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ть",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ть",
+      "ipa": "tj",
+      "script": "native"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "u",
+      "script": "native"
+    },
+    {
+      "grapheme": "ӯ",
+      "ipa": "u:",
+      "script": "native"
+    },
+    {
+      "grapheme": "ẏ",
+      "ipa": "ụ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ф",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "х",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "ҳ",
+      "ipa": "χ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ч",
+      "ipa": "č",
+      "script": "native"
+    },
+    {
+      "grapheme": "э",
+      "ipa": "ə",
+      "script": "native"
+    },
+    {
+      "grapheme": "э̄",
+      "ipa": "ə:",
+      "script": "native"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ā",
+      "ipa": "a:",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ġ",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dj",
+      "ipa": "dj",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ē",
+      "ipa": "e:",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dž",
+      "ipa": "dʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ī",
+      "ipa": "i:",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ị",
+      "ipa": "ị",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ń",
+      "ipa": "ń",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ō",
+      "ipa": "o:",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tj",
+      "ipa": "tj",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ū",
+      "ipa": "u:",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ụ",
+      "ipa": "ụ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "χ",
+      "ipa": "χ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "č",
+      "ipa": "č",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ə",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ə̄",
+      "ipa": "ə:",
+      "script": "latin"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "а",
+      "latin": "a"
+    },
+    {
+      "native": "а̄",
+      "latin": "ā"
+    },
+    {
+      "native": "б",
+      "latin": "b"
+    },
+    {
+      "native": "в",
+      "latin": "v"
+    },
+    {
+      "native": "г",
+      "latin": "g"
+    },
+    {
+      "native": "ӷ",
+      "latin": "ġ"
+    },
+    {
+      "native": "д",
+      "latin": "d"
+    },
+    {
+      "native": "дь",
+      "latin": "dj"
+    },
+    {
+      "native": "е",
+      "latin": "e"
+    },
+    {
+      "native": "е̄",
+      "latin": "ē"
+    },
+    {
+      "native": "з",
+      "latin": "z"
+    },
+    {
+      "native": "ӡ",
+      "latin": "dž"
+    },
+    {
+      "native": "и",
+      "latin": "i"
+    },
+    {
+      "native": "ӣ",
+      "latin": "ī"
+    },
+    {
+      "native": "і",
+      "latin": "ị"
+    },
+    {
+      "native": "ј",
+      "latin": "j"
+    },
+    {
+      "native": "к",
+      "latin": "k"
+    },
+    {
+      "native": "қ",
+      "latin": "q"
+    },
+    {
+      "native": "л",
+      "latin": "l"
+    },
+    {
+      "native": "м",
+      "latin": "m"
+    },
+    {
+      "native": "н",
+      "latin": "n"
+    },
+    {
+      "native": "нь",
+      "latin": "ń"
+    },
+    {
+      "native": "ң",
+      "latin": "ŋ"
+    },
+    {
+      "native": "о",
+      "latin": "o"
+    },
+    {
+      "native": "о̄",
+      "latin": "ō"
+    },
+    {
+      "native": "п",
+      "latin": "p"
+    },
+    {
+      "native": "р",
+      "latin": "r"
+    },
+    {
+      "native": "с",
+      "latin": "s"
+    },
+    {
+      "native": "ть",
+      "latin": "t"
+    },
+    {
+      "native": "ть",
+      "latin": "tj"
+    },
+    {
+      "native": "y",
+      "latin": "u"
+    },
+    {
+      "native": "ӯ",
+      "latin": "ū"
+    },
+    {
+      "native": "ẏ",
+      "latin": "ụ"
+    },
+    {
+      "native": "ф",
+      "latin": "f"
+    },
+    {
+      "native": "х",
+      "latin": "h"
+    },
+    {
+      "native": "ҳ",
+      "latin": "χ"
+    },
+    {
+      "native": "ч",
+      "latin": "č"
+    },
+    {
+      "native": "э",
+      "latin": "ə"
+    },
+    {
+      "native": "э̄",
+      "latin": "ə̄"
+    }
+  ],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0304",
+      "role": "vowel length",
+      "ipa": ":"
+    }
+  ],
+  "notes": "Row 6 contains duplicate 'ТЬ ть' entries for both [t] and [tj]; the first was likely intended as 'Т т'. Script uses Cyrillic characters along with Latin 'y' and 'ẏ' for high back vowels.",
+  "confidence": "medium",
+  "iso": "khy",
+  "name": "Kili",
+  "country": "CD",
+  "family": "Atlantic-Congo",
+  "slug": "kili.xls"
+}

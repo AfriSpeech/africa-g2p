@@ -1,0 +1,201 @@
+{
+  "language": "Bulu",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "[a]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "[b]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "[t͡ʃ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "[d]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "[ə]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ə",
+      "ipa": "[ə]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "[f]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "[g]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "[h]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "[i]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "[d͡ʒ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "[k]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "[l]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "[m]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "[n]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñ",
+      "ipa": "[ŋ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "[ŋ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "[ɔ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ô",
+      "ipa": "[o]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "[ɔ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "[p]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "[r]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "[s]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "[t]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "[u]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "[v]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "[w]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "[j]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "[z]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "[ɲ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’",
+      "ipa": "[ʔ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aé",
+      "ipa": "[ai]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "é",
+      "ipa": "[e]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oé",
+      "ipa": "[ɔi]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ôé",
+      "ipa": "[oi]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "[ɡ͡b]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "[k͡p]",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Chart contains two orthographies for Bulu: Alphabet de l'EPC and Alphabet PROPELCA. EPC uses 'e' for [ə], 'o' for [ɔ], 'ô' for [o], and 'ñ' for [ŋ], whereas PROPELCA uses 'ə' for [ə], 'e' for [e], 'ɔ' for [ɔ], 'o' for [o], and 'ŋ' for [ŋ].",
+  "confidence": "high",
+  "iso": "bum",
+  "name": "Bulu",
+  "country": "CM",
+  "family": "Atlantic-Congo",
+  "slug": "bulu.xls"
+}

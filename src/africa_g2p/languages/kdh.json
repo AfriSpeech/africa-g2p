@@ -1,68 +1,100 @@
 {
   "code": "kdh",
-  "name": "Tem (Kotokoli)",
-  "country": "Togo",
-  "family": "Gur",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 65",
-  "confidence": "high",
+  "name": "Tem",
+  "country": "BJ",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (tem.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "h",
+      "i",
+      "j",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "n",
+      "ny",
+      "o",
+      "p",
+      "r",
+      "s",
+      "t",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ŋ",
+      "ŋm",
+      "ɔ",
+      "ɖ",
+      "ɛ",
+      "ɩ",
+      "ʋ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
+    "c": "ʧ",
     "d": "d",
     "ɖ": "ɖ",
-    "c": "t͡ʃ",
-    "j": "d͡ʒ",
-    "k": "k",
+    "e": "e",
+    "ɛ": "ɛ",
+    "f": "f",
     "g": "ɡ",
-    "kp": "k͡p",
     "gb": "ɡ͡b",
+    "h": "h",
+    "i": "i",
+    "ɩ": "ɪ",
+    "j": "ʤ",
+    "k": "k",
+    "kp": "k͡p",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ny": "ɲ",
     "ŋ": "ŋ",
-    "ŋm": "ŋ͡m",
-    "f": "f",
-    "v": "v",
-    "s": "s",
-    "z": "z",
-    "l": "l",
+    "ŋm": "ŋm",
+    "o": "o",
+    "ɔ": "ɔ",
+    "p": "p",
     "r": "r",
-    "h": "h",
+    "s": "s",
+    "t": "t",
+    "u": "u",
+    "ʋ": "ʊ",
+    "v": "v",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "ɩ": "ɪ",
-    "e": "e",
-    "ɛ": "ɛ",
-    "a": "a",
-    "u": "u",
-    "ʊ": "ʊ",
-    "o": "o",
-    "ɔ": "ɔ"
+    "z": "z"
   },
-  "diacritics": {
-    "́": "˥"
-  },
-  "tones": {
-    "high": "acute accent",
-    "low": "unmarked"
-  },
-  "notes": "Hartell uses /tʃ/ for 'c', /dʒ/ for 'j', /ɖ/ for retroflex voiced stop 'ɖ', and /ɩ/, /ʊ/ for near-close near-front/back vowels. All rendered into standard IPA.",
+  "romanization": {},
+  "diacritics": {},
+  "tones": {},
+  "notes": null,
   "alphabet": [
     "a",
     "b",
     "c",
     "d",
-    "ɖ",
     "e",
-    "ɛ",
     "f",
     "g",
     "gb",
     "h",
     "i",
-    "ɩ",
     "j",
     "k",
     "kp",
@@ -70,157 +102,23 @@
     "m",
     "n",
     "ny",
-    "ŋ",
-    "ŋm",
     "o",
-    "ɔ",
     "p",
     "r",
     "s",
     "t",
     "u",
-    "ʊ",
     "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ŋ",
+    "ŋm",
+    "ɔ",
+    "ɖ",
+    "ɛ",
+    "ɩ",
+    "ʋ"
   ],
-  "examples": [
-    {
-      "word": "aláa",
-      "gloss": "women"
-    },
-    {
-      "word": "abaaláa",
-      "gloss": "men"
-    },
-    {
-      "word": "cááwéle",
-      "gloss": "tortoise"
-    },
-    {
-      "word": "adálá",
-      "gloss": "fonio (grain)"
-    },
-    {
-      "word": "ɖeére",
-      "gloss": "horse"
-    },
-    {
-      "word": "téére",
-      "gloss": "warthog"
-    },
-    {
-      "word": "cɛɛcɛ́",
-      "gloss": "bicycle"
-    },
-    {
-      "word": "féɖe",
-      "gloss": "hoe"
-    },
-    {
-      "word": "gádó",
-      "gloss": "bed"
-    },
-    {
-      "word": "gbégidi",
-      "gloss": "bucket"
-    },
-    {
-      "word": "háma",
-      "gloss": "hammer"
-    },
-    {
-      "word": "nimíni",
-      "gloss": "fire"
-    },
-    {
-      "word": "tíínɩ",
-      "gloss": "trees"
-    },
-    {
-      "word": "jɛnté",
-      "gloss": "25 francs"
-    },
-    {
-      "word": "kéké",
-      "gloss": "peanut"
-    },
-    {
-      "word": "kpákpafíi",
-      "gloss": "duck"
-    },
-    {
-      "word": "lééma",
-      "gloss": "umbrella"
-    },
-    {
-      "word": "mulá",
-      "gloss": "millet"
-    },
-    {
-      "word": "niiká",
-      "gloss": "finger"
-    },
-    {
-      "word": "nyɩmérɛ",
-      "gloss": "arrow"
-    },
-    {
-      "word": "laŋá",
-      "gloss": "gourd"
-    },
-    {
-      "word": "ŋmɛné",
-      "gloss": "okra"
-    },
-    {
-      "word": "dóm",
-      "gloss": "snake"
-    },
-    {
-      "word": "fɔ́ɔ",
-      "gloss": "dog"
-    },
-    {
-      "word": "páya",
-      "gloss": "avocado"
-    },
-    {
-      "word": "rééza",
-      "gloss": "razor blade"
-    },
-    {
-      "word": "sɔ́ɔ́",
-      "gloss": "knife"
-    },
-    {
-      "word": "táka",
-      "gloss": "frog"
-    },
-    {
-      "word": "túu",
-      "gloss": "elephant"
-    },
-    {
-      "word": "túʊ",
-      "gloss": "bee"
-    },
-    {
-      "word": "nʊvórɛ",
-      "gloss": "foot"
-    },
-    {
-      "word": "wolú",
-      "gloss": "mouse"
-    },
-    {
-      "word": "yélɛ",
-      "gloss": "egg"
-    },
-    {
-      "word": "ɩzírɛ",
-      "gloss": "eye"
-    }
-  ]
+  "examples": []
 }

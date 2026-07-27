@@ -1,0 +1,221 @@
+{
+  "language": "Wobé",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "t͡ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "ɡ͡b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɩ",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "k͡p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʊ",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "an",
+      "ipa": "ã",
+      "script": "latin"
+    },
+    {
+      "grapheme": "en",
+      "ipa": "ẽ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛn",
+      "ipa": "ɛ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "in",
+      "ipa": "ĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɩn",
+      "ipa": "ɪ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "on",
+      "ipa": "õ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔn",
+      "ipa": "ɔ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "un",
+      "ipa": "ũ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʊn",
+      "ipa": "ʊ̃",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "\" (prefix)": "˥",
+    "' (prefix)": "˦",
+    "unmarked": "˧",
+    "- (prefix)": "˨",
+    "- (suffix)": "˩",
+    "- (prefix) + \" (suffix)": "˨˥",
+    "- (prefix) + ' (suffix)": "˨˧",
+    "\" (suffix)": "˧˥",
+    "' (suffix)": "˧˦",
+    "\" (prefix) + - (suffix)": "˥˩",
+    "' (prefix) + - (suffix)": "˦˩",
+    "- (suffix, contour)": "˧˩",
+    "- (prefix) + - (suffix)": "˨˩"
+  },
+  "diacritics": [
+    {
+      "mark": "n",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "notes": "Tone system is indicated using pre- and post-fixed punctuation marks (double quote, single quote, hyphen). The tone contour [˨˩/˨˧˩] was simplified to the first alternative [˨˩].",
+  "confidence": "high",
+  "iso": "wob",
+  "name": "Wobé",
+  "country": "CI",
+  "family": "Kru",
+  "slug": "wobe.xls"
+}

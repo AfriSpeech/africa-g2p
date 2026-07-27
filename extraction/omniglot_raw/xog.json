@@ -1,0 +1,316 @@
+{
+  "language": "Soga",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "β",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bw",
+      "ipa": "βʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "by",
+      "ipa": "βʲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dh",
+      "ipa": "d̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gh",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "gʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gy",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ky",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "ɺ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "ᵐb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mp",
+      "ipa": "ᵐp",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mw",
+      "ipa": "mʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "ⁿd",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ndw",
+      "ipa": "ⁿdʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nf",
+      "ipa": "ᶬf",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nh",
+      "ipa": "ⁿh",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nhw",
+      "ipa": "ⁿhʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nw",
+      "ipa": "nʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nk",
+      "ipa": "ᵑk",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nkw",
+      "ipa": "ᵑkʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "t̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "shy",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sy",
+      "ipa": "sʲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tw",
+      "ipa": "tʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ty",
+      "ipa": "tʲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zw",
+      "ipa": "zʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zy",
+      "ipa": "zʲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aa",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ai",
+      "ipa": "aɪ̯",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bb",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ee",
+      "ipa": "ɛː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ei",
+      "ipa": "ɛɪ̯",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ii",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oo",
+      "ipa": "ɔː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oi",
+      "ipa": "ɔɪ̯",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uu",
+      "ipa": "uː",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Includes digraphs, trigraphs, Labialized/Palatalized variants, prenasalized consonants, and long/diphthong vowel combinations under 'Other letters'.",
+  "confidence": "high",
+  "iso": "xog",
+  "name": "Soga",
+  "country": "UG",
+  "family": "Atlantic-Congo",
+  "slug": "soga.xls"
+}

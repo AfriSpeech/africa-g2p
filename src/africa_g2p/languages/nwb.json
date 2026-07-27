@@ -1,72 +1,122 @@
 {
   "code": "nwb",
-  "name": "Niaboua",
-  "country": "Côte d'Ivoire",
+  "name": "Nyabwa",
+  "country": "CI",
   "family": "Kru",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 108",
-  "confidence": "high",
+  "source": "Omniglot chart (nyabwa.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "an",
+      "b",
+      "bh",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "gw",
+      "i",
+      "in",
+      "j",
+      "k",
+      "kp",
+      "kw",
+      "l",
+      "m",
+      "n",
+      "ng",
+      "ny",
+      "o",
+      "p",
+      "r",
+      "s",
+      "t",
+      "u",
+      "un",
+      "w",
+      "y",
+      "z",
+      "ɔ",
+      "ɔn",
+      "ɛ",
+      "ɛn",
+      "ɩ",
+      "ɩn",
+      "ʊ",
+      "ʊn"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
     "bh": "ɓ",
-    "t": "t",
-    "d": "d",
     "c": "c",
-    "j": "ɟ",
-    "k": "k",
-    "g": "ɡ",
-    "kw": "kʷ",
-    "gw": "ɡʷ",
-    "kp": "k͡p",
-    "gb": "ɡ͡b",
-    "m": "m",
-    "n": "n",
-    "ny": "ɲ",
-    "ng": "ŋ",
-    "f": "f",
-    "v": "v",
-    "s": "s",
-    "z": "z",
-    "l": "l",
-    "r": "l",
-    "w": "w",
-    "y": "j",
-    "i": "i",
-    "ɩ": "ɪ",
+    "d": "d",
     "e": "e",
     "ɛ": "ɛ",
-    "a": "a",
+    "f": "f",
+    "g": "ɡ",
+    "gb": "ɡ͡b",
+    "gw": "ɡʷ",
+    "i": "i",
+    "ɩ": "ɪ",
+    "j": "ɟ",
+    "k": "k",
+    "kp": "k͡p",
+    "kw": "kʷ",
+    "l": "l",
+    "m": "m",
+    "n": "n",
+    "ng": "ŋ",
+    "ny": "ɲ",
+    "o": "o",
+    "ɔ": "ɔ",
+    "p": "p",
+    "r": "ɾ",
+    "s": "s",
+    "t": "t",
     "u": "u",
     "ʊ": "ʊ",
-    "o": "o",
-    "ɔ": "ɔ"
+    "w": "w",
+    "y": "j",
+    "z": "z",
+    "an": "ã",
+    "ɛn": "ɛ̃",
+    "in": "ĩ",
+    "ɩn": "ɪ̃",
+    "ɔn": "ɔ̃",
+    "un": "ũ",
+    "ʊn": "ʊ̃"
   },
+  "romanization": {},
   "diacritics": {
-    "\"": "˥˥",
-    "'": "˥",
-    "-": "˩"
+    "n": "̃"
   },
   "tones": {
-    "very high": "preposed double quote (\")",
-    "high": "preposed single quote (')",
-    "mid": "unmarked",
-    "low": "preposed hyphen (-)"
+    "High": "Prefix \" (e.g. \"a)",
+    "High-Mid": "Prefix ' (e.g. 'a)",
+    "Mid": "Unmarked (e.g. a)",
+    "Low": "Prefix - (e.g. -a)"
   },
-  "notes": "Hartell uses /ɩ/ for [ɪ], /ɷ/ for [ʊ], and /ɟ/ for /j/ grapheme. Nasalization is written as 'Vn' except after /e/ or /o/. Tone markers are preposed punctuation marks before the morpheme.",
+  "notes": null,
   "alphabet": [
     "a",
+    "an",
     "b",
     "bh",
     "c",
     "d",
     "e",
-    "ɛ",
     "f",
     "g",
     "gb",
     "gw",
     "i",
-    "ɩ",
+    "in",
     "j",
     "k",
     "kp",
@@ -77,154 +127,23 @@
     "ng",
     "ny",
     "o",
-    "ɔ",
     "p",
     "r",
     "s",
     "t",
     "u",
-    "ʊ",
-    "v",
+    "un",
     "w",
     "y",
-    "z"
+    "z",
+    "ɔ",
+    "ɔn",
+    "ɛ",
+    "ɛn",
+    "ɩ",
+    "ɩn",
+    "ʊ",
+    "ʊn"
   ],
-  "examples": [
-    {
-      "word": "''la",
-      "gloss": "to call, name"
-    },
-    {
-      "word": "bi",
-      "gloss": "to encircle"
-    },
-    {
-      "word": "bhʊ",
-      "gloss": "leg"
-    },
-    {
-      "word": "'cʊ",
-      "gloss": "moon"
-    },
-    {
-      "word": "de",
-      "gloss": "to buy"
-    },
-    {
-      "word": "gbe",
-      "gloss": "dog"
-    },
-    {
-      "word": "lɛ",
-      "gloss": "thing"
-    },
-    {
-      "word": "-fanʊ",
-      "gloss": "fear"
-    },
-    {
-      "word": "-go",
-      "gloss": "maize"
-    },
-    {
-      "word": "gbɛ",
-      "gloss": "dog"
-    },
-    {
-      "word": "'gwɛ",
-      "gloss": "chimpanzee"
-    },
-    {
-      "word": "'si",
-      "gloss": "yam"
-    },
-    {
-      "word": "'nyɩ",
-      "gloss": "to give"
-    },
-    {
-      "word": "jʊ",
-      "gloss": "kind of tree"
-    },
-    {
-      "word": "-kobʊ",
-      "gloss": "rice"
-    },
-    {
-      "word": "'kpa",
-      "gloss": "bone"
-    },
-    {
-      "word": "'kwla",
-      "gloss": "bush"
-    },
-    {
-      "word": "lʊ",
-      "gloss": "song"
-    },
-    {
-      "word": "'mʊ",
-      "gloss": "hunger"
-    },
-    {
-      "word": "'ni",
-      "gloss": "water"
-    },
-    {
-      "word": "ngaze",
-      "gloss": "pizie"
-    },
-    {
-      "word": "'nyɩ",
-      "gloss": "to give"
-    },
-    {
-      "word": "-lo",
-      "gloss": "to plant"
-    },
-    {
-      "word": "-kɔ",
-      "gloss": "to command"
-    },
-    {
-      "word": "pi",
-      "gloss": "to prepare"
-    },
-    {
-      "word": "'lrʊ",
-      "gloss": "head"
-    },
-    {
-      "word": "'si",
-      "gloss": "yam"
-    },
-    {
-      "word": "tu",
-      "gloss": "tree"
-    },
-    {
-      "word": "tu",
-      "gloss": "tree"
-    },
-    {
-      "word": "lʊ",
-      "gloss": "song"
-    },
-    {
-      "word": "'vɛn",
-      "gloss": "beard"
-    },
-    {
-      "word": "wlʊ",
-      "gloss": "word"
-    },
-    {
-      "word": "yoʊ",
-      "gloss": "viper"
-    },
-    {
-      "word": "zmi",
-      "gloss": "fish"
-    }
-  ]
+  "examples": []
 }

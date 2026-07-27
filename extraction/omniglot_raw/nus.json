@@ -1,0 +1,217 @@
+{
+  "language": "Nuer",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a̱",
+      "ipa": "a̤",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ä",
+      "ipa": "aˈ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dh",
+      "ipa": "d̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e̱",
+      "ipa": "e̤",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ë",
+      "ipa": "eˈ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ̱",
+      "ipa": "ɛ̤",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ̈",
+      "ipa": "ɛˈ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɣ",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i̱",
+      "ipa": "i̤",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nh",
+      "ipa": "n̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o̱",
+      "ipa": "o̤",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ö",
+      "ipa": "oˈ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ̱",
+      "ipa": "ɔ̤",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "t̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "ṳ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0331",
+      "role": "breathy voice (macron below)",
+      "ipa": "̤"
+    },
+    {
+      "mark": "U+0308",
+      "role": "voice quality modifier (diaeresis)",
+      "ipa": "ˈ"
+    }
+  ],
+  "notes": "Pronunciation example syllables (e.g., ba, ca, da, dha) in rows 1, 4, 7, 10, and 13 were excluded. The language is also known natively as Thok Naath.",
+  "confidence": "high",
+  "iso": "nus",
+  "name": "Nuer",
+  "country": "ET",
+  "family": "Nilotic",
+  "slug": "nuer.xls"
+}

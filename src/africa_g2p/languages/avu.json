@@ -1,77 +1,119 @@
 {
   "code": "avu",
   "name": "Avokaya",
-  "country": "Sudan",
-  "family": "Nilo-Saharan",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 11",
-  "confidence": "high",
+  "country": "CD",
+  "family": "Central Sudanic",
+  "source": "Omniglot chart (avokaya.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "dr",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "h",
+      "i",
+      "j",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "mb",
+      "mv",
+      "n",
+      "nd",
+      "ndr",
+      "ng",
+      "ngb",
+      "nj",
+      "ny",
+      "o",
+      "p",
+      "r",
+      "s",
+      "t",
+      "tr",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ŋ",
+      "ạ",
+      "ị",
+      "’",
+      "’b",
+      "’d",
+      "’w",
+      "’y"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
+    "ạ": "ə",
     "b": "b",
-    "'b": "ɓ",
-    "t": "t",
-    "tr": "tɹ",
+    "’b": "ɓ",
+    "c": "t͡s",
     "d": "d",
-    "'d": "ɗ",
-    "dr": "dɹ",
-    "c": "ts",
-    "j": "dz",
-    "k": "k",
-    "kp": "k͡p",
+    "dr": "ɖ",
+    "’d": "ɗ",
+    "e": "ɛ",
+    "f": "f",
     "g": "ɡ",
     "gb": "ɡ͡b",
-    "'": "ʔ",
+    "h": "h",
+    "i": "ɪ",
+    "ị": "i",
+    "j": "d͡z",
+    "k": "k",
+    "kp": "k͡p",
+    "l": "l",
     "m": "m",
-    "mb": "mb",
-    "mv": "mv",
+    "mb": "ᵐb",
+    "mv": "ᶬv",
     "n": "n",
-    "nd": "nd",
-    "ndr": "ndɹ",
-    "ndz": "ndz",
+    "nd": "ⁿd",
+    "ndr": "ᶯɖ",
+    "ng": "ᵑɡ",
+    "ngb": "ᵑᵐɡ͡b",
+    "nj": "ⁿd͡z",
     "ny": "ɲ",
     "ŋ": "ŋ",
-    "ng": "ŋɡ",
-    "ngb": "ŋmɡ͡b",
-    "f": "f",
-    "v": "v",
-    "s": "s",
-    "z": "z",
-    "l": "l",
+    "o": "ɔ",
+    "p": "p",
     "r": "r",
-    "h": "h",
-    "w": "w",
-    "'w": "ʔw",
-    "y": "j",
-    "'y": "ʔj",
-    "ị": "i",
-    "i": "ɪ",
-    "e": "ɛ",
-    "ạ": "ə",
-    "a": "a",
+    "s": "s",
+    "t": "t",
+    "tr": "ʈ",
     "u": "u",
-    "o": "ɔ"
+    "v": "v",
+    "w": "w",
+    "’w": "ˀw",
+    "y": "j",
+    "’y": "ˀj",
+    "z": "z",
+    "’": "ʔ"
   },
-  "diacritics": {
-    "́": "˥",
-    "̂": "˧",
-    "̄": "˧",
-    "̃": "˩"
-  },
+  "romanization": {},
+  "diacritics": {},
   "tones": {
-    "high": "acute (´)",
-    "mid": "circumflex (ˆ) / macron (¯)",
-    "low": "tilde (˜)",
-    "rising": "tilde-circumflex (~^) on VV"
+    "high": "á",
+    "mid": "â",
+    "low": "ã",
+    "rising": "ãâ"
   },
-  "notes": "Hartell uses /ɩ/ for /ɪ/. In the phoneme table, /ndz/ is listed with orthographic symbol 'ndz'; however, the alphabet row and examples use 'nj'. Vowels with underdot (ị, ạ) mark retracted tongue root or specific vowel quality.",
+  "notes": "Cell for letter 'l' IPA in row 8 contained example 'la' rather than bracketed IPA; inferred [l]. Script uses apostrophe/glottal mark in pre-glottalized consonants and stand-alone glottal stop.",
   "alphabet": [
     "a",
-    "ạ",
     "b",
-    "'b",
     "c",
     "d",
-    "'d",
     "dr",
     "e",
     "f",
@@ -79,7 +121,6 @@
     "gb",
     "h",
     "i",
-    "ị",
     "j",
     "k",
     "kp",
@@ -94,7 +135,6 @@
     "ngb",
     "nj",
     "ny",
-    "ŋ",
     "o",
     "p",
     "r",
@@ -104,188 +144,16 @@
     "u",
     "v",
     "w",
-    "'w",
     "y",
-    "'y",
     "z",
-    "'"
+    "ŋ",
+    "ạ",
+    "ị",
+    "’",
+    "’b",
+    "’d",
+    "’w",
+    "’y"
   ],
-  "examples": [
-    {
-      "word": "ã̄rówã̄",
-      "gloss": "hippopotamus"
-    },
-    {
-      "word": "ātúbú",
-      "gloss": "pigeon"
-    },
-    {
-      "word": "bã̄",
-      "gloss": "breast"
-    },
-    {
-      "word": "'bí",
-      "gloss": "feather"
-    },
-    {
-      "word": "cõfó",
-      "gloss": "lung"
-    },
-    {
-      "word": "dālé",
-      "gloss": "to pour"
-    },
-    {
-      "word": "'dí'dí",
-      "gloss": "porridge"
-    },
-    {
-      "word": "drālē",
-      "gloss": "to die"
-    },
-    {
-      "word": "ērékôwá",
-      "gloss": "squirrel"
-    },
-    {
-      "word": "fê",
-      "gloss": "tree"
-    },
-    {
-      "word": "gīípírí",
-      "gloss": "mosquito"
-    },
-    {
-      "word": "gbārã̄kã̄",
-      "gloss": "bed"
-    },
-    {
-      "word": "hûwạ̄",
-      "gloss": "open"
-    },
-    {
-      "word": "nīlí",
-      "gloss": "to go"
-    },
-    {
-      "word": "nīlị́",
-      "gloss": "to know"
-    },
-    {
-      "word": "jó",
-      "gloss": "house"
-    },
-    {
-      "word": "kã̄mị̄",
-      "gloss": "lion"
-    },
-    {
-      "word": "kpá",
-      "gloss": "also"
-    },
-    {
-      "word": "ālô",
-      "gloss": "one"
-    },
-    {
-      "word": "mányárã̄",
-      "gloss": "giraffe"
-    },
-    {
-      "word": "ã̄mbá",
-      "gloss": "large"
-    },
-    {
-      "word": "mvá",
-      "gloss": "child"
-    },
-    {
-      "word": "nâ",
-      "gloss": "three"
-    },
-    {
-      "word": "ndálé",
-      "gloss": "to search"
-    },
-    {
-      "word": "ĩ̄ndrị̄",
-      "gloss": "goat"
-    },
-    {
-      "word": "ngá",
-      "gloss": "thing"
-    },
-    {
-      "word": "ã̄ngbã̄",
-      "gloss": "frog"
-    },
-    {
-      "word": "njââ",
-      "gloss": "ready"
-    },
-    {
-      "word": "nyālē",
-      "gloss": "to eat"
-    },
-    {
-      "word": "ŋōlé",
-      "gloss": "to cut"
-    },
-    {
-      "word": "ôtógôwá",
-      "gloss": "hare"
-    },
-    {
-      "word": "pá",
-      "gloss": "foot"
-    },
-    {
-      "word": "rị̄",
-      "gloss": "two"
-    },
-    {
-      "word": "sárámạ́ndị̄",
-      "gloss": "peanut"
-    },
-    {
-      "word": "tị̄",
-      "gloss": "mouth"
-    },
-    {
-      "word": "trôlé",
-      "gloss": "to carry"
-    },
-    {
-      "word": "ūkūkū",
-      "gloss": "tortoise"
-    },
-    {
-      "word": "vūlí",
-      "gloss": "to throw"
-    },
-    {
-      "word": "wālē",
-      "gloss": "to jump over"
-    },
-    {
-      "word": "ã̄'wá",
-      "gloss": "meat"
-    },
-    {
-      "word": "âyó",
-      "gloss": "yam"
-    },
-    {
-      "word": "f'yá",
-      "gloss": "arrow"
-    },
-    {
-      "word": "ôzê",
-      "gloss": "rain"
-    },
-    {
-      "word": "'ã̄'î",
-      "gloss": "knee"
-    }
-  ]
+  "examples": []
 }

@@ -1,0 +1,419 @@
+{
+  "language": "Bambara",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "t͡ɕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "d͡ʑ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɲ",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ɕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ߐ",
+      "ipa": "ɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߏ",
+      "ipa": "o",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߎ",
+      "ipa": "u",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߍ",
+      "ipa": "ɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߌ",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߋ",
+      "ipa": "e",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߊ",
+      "ipa": "a",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߙ",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߘ",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߗ",
+      "ipa": "t͡ɕ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߖ",
+      "ipa": "ɟ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߕ",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߔ",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߓ",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߡ",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߟ",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߞ",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߝ",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߜ",
+      "ipa": "ɡ͡b",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߛ",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߚ",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߒ",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߦ",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߥ",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߤ",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߣ",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ߢ",
+      "ipa": "ɲ",
+      "script": "native"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "ߐ",
+      "latin": "ɔ"
+    },
+    {
+      "native": "ߏ",
+      "latin": "o"
+    },
+    {
+      "native": "ߎ",
+      "latin": "u"
+    },
+    {
+      "native": "ߍ",
+      "latin": "ɛ"
+    },
+    {
+      "native": "ߌ",
+      "latin": "i"
+    },
+    {
+      "native": "ߋ",
+      "latin": "e"
+    },
+    {
+      "native": "ߊ",
+      "latin": "a"
+    },
+    {
+      "native": "ߙ",
+      "latin": "r"
+    },
+    {
+      "native": "ߘ",
+      "latin": "d"
+    },
+    {
+      "native": "ߗ",
+      "latin": "c"
+    },
+    {
+      "native": "ߖ",
+      "latin": "j"
+    },
+    {
+      "native": "ߕ",
+      "latin": "t"
+    },
+    {
+      "native": "ߔ",
+      "latin": "p"
+    },
+    {
+      "native": "ߓ",
+      "latin": "b"
+    },
+    {
+      "native": "ߡ",
+      "latin": "m"
+    },
+    {
+      "native": "ߟ",
+      "latin": "l"
+    },
+    {
+      "native": "ߞ",
+      "latin": "k"
+    },
+    {
+      "native": "ߝ",
+      "latin": "f"
+    },
+    {
+      "native": "ߜ",
+      "latin": "ga"
+    },
+    {
+      "native": "ߛ",
+      "latin": "s"
+    },
+    {
+      "native": "ߚ",
+      "latin": "r"
+    },
+    {
+      "native": "ߒ",
+      "latin": "n"
+    },
+    {
+      "native": "ߦ",
+      "latin": "y"
+    },
+    {
+      "native": "ߥ",
+      "latin": "w"
+    },
+    {
+      "native": "ߤ",
+      "latin": "h"
+    },
+    {
+      "native": "ߣ",
+      "latin": "n"
+    },
+    {
+      "native": "ߢ",
+      "latin": "ny"
+    }
+  ],
+  "tones": {
+    "short high": "߫",
+    "short low": "߬",
+    "short rising": "߭",
+    "long high": "߯",
+    "long low": "߰",
+    "long rising": "߱",
+    "long falling": "߮"
+  },
+  "diacritics": [
+    {
+      "mark": "U+07F2",
+      "role": "nasalization",
+      "ipa": "˜"
+    }
+  ],
+  "notes": "Extracted both Bambara Latin orthography and N'Ko script entries.",
+  "confidence": "high",
+  "iso": "bam",
+  "name": "Bambara",
+  "country": "CI",
+  "family": "Mande",
+  "slug": "bambara.xls"
+}

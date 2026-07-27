@@ -1,0 +1,181 @@
+{
+  "language": "Shawiya",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "β",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "ð",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḍ",
+      "ipa": "ðˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ʕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɣ",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḥ",
+      "ipa": "ħ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "ç",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṃ",
+      "ipa": "mˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṛ",
+      "ipa": "rˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṣ",
+      "ipa": "sˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "θ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṭ",
+      "ipa": "θˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẓ",
+      "ipa": "zˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʔ",
+      "ipa": "ʔ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "",
+  "confidence": "high",
+  "iso": "shy",
+  "name": "Shawiya",
+  "country": "DZ",
+  "family": "Afro-Asiatic",
+  "slug": "shawiya.xls"
+}

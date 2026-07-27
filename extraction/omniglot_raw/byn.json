@@ -1,0 +1,509 @@
+{
+  "language": "Blin",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "ʕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "tʃ'",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "é",
+      "ipa": "ɨ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "gʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ie",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "dʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "khw",
+      "ipa": "xʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñw",
+      "ipa": "ŋʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "k'",
+      "script": "latin"
+    },
+    {
+      "grapheme": "qw",
+      "ipa": "kʷʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "t'",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tsh",
+      "ipa": "tʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ħ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ሀ",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "ለ",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሐ",
+      "ipa": "ħ",
+      "script": "native"
+    },
+    {
+      "grapheme": "መ",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሰ",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ሸ",
+      "ipa": "ʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ረ",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቀ",
+      "ipa": "k'",
+      "script": "native"
+    },
+    {
+      "grapheme": "በ",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "ተ",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ነ",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "አ",
+      "ipa": "ʔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ከ",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኸ",
+      "ipa": "x",
+      "script": "native"
+    },
+    {
+      "grapheme": "ወ",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዐ",
+      "ipa": "ʕ",
+      "script": "native"
+    },
+    {
+      "grapheme": "የ",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "ደ",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጀ",
+      "ipa": "dʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ገ",
+      "ipa": "g",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጘ",
+      "ipa": "ŋ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጠ",
+      "ipa": "t'",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጨ",
+      "ipa": "tʃ'",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፈ",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዘ",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቸ",
+      "ipa": "tʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ፐ",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቨ",
+      "ipa": "v",
+      "script": "native"
+    },
+    {
+      "grapheme": "ቈ",
+      "ipa": "kʷʼ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ኰ",
+      "ipa": "kʷ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ዀ",
+      "ipa": "xʷ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ጐ",
+      "ipa": "gʷ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ⶓ",
+      "ipa": "ŋʷ",
+      "script": "native"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "ሀ",
+      "latin": "h"
+    },
+    {
+      "native": "ለ",
+      "latin": "l"
+    },
+    {
+      "native": "ሐ",
+      "latin": "x"
+    },
+    {
+      "native": "መ",
+      "latin": "m"
+    },
+    {
+      "native": "ሰ",
+      "latin": "s"
+    },
+    {
+      "native": "ሸ",
+      "latin": "sh"
+    },
+    {
+      "native": "ረ",
+      "latin": "r"
+    },
+    {
+      "native": "ቀ",
+      "latin": "q"
+    },
+    {
+      "native": "በ",
+      "latin": "b"
+    },
+    {
+      "native": "ተ",
+      "latin": "t"
+    },
+    {
+      "native": "ነ",
+      "latin": "n"
+    },
+    {
+      "native": "አ",
+      "latin": "∅"
+    },
+    {
+      "native": "ከ",
+      "latin": "k"
+    },
+    {
+      "native": "ኸ",
+      "latin": "kh"
+    },
+    {
+      "native": "ወ",
+      "latin": "w"
+    },
+    {
+      "native": "ዐ",
+      "latin": "c"
+    },
+    {
+      "native": "የ",
+      "latin": "y"
+    },
+    {
+      "native": "ደ",
+      "latin": "d"
+    },
+    {
+      "native": "ጀ",
+      "latin": "j"
+    },
+    {
+      "native": "ገ",
+      "latin": "g"
+    },
+    {
+      "native": "ጘ",
+      "latin": "ñ"
+    },
+    {
+      "native": "ጠ",
+      "latin": "th"
+    },
+    {
+      "native": "ጨ",
+      "latin": "ch"
+    },
+    {
+      "native": "ፈ",
+      "latin": "f"
+    },
+    {
+      "native": "ዘ",
+      "latin": "z"
+    },
+    {
+      "native": "ቸ",
+      "latin": "tsh"
+    },
+    {
+      "native": "ፐ",
+      "latin": "p"
+    },
+    {
+      "native": "ቨ",
+      "latin": "v"
+    },
+    {
+      "native": "ቈ",
+      "latin": "qw"
+    },
+    {
+      "native": "ኰ",
+      "latin": "kw"
+    },
+    {
+      "native": "ዀ",
+      "latin": "khw"
+    },
+    {
+      "native": "ጐ",
+      "latin": "gw"
+    },
+    {
+      "native": "ⶓ",
+      "latin": "ñw"
+    }
+  ],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Blin/Bilen is written in both Ge'ez script (abugida) and Latin alphabet. Base Ge'ez letters represent consonant bases.",
+  "confidence": "high",
+  "iso": "byn",
+  "name": "Blin",
+  "country": "ER",
+  "family": "Afro-Asiatic",
+  "slug": "blin.xls"
+}

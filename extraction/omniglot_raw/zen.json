@@ -1,0 +1,226 @@
+{
+  "language": "Zenaga",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "[a]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ä",
+      "ipa": "[æ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "[o]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ə",
+      "ipa": "[ə]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "[i]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "[u]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ā",
+      "ipa": "[aː]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ī",
+      "ipa": "[iː]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ū",
+      "ipa": "[uː]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "[b]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "č",
+      "ipa": "[ʧ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "[d]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḍ",
+      "ipa": "[dˁ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ð",
+      "ipa": "[ð]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ð̣",
+      "ipa": "[ðˁ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "[f]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "[ɡ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǧ",
+      "ipa": "[ɟ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "γ",
+      "ipa": "[ɣ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "[h]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḥ",
+      "ipa": "[ħ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "[k]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "[l]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "[m]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "[n]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñ",
+      "ipa": "[ɲ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "[q]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "[r]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "[s]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "š",
+      "ipa": "[ʃ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "[t]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "θ",
+      "ipa": "[θ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "θ̣",
+      "ipa": "[θˁ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "[w]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "[x]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "[j]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "[z]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẓ",
+      "ipa": "[zˁ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ž",
+      "ipa": "[ʒ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ž̠",
+      "ipa": "[ʒˁ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʕ",
+      "ipa": "[ʕ]",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ʔ",
+      "ipa": "[ʔ]",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Chart shows Latin orthography / transcription system for Zenaga (Tuẓẓungiyyä).",
+  "confidence": "high",
+  "iso": "zen",
+  "name": "Zenaga",
+  "country": "EH",
+  "family": "Afro-Asiatic",
+  "slug": "zenaga.xls"
+}

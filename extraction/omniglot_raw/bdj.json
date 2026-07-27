@@ -1,0 +1,340 @@
+{
+  "language": "Bai",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "b",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hh",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "tɕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "tɕʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ni",
+      "ipa": "ɳ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ɕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "ts",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "tsʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ss",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zh",
+      "ipa": "tʂ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "tʂʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʂ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ʐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "ɑ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ai",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ain",
+      "ipa": "ɛ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "an",
+      "ipa": "ɑ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ao",
+      "ipa": "ɑu",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "æ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ei",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ein",
+      "ipa": "ẽ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "en",
+      "ipa": "ɯ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "er",
+      "ipa": "ɚ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ia",
+      "ipa": "iɑ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "iai",
+      "ipa": "iɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "iain",
+      "ipa": "iɛ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ian",
+      "ipa": "iɑ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ie",
+      "ipa": "iɯ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ien",
+      "ipa": "iɯ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ier",
+      "ipa": "iɚ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "in",
+      "ipa": "ĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "io",
+      "ipa": "io",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ion",
+      "ipa": "iõ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ivn",
+      "ipa": "iṽ̩",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "on",
+      "ipa": "õ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ou",
+      "ipa": "ou",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ua",
+      "ipa": "uɑ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uai",
+      "ipa": "uɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uain",
+      "ipa": "uɛ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uan",
+      "ipa": "uɑ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uer",
+      "ipa": "uɚ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ui",
+      "ipa": "ui",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uin",
+      "ipa": "uĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uo",
+      "ipa": "uo",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v̩",
+      "script": "latin"
+    },
+    {
+      "grapheme": "vn",
+      "ipa": "ṽ̩",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "-x": "˧",
+    "-l": "˦",
+    "-t": "˧˥",
+    "-f": "˧˨",
+    "-rx/-": "˨",
+    "-rl/-b": "˩",
+    "-rt/-p": "-̰˦˨˨",
+    "-/-d": "-̤˨˩"
+  },
+  "diacritics": [],
+  "notes": "Bai is a Sino-Tibetan language spoken in China. Tones are written using post-fixed Latin letters.",
+  "confidence": "high",
+  "iso": "bdj",
+  "name": "Bai",
+  "country": "SS",
+  "family": "Atlantic-Congo",
+  "slug": "bai.xls"
+}

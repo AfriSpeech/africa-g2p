@@ -1,0 +1,348 @@
+{
+  "language": "Olu'bo",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’b",
+      "ipa": "ɓ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "ts",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dh",
+      "ipa": "d̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’d",
+      "ipa": "ɗ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẹ",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "gb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "ɪ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ị",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "dz",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’j",
+      "ipa": "ʄ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "kp",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "ᵐb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋm",
+      "ipa": "ŋm",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mv",
+      "ipa": "ᶬv",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "ⁿd",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ndh",
+      "ipa": "ⁿd̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nj",
+      "ipa": "ⁿdz",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋg",
+      "ipa": "ᵑɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋgb",
+      "ipa": "ᵑᵐgb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ọ",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "t̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "ʊ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ụ",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’w",
+      "ipa": "ˀw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’y",
+      "ipa": "ˀj",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bw",
+      "ipa": "bʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’bw",
+      "ipa": "ɓʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dw",
+      "ipa": "dʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’dw",
+      "ipa": "ɗʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "gʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "jw",
+      "ipa": "dzʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mw",
+      "ipa": "mʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nw",
+      "ipa": "nʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "njw",
+      "ipa": "ⁿdzʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋgw",
+      "ipa": "ᵑɡʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "rw",
+      "ipa": "rʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sw",
+      "ipa": "sʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tw",
+      "ipa": "tʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "vw",
+      "ipa": "vʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zw",
+      "ipa": "zʷ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "high": "´",
+    "mid": "unmarked",
+    "low": "˜",
+    "rising": "´, ´˜",
+    "falling": "˜, ˜´"
+  },
+  "diacritics": [
+    {
+      "mark": "U+0323",
+      "role": "vowel quality (+ATR)",
+      "ipa": ""
+    }
+  ],
+  "notes": null,
+  "confidence": "high",
+  "iso": "lul",
+  "name": "Olu'bo",
+  "country": "SS",
+  "family": "Central Sudanic",
+  "slug": "olubo.xls"
+}

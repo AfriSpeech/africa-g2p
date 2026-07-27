@@ -1,0 +1,350 @@
+{
+  "language": "Sandawe",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ã",
+      "ipa": "ã",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẽ",
+      "ipa": "ẽ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ĩ",
+      "ipa": "ĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "õ",
+      "ipa": "õ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ũ",
+      "ipa": "ũ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aa",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ee",
+      "ipa": "eː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ii",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oo",
+      "ipa": "oː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uu",
+      "ipa": "uː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ãã",
+      "ipa": "ãː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẽẽ",
+      "ipa": "ẽː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ĩĩ",
+      "ipa": "ĩː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "õõ",
+      "ipa": "õː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ũũ",
+      "ipa": "ũː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bp",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "kǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "kǀʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c’",
+      "ipa": "ᵑǀˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dl",
+      "ipa": "dʎ̝",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dt",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dz",
+      "ipa": "dʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gk",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gc",
+      "ipa": "ɡǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gq",
+      "ipa": "ɡǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gx",
+      "ipa": "ɡǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k’",
+      "ipa": "k’",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "lh",
+      "ipa": "ɬ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nc",
+      "ipa": "ŋǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nq",
+      "ipa": "ŋǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nx",
+      "ipa": "ŋǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "kǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "qh",
+      "ipa": "kǃʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q’",
+      "ipa": "ᵑǃˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tc",
+      "ipa": "tʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tch",
+      "ipa": "tʃʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tl",
+      "ipa": "t͜ɬ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tl’",
+      "ipa": "t͜ɬʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts’",
+      "ipa": "tsʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "kǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "xh",
+      "ipa": "kǁʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x’",
+      "ipa": "ᵑǁˀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’",
+      "ipa": "ʔ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {
+    "high tone": "á",
+    "mid tone": "ā",
+    "low tone": "à",
+    "high falling tone": "â",
+    "mid falling tone": "ā̀",
+    "low falling tone": "ȁ",
+    "rising tone": "ǎ"
+  },
+  "diacritics": [
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "notes": "Where multiple IPA options were given in brackets (e.g. [dʒ/dz], [tʃ/ts]), the first IPA option was retained according to rules.",
+  "confidence": "high",
+  "iso": "sad",
+  "name": "Sandawe",
+  "country": "TZ",
+  "family": "Sandawe (isolate)",
+  "slug": "sandawe.xls"
+}

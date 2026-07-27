@@ -1,53 +1,114 @@
 {
   "code": "aka",
   "name": "Akan",
-  "country": "Ghana",
-  "family": "Kwa",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 6",
-  "confidence": "high",
+  "country": "GH",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (akan.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "ao",
+      "b",
+      "d",
+      "dw",
+      "e",
+      "ei",
+      "eɛ",
+      "f",
+      "g",
+      "gy",
+      "h",
+      "hw",
+      "hy",
+      "i",
+      "ia",
+      "ie",
+      "ii",
+      "k",
+      "kw",
+      "ky",
+      "l",
+      "m",
+      "n",
+      "ng",
+      "nw",
+      "ny",
+      "o",
+      "oo",
+      "oɔ",
+      "p",
+      "r",
+      "s",
+      "t",
+      "tw",
+      "u",
+      "ue",
+      "uo",
+      "w",
+      "y",
+      "ɔ",
+      "ɛ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
     "d": "d",
-    "k": "k",
+    "dw": "dʒ",
+    "e": "e",
+    "ɛ": "ɛ",
+    "f": "f",
     "g": "ɡ",
-    "kw": "kʷ",
-    "ky": "tɕ",
     "gy": "dʑ",
-    "hy": "ɕ",
-    "ny": "ɲ",
-    "tw": "tɕʷ",
-    "dw": "dʑʷ",
-    "hw": "ɕʷ",
+    "h": "h",
+    "hw": "hʷ",
+    "hy": "ç",
+    "i": "ɪ",
+    "k": "kʰ",
+    "kw": "kʷ",
+    "ky": "tɕʰ",
+    "l": "l",
     "m": "m",
     "n": "n",
+    "ng": "ŋ",
     "nw": "nʷ",
-    "f": "f",
+    "ny": "ɲ",
+    "o": "o",
+    "ɔ": "ɔ",
+    "p": "pʰ",
+    "r": "ɾ",
     "s": "s",
-    "r": "r",
-    "l": "l",
-    "h": "h",
+    "t": "tʰ",
+    "tw": "tɕʷ",
+    "u": "u",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "e": "ɪ",
-    "ɛ": "ɛ",
-    "a": "a",
-    "u": "u",
-    "o": "ʊ",
-    "ɔ": "ɔ"
+    "ao": "ao",
+    "eɛ": "eɛ",
+    "ei": "ei",
+    "ia": "ia",
+    "ie": "ie",
+    "ii": "iː",
+    "oo": "oː",
+    "oɔ": "oɔ",
+    "ue": "ue",
+    "uo": "uo"
   },
+  "romanization": {},
   "diacritics": {},
-  "tones": null,
-  "notes": "Hartell lists Palatalization (ky, gy, ny, hy) and Labial-palatalization (tw, dw, nw, hw) below the phoneme table. Letter l is noted as Asante only. Phonemes /y/, /I/, and /υ/ converted to standard IPA /j/, /ɪ/, and /ʊ/ respectively.",
+  "tones": {},
+  "notes": "Pronunciation sheet used for actual phonetic values instead of letter names listed in Alphabet sheet. 'Y' was present in the alphabet sheet but omitted from the pronunciation sheet's consonant table.",
   "alphabet": [
     "a",
+    "ao",
     "b",
     "d",
     "dw",
     "e",
-    "ɛ",
+    "ei",
+    "eɛ",
     "f",
     "g",
     "gy",
@@ -55,113 +116,33 @@
     "hw",
     "hy",
     "i",
+    "ia",
+    "ie",
+    "ii",
     "k",
     "kw",
     "ky",
     "l",
     "m",
     "n",
+    "ng",
     "nw",
     "ny",
     "o",
-    "ɔ",
+    "oo",
+    "oɔ",
     "p",
     "r",
     "s",
     "t",
     "tw",
     "u",
+    "ue",
+    "uo",
     "w",
-    "y"
+    "y",
+    "ɔ",
+    "ɛ"
   ],
-  "examples": [
-    {
-      "word": "saw",
-      "gloss": "to dance"
-    },
-    {
-      "word": "bu",
-      "gloss": "to break"
-    },
-    {
-      "word": "da",
-      "gloss": "day"
-    },
-    {
-      "word": "gye",
-      "gloss": "to receive"
-    },
-    {
-      "word": "sɛw",
-      "gloss": "to spread out"
-    },
-    {
-      "word": "fi",
-      "gloss": "to go out"
-    },
-    {
-      "word": "gow",
-      "gloss": "to be soft"
-    },
-    {
-      "word": "hu",
-      "gloss": "to see"
-    },
-    {
-      "word": "sie",
-      "gloss": "to hide"
-    },
-    {
-      "word": "kɔ",
-      "gloss": "to go"
-    },
-    {
-      "word": "lɔre",
-      "gloss": "lorry"
-    },
-    {
-      "word": "mba",
-      "gloss": "children"
-    },
-    {
-      "word": "nim",
-      "gloss": "to know"
-    },
-    {
-      "word": "ngo",
-      "gloss": "palm oil"
-    },
-    {
-      "word": "sɔw",
-      "gloss": "to catch"
-    },
-    {
-      "word": "petu",
-      "gloss": "to pretend"
-    },
-    {
-      "word": "frɛ",
-      "gloss": "to visit"
-    },
-    {
-      "word": "nsuo",
-      "gloss": "water"
-    },
-    {
-      "word": "tɔ",
-      "gloss": "to buy"
-    },
-    {
-      "word": "gua",
-      "gloss": "market"
-    },
-    {
-      "word": "ɛwɔ",
-      "gloss": "honey"
-    },
-    {
-      "word": "yi",
-      "gloss": "to remove"
-    }
-  ]
+  "examples": []
 }

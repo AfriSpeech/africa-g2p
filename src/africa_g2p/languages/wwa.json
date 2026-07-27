@@ -1,155 +1,91 @@
 {
   "code": "wwa",
   "name": "Waama",
-  "country": "Benin",
-  "family": "Central Gur",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 136",
-  "confidence": "high",
+  "country": "BJ",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (waama.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "i",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "n",
+      "o",
+      "p",
+      "r",
+      "s",
+      "t",
+      "u",
+      "w",
+      "y",
+      "ŋ",
+      "ɔ",
+      "ɛ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
-    "d": "d",
-    "r": "d",
     "c": "c",
-    "k": "k",
-    "kp": "k͡p",
-    "m": "m",
-    "n": "n",
-    "f": "f",
-    "s": "s",
-    "w": "w",
-    "y": "j",
-    "i": "i",
+    "d": "d",
     "e": "e",
     "ɛ": "ɛ",
-    "a": "a",
-    "u": "u",
+    "f": "f",
+    "i": "i",
+    "k": "k",
+    "kp": "k͡p",
+    "l": "l",
+    "m": "m",
+    "n": "n",
+    "ŋ": "ŋ",
     "o": "o",
-    "ɔ": "ɔ"
+    "ɔ": "ɔ",
+    "p": "p",
+    "r": "ɾ",
+    "s": "s",
+    "t": "t",
+    "u": "u",
+    "w": "w",
+    "y": "j"
   },
-  "diacritics": {
-    "́": "˥",
-    "̃": "̃"
-  },
-  "tones": {
-    "very_high": "unwritten",
-    "high": "unwritten (except acute accent on certain particles)",
-    "low": "unwritten"
-  },
-  "notes": "Hartell lists phoneme /kw/ mapped to grapheme 'kp', transcribed here as /k͡p/. Hartell uses /y/ for IPA /j/. Table includes note on morphophonemic rules: n + k --> ŋ, n + w --> ŋ. Tone is not written in normal orthography, but acute accent is written on a, i, ɛ, o, n of certain particles.",
+  "romanization": {},
+  "diacritics": {},
+  "tones": {},
+  "notes": null,
   "alphabet": [
     "a",
     "b",
     "c",
     "d",
     "e",
-    "ɛ",
     "f",
     "i",
     "k",
     "kp",
+    "l",
     "m",
     "n",
-    "ŋ",
     "o",
-    "ɔ",
     "p",
     "r",
     "s",
     "t",
     "u",
     "w",
-    "y"
+    "y",
+    "ŋ",
+    "ɔ",
+    "ɛ"
   ],
-  "examples": [
-    {
-      "word": "waaro",
-      "gloss": "hunter"
-    },
-    {
-      "word": "bika",
-      "gloss": "child"
-    },
-    {
-      "word": "caabu",
-      "gloss": "porridge"
-    },
-    {
-      "word": "daama",
-      "gloss": "millet beer"
-    },
-    {
-      "word": "pe",
-      "gloss": "woman"
-    },
-    {
-      "word": "cɛɛbu",
-      "gloss": "soap"
-    },
-    {
-      "word": "faaka",
-      "gloss": "stream"
-    },
-    {
-      "word": "yiro",
-      "gloss": "man"
-    },
-    {
-      "word": "kaama",
-      "gloss": "wound"
-    },
-    {
-      "word": "kpere",
-      "gloss": "hard"
-    },
-    {
-      "word": "muuti",
-      "gloss": "a little"
-    },
-    {
-      "word": "nako",
-      "gloss": "ox, cow"
-    },
-    {
-      "word": "tiŋu",
-      "gloss": "town"
-    },
-    {
-      "word": "soro",
-      "gloss": "tomorrow"
-    },
-    {
-      "word": "sɔɔma",
-      "gloss": "gold"
-    },
-    {
-      "word": "pɛenfa",
-      "gloss": "arrow"
-    },
-    {
-      "word": "sɔronde",
-      "gloss": "pearl"
-    },
-    {
-      "word": "suka",
-      "gloss": "horse"
-    },
-    {
-      "word": "tiibu",
-      "gloss": "tree"
-    },
-    {
-      "word": "tiibu",
-      "gloss": "tree"
-    },
-    {
-      "word": "wako",
-      "gloss": "snake"
-    },
-    {
-      "word": "yuuto",
-      "gloss": "thief"
-    }
-  ]
+  "examples": []
 }

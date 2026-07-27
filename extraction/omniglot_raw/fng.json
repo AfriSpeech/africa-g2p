@@ -1,0 +1,236 @@
+{
+  "language": "Fanagalo",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "ɑˑ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bh",
+      "ipa": "ɓ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "ǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "ɗ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dl",
+      "ipa": "ɮ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɠ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gc",
+      "ipa": "ᵍ̊ǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gq",
+      "ipa": "ᵍ̊ǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gx",
+      "ipa": "ᵍ̊ǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hh",
+      "ipa": "ɦ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hl",
+      "ipa": "ɬ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ʄ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "kh",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kl",
+      "ipa": "kɬ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nc",
+      "ipa": "ᵑ̊ǀ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋg",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nq",
+      "ipa": "ᵑ̊ǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nx",
+      "ipa": "ᵑ̊ǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ph",
+      "ipa": "ph",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "ǃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "th",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "tsʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tsh",
+      "ipa": "ʧh",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "xh",
+      "ipa": "ǁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Pronunciation sheet row8 displays 'b' above [v], which is a typographical error for letter 'v' (found in Alphabet sheet as 'V v').",
+  "confidence": "high",
+  "iso": "fng",
+  "name": "Fanagalo",
+  "country": "CD",
+  "family": "Pidgin",
+  "slug": "fanagalo.xls"
+}

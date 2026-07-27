@@ -1,0 +1,211 @@
+{
+  "language": "Spanish",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "θ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "ʧ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gu",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gü",
+      "ipa": "ɡw",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "Ø",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hi",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hu",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ll",
+      "ipa": "ʎ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñ",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "qu",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "rr",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tl",
+      "ipa": "tl",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tx",
+      "ipa": "tʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tz",
+      "ipa": "ts",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ks",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "θ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Extracted graphemes and primary IPA values based on Castilian Spanish sheet, following the rule to take the first listed alternative when multiple pronunciations are given. Regional Latin American variants were omitted in favor of the primary sheet.",
+  "confidence": "high",
+  "iso": "spa",
+  "name": "Spanish",
+  "country": "MA",
+  "family": "Indo-European",
+  "slug": "spanish.xls"
+}

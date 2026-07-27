@@ -1,195 +1,205 @@
 {
   "code": "wol",
   "name": "Wolof",
-  "country": "Senegal",
-  "family": "West Atlantic",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 135",
-  "confidence": "high",
+  "country": "GM",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (wolof.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "aa",
+      "b",
+      "bb",
+      "c",
+      "cc",
+      "d",
+      "dd",
+      "e",
+      "ee",
+      "f",
+      "g",
+      "gg",
+      "i",
+      "ii",
+      "j",
+      "jj",
+      "k",
+      "kk",
+      "l",
+      "ll",
+      "m",
+      "mb",
+      "mm",
+      "n",
+      "nc",
+      "nd",
+      "ng",
+      "nj",
+      "nk",
+      "nn",
+      "nq",
+      "nt",
+      "o",
+      "oo",
+      "p",
+      "pp",
+      "q",
+      "r",
+      "rr",
+      "s",
+      "t",
+      "tt",
+      "u",
+      "uu",
+      "w",
+      "ww",
+      "x",
+      "y",
+      "yy",
+      "à",
+      "é",
+      "ée",
+      "ë",
+      "ëe",
+      "ñ",
+      "ññ",
+      "ó",
+      "óo",
+      "ŋ",
+      "ŋŋ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "ɐ",
+    "à": "a",
+    "aa": "aː",
+    "e": "ɛ",
+    "ee": "ɛː",
+    "é": "e",
+    "ée": "eː",
+    "ë": "ə",
+    "ëe": "əː",
+    "i": "i",
+    "ii": "iː",
+    "o": "ɔ",
+    "oo": "ɔː",
+    "ó": "o",
+    "óo": "oː",
+    "u": "u",
+    "uu": "uː",
     "b": "b",
-    "t": "t",
-    "d": "d",
     "c": "c",
+    "d": "d",
+    "f": "f",
+    "g": "ɡ",
     "j": "ɟ",
     "k": "k",
-    "g": "ɡ",
-    "q": "q",
-    "m": "m",
-    "n": "n",
-    "ñ": "ɲ",
-    "n̂": "ɲ",
-    "ŋ": "ŋ",
-    "n̈": "ŋ",
-    "f": "f",
-    "s": "s",
     "l": "l",
+    "m": "m",
+    "mb": "m̩b",
+    "n": "n",
+    "nc": "ɲc",
+    "nd": "n̩d",
+    "ng": "ŋ̍ɡ",
+    "nj": "ɲɟ",
+    "nk": "ŋ̍k",
+    "nq": "ɴq",
+    "nt": "n̩t",
+    "ñ": "ɲ",
+    "ŋ": "ŋ",
+    "p": "p",
+    "q": "q",
     "r": "r",
+    "s": "s",
+    "t": "t",
+    "w": "w",
     "x": "x",
     "y": "j",
-    "w": "w",
-    "i": "i",
-    "é": "e",
-    "e": "ɛ",
-    "ë": "ə",
-    "a": "a",
-    "à": "a",
-    "u": "u",
-    "ó": "o",
-    "o": "ɔ"
+    "bb": "bː",
+    "cc": "cːʰ",
+    "dd": "dː",
+    "gg": "ɡː",
+    "jj": "ɟːʰ",
+    "kk": "kː",
+    "ll": "lː",
+    "mm": "mː",
+    "nn": "nː",
+    "ññ": "ɲː",
+    "ŋŋ": "ŋː",
+    "pp": "pː",
+    "rr": "rː",
+    "tt": "tː",
+    "ww": "wː",
+    "yy": "jː"
   },
-  "diacritics": {
-    "̈": "ə"
-  },
+  "romanization": {},
+  "diacritics": {},
   "tones": {},
-  "notes": "In Wolof, q is equivalent to x after a nasal (xonx = xonq) or at a geminate xx (ñaxx = ñaq). Prenasalized consonants listed: mp, mb, nt, nd, nj, nc, nq, nk, ng. Alternative forms n̂ for ñ and n̈ for ŋ are noted in the source table. Long vowels are written as double vowels VV (ó = óo; é = ée; ë = ëe).",
+  "notes": "Wolof uses a modified Latin alphabet with long vowels/consonants and prenasalized consonants. Alternative pronunciations were simplified to the first listed option according to standard rules.",
   "alphabet": [
     "a",
-    "à",
+    "aa",
     "b",
+    "bb",
     "c",
+    "cc",
     "d",
+    "dd",
     "e",
-    "é",
-    "ë",
+    "ee",
     "f",
     "g",
+    "gg",
     "i",
+    "ii",
     "j",
+    "jj",
     "k",
+    "kk",
     "l",
+    "ll",
     "m",
+    "mb",
+    "mm",
     "n",
-    "ñ",
-    "ŋ",
+    "nc",
+    "nd",
+    "ng",
+    "nj",
+    "nk",
+    "nn",
+    "nq",
+    "nt",
     "o",
-    "ó",
+    "oo",
     "p",
+    "pp",
     "q",
     "r",
+    "rr",
     "s",
     "t",
+    "tt",
     "u",
+    "uu",
     "w",
+    "ww",
     "x",
-    "y"
+    "y",
+    "yy",
+    "à",
+    "é",
+    "ée",
+    "ë",
+    "ëe",
+    "ñ",
+    "ññ",
+    "ó",
+    "óo",
+    "ŋ",
+    "ŋŋ"
   ],
-  "examples": [
-    {
-      "word": "lal",
-      "gloss": "bed"
-    },
-    {
-      "word": "làkk",
-      "gloss": "to speak a language"
-    },
-    {
-      "word": "bakkan",
-      "gloss": "nose"
-    },
-    {
-      "word": "caabi",
-      "gloss": "key"
-    },
-    {
-      "word": "daw",
-      "gloss": "to run"
-    },
-    {
-      "word": "set",
-      "gloss": "clean"
-    },
-    {
-      "word": "sér",
-      "gloss": "skirt cloth"
-    },
-    {
-      "word": "bët",
-      "gloss": "eye"
-    },
-    {
-      "word": "for",
-      "gloss": "to gather"
-    },
-    {
-      "word": "garab",
-      "gloss": "medicine"
-    },
-    {
-      "word": "cin",
-      "gloss": "pot, pan"
-    },
-    {
-      "word": "jabar",
-      "gloss": "wife, spouse"
-    },
-    {
-      "word": "kër",
-      "gloss": "house"
-    },
-    {
-      "word": "lam",
-      "gloss": "bracelet"
-    },
-    {
-      "word": "mar",
-      "gloss": "to be thirsty"
-    },
-    {
-      "word": "nelaw",
-      "gloss": "to sleep"
-    },
-    {
-      "word": "ñaw",
-      "gloss": "to sew"
-    },
-    {
-      "word": "ŋaam",
-      "gloss": "jaw"
-    },
-    {
-      "word": "xonq (xonx)",
-      "gloss": "to be red"
-    },
-    {
-      "word": "jóg",
-      "gloss": "to get up"
-    },
-    {
-      "word": "paaka",
-      "gloss": "knife"
-    },
-    {
-      "word": "ñaq (ñaxx)",
-      "gloss": "perspiration"
-    },
-    {
-      "word": "rafet",
-      "gloss": "pretty"
-    },
-    {
-      "word": "suuf",
-      "gloss": "ground"
-    },
-    {
-      "word": "taw",
-      "gloss": "rain"
-    },
-    {
-      "word": "bukki",
-      "gloss": "hyena"
-    },
-    {
-      "word": "woo",
-      "gloss": "to call"
-    },
-    {
-      "word": "xalam",
-      "gloss": "guitar"
-    },
-    {
-      "word": "yem",
-      "gloss": "to be equal"
-    }
-  ]
+  "examples": []
 }

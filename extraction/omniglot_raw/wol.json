@@ -1,0 +1,321 @@
+{
+  "language": "Wolof",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "ɐ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "à",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "aa",
+      "ipa": "aː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ee",
+      "ipa": "ɛː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "é",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ée",
+      "ipa": "eː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ë",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ëe",
+      "ipa": "əː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ii",
+      "ipa": "iː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oo",
+      "ipa": "ɔː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ó",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "óo",
+      "ipa": "oː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uu",
+      "ipa": "uː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mb",
+      "ipa": "m̩b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nc",
+      "ipa": "ɲc",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nd",
+      "ipa": "n̩d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ̍g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nj",
+      "ipa": "ɲɟ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nk",
+      "ipa": "ŋ̍k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nq",
+      "ipa": "ɴq",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nt",
+      "ipa": "n̩t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ñ",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bb",
+      "ipa": "bː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "cc",
+      "ipa": "cːʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dd",
+      "ipa": "dː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gg",
+      "ipa": "gː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "jj",
+      "ipa": "ɟːʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kk",
+      "ipa": "kː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ll",
+      "ipa": "lː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "mm",
+      "ipa": "mː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nn",
+      "ipa": "nː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ññ",
+      "ipa": "ɲː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋŋ",
+      "ipa": "ŋː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pp",
+      "ipa": "pː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "rr",
+      "ipa": "rː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tt",
+      "ipa": "tː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ww",
+      "ipa": "wː",
+      "script": "latin"
+    },
+    {
+      "grapheme": "yy",
+      "ipa": "jː",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Wolof uses a modified Latin alphabet with long vowels/consonants and prenasalized consonants. Alternative pronunciations were simplified to the first listed option according to standard rules.",
+  "confidence": "high",
+  "iso": "wol",
+  "name": "Wolof",
+  "country": "GM",
+  "family": "Atlantic-Congo",
+  "slug": "wolof.xls"
+}

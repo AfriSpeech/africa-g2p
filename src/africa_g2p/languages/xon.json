@@ -1,45 +1,77 @@
 {
   "code": "xon",
   "name": "Konkomba",
-  "country": "Ghana",
-  "family": "Gur",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 137",
-  "confidence": "high",
+  "country": "GH",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (konkomba.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "ch",
+      "d",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "h",
+      "i",
+      "j",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "n",
+      "ny",
+      "o",
+      "p",
+      "r",
+      "s",
+      "t",
+      "u",
+      "w",
+      "y",
+      "ŋ",
+      "ŋm",
+      "ɔ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
+    "ch": "ʧ",
     "d": "d",
-    "ch": "tʃ",
-    "j": "dʒ",
-    "k": "k",
+    "e": "e",
+    "f": "f",
     "g": "ɡ",
-    "kp": "k͡p",
     "gb": "ɡ͡b",
+    "h": "h",
+    "i": "i",
+    "j": "ʤ",
+    "k": "k",
+    "kp": "k͡p",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ny": "ɲ",
     "ŋ": "ŋ",
-    "ŋm": "ŋ͡m",
-    "f": "f",
-    "s": "s",
-    "l": "l",
-    "r": "r",
-    "h": "h",
-    "w": "w",
-    "y": "j",
-    "i": "i",
-    "e": "e",
-    "a": "a",
-    "u": "u",
+    "ŋm": "ŋm",
     "o": "o",
-    "ɔ": "ɔ"
+    "ɔ": "ɔ",
+    "p": "p",
+    "r": "r",
+    "s": "s",
+    "t": "t",
+    "u": "u",
+    "w": "w",
+    "y": "j"
   },
+  "romanization": {},
   "diacritics": {},
-  "tones": {
-    "note": "Tone is not written"
-  },
-  "notes": "Hartell uses /y/ for IPA /j/. Long vowels /V:/ are written by doubling the vowel letter (VV).",
+  "tones": {},
+  "notes": null,
   "alphabet": [
     "a",
     "b",
@@ -58,130 +90,17 @@
     "m",
     "n",
     "ny",
-    "ŋ",
-    "ŋm",
     "o",
-    "ɔ",
     "p",
     "r",
     "s",
     "t",
     "u",
     "w",
-    "y"
+    "y",
+    "ŋ",
+    "ŋm",
+    "ɔ"
   ],
-  "examples": [
-    {
-      "word": "nkalaman",
-      "gloss": "maize"
-    },
-    {
-      "word": "ban",
-      "gloss": "to look for"
-    },
-    {
-      "word": "kichaŋ",
-      "gloss": "back"
-    },
-    {
-      "word": "dan",
-      "gloss": "to come"
-    },
-    {
-      "word": "arebersa",
-      "gloss": "onion"
-    },
-    {
-      "word": "tifar",
-      "gloss": "leaves"
-    },
-    {
-      "word": "gii",
-      "gloss": "to cut"
-    },
-    {
-      "word": "gbii",
-      "gloss": "full"
-    },
-    {
-      "word": "upiih",
-      "gloss": "sheep"
-    },
-    {
-      "word": "tidir",
-      "gloss": "rooms"
-    },
-    {
-      "word": "kijook",
-      "gloss": "evening"
-    },
-    {
-      "word": "kun",
-      "gloss": "to go home"
-    },
-    {
-      "word": "kpo",
-      "gloss": "to die"
-    },
-    {
-      "word": "likekeln",
-      "gloss": "cloth"
-    },
-    {
-      "word": "imii",
-      "gloss": "fires"
-    },
-    {
-      "word": "-na",
-      "gloss": "mother"
-    },
-    {
-      "word": "nyoo",
-      "gloss": "deep"
-    },
-    {
-      "word": "ŋan",
-      "gloss": "good"
-    },
-    {
-      "word": "uŋmal",
-      "gloss": "month"
-    },
-    {
-      "word": "ko",
-      "gloss": "to hoe"
-    },
-    {
-      "word": "nnyɔk",
-      "gloss": "medicine"
-    },
-    {
-      "word": "pam",
-      "gloss": "very"
-    },
-    {
-      "word": "timoor",
-      "gloss": "grass"
-    },
-    {
-      "word": "kisaak",
-      "gloss": "farm"
-    },
-    {
-      "word": "ŋitafal",
-      "gloss": "cars"
-    },
-    {
-      "word": "du",
-      "gloss": "here"
-    },
-    {
-      "word": "wii",
-      "gloss": "to call"
-    },
-    {
-      "word": "yi",
-      "gloss": "to call"
-    }
-  ]
+  "examples": []
 }

@@ -1,0 +1,432 @@
+{
+  "language": "Egyptian Arabic",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "ا",
+      "ipa": "ʔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ب",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "ت",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "ث",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ج",
+      "ipa": "g",
+      "script": "native"
+    },
+    {
+      "grapheme": "ح",
+      "ipa": "ħ",
+      "script": "native"
+    },
+    {
+      "grapheme": "خ",
+      "ipa": "x",
+      "script": "native"
+    },
+    {
+      "grapheme": "چ",
+      "ipa": "ʤ",
+      "script": "native"
+    },
+    {
+      "grapheme": "د",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ذ",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "ر",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "ز",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "س",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ش",
+      "ipa": "ʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ص",
+      "ipa": "sˁ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ض",
+      "ipa": "zˁ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ط",
+      "ipa": "tˁ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ظ",
+      "ipa": "zˁ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ع",
+      "ipa": "ʕ",
+      "script": "native"
+    },
+    {
+      "grapheme": "غ",
+      "ipa": "ɣ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ف",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "ق",
+      "ipa": "ʔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ك",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "ل",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "م",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "ن",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ه",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "و",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "ي",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "ء",
+      "ipa": "ʔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "’",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṯ",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḥ",
+      "ipa": "ħ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẖ",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ǧ",
+      "ipa": "ʤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḏ",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "š",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṣ",
+      "ipa": "sˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḍ",
+      "ipa": "zˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṭ",
+      "ipa": "tˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẓ",
+      "ipa": "zˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "‛",
+      "ipa": "ʕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ġ",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "ا",
+      "latin": "’"
+    },
+    {
+      "native": "ب",
+      "latin": "b"
+    },
+    {
+      "native": "ت",
+      "latin": "t"
+    },
+    {
+      "native": "ث",
+      "latin": "ṯ"
+    },
+    {
+      "native": "ج",
+      "latin": "g"
+    },
+    {
+      "native": "ح",
+      "latin": "ḥ"
+    },
+    {
+      "native": "خ",
+      "latin": "ẖ"
+    },
+    {
+      "native": "چ",
+      "latin": "ǧ"
+    },
+    {
+      "native": "د",
+      "latin": "d"
+    },
+    {
+      "native": "ذ",
+      "latin": "ḏ"
+    },
+    {
+      "native": "ر",
+      "latin": "r"
+    },
+    {
+      "native": "ز",
+      "latin": "z"
+    },
+    {
+      "native": "س",
+      "latin": "s"
+    },
+    {
+      "native": "ش",
+      "latin": "š"
+    },
+    {
+      "native": "ص",
+      "latin": "ṣ"
+    },
+    {
+      "native": "ض",
+      "latin": "ḍ"
+    },
+    {
+      "native": "ط",
+      "latin": "ṭ"
+    },
+    {
+      "native": "ظ",
+      "latin": "ẓ"
+    },
+    {
+      "native": "ع",
+      "latin": "‛"
+    },
+    {
+      "native": "غ",
+      "latin": "ġ"
+    },
+    {
+      "native": "ف",
+      "latin": "f"
+    },
+    {
+      "native": "ق",
+      "latin": "q"
+    },
+    {
+      "native": "ك",
+      "latin": "k"
+    },
+    {
+      "native": "ل",
+      "latin": "l"
+    },
+    {
+      "native": "م",
+      "latin": "m"
+    },
+    {
+      "native": "ن",
+      "latin": "n"
+    },
+    {
+      "native": "ه",
+      "latin": "h"
+    },
+    {
+      "native": "و",
+      "latin": "w"
+    },
+    {
+      "native": "ي",
+      "latin": "y"
+    },
+    {
+      "native": "ء",
+      "latin": "’"
+    }
+  ],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Egyptian Arabic writing system uses modified Arabic script containing non-standard letters like č/p-like additions (e.g. ﭺ). Primary pronunciation values were extracted from the first option in IPA ranges.",
+  "confidence": "high",
+  "iso": "arz",
+  "name": "Arabic (Egyptian)",
+  "country": "EG",
+  "family": "Afro-Asiatic",
+  "slug": "arabic_egyptian.xls"
+}

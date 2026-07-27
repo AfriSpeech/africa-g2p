@@ -1,0 +1,141 @@
+{
+  "language": "Gan",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "b",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "ts",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "tsʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "tɕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "tɕʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ngi",
+      "ipa": "ŋ̊",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ɕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "y",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Chart shows a Latin romanization system for Gan Chinese initials, finals, and vowels. The letter 'e' has alternative IPA [ɛ/ə], first alternative [ɛ] retained. Final consonants 'd' and 'g' correspond to [t] and [k].",
+  "confidence": "high",
+  "iso": "nhb",
+  "name": "Gan",
+  "country": "CI",
+  "family": "Mande",
+  "slug": "gan.xls"
+}

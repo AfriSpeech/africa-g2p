@@ -1,53 +1,97 @@
 {
   "code": "bom",
   "name": "Berom",
-  "country": "Nigeria",
-  "family": "Benue-Congo",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 22",
-  "confidence": "high",
+  "country": "NG",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (berom.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "h",
+      "i",
+      "j",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "n",
+      "ng",
+      "ny",
+      "o",
+      "p",
+      "r",
+      "s",
+      "sh",
+      "t",
+      "ts",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ɔ",
+      "ɛ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
-    "d": "d",
     "c": "t͡ʃ",
-    "j": "d͡ʒ",
-    "ts": "t͡s",
-    "k": "k",
+    "d": "d",
+    "e": "e",
+    "ɛ": "ɛ",
+    "f": "f",
     "g": "ɡ",
-    "kp": "k͡p",
     "gb": "ɡ͡b",
+    "h": "h",
+    "i": "i",
+    "j": "d͡ʒ",
+    "k": "k",
+    "kp": "k͡p",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ng": "ŋ",
-    "f": "f",
-    "v": "v",
-    "s": "s",
-    "z": "z",
-    "sh": "ʃ",
-    "l": "l",
+    "o": "o",
+    "ɔ": "ɔ",
+    "p": "p",
     "r": "r",
-    "h": "h",
+    "s": "s",
+    "sh": "ʃ",
+    "t": "t",
+    "ts": "t͡s",
+    "u": "u",
+    "v": "v",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "e": "e",
-    "ɛ": "ɛ",
-    "a": "a",
-    "u": "u",
-    "o": "o",
-    "ɔ": "ɔ"
+    "z": "z",
+    "ny": "ɲ"
   },
+  "romanization": {},
   "diacritics": {},
-  "tones": {},
-  "notes": "Hartell's phoneme notations converted to IPA: /tʃ/ -> t͡ʃ, /dʒ/ -> d͡ʒ, /ts/ -> t͡s, /kp/ -> k͡p, /gb/ -> ɡ͡b, /y/ -> j, /ŋ/ -> ŋ.",
+  "tones": {
+    "high tone": "á",
+    "mid tone": "a",
+    "low tone": "à",
+    "falling tone": "â",
+    "rising tone": "ǎ"
+  },
+  "notes": null,
   "alphabet": [
     "a",
     "b",
     "c",
     "d",
     "e",
-    "ɛ",
     "f",
     "g",
     "gb",
@@ -60,8 +104,8 @@
     "m",
     "n",
     "ng",
+    "ny",
     "o",
-    "ɔ",
     "p",
     "r",
     "s",
@@ -72,132 +116,9 @@
     "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ɔ",
+    "ɛ"
   ],
-  "examples": [
-    {
-      "word": "ba",
-      "gloss": "knife"
-    },
-    {
-      "word": "bot",
-      "gloss": "frog"
-    },
-    {
-      "word": "congot",
-      "gloss": "fowl"
-    },
-    {
-      "word": "duk",
-      "gloss": "hut"
-    },
-    {
-      "word": "kwet",
-      "gloss": "arrow"
-    },
-    {
-      "word": "kwɛt",
-      "gloss": "calabash"
-    },
-    {
-      "word": "fei",
-      "gloss": "rabbit"
-    },
-    {
-      "word": "gubu",
-      "gloss": "spoon"
-    },
-    {
-      "word": "gbin",
-      "gloss": "elephant"
-    },
-    {
-      "word": "hwong",
-      "gloss": "girl"
-    },
-    {
-      "word": "kyit",
-      "gloss": "yam"
-    },
-    {
-      "word": "ju",
-      "gloss": "blow"
-    },
-    {
-      "word": "kat",
-      "gloss": "monkey"
-    },
-    {
-      "word": "kpatak",
-      "gloss": "sandals"
-    },
-    {
-      "word": "lang",
-      "gloss": "branch"
-    },
-    {
-      "word": "mala",
-      "gloss": "handbag"
-    },
-    {
-      "word": "narang",
-      "gloss": "spider"
-    },
-    {
-      "word": "ngas",
-      "gloss": "breast"
-    },
-    {
-      "word": "yo:n",
-      "gloss": "guitar"
-    },
-    {
-      "word": "yɔm",
-      "gloss": "show off"
-    },
-    {
-      "word": "pwɛl",
-      "gloss": "crescent moon"
-    },
-    {
-      "word": "rɔndɔng",
-      "gloss": "cow"
-    },
-    {
-      "word": "sɔng",
-      "gloss": "grass"
-    },
-    {
-      "word": "shila",
-      "gloss": "beans"
-    },
-    {
-      "word": "tɔk",
-      "gloss": "fish"
-    },
-    {
-      "word": "tsung",
-      "gloss": "pot"
-    },
-    {
-      "word": "cu",
-      "gloss": "rat"
-    },
-    {
-      "word": "vwu",
-      "gloss": "dog"
-    },
-    {
-      "word": "wal",
-      "gloss": "machete"
-    },
-    {
-      "word": "yɔrɔ",
-      "gloss": "grasshopper"
-    },
-    {
-      "word": "zɛbɛrɛng",
-      "gloss": "mosquito"
-    }
-  ]
+  "examples": []
 }

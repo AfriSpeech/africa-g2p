@@ -1,0 +1,306 @@
+{
+  "language": "Venda",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḓ",
+      "ipa": "d̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "ɦ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "kʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "ɺ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḽ",
+      "ipa": "l̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṋ",
+      "ipa": "n̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṅ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "pʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "ɾ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "tʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṱ",
+      "ipa": "t̪",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bv",
+      "ipa": "b̪v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bw",
+      "ipa": "bɣʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dz",
+      "ipa": "d͡z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dzh",
+      "ipa": "d͡ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dzw",
+      "ipa": "d͡zʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "fh",
+      "ipa": "ɸ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hw",
+      "ipa": "ɣʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kh",
+      "ipa": "kʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "khw",
+      "ipa": "kʷʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ng",
+      "ipa": "ŋɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nz",
+      "ipa": "nd͡z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṅw",
+      "ipa": "ŋʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ph",
+      "ipa": "pʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pf",
+      "ipa": "p̪f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pfh",
+      "ipa": "p̪fʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sh",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "sw",
+      "ipa": "ʂ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "tʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ths",
+      "ipa": "t͡sʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "thsh",
+      "ipa": "t͡ʃʰ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ts",
+      "ipa": "t͡sʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tsh",
+      "ipa": "t͡ʃʼ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tsw",
+      "ipa": "t͡sʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ty",
+      "ipa": "c",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṱh",
+      "ipa": "t̪h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "vh",
+      "ipa": "β",
+      "script": "latin"
+    },
+    {
+      "grapheme": "xw",
+      "ipa": "xʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zh",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zw",
+      "ipa": "ʐ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "",
+  "confidence": "high",
+  "iso": "ven",
+  "name": "Venda",
+  "country": "BW",
+  "family": "Atlantic-Congo",
+  "slug": "venda.xls"
+}

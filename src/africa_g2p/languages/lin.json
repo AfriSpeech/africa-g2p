@@ -1,153 +1,150 @@
 {
   "code": "lin",
   "name": "Lingala",
-  "country": "Congo",
-  "family": "Bantoid, Bantu C.40",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 76",
-  "confidence": "high",
+  "country": "CD",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (lingala.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "h",
+      "i",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "mb",
+      "mf",
+      "mp",
+      "mv",
+      "n",
+      "nd",
+      "ng",
+      "ngb",
+      "nk",
+      "ns",
+      "nt",
+      "ny",
+      "nz",
+      "o",
+      "p",
+      "r",
+      "s",
+      "sh",
+      "t",
+      "ts",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ɔ",
+      "ɛ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
+    "c": "t͡ʃ",
     "d": "d",
-    "k": "k",
-    "m": "m",
-    "n": "n",
-    "ny": "ɲ",
-    "ng": "ŋ",
-    "f": "f",
-    "s": "s",
-    "z": "z",
-    "l": "l",
-    "w": "w",
-    "y": "j",
-    "i": "i",
     "e": "e",
     "ɛ": "ɛ",
-    "a": "a",
-    "u": "u",
+    "f": "f",
+    "g": "ɡ",
+    "gb": "ɡ͡b",
+    "h": "h",
+    "i": "i",
+    "k": "k",
+    "l": "l",
+    "m": "m",
+    "mb": "ᵐb",
+    "mp": "ᵐp",
+    "n": "n",
+    "nd": "ⁿd",
+    "ng": "ᵑɡ",
+    "nk": "ᵑk",
+    "ns": "ⁿs",
+    "nt": "ⁿt",
+    "ny": "ɲ",
+    "nz": "ⁿz",
     "o": "o",
-    "ɔ": "ɔ"
+    "ɔ": "ɔ",
+    "p": "p",
+    "r": "r",
+    "s": "s",
+    "t": "t",
+    "u": "u",
+    "v": "v",
+    "w": "w",
+    "y": "j",
+    "z": "z",
+    "kp": "k͡p",
+    "mf": "ɱf",
+    "mv": "ɱv",
+    "ngb": "ᵑɡ͡b",
+    "sh": "ʃ",
+    "ts": "t͡s"
   },
-  "diacritics": {
-    "́": "˥",
-    "̀": "˩",
-    "̂": "˥˩"
+  "romanization": {},
+  "diacritics": {},
+  "tones": {
+    "low tone": "unmarked (a)",
+    "high tone": "acute accent (á)",
+    "falling tone": "circumflex (â)",
+    "rising tone": "caron (ǎ)"
   },
-  "tones": null,
-  "notes": "Converted Hartell /y/ to IPA /j/.",
+  "notes": "Alternative IPA for 'nz' ([ⁿz/ᶮʒ]) resolved to first option [ⁿz]. Syllable example rows (row1, row4, row7, row10, row13) ignored as instructed.",
   "alphabet": [
     "a",
     "b",
+    "c",
     "d",
     "e",
-    "ɛ",
     "f",
+    "g",
+    "gb",
+    "h",
     "i",
     "k",
+    "kp",
     "l",
     "m",
+    "mb",
+    "mf",
+    "mp",
+    "mv",
     "n",
-    "ny",
+    "nd",
     "ng",
+    "ngb",
+    "nk",
+    "ns",
+    "nt",
+    "ny",
+    "nz",
     "o",
-    "ɔ",
     "p",
+    "r",
     "s",
+    "sh",
     "t",
+    "ts",
     "u",
+    "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ɔ",
+    "ɛ"
   ],
-  "examples": [
-    {
-      "word": "tatà",
-      "gloss": "father"
-    },
-    {
-      "word": "ebelé",
-      "gloss": "much,many"
-    },
-    {
-      "word": "lodéfa",
-      "gloss": "to borrow"
-    },
-    {
-      "word": "ebelé",
-      "gloss": "much,many"
-    },
-    {
-      "word": "pɛtɛ pɛtɛ",
-      "gloss": "two, soft"
-    },
-    {
-      "word": "fufû",
-      "gloss": "manioc flour"
-    },
-    {
-      "word": "nini",
-      "gloss": "what?"
-    },
-    {
-      "word": "kàké",
-      "gloss": "thunder"
-    },
-    {
-      "word": "lilàla",
-      "gloss": "orange"
-    },
-    {
-      "word": "mamà",
-      "gloss": "mother"
-    },
-    {
-      "word": "nina",
-      "gloss": "electric fish"
-    },
-    {
-      "word": "nyòka",
-      "gloss": "snake"
-    },
-    {
-      "word": "ngonga",
-      "gloss": "clock"
-    },
-    {
-      "word": "lokolo",
-      "gloss": "leg"
-    },
-    {
-      "word": "mbɔngɔ",
-      "gloss": "silver"
-    },
-    {
-      "word": "pipà",
-      "gloss": "thickness"
-    },
-    {
-      "word": "sasapi",
-      "gloss": "immediately"
-    },
-    {
-      "word": "tatà",
-      "gloss": "father"
-    },
-    {
-      "word": "kulutu",
-      "gloss": "oldest child"
-    },
-    {
-      "word": "wanà",
-      "gloss": "there"
-    },
-    {
-      "word": "mayɛ́ɛ",
-      "gloss": "intelligence"
-    },
-    {
-      "word": "zolo",
-      "gloss": "nose"
-    }
-  ]
+  "examples": []
 }

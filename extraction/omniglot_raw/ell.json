@@ -1,0 +1,479 @@
+{
+  "language": "Greek",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "α",
+      "ipa": "a",
+      "script": "native"
+    },
+    {
+      "grapheme": "β",
+      "ipa": "v",
+      "script": "native"
+    },
+    {
+      "grapheme": "γ",
+      "ipa": "ɣ",
+      "script": "native"
+    },
+    {
+      "grapheme": "δ",
+      "ipa": "ð",
+      "script": "native"
+    },
+    {
+      "grapheme": "ε",
+      "ipa": "e",
+      "script": "native"
+    },
+    {
+      "grapheme": "ζ",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "η",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "θ",
+      "ipa": "θ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ι",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "κ",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "λ",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "μ",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "ν",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ξ",
+      "ipa": "ks",
+      "script": "native"
+    },
+    {
+      "grapheme": "ο",
+      "ipa": "o",
+      "script": "native"
+    },
+    {
+      "grapheme": "π",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "ρ",
+      "ipa": "r",
+      "script": "native"
+    },
+    {
+      "grapheme": "σ",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ς",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "τ",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "υ",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "φ",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "χ",
+      "ipa": "x",
+      "script": "native"
+    },
+    {
+      "grapheme": "ψ",
+      "ipa": "ps",
+      "script": "native"
+    },
+    {
+      "grapheme": "ω",
+      "ipa": "o",
+      "script": "native"
+    },
+    {
+      "grapheme": "ϝ",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "αι",
+      "ipa": "ɛ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ει",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "οι",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "υι",
+      "ipa": "i",
+      "script": "native"
+    },
+    {
+      "grapheme": "αυ",
+      "ipa": "av",
+      "script": "native"
+    },
+    {
+      "grapheme": "ευ",
+      "ipa": "ev",
+      "script": "native"
+    },
+    {
+      "grapheme": "ου",
+      "ipa": "u",
+      "script": "native"
+    },
+    {
+      "grapheme": "μπ",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "γκ",
+      "ipa": "g",
+      "script": "native"
+    },
+    {
+      "grapheme": "τσ",
+      "ipa": "ts",
+      "script": "native"
+    },
+    {
+      "grapheme": "ντ",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "τζ",
+      "ipa": "dz",
+      "script": "native"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "ð",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ē",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "th",
+      "ipa": "θ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "ks",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ph",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ch",
+      "ipa": "x",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ps",
+      "ipa": "ps",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ō",
+      "ipa": "o",
+      "script": "latin"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "α",
+      "latin": "a"
+    },
+    {
+      "native": "β",
+      "latin": "v"
+    },
+    {
+      "native": "γ",
+      "latin": "g"
+    },
+    {
+      "native": "δ",
+      "latin": "d"
+    },
+    {
+      "native": "ε",
+      "latin": "e"
+    },
+    {
+      "native": "ζ",
+      "latin": "z"
+    },
+    {
+      "native": "η",
+      "latin": "ē"
+    },
+    {
+      "native": "θ",
+      "latin": "th"
+    },
+    {
+      "native": "ι",
+      "latin": "i"
+    },
+    {
+      "native": "κ",
+      "latin": "k"
+    },
+    {
+      "native": "λ",
+      "latin": "l"
+    },
+    {
+      "native": "μ",
+      "latin": "m"
+    },
+    {
+      "native": "ν",
+      "latin": "n"
+    },
+    {
+      "native": "ξ",
+      "latin": "x"
+    },
+    {
+      "native": "ο",
+      "latin": "o"
+    },
+    {
+      "native": "π",
+      "latin": "p"
+    },
+    {
+      "native": "ρ",
+      "latin": "r"
+    },
+    {
+      "native": "σ",
+      "latin": "s"
+    },
+    {
+      "native": "ς",
+      "latin": "s"
+    },
+    {
+      "native": "τ",
+      "latin": "t"
+    },
+    {
+      "native": "υ",
+      "latin": "y"
+    },
+    {
+      "native": "φ",
+      "latin": "ph"
+    },
+    {
+      "native": "χ",
+      "latin": "ch"
+    },
+    {
+      "native": "ψ",
+      "latin": "ps"
+    },
+    {
+      "native": "ω",
+      "latin": "ō"
+    },
+    {
+      "native": "ϝ",
+      "latin": "w"
+    },
+    {
+      "native": "αι",
+      "latin": "ai"
+    },
+    {
+      "native": "ει",
+      "latin": "ei"
+    },
+    {
+      "native": "οι",
+      "latin": "oi"
+    },
+    {
+      "native": "υι",
+      "latin": "ui"
+    },
+    {
+      "native": "αυ",
+      "latin": "au"
+    },
+    {
+      "native": "ευ",
+      "latin": "eu"
+    },
+    {
+      "native": "ου",
+      "latin": "ou"
+    },
+    {
+      "native": "μπ",
+      "latin": "mp"
+    },
+    {
+      "native": "γκ",
+      "latin": "gk"
+    },
+    {
+      "native": "τσ",
+      "latin": "ts"
+    },
+    {
+      "native": "ντ",
+      "latin": "nt"
+    },
+    {
+      "native": "τζ",
+      "latin": "tz"
+    }
+  ],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Chart contains multiple sheets reflecting Archaic, Classical Attic, Minuscule, and Modern Greek writing systems. Primary IPA listed is Modern Greek with Classical Attic sound values captured historically in sheet variations.",
+  "confidence": "high",
+  "iso": "ell",
+  "name": "Greek",
+  "country": "EG",
+  "family": "Indo-European",
+  "slug": "greek.xls"
+}

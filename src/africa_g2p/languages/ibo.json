@@ -1,51 +1,93 @@
 {
   "code": "ibo",
   "name": "Igbo",
-  "country": "Nigeria",
-  "family": "Kwa",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 61",
-  "confidence": "high",
+  "country": "NG",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (igbo.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "ch",
+      "d",
+      "e",
+      "f",
+      "g",
+      "gb",
+      "gh",
+      "gw",
+      "h",
+      "i",
+      "j",
+      "k",
+      "kp",
+      "kw",
+      "l",
+      "m",
+      "n",
+      "nw",
+      "ny",
+      "o",
+      "p",
+      "r",
+      "s",
+      "sh",
+      "t",
+      "u",
+      "v",
+      "w",
+      "y",
+      "z",
+      "ṅ",
+      "ị",
+      "ọ",
+      "ụ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
-    "kp": "k͡p",
+    "a": "a",
     "b": "b",
-    "gb": "ɡ͡b",
-    "t": "t",
+    "ch": "ʧ",
     "d": "d",
-    "ch": "t͡ʃ",
-    "j": "d͡ʒ",
-    "k": "k",
+    "e": "e",
+    "f": "f",
     "g": "ɡ",
-    "kw": "kʷ",
+    "gb": "ɓ",
+    "gh": "ɣ",
     "gw": "ɡʷ",
+    "h": "ɦ",
+    "i": "i",
+    "ị": "ɪ̙",
+    "j": "ʤ",
+    "k": "k",
+    "kp": "ɓ̥",
+    "kw": "kʷ",
+    "l": "l",
     "m": "m",
     "n": "n",
-    "ny": "ɲ",
     "ṅ": "ŋ",
     "nw": "ŋʷ",
-    "f": "f",
-    "v": "v",
+    "ny": "ɲ",
+    "o": "o",
+    "ọ": "ɔ̙",
+    "p": "p",
+    "r": "ɹ",
     "s": "s",
-    "z": "z",
     "sh": "ʃ",
-    "l": "l",
-    "r": "r",
-    "gh": "ɣ",
-    "h": "h",
+    "t": "t",
+    "u": "u",
+    "ụ": "ʊ̙",
+    "v": "v",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "ị": "ɪ",
-    "e": "ɛ",
-    "a": "a",
-    "u": "u",
-    "ụ": "ʊ",
-    "o": "o",
-    "ọ": "ɔ"
+    "z": "z"
   },
+  "romanization": {},
   "diacritics": {},
-  "tones": null,
-  "notes": "Hartell uses voiceless and voiced implosive symbols (/ƥ/ and /ɓ/) for kp and gb, converted to standard labial-velar stops /k͡p/ and /ɡ͡b/. Converted orthographic /y/ to IPA /j/. Converted /kw/, /gw/, /nw/ to labialized phonemes /kʷ/, /ɡʷ/, /ŋʷ/.",
+  "tones": {},
+  "notes": "Tilde notation in IPA cell alternatives (e.g. ɓ~ɡ͡ɓ, ɓ̥~k͡p) reduced to first listed option per rules.",
   "alphabet": [
     "a",
     "b",
@@ -59,7 +101,6 @@
     "gw",
     "h",
     "i",
-    "ị",
     "j",
     "k",
     "kp",
@@ -69,165 +110,21 @@
     "n",
     "nw",
     "ny",
-    "ṅ",
     "o",
-    "ọ",
     "p",
     "r",
     "s",
     "sh",
     "t",
     "u",
-    "ụ",
     "v",
     "w",
     "y",
-    "z"
+    "z",
+    "ṅ",
+    "ị",
+    "ọ",
+    "ụ"
   ],
-  "examples": [
-    {
-      "word": "ala",
-      "gloss": "land"
-    },
-    {
-      "word": "abọ",
-      "gloss": "basket"
-    },
-    {
-      "word": "ubọchị",
-      "gloss": "day"
-    },
-    {
-      "word": "ida",
-      "gloss": "to fall"
-    },
-    {
-      "word": "mbe",
-      "gloss": "tortoise"
-    },
-    {
-      "word": "ifa",
-      "gloss": "to shriek"
-    },
-    {
-      "word": "iga",
-      "gloss": "to go"
-    },
-    {
-      "word": "igba",
-      "gloss": "to run"
-    },
-    {
-      "word": "eghu",
-      "gloss": "goat"
-    },
-    {
-      "word": "igwe",
-      "gloss": "iron"
-    },
-    {
-      "word": "ahụhụ",
-      "gloss": "suffering"
-    },
-    {
-      "word": "isi",
-      "gloss": "head"
-    },
-    {
-      "word": "ntị",
-      "gloss": "ear"
-    },
-    {
-      "word": "njọ",
-      "gloss": "bad"
-    },
-    {
-      "word": "ịka",
-      "gloss": "to be more"
-    },
-    {
-      "word": "akpa",
-      "gloss": "sac"
-    },
-    {
-      "word": "ịkwa",
-      "gloss": "to cry"
-    },
-    {
-      "word": "ụlọ",
-      "gloss": "house"
-    },
-    {
-      "word": "ọma",
-      "gloss": "good, beautiful"
-    },
-    {
-      "word": "ịna",
-      "gloss": "to receive"
-    },
-    {
-      "word": "onye",
-      "gloss": "someone"
-    },
-    {
-      "word": "nwa",
-      "gloss": "child"
-    },
-    {
-      "word": "ịṅụ",
-      "gloss": "to drink"
-    },
-    {
-      "word": "oke",
-      "gloss": "rat"
-    },
-    {
-      "word": "ọzọ",
-      "gloss": "other"
-    },
-    {
-      "word": "ịpa",
-      "gloss": "to carry"
-    },
-    {
-      "word": "ụra",
-      "gloss": "sleep"
-    },
-    {
-      "word": "ịsa",
-      "gloss": "to wash"
-    },
-    {
-      "word": "isha",
-      "gloss": "shrimp"
-    },
-    {
-      "word": "ite",
-      "gloss": "pot"
-    },
-    {
-      "word": "uche",
-      "gloss": "mind, sense"
-    },
-    {
-      "word": "ụmụ",
-      "gloss": "children"
-    },
-    {
-      "word": "ivu",
-      "gloss": "load"
-    },
-    {
-      "word": "ịwa",
-      "gloss": "to split"
-    },
-    {
-      "word": "ya",
-      "gloss": "his/her"
-    },
-    {
-      "word": "ịza",
-      "gloss": "to answer"
-    }
-  ]
+  "examples": []
 }

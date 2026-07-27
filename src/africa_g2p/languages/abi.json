@@ -1,59 +1,108 @@
 {
   "code": "abi",
   "name": "Abidji",
-  "country": "Côte d'Ivoire",
-  "family": "Kwa",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 2",
-  "confidence": "high",
+  "country": "CI",
+  "family": "Atlantic-Congo",
+  "source": "Omniglot chart (abidji.xls), © Simon Ager, https://omniglot.com",
+  "confidence": "omniglot",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "an",
+      "b",
+      "c",
+      "d",
+      "e",
+      "en",
+      "f",
+      "g",
+      "gb",
+      "i",
+      "in",
+      "j",
+      "k",
+      "kp",
+      "l",
+      "m",
+      "n",
+      "ny",
+      "o",
+      "on",
+      "p",
+      "r",
+      "s",
+      "t",
+      "u",
+      "un",
+      "w",
+      "y",
+      "ɔ",
+      "ɔn",
+      "ɛ",
+      "ɛn",
+      "ɩ",
+      "ʊ",
+      "ʊn",
+      "ʔ"
+    ]
+  },
   "graphemes": {
-    "p": "p",
+    "a": "a",
     "b": "b",
-    "t": "t",
+    "c": "t͡c",
     "d": "d",
-    "c": "c",
-    "j": "ɟ",
-    "k": "k",
+    "e": "e",
+    "ɛ": "ɛ",
+    "f": "f",
     "g": "ɡ",
-    "kp": "k͡p",
     "gb": "ɡ͡b",
-    "ʔ": "ʔ",
+    "j": "d͡ɟ",
+    "i": "i",
+    "ɩ": "ɪ",
+    "k": "k",
+    "kp": "k͡p",
+    "l": "l",
     "m": "m",
     "n": "n",
     "ny": "ɲ",
-    "f": "f",
+    "o": "o",
+    "ɔ": "ɔ",
+    "p": "p",
+    "r": "ɾ",
     "s": "s",
-    "l": "l",
-    "r": "r",
-    "h": "h",
+    "t": "t",
+    "u": "u",
+    "ʊ": "ʊ",
     "w": "w",
     "y": "j",
-    "i": "i",
-    "e": "e",
-    "ɩ": "ɪ",
-    "ɛ": "ɛ",
-    "a": "a",
-    "ɔ": "ɔ",
-    "ʊ": "ʊ",
-    "o": "o",
-    "u": "u",
-    "Vn": "Ṽ"
+    "ʔ": "ʔ",
+    "an": "ã",
+    "en": "ẽ",
+    "ɛn": "ɛ̃",
+    "in": "ĩ",
+    "on": "õ",
+    "ɔn": "ɔ̃",
+    "un": "ũ",
+    "ʊn": "ʊ̃"
   },
+  "romanization": {},
   "diacritics": {},
   "tones": {},
-  "notes": "Mapped Hartell vowel symbols /ɩ/ to IPA /ɪ/, /ɷ/ to IPA /ʊ/, and nasal vowel notation /Ṽ/ to grapheme digram sequence Vn.",
+  "notes": "Nasal vowels are written as digraphs combining a vowel character followed by 'n'.",
   "alphabet": [
     "a",
+    "an",
     "b",
     "c",
     "d",
     "e",
-    "ɛ",
+    "en",
     "f",
     "g",
     "gb",
-    "h",
     "i",
-    "ɩ",
+    "in",
     "j",
     "k",
     "kp",
@@ -62,141 +111,23 @@
     "n",
     "ny",
     "o",
-    "ɔ",
+    "on",
     "p",
     "r",
     "s",
     "t",
     "u",
-    "ʊ",
+    "un",
     "w",
     "y",
+    "ɔ",
+    "ɔn",
+    "ɛ",
+    "ɛn",
+    "ɩ",
+    "ʊ",
+    "ʊn",
     "ʔ"
   ],
-  "examples": [
-    {
-      "word": "a",
-      "gloss": "go!"
-    },
-    {
-      "word": "ba",
-      "gloss": "vine"
-    },
-    {
-      "word": "có",
-      "gloss": "place"
-    },
-    {
-      "word": "dada",
-      "gloss": "net"
-    },
-    {
-      "word": "egbe",
-      "gloss": "palm nuts"
-    },
-    {
-      "word": "tɛ",
-      "gloss": "over there"
-    },
-    {
-      "word": "kpɛnkpɛ",
-      "gloss": "skin"
-    },
-    {
-      "word": "fun",
-      "gloss": "lie"
-    },
-    {
-      "word": "ege",
-      "gloss": "behind"
-    },
-    {
-      "word": "gba",
-      "gloss": "now"
-    },
-    {
-      "word": "hɩ",
-      "gloss": "husband"
-    },
-    {
-      "word": "ti",
-      "gloss": "listen!"
-    },
-    {
-      "word": "rɩtɩ",
-      "gloss": "ear"
-    },
-    {
-      "word": "juju",
-      "gloss": "look for it!"
-    },
-    {
-      "word": "karʊ",
-      "gloss": "chicken"
-    },
-    {
-      "word": "kpan",
-      "gloss": "human being"
-    },
-    {
-      "word": "la",
-      "gloss": "fear"
-    },
-    {
-      "word": "mʊ",
-      "gloss": "in"
-    },
-    {
-      "word": "nʊ",
-      "gloss": "day"
-    },
-    {
-      "word": "okoko",
-      "gloss": "banana"
-    },
-    {
-      "word": "ɔbɔ",
-      "gloss": "thing"
-    },
-    {
-      "word": "plɛ",
-      "gloss": "squirrel"
-    },
-    {
-      "word": "nyɔmbɔ",
-      "gloss": "stupidity"
-    },
-    {
-      "word": "rɩra",
-      "gloss": "noise"
-    },
-    {
-      "word": "sie",
-      "gloss": "fish"
-    },
-    {
-      "word": "tɛbua",
-      "gloss": "paddle"
-    },
-    {
-      "word": "lu",
-      "gloss": "year"
-    },
-    {
-      "word": "lʊ",
-      "gloss": "sickness"
-    },
-    {
-      "word": "wɩ",
-      "gloss": "child"
-    },
-    {
-      "word": "yi",
-      "gloss": "woman"
-    },
-    {
-      "word": "unʔun",
-      "gloss": "bad"
-    }
-  ]
+  "examples": []
 }

@@ -1,0 +1,216 @@
+{
+  "language": "Kabyle",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "bʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "č",
+      "ipa": "ʧ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "ð",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḍ",
+      "ipa": "ðˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ə",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gw",
+      "ipa": "ɡʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ğ",
+      "ipa": "ʤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɣ",
+      "ipa": "ʁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ḥ",
+      "ipa": "ħ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "â",
+      "ipa": "ʕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṛ",
+      "ipa": "rˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṣ",
+      "ipa": "sˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṭ",
+      "ipa": "tˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ţ",
+      "ipa": "ts",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "χ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẓ",
+      "ipa": "zˤ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z̧",
+      "ipa": "dz",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ε",
+      "ipa": "ʕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tt",
+      "ipa": "ts",
+      "script": "latin"
+    },
+    {
+      "grapheme": "zz",
+      "ipa": "dz",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [],
+  "notes": "Includes two Latin orthographies for Kabyle: Mouloud Mammeri's version (with â, ţ, z̧) and the unified Northern Berber alphabet (with ε, tt, zz).",
+  "confidence": "high",
+  "iso": "kab",
+  "name": "Kabyle",
+  "country": "DZ",
+  "family": "Afro-Asiatic",
+  "slug": "kabyle.xls"
+}

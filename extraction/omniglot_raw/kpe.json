@@ -1,0 +1,372 @@
+{
+  "language": "Kpelle",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɓ",
+      "ipa": "ɓ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gb",
+      "ipa": "gb",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɣ",
+      "ipa": "ɣ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kp",
+      "ipa": "kp",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŋ",
+      "ipa": "ŋ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "À",
+      "ipa": "pi",
+      "script": "native"
+    },
+    {
+      "grapheme": "Á",
+      "ipa": "pa",
+      "script": "native"
+    },
+    {
+      "grapheme": "Â",
+      "ipa": "pu",
+      "script": "native"
+    },
+    {
+      "grapheme": "Ã",
+      "ipa": "pe",
+      "script": "native"
+    },
+    {
+      "grapheme": "Ä",
+      "ipa": "pe",
+      "script": "native"
+    },
+    {
+      "grapheme": "Å",
+      "ipa": "pɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "Æ",
+      "ipa": "po",
+      "script": "native"
+    },
+    {
+      "grapheme": "Ç",
+      "ipa": "bi",
+      "script": "native"
+    },
+    {
+      "grapheme": "È",
+      "ipa": "ba",
+      "script": "native"
+    },
+    {
+      "grapheme": "É",
+      "ipa": "be",
+      "script": "native"
+    },
+    {
+      "grapheme": "Ê",
+      "ipa": "be",
+      "script": "native"
+    },
+    {
+      "grapheme": "Ë",
+      "ipa": "bɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "Ì",
+      "ipa": "kpi",
+      "script": "native"
+    },
+    {
+      "grapheme": "Í",
+      "ipa": "kpa",
+      "script": "native"
+    },
+    {
+      "grapheme": "Î",
+      "ipa": "kpu",
+      "script": "native"
+    },
+    {
+      "grapheme": "Ï",
+      "ipa": "kpe",
+      "script": "native"
+    },
+    {
+      "grapheme": "Ð",
+      "ipa": "kpe",
+      "script": "native"
+    },
+    {
+      "grapheme": "Ñ",
+      "ipa": "kpɔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "Ò",
+      "ipa": "kpo",
+      "script": "native"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "À",
+      "latin": "pi/bi"
+    },
+    {
+      "native": "Á",
+      "latin": "pa/ba"
+    },
+    {
+      "native": "Â",
+      "latin": "pu/bu"
+    },
+    {
+      "native": "Ã",
+      "latin": "pe/be"
+    },
+    {
+      "native": "Ä",
+      "latin": "peh/beh"
+    },
+    {
+      "native": "Å",
+      "latin": "pah/bah"
+    },
+    {
+      "native": "Æ",
+      "latin": "po/bo"
+    },
+    {
+      "native": "Ç",
+      "latin": "bi/mi"
+    },
+    {
+      "native": "È",
+      "latin": "ba/ma"
+    },
+    {
+      "native": "É",
+      "latin": "be/me"
+    },
+    {
+      "native": "Ê",
+      "latin": "beh/meh"
+    },
+    {
+      "native": "Ë",
+      "latin": "bah/mah"
+    },
+    {
+      "native": "Ì",
+      "latin": "kpi/gbi"
+    },
+    {
+      "native": "Í",
+      "latin": "kpa/gba"
+    },
+    {
+      "native": "Î",
+      "latin": "kpu/gbu"
+    },
+    {
+      "native": "Ï",
+      "latin": "kpe/gbe"
+    },
+    {
+      "native": "Ð",
+      "latin": "kpeh/gbeh"
+    },
+    {
+      "native": "Ñ",
+      "latin": "kpah/gbah"
+    },
+    {
+      "native": "Ò",
+      "latin": "kpo/gbo"
+    },
+    {
+      "native": "Ó",
+      "latin": "fi/vi"
+    },
+    {
+      "native": "Ô",
+      "latin": "fa/va"
+    },
+    {
+      "native": "Õ",
+      "latin": "feh/veh"
+    },
+    {
+      "native": "Ö",
+      "latin": "fah/vah"
+    },
+    {
+      "native": "×",
+      "latin": "fo/vo"
+    },
+    {
+      "native": "Ú",
+      "latin": "ta/da"
+    },
+    {
+      "native": "Û",
+      "latin": "tu/du"
+    },
+    {
+      "native": "Ü",
+      "latin": "te/de"
+    },
+    {
+      "native": "Ý",
+      "latin": "teh/deh"
+    },
+    {
+      "native": "Þ",
+      "latin": "tah/dah"
+    },
+    {
+      "native": "ß",
+      "latin": "to/do"
+    }
+  ],
+  "tones": {},
+  "diacritics": [],
+  "notes": "The Kpelle syllabary uses font-encoded extended ASCII glyphs mapped to syllable values. The Latin orthography includes letters such as ɓ, ɛ, ɣ, ŋ, ɔ, and digraphs gb, kp.",
+  "confidence": "high",
+  "iso": "kpe",
+  "name": "Kpelle",
+  "country": "GN",
+  "family": "Mande",
+  "slug": "kpelle.xls"
+}

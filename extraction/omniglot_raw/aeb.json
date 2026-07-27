@@ -1,0 +1,530 @@
+{
+  "language": "Tunisian Arabic",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "ا",
+      "ipa": "ʔ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ب",
+      "ipa": "b",
+      "script": "native"
+    },
+    {
+      "grapheme": "پ",
+      "ipa": "p",
+      "script": "native"
+    },
+    {
+      "grapheme": "ت",
+      "ipa": "t",
+      "script": "native"
+    },
+    {
+      "grapheme": "تش",
+      "ipa": "t͡ʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ث",
+      "ipa": "θ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ج",
+      "ipa": "ʒ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ح",
+      "ipa": "ħ",
+      "script": "native"
+    },
+    {
+      "grapheme": "خ",
+      "ipa": "χ",
+      "script": "native"
+    },
+    {
+      "grapheme": "د",
+      "ipa": "d",
+      "script": "native"
+    },
+    {
+      "grapheme": "ذ",
+      "ipa": "ð",
+      "script": "native"
+    },
+    {
+      "grapheme": "ر",
+      "ipa": "r~ɾ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ز",
+      "ipa": "z",
+      "script": "native"
+    },
+    {
+      "grapheme": "س",
+      "ipa": "s",
+      "script": "native"
+    },
+    {
+      "grapheme": "ش",
+      "ipa": "ʃ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ص",
+      "ipa": "sˁ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ض",
+      "ipa": "ðˁ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ط",
+      "ipa": "tˁ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ظ",
+      "ipa": "ðˁ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ع",
+      "ipa": "ʕ",
+      "script": "native"
+    },
+    {
+      "grapheme": "غ",
+      "ipa": "ʁ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ف",
+      "ipa": "f",
+      "script": "native"
+    },
+    {
+      "grapheme": "ڥ",
+      "ipa": "v",
+      "script": "native"
+    },
+    {
+      "grapheme": "ق",
+      "ipa": "q",
+      "script": "native"
+    },
+    {
+      "grapheme": "ك",
+      "ipa": "k",
+      "script": "native"
+    },
+    {
+      "grapheme": "ڭ",
+      "ipa": "ɡ",
+      "script": "native"
+    },
+    {
+      "grapheme": "ل",
+      "ipa": "l",
+      "script": "native"
+    },
+    {
+      "grapheme": "لا",
+      "ipa": "lɐː",
+      "script": "native"
+    },
+    {
+      "grapheme": "م",
+      "ipa": "m",
+      "script": "native"
+    },
+    {
+      "grapheme": "ن",
+      "ipa": "n",
+      "script": "native"
+    },
+    {
+      "grapheme": "ه",
+      "ipa": "h",
+      "script": "native"
+    },
+    {
+      "grapheme": "و",
+      "ipa": "w",
+      "script": "native"
+    },
+    {
+      "grapheme": "ي",
+      "ipa": "j",
+      "script": "native"
+    },
+    {
+      "grapheme": "’",
+      "ipa": "ʔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "a",
+      "ipa": "ɑ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "à",
+      "ipa": "ɑ:",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "c",
+      "ipa": "ʃ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ċ",
+      "ipa": "θ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "đ",
+      "ipa": "ð",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "è",
+      "ipa": "ɛ:",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "g",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ġ",
+      "ipa": "ʕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ħ",
+      "ipa": "ħ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ì",
+      "ipa": "i:",
+      "script": "latin"
+    },
+    {
+      "grapheme": "j",
+      "ipa": "ʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ò",
+      "ipa": "o:",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "q",
+      "ipa": "q",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɍ",
+      "ipa": "ʁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ṡ",
+      "ipa": "sˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ŧ",
+      "ipa": "tˁ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ù",
+      "ipa": "u:",
+      "script": "latin"
+    },
+    {
+      "grapheme": "v",
+      "ipa": "v",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "x",
+      "ipa": "χ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ż",
+      "ipa": "ðˁ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [
+    {
+      "native": "ا",
+      "latin": "ʔ"
+    },
+    {
+      "native": "ب",
+      "latin": "b"
+    },
+    {
+      "native": "پ",
+      "latin": "p"
+    },
+    {
+      "native": "ت",
+      "latin": "t"
+    },
+    {
+      "native": "تش",
+      "latin": "tš"
+    },
+    {
+      "native": "ث",
+      "latin": "ṯ"
+    },
+    {
+      "native": "ج",
+      "latin": "j"
+    },
+    {
+      "native": "ح",
+      "latin": "ḥ"
+    },
+    {
+      "native": "خ",
+      "latin": "x"
+    },
+    {
+      "native": "د",
+      "latin": "d"
+    },
+    {
+      "native": "ذ",
+      "latin": "ḏ"
+    },
+    {
+      "native": "ر",
+      "latin": "r"
+    },
+    {
+      "native": "ز",
+      "latin": "z"
+    },
+    {
+      "native": "س",
+      "latin": "s"
+    },
+    {
+      "native": "ش",
+      "latin": "š"
+    },
+    {
+      "native": "ص",
+      "latin": "ṣ"
+    },
+    {
+      "native": "ض",
+      "latin": "ḍ"
+    },
+    {
+      "native": "ط",
+      "latin": "ṭ"
+    },
+    {
+      "native": "ظ",
+      "latin": "ẓ"
+    },
+    {
+      "native": "ع",
+      "latin": "ʕ"
+    },
+    {
+      "native": "غ",
+      "latin": "ǧ"
+    },
+    {
+      "native": "ف",
+      "latin": "f"
+    },
+    {
+      "native": "ڥ",
+      "latin": "v"
+    },
+    {
+      "native": "ق",
+      "latin": "q"
+    },
+    {
+      "native": "ك",
+      "latin": "k"
+    },
+    {
+      "native": "ڭ",
+      "latin": "g"
+    },
+    {
+      "native": "ل",
+      "latin": "l"
+    },
+    {
+      "native": "لا",
+      "latin": "lā"
+    },
+    {
+      "native": "م",
+      "latin": "m"
+    },
+    {
+      "native": "ن",
+      "latin": "n"
+    },
+    {
+      "native": "ه",
+      "latin": "h"
+    },
+    {
+      "native": "و",
+      "latin": "w"
+    },
+    {
+      "native": "ي",
+      "latin": "y"
+    }
+  ],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0300",
+      "role": "vowel length",
+      "ipa": ":"
+    },
+    {
+      "mark": "U+0307",
+      "role": "modified consonant character",
+      "ipa": ""
+    },
+    {
+      "mark": "U+0337",
+      "role": "modified consonant character",
+      "ipa": ""
+    }
+  ],
+  "notes": "Tunisian Arabic is represented in both Arabic script (with additional modified letters like ڥ, ڭ, پ) and a Latin-based script (Elyssa Alphabet / Il-Ħrùf). Grave accents in the Elyssa alphabet denote long vowels.",
+  "confidence": "high",
+  "iso": "aeb",
+  "name": "Arabic (Tunisian)",
+  "country": "DZ",
+  "family": "Afro-Asiatic",
+  "slug": "arabic_tunisian.xls"
+}
