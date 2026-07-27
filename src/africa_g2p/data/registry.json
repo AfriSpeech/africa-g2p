@@ -278,30 +278,6 @@
     "glottocode": "ajab1235"
   },
   {
-    "code": "aka",
-    "name": "Akan",
-    "country": "GH",
-    "family": "Atlantic-Congo",
-    "confidence": "omniglot",
-    "iso639_3": "aka",
-    "regions": [
-      "West Africa"
-    ],
-    "alt_names": [
-      "Asante",
-      "Fante",
-      "Fante Akan",
-      "Fanti",
-      "Mfantse",
-      "Odschi",
-      "Otyi",
-      "Tuic",
-      "Twi",
-      "Tšwi"
-    ],
-    "glottocode": "akan1250"
-  },
-  {
     "code": "akp",
     "name": "Siwu",
     "country": "GH",
@@ -436,7 +412,7 @@
   {
     "code": "amh",
     "name": "Amharic",
-    "country": "DJ",
+    "country": "ET",
     "family": "Afro-Asiatic",
     "confidence": "omniglot",
     "iso639_3": "amh",
@@ -2510,6 +2486,30 @@
     "glottocode": "fang1248"
   },
   {
+    "code": "fat",
+    "name": "Fante",
+    "country": "GH",
+    "family": "Atlantic-Congo",
+    "confidence": "omniglot",
+    "iso639_3": "aka",
+    "regions": [
+      "West Africa"
+    ],
+    "alt_names": [
+      "Asante",
+      "Fante",
+      "Fante Akan",
+      "Fanti",
+      "Mfantse",
+      "Odschi",
+      "Otyi",
+      "Tuic",
+      "Twi",
+      "Tšwi"
+    ],
+    "glottocode": "akan1250"
+  },
+  {
     "code": "ffm",
     "name": "Fulfulde (Peul)",
     "country": "Mali",
@@ -2730,7 +2730,7 @@
   },
   {
     "code": "gez",
-    "name": "Ethiopic",
+    "name": "Ge'ez",
     "country": "ER",
     "family": "Afro-Asiatic",
     "confidence": "omniglot",
@@ -6906,7 +6906,7 @@
   {
     "code": "tir",
     "name": "Tigrinya",
-    "country": "DJ",
+    "country": "ER",
     "family": "Afro-Asiatic",
     "confidence": "omniglot",
     "iso639_3": "tir",
@@ -7335,7 +7335,7 @@
   {
     "code": "vai",
     "name": "Vai",
-    "country": "LR",
+    "country": "Liberia",
     "family": "Mande",
     "confidence": "omniglot",
     "iso639_3": "vai",

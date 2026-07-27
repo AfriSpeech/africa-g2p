@@ -26,7 +26,9 @@ class G2P:
             output: what each phoneme unit is rendered as —
                     "grapheme" (default): the language's own writing units, e.g. ``ny``,
                     ``kp``, ``ɔ`` — a phonemic segmentation in native orthography, which
-                    trains TTS/ASR models better than IPA; or
+                    trains TTS/ASR models better than IPA. For non-Latin scripts this
+                    yields the Latin romanisation when one is available (falling back to
+                    the native script otherwise). Or
                     "ipa": International Phonetic Alphabet transcription; or
                     "latin": romanise a non-Latin script to its Latin form (uses the
                     language's script→Latin map; Latin input passes through unchanged).
@@ -140,8 +142,10 @@ class G2P:
                 # native-script unit -> Latin form (Latin input maps to itself)
                 base = self.romanization.get(chunk, chunk)
                 units.append(unicodedata.normalize("NFC", base + raw))
-            else:  # grapheme: the native writing unit, tone marks preserved
-                unit = unicodedata.normalize("NFC", chunk + raw)
+            else:  # grapheme: native writing units, but romanise non-Latin scripts
+                # when a Latin mapping exists (Latin-script languages are unaffected).
+                base = self.romanization.get(chunk, chunk)
+                unit = unicodedata.normalize("NFC", base + raw)
                 units.append(clean_ipa(unit) if self.strip_diacritics else unit)
         return units
 

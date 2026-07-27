@@ -1,4 +1,4 @@
-Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-corpus-builder) dataset, segmented by africa-g2p into native-orthography phonemes (default) with the IPA shown for reference. 198 languages.
+Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-corpus-builder) dataset, segmented by africa-g2p into native-orthography phonemes (default) with the IPA shown for reference. 200 languages.
 
 <details>
 <summary><b>Acholi</b> (<code>ach</code> · SS)</summary>
@@ -40,19 +40,6 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 </details>
 
 <details>
-<summary><b>Akan</b> (<code>aka</code> · GH)</summary>
-
-> **Text:** Ɛno enti na apam a ɛdi ɛkan no wɔnam mogya so na wɔhyɛɛ no den no.  
-> **Phonemes:** `ɛ n o e n t i n a a p a m a ɛ d i ɛ k a n n o w ɔ n a m m o gy a s o n a w ɔ hy ɛ ɛ n o d e n n o.`  
-> **IPA:** `ɛ n o e n tʰ ɪ n a a pʰ a m a ɛ d ɪ ɛ kʰ a n n o w ɔ n a m m o dʑ a s o n a w ɔ ç ɛ ɛ n o d e n n o.`
-
-> **Text:** Ɛkorɔn sene ɔsoro, ɛdeɛn na wobɛtumi ayɛ? Emu dɔ sene damena ase tɔnn, ɛdeɛn na wobɛtumi ahunu?.  
-> **Phonemes:** `ɛ k o r ɔ n s e n e ɔ s o r o, ɛ d eɛ n n a w o b ɛ t u m i a y ɛ? e m u d ɔ s e n e d a m e n a a s e t ɔ n n, ɛ d eɛ n n a w o b ɛ t u m i a h u n u?.`  
-> **IPA:** `ɛ kʰ o ɾ ɔ n s e n e ɔ s o ɾ o, ɛ d eɛ n n a w o b ɛ tʰ u m ɪ a j ɛ? e m u d ɔ s e n e d a m e n a a s e tʰ ɔ n n, ɛ d eɛ n n a w o b ɛ tʰ u m ɪ a h u n u?.`
-
-</details>
-
-<details>
 <summary><b>Alur</b> (<code>alz</code> · CD)</summary>
 
 > **Text:** Ma nia ipenj pi kier para, Man iyeny dubo para.  
@@ -62,6 +49,19 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 > **Text:** Ka kumeno dong kawono Farao yeny ngatu ma pidoie cu ma riek de, man ekethe wi ngom Misiri.  
 > **Phonemes:** `k a k u m e n o d o ng k a w o n o f a r a o y e ny ng a t u m a p i d o i e c u m a r i e k d e, m a n e k e th e w i ng o m m i s i r i.`  
 > **IPA:** `k a̘ k u̘ m e̘ n o̘ d o̘ ŋɡ k a̘ w o̘ n o̘ f a̘ r a̘ o̘ j e̘ ɲ ŋɡ a̘ t u̘ m a̘ p i̘ d o̘ i̘ e̘ c u̘ m a̘ r i̘ e̘ k d e̘, m a̘ n e̘ k e̘ t̟ e̘ w i̘ ŋɡ o̘ m m i̘ s i̘ r i̘.`
+
+</details>
+
+<details>
+<summary><b>Amharic</b> (<code>amh</code> · ET)</summary>
+
+> **Text:** ፈሳሽ ነገር ያለበት ሰው የተቀመጠበት ኮርቻ ሁሉ ርኩስ ይሆናል።.  
+> **Phonemes:** `fä sa šə nä gä rə ja lä bä tə sä wə jä tä qä mä ṭä bä tə ko rə ča hu lu rə ku sə jə ho na lə።.`  
+> **IPA:** `fɛ sa ʃɨ nɛ gɛ rɨ ja lɛ bɛ tɨ sɛ wɨ jɛ tɛ k’ɛ mɛ t’ɛ bɛ tɨ ko rɨ ʧa hu lu rɨ ku sɨ jɨ ho na lɨ።.`
+
+> **Text:** ካህናቱና ሌዋውያኑም ተነሥተው ሕዝቡን ባረኩ፤ ድምጻቸውም ተሰማ፥ ጸሎታቸውም ወደ ቅዱስ መኖሪያው ወደ ሰማይ ዐረገ።.  
+> **Phonemes:** `ka hə na tu na le wa wə ja nu mə tä nä śə tä wə ḥə zə bu nə ba rä ku፤ də mə ṣa čä wə mə tä sä ma፥ ṣä lo ta čä wə mə wä dä qə du sə mä no ri ja wə wä dä sä ma jə ‘a rä gä።.`  
+> **IPA:** `ka hɨ na tu na le wa wɨ ja nu mɨ tɛ nɛ sɨ tɛ wɨ hɨ zɨ bu nɨ ba rɛ ku፤ dɨ mɨ tsa ʧɛ wɨ mɨ tɛ sɛ ma፥ tsɛ lo ta ʧɛ wɨ mɨ wɛ dɛ k’ɨ du sɨ mɛ no ri ja wɨ wɛ dɛ sɛ ma jɨ ʔɛ rɛ gɛ።.`
 
 </details>
 
@@ -82,7 +82,7 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 <summary><b>Arabic (Chadian)</b> (<code>shu</code> · CM)</summary>
 
 > **Text:** وَ سِلْسِلَتَيْن هَنَا دَهَبْ صَافِي مَفْتُولِينْ مِثِلْ الْحَبِلْ. وَ عَلِّقْهُمْ فِي الْحَلَقَتَيْن.  
-> **Phonemes:** `وَ سِلْسِلَتَيْن هَنَا دَهَبْ صَا فِي مَفْتُو لِي نْ مِثِلْ ا لْحَبِلْ. وَ عَلِّقْهُمْ فِي ا لْحَلَقَتَيْن.`  
+> **Phonemes:** `wَ sِlْsِlَtَyْn hَnَ∅/ʔ dَhَbْ sَ∅/ʔ fِy mَfْtُw lِy nْ mِtِlْ ∅/ʔ lْhَbِlْ. wَ ʔَlِّgْhُmْ fِy ∅/ʔ lْhَlَgَtَyْn.`  
 > **IPA:** `wَ sِlْsِlَtَjْn hَnَ∅ dَhَbْ sَ∅ fِj mَfْtُw lِj nْ mِtِlْ ∅ lْhَbِlْ. wَ ∅َlِّɡْhُmْ fِj ∅ lْhَlَɡَtَjْn.`
 
 </details>
@@ -91,11 +91,11 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 <summary><b>Arabic (Moroccan)</b> (<code>ary</code> · DZ)</summary>
 
 > **Text:** يَسوع قالّوم: أنتُمَ من تحت، أمّا أنا من فوق. أنتُمَ من هَد الدنيا، أمّا أنا ماشي من هَد الدنيا.  
-> **Phonemes:** `يَس و ع ق ا لّو م: أ ن تُمَ م ن ت ح ت، أ مّا أ ن ا م ن ف و ق. أ ن تُمَ م ن هَد ا ل د ن ي ا، أ مّا أ ن ا م ا ش ي م ن هَد ا ل د ن ي ا.`  
+> **Phonemes:** `yَs w ʕ q ʔ lّw m: ʔٔ n tُmَ m n t ḥ t، ʔٔ mّʔ ʔٔ n ʔ m n f w q. ʔٔ n tُmَ m n hَd ʔ l d n y ʔ، ʔٔ mّʔ ʔٔ n ʔ m ʔ š y m n hَd ʔ l d n y ʔ.`  
 > **IPA:** `jَs w ʕ q ʔ lّw m: ʔ n tُmَ m n t ħ t، ʔ mّʔ ʔ n ʔ m n f w q. ʔ n tُmَ m n hَd ʔ l d n j ʔ، ʔ mّʔ ʔ n ʔ m ʔ ʃ j m n hَd ʔ l d n j ʔ.`
 
 > **Text:** وْكَانْ كُلَّ سْبْتْ كَيْتّْنَاقْشْ مْعَ لِيهُودْ وْالْيُونَانِيِّينْ فْدَارْ الصّْلَاة وْكَيْحَاوْلْ يْقْنَعْهُمْ.  
-> **Phonemes:** `وْكَا نْ كُلَّ سْبْتْ كَيْتّْنَا قْشْ مْعَ لِي هُو دْ وْا لْيُو نَا نِيِّي نْ فْدَا رْ ا ل صّْلَا ة وْكَيْحَا وْلْ يْقْنَعْهُمْ.`  
+> **Phonemes:** `wْkَʔ nْ kُlَّ sْbْtْ kَyْtّْnَʔ qْšْ mْʕَ lِy hُw dْ wْʔ lْyُw nَʔ nِyِّy nْ fْdَʔ rْ ʔ l ṣّْlَʔ ə wْkَyْḥَʔ wْlْ yْqْnَʕْhُmْ.`  
 > **IPA:** `wْkَʔ nْ kُlَّ sْbْtْ kَjْtّْnَʔ qْʃْ mْʕَ lِj hُw dْ wْʔ lْjُw nَʔ nِjِّj nْ fْdَʔ rْ ʔ l sˁّْlَʔ ɛ wْkَjْħَʔ wْlْ jْqْnَʕْhُmْ.`
 
 </details>
@@ -621,6 +621,19 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 </details>
 
 <details>
+<summary><b>Fante</b> (<code>fat</code> · GH)</summary>
+
+> **Text:** Ɛno enti na apam a ɛdi ɛkan no wɔnam mogya so na wɔhyɛɛ no den no.  
+> **Phonemes:** `ɛ no e n t i n a a p a m a ɛ d i ɛ k a n no w ɔ n a m m o gy a so n a w ɔ hy ɛ ɛ no d e n no.`  
+> **IPA:** `ɛ nʷ e n t i n a a p a m a ɛ d i ɛ k a n nʷ w ɔ n a m m o dʒ a sʷ n a w ɔ ɕʷ ɛ ɛ nʷ d e n nʷ.`
+
+> **Text:** Ɛkorɔn sene ɔsoro, ɛdeɛn na wobɛtumi ayɛ? Emu dɔ sene damena ase tɔnn, ɛdeɛn na wobɛtumi ahunu?.  
+> **Phonemes:** `ɛ k o r ɔ n s e n e ɔ so r o, ɛ d e ɛ n n a w o b ɛ tu m i a y ɛ? e m u d ɔ s e n e d a m e n a a s e t ɔ n n, ɛ d e ɛ n n a w o b ɛ tu m i a h u nu?.`  
+> **IPA:** `ɛ k o r ɔ n s e n e ɔ sʷ r o, ɛ d e ɛ n n a w o b ɛ tʷ m i a j ɛ? e m u d ɔ s e n e d a m e n a a s e t ɔ n n, ɛ d e ɛ n n a w o b ɛ tʷ m i a h u nʷ?.`
+
+</details>
+
+<details>
 <summary><b>Fon</b> (<code>fon</code> · BJ)</summary>
 
 > **Text:** Sɛ́mɛɖó, nǔ e mɛ ná wa din ɔ́, mɛ ná ba gbɛtɔ́ e bí ganjí, bó ɖó nǔnywɛ́ ɔ́ ɖokpó, bó ná sɔ́ ɖó Ejípu to ɔ́ nu.  
@@ -695,6 +708,19 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 > **Text:** Ma vah watsa ya, Yesu a nda a bəza a gi, ka a ndza tə ka a ma mtil, aska a sərəkatana ma a həji aagi.  
 > **Phonemes:** `m a v a h w a ts a y a, y e s u a nd a a b ə z a a g i, k a a ndz a t ə k a a m a m t i l, a s k a a s ə r ə k a t a n a m a a h ə j i a a g i.`  
 > **IPA:** `m ɑ v ɑ x w ɑ t͡s ɑ j ɑ, j ɛ s ʊ ɑ ⁿd ɑ ɑ b ə z ɑ ɑ ɡ ɪ, k ɑ ɑ ⁿd͡z ɑ t ə k ɑ ɑ m ɑ m t ɪ l, ɑ s k ɑ ɑ s ə r ə k ɑ t ɑ n ɑ m ɑ ɑ x ə d͡ʒ ɪ ɑ ɑ ɡ ɪ.`
+
+</details>
+
+<details>
+<summary><b>Ge'ez</b> (<code>gez</code> · ER)</summary>
+
+> **Text:** ዘአቅደመ ነጊረ በአፈ ነቢያቲሁ ወመጻሕፍቲሁ ቅዱሳት።.  
+> **Phonemes:** `ze (ʔ)a k’(ə) de me ne gi re be (ʔ)a fe ne bi ja ti hu we me ts’a h(ə) f(ə) ti hu k’(ə) du sa t(ə)።.`  
+> **IPA:** `za ʔa k’ə da ma na gi ra ba ʔa fa na bi ja ti hu wa ma tsa hə fə ti hu k’ə du sa tə።.`
+
+> **Text:** ዘለሊሁ እንከ ዳዊት እግዚእየ ይቤሎ እፎ እንከ ይከውኖ ወልዶ።.  
+> **Phonemes:** `ze le li hu (ʔ)(ə) n(ə) ke da wi t(ə) (ʔ)(ə) g(ə) zi (ʔ)(ə) je j(ə) be lo (ʔ)(ə) fo (ʔ)(ə) n(ə) ke j(ə) ke w(ə) no we l(ə) do።.`  
+> **IPA:** `za la li hu ʔə nə ka da wi tə ʔə gə zi ʔə ja jə be lo ʔə fo ʔə nə ka jə ka wə no wa lə do።.`
 
 </details>
 
@@ -1070,7 +1096,7 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 > **IPA:** `n d a b a t o i b a b a t o b a t o t i n a i n d e l o o n ɡ a l a b a e k i b a n d e m b o—.`
 
 > **Text:** Lamao Yesu loonga la eba bikuke la baeki bande.  
-> **Phonemes:** `l a m a o y e s u l o o n g a l a e b a b i k u k e l a b a e k i b a n d e.`  
+> **Phonemes:** `l a m a o u e s u l o o n g a l a e b a b i k u k e l a b a e k i b a n d e.`  
 > **IPA:** `l a m a o u e s u l o o n ɡ a l a e b a b i k u k e l a b a e k i b a n d e.`
 
 </details>
@@ -2226,15 +2252,15 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 </details>
 
 <details>
-<summary><b>Tigrinya</b> (<code>tir</code> · DJ)</summary>
+<summary><b>Tigrinya</b> (<code>tir</code> · ER)</summary>
 
 > **Text:** ምስላታትኩም ምስላ ሓመድ እዮም፤ ዕርድታትኩምውን ዕርድታት ጭቃ እዮም።.  
-> **Phonemes:** `ም ስ ላ ታ ት ኩ ም ም ስ ላ ሓ መ ድ እ ዮ ም፤ ዕ ር ድ ታ ት ኩ ም ው ን ዕ ር ድ ታ ት ጭ ቃ እ ዮ ም።.`  
+> **Phonemes:** `m(ə) s(ə) la ta t(ə) ku m(ə) m(ə) s(ə) la ḥa mä d(ə) ʾ(ə) yo m(ə)፤ ʿ(ə) r(ə) d(ə) ta t(ə) ku m(ə) w(ə) n(ə) ʿ(ə) r(ə) d(ə) ta t(ə) č̣(ə) q’a ʾ(ə) yo m(ə)።.`  
 > **IPA:** `mɨ sɨ la ta tɨ ku mɨ mɨ sɨ la ħa mɐ dɨ ʔɨ jo mɨ፤ ʕɨ rɨ dɨ ta tɨ ku mɨ wɨ nɨ ʕɨ rɨ dɨ ta tɨ tʃʼɨ q’a ʔɨ jo mɨ።.`
 
 > **Text:** ማቲትያን ኤልፍሌሁን ሚቅኔያን ዖቤድኤዶምን ይዒኤልን ዓዛዝያን ድማ ሸሞንተ ኣውታር ብዘለዎ በገና ይቓንዩ ነበሩ።.  
-> **Phonemes:** `ማ ቲ ት ያ ን ኤ ል ፍ ሌ ሁ ን ሚ ቅ ኔ ያ ን ዖ ቤ ድ ኤ ዶ ም ን ይ ዒ ኤ ል ን ዓ ዛ ዝ ያ ን ድ ማ ሸ ሞ ን ተ ኣ ው ታ ር ብ ዘ ለ ዎ በ ገ ና ይ ቓ ን ዩ ነ በ ሩ።.`  
-> **IPA:** `ma ti tɨ ja nɨ ʔe lɨ fɨ le hu nɨ mi q’ɨ ne ja nɨ ʕo be dɨ ʔe do mɨ nɨ jɨ ʕi ʔe lɨ nɨ ʕa za zɨ ja nɨ dɨ ma ʃɐ mo nɨ tɐ ʔa wɨ ta rɨ bɨ zɐ lɐ wo bɐ ɡɐ na jɨ qʰa nɨ ju nɐ bɐ ru።.`
+> **Phonemes:** `ma ti t(ə) ya n(ə) ʾe l(ə) f(ə) le hu n(ə) mi q’(ə) ne ya n(ə) ʿo be d(ə) ʾe do m(ə) n(ə) y(ə) ʿi ʾe l(ə) n(ə) ʿa za z(ə) ya n(ə) d(ə) ma šä mo n(ə) tä ʾa w(ə) ta r(ə) b(ə) zä lä wo bä gä na y(ə) q’a n(ə) yu nä bä ru።.`  
+> **IPA:** `ma ti tɨ ja nɨ ʔe lɨ fɨ le hu nɨ mi q’ɨ ne ja nɨ ʕo be dɨ ʔe do mɨ nɨ jɨ ʕi ʔe lɨ nɨ ʕa za zɨ ja nɨ dɨ ma ʃɐ mo nɨ tɐ ʔa wɨ ta rɨ bɨ zɐ lɐ wo bɐ gɐ na jɨ qʰa nɨ ju nɐ bɐ ru።.`
 
 </details>
 
@@ -2306,13 +2332,13 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 <details>
 <summary><b>Twi</b> (<code>twi</code> · GH)</summary>
 
-> **Text:** Wo, Awurade na mefrɛɛ wo; wo hɔ na misu mesrɛɛ mmɔborɔhunu se:.  
-> **Phonemes:** `w o, a w u r a d e n a m e f r ɛ ɛ w o; w o h ɔ n a m i s u m e s r ɛ ɛ m m ɔ b o r ɔ h u nu s e:.`  
-> **IPA:** `w o, æ w u ɾ æ d e n æ m e f ɾ ɛ ɛ w o; w o h ɔ n æ m i s u m e s ɾ ɛ ɛ m m ɔ b o ɾ ɔ h u ɲʷĩ s e:.`
+> **Text:** Ɔsɔfo no bɛhwɛ no na sɛ ɔhonam no fa hɔ ayɛ fitaa de a, ɔsɔfo no bɛpae mu aka sɛ ne ho atɔ no.  
+> **Phonemes:** `ɔ s ɔ f o n o b ɛ hw ɛ n o n a s ɛ ɔ h o n a m n o f a h ɔ a y ɛ f i t a a d e a, ɔ s ɔ f o n o b ɛ p a e m u a k a s ɛ n e h o a t ɔ n o.`  
+> **IPA:** `ɔ s ɔ f o n o b ɛ hʷ ɛ n o n a s ɛ ɔ h o n a m n o f a h ɔ a j ɛ f ɪ tʰ a a d e a, ɔ s ɔ f o n o b ɛ pʰ a e m u a kʰ a s ɛ n e h o a tʰ ɔ n o.`
 
-> **Text:** Enti Mose ne Aaron ne Israel mpanyimfo nam Lewifo no mmusua ne wɔn afi so kan wɔn nyinaa.  
-> **Phonemes:** `e n ti m o s e n e a a r o n n e i s r a e l m p a nyi m f o n a m l e wi f o n o m m u s u a n e w ɔ n a f i s o k a n w ɔ n nyi n a a.`  
-> **IPA:** `e n ti m o s e n e æ æ ɾ o n n e i s ɾ æ e l m pʰ æ ɲːĩ m f o n æ m l e ɥi f o n o m m u s u æ n e w ɔ n æ f i s o kʰ æ n w ɔ n ɲːĩ n æ æ.`
+> **Text:** ne Miklot a ɔyɛ Simea agya. Na saa abusuafo yi tete bemmɛn wɔn ho wɔn ho wɔ Yerusalem.  
+> **Phonemes:** `n e m i k l o t a ɔ y ɛ s i m e a a gy a. n a s a a a b u s u a f o y i t e t e b e m m ɛ n w ɔ n h o w ɔ n h o w ɔ y e r u s a l e m.`  
+> **IPA:** `n e m ɪ kʰ l o tʰ a ɔ j ɛ s ɪ m e a a dʑ a. n a s a a a b u s u a f o j ɪ tʰ e tʰ e b e m m ɛ n w ɔ n h o w ɔ n h o w ɔ j e ɾ u s a l e m.`
 
 </details>
 
@@ -2356,14 +2382,14 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 </details>
 
 <details>
-<summary><b>Vai</b> (<code>vai</code> · LR)</summary>
+<summary><b>Vai</b> (<code>vai</code> · Liberia)</summary>
 
 > **Text:** ꕮꔧꕪꕌ ꕞꕌ ꖴꗷꗡ ꕞꕌ ꕍꕆ ꗏ ꔇꔀꔒ ꕒ. ꕉꖷ ꕉ ꗪ ꔨ ꖴꘋꗒ ꕃꔤ ꕮꕯ ꖬꕎ ꘃ ꘈꗢ ꖝ ꗏꗡ ꖷ ꔨ ꖏ ꖷ ꕞ.  
-> **Phonemes:** `ꕮ ꔧ ꕪ ꕌ ꕞ ꕌ ꖴ ꗷ ꗡ ꕞ ꕌ ꕍ ꕆ ꗏ ꔇ ꔀ ꔒ ꕒ. ꕉ ꖷ ꕉ ꗪ ꔨ ꖴ ꘋ ꗒ ꕃ ꔤ ꕮ ꕯ ꖬ ꕎ ꘃ ꘈ ꗢ ꖝ ꗏ ꗡ ꖷ ꔨ ꖏ ꖷ ꕞ.`  
+> **Phonemes:** `mã ĩ ka ha la ha ku lɛ ɛ la ha hã mĩ lɔ be e le ba. a mũ a bɛ wi ku ꘋ ndɔ ki i mã nã su wa kɛ mɛ̃ ɛ̃ bu lɔ ɛ mũ wi ko mũ la.`  
 > **IPA:** `mã ĩ ka ha la ha ku lɛ ɛ la ha hã mĩ lɔ ɓe e le ɓa. a mũ a ɓɛ wi ku ꘋ ⁿɗɔ ki i mã nã su wa kɛ mɛ̃ ɛ̃ ɓu lɔ ɛ mũ wi ko mũ la.`
 
 > **Text:** ꘋ ꗪ ꗋꖺꕒꕌ ꗉ ꕴ ꔝ, ꕴꔤ ꘀꔤ ꔷ ꘃꕩ ꕉꖷ ꕴꔤ ꖴꗷ ꗃ ꕉ ꕮ ꔷ ꘃ ꕞ. ꘃ, ꖦꖕꕰꕊ ꕘꕞ ꕢꔒꔤ ꔳꕩ. ꕴꔤ ꔳꕩ ꕃꕇ ꕃꕇ ꔻꔤ ꗏ. ꘃ, ꕴꕎꕌ ꕃꕇ ꕃꕇ ꔻꔤꘂ ꗏꔤ ꕘꕞꘋꕡ ꕘꕞ ꕢ ꕞ.  
-> **Phonemes:** `ꘋ ꗪ ꗋ ꖺ ꕒ ꕌ ꗉ ꕴ ꔝ, ꕴ ꔤ ꘀ ꔤ ꔷ ꘃ ꕩ ꕉ ꖷ ꕴ ꔤ ꖴ ꗷ ꗃ ꕉ ꕮ ꔷ ꘃ ꕞ. ꘃ, ꖦ ꖕ ꕰ ꕊ ꕘ ꕞ ꕢ ꔒ ꔤ ꔳ ꕩ. ꕴ ꔤ ꔳ ꕩ ꕃ ꕇ ꕃ ꕇ ꔻ ꔤ ꗏ. ꘃ, ꕴ ꕎ ꕌ ꕃ ꕇ ꕃ ꕇ ꔻ ꔤ ꘂ ꗏ ꔤ ꕘ ꕞ ꘋ ꕡ ꕘ ꕞ ꕢ ꕞ.`  
+> **Phonemes:** `ꘋ bɛ tɔ ɔ ba ha fɔ wo ye, wo i jɛ i li kɛ ya a mũ wo i ku lɛ bɔ a mã li kɛ la. kɛ, dhu u nyã ã fa la sa le i ti ya. wo i ti ya ki nĩ ki nĩ si i lɔ. kɛ, wo wa ha ki nĩ ki nĩ si i yɛ lɔ i fa la ꘋ nda fa la sa la.`  
 > **IPA:** `ꘋ ɓɛ tɔ ɔ ɓa ha fɔ wo je, wo i d͡ʒɛ i li kɛ ja a mũ wo i ku lɛ ɓɔ a mã li kɛ la. kɛ, du u ɲã ã fa la sa le i ti ja. wo i ti ja ki nĩ ki nĩ si i lɔ. kɛ, wo wa ha ki nĩ ki nĩ si i jɛ lɔ i fa la ꘋ ⁿɗa fa la sa la.`
 
 </details>

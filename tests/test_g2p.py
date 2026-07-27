@@ -94,10 +94,27 @@ def test_strip_diacritics_option():
     assert g2p("gbɛ", "dyu", sep=" ", strip_diacritics=True) == "gb ɛ"
 
 
-def test_akan_digraphs_are_single_units():
-    # palatalization/labial-palatalization digraphs restored from the source page
-    assert G2P("aka").convert("gye nyansa hyɛ", sep=" ") == "gy e ny a n s a hy ɛ"
-    assert G2P("aka", output="ipa").convert("gye", sep=" ") == "dʑ e"
+def test_twi_digraphs_are_single_units():
+    # Twi palatalization/labial-palatalization digraphs kept as single units
+    assert G2P("twi").convert("gye nyansa hyɛ", sep=" ") == "gy e ny a n s a hy ɛ"
+    assert G2P("twi", output="ipa").convert("gye", sep=" ") == "dʑ e"
+
+
+def test_akan_macrolanguage_dropped_for_varieties():
+    langs = available_languages()
+    assert "twi" in langs and "fat" in langs   # the actually-spoken varieties
+    assert "aka" not in langs                  # macrolanguage umbrella removed
+
+
+def test_ethiopic_grapheme_output_is_romanized():
+    if "amh" not in available_languages():
+        pytest.skip("amh not built")
+    import unicodedata
+    out = G2P("amh").convert("ሰላም", sep=" ")     # default grapheme mode
+    assert out == "sä la mə"
+    # no Ethiopic characters should remain in default output
+    assert not any(0x1200 <= ord(c) <= 0x137F for c in out)
+    assert G2P("amh", output="ipa").convert("ሰላም", sep=" ") == "sɛ la mɨ"
 
 
 def test_vai_dual_script_if_present():
@@ -129,7 +146,7 @@ def test_all_rule_files_load_and_build():
 def test_examples_convert_in_both_modes():
     from africa_g2p.loader import load_rules
 
-    for code in ["dyu", "aka", "gaa"]:
+    for code in ["dyu", "twi", "gaa"]:
         if code not in available_languages():
             continue
         for mode in ("grapheme", "ipa"):

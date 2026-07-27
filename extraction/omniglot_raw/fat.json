@@ -1,0 +1,277 @@
+{
+  "language": "Fante",
+  "is_language_chart": true,
+  "graphemes": [
+    {
+      "grapheme": "a",
+      "ipa": "a",
+      "script": "latin"
+    },
+    {
+      "grapheme": "b",
+      "ipa": "b",
+      "script": "latin"
+    },
+    {
+      "grapheme": "d",
+      "ipa": "d",
+      "script": "latin"
+    },
+    {
+      "grapheme": "e",
+      "ipa": "e",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɛ",
+      "ipa": "ɛ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "f",
+      "ipa": "f",
+      "script": "latin"
+    },
+    {
+      "grapheme": "g",
+      "ipa": "ɡ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "h",
+      "ipa": "h",
+      "script": "latin"
+    },
+    {
+      "grapheme": "i",
+      "ipa": "i",
+      "script": "latin"
+    },
+    {
+      "grapheme": "k",
+      "ipa": "k",
+      "script": "latin"
+    },
+    {
+      "grapheme": "l",
+      "ipa": "l",
+      "script": "latin"
+    },
+    {
+      "grapheme": "m",
+      "ipa": "m",
+      "script": "latin"
+    },
+    {
+      "grapheme": "n",
+      "ipa": "n",
+      "script": "latin"
+    },
+    {
+      "grapheme": "o",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ɔ",
+      "ipa": "ɔ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "p",
+      "ipa": "p",
+      "script": "latin"
+    },
+    {
+      "grapheme": "r",
+      "ipa": "r",
+      "script": "latin"
+    },
+    {
+      "grapheme": "s",
+      "ipa": "s",
+      "script": "latin"
+    },
+    {
+      "grapheme": "t",
+      "ipa": "t",
+      "script": "latin"
+    },
+    {
+      "grapheme": "u",
+      "ipa": "u",
+      "script": "latin"
+    },
+    {
+      "grapheme": "w",
+      "ipa": "w",
+      "script": "latin"
+    },
+    {
+      "grapheme": "y",
+      "ipa": "j",
+      "script": "latin"
+    },
+    {
+      "grapheme": "z",
+      "ipa": "z",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ã",
+      "ipa": "ã",
+      "script": "latin"
+    },
+    {
+      "grapheme": "bu",
+      "ipa": "bʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "du",
+      "ipa": "dʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "dz",
+      "ipa": "dz",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ẽ",
+      "ipa": "ɪ̃",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gu",
+      "ipa": "ɡʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "gy",
+      "ipa": "dʒ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hw",
+      "ipa": "hʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "hy",
+      "ipa": "ɕʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ĩ",
+      "ipa": "ĩ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "kw",
+      "ipa": "kʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ky",
+      "ipa": "tɕ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "no",
+      "ipa": "nʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nu",
+      "ipa": "nʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "nw",
+      "ipa": "ɲʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ny",
+      "ipa": "ɲ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "õ",
+      "ipa": "õ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oa",
+      "ipa": "ʷia",
+      "script": "latin"
+    },
+    {
+      "grapheme": "oe",
+      "ipa": "ʷe",
+      "script": "latin"
+    },
+    {
+      "grapheme": "pu",
+      "ipa": "pʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "so",
+      "ipa": "sʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tu",
+      "ipa": "tʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "tw",
+      "ipa": "tɕʷ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ũ",
+      "ipa": "ũ",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ua",
+      "ipa": "ʷia",
+      "script": "latin"
+    },
+    {
+      "grapheme": "ue",
+      "ipa": "ʷei̭",
+      "script": "latin"
+    },
+    {
+      "grapheme": "uo",
+      "ipa": "o",
+      "script": "latin"
+    },
+    {
+      "grapheme": "’",
+      "ipa": "ʔ",
+      "script": "latin"
+    }
+  ],
+  "romanization": [],
+  "tones": {},
+  "diacritics": [
+    {
+      "mark": "U+0303",
+      "role": "nasalization",
+      "ipa": "̃"
+    }
+  ],
+  "notes": "Extracted graphemes including additional digraphs and labialized/palatalized letter combinations listed under 'Other letters'. Retained the first option for slash-separated IPA alternatives.",
+  "confidence": "high",
+  "iso": "fat",
+  "name": "Fante",
+  "country": "GH",
+  "family": "Atlantic-Congo",
+  "slug": "fante.xls"
+}
