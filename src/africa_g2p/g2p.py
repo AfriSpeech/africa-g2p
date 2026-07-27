@@ -27,7 +27,9 @@ class G2P:
                     "grapheme" (default): the language's own writing units, e.g. ``ny``,
                     ``kp``, ``ɔ`` — a phonemic segmentation in native orthography, which
                     trains TTS/ASR models better than IPA; or
-                    "ipa": International Phonetic Alphabet transcription.
+                    "ipa": International Phonetic Alphabet transcription; or
+                    "latin": romanise a non-Latin script to its Latin form (uses the
+                    language's script→Latin map; Latin input passes through unchanged).
             unknown: how to treat a grapheme with no mapping —
                      "passthrough" (keep the character), "drop", or "mark" (�).
             clean: IPA mode only — if True (default), guarantee the output holds only
@@ -38,8 +40,8 @@ class G2P:
                    output while keeping segmental letters (ɔ, ɛ, ŋ, dot-below) and
                    nasalization. Default False (preserve the written form exactly).
         """
-        if output not in ("ipa", "grapheme"):
-            raise ValueError("output must be 'ipa' or 'grapheme'")
+        if output not in ("ipa", "grapheme", "latin"):
+            raise ValueError("output must be 'ipa', 'grapheme', or 'latin'")
         self.code = code
         self.rules = load_rules(code)
         self.output = output
@@ -47,19 +49,27 @@ class G2P:
         self.clean = clean
         self.strip_diacritics = strip_diacritics
 
+        def _norm(k):
+            return unicodedata.normalize("NFD", fold_confusables(str(k).lower()))
+
         # Grapheme table: base letters (no combining marks) -> IPA string.
         # Grapheme keys are lowercased + confusable-folded to match normalized input.
         self.graphemes: Dict[str, str] = {
-            unicodedata.normalize("NFD", fold_confusables(g.lower())): ipa
-            for g, ipa in self.rules["graphemes"].items()
+            _norm(g): ipa for g, ipa in self.rules["graphemes"].items()
         }
-        # Segmentation inventory. For grapheme output we also admit letters from the
-        # ALPHABET row, so words segment fully even where the phoneme table omitted a
-        # row. For IPA output only mapped graphemes count (we need their IPA value).
+        # Romanization table: native-script unit -> Latin form (for output="latin").
+        # Latin units map to themselves, so Latin input passes through unchanged.
+        self.romanization: Dict[str, str] = {
+            _norm(k): v for k, v in self.rules.get("romanization", {}).items()
+        }
+        # Segmentation inventory. For grapheme/latin output we also admit letters from
+        # the ALPHABET row (and any romanization keys), so words segment fully even where
+        # the phoneme table omitted a row. IPA output uses only mapped graphemes.
         self._keys = set(self.graphemes)
-        if self.output == "grapheme":
+        if self.output in ("grapheme", "latin"):
+            self._keys.update(self.romanization)
             for a in self.rules.get("alphabet", []):
-                k = unicodedata.normalize("NFD", fold_confusables(str(a).lower()))
+                k = _norm(a)
                 if k and not any(unicodedata.combining(c) for c in k):
                     self._keys.add(k)
         self._max_len = max((len(k) for k in self._keys), default=1)
@@ -122,14 +132,17 @@ class G2P:
             while i < n and unicodedata.combining(text[i]):
                 raw += text[i]
                 i += 1
-            if self.output == "grapheme":
-                # emit the native writing unit, preserving tone marks as written
-                unit = unicodedata.normalize("NFC", chunk + raw)
-                units.append(clean_ipa(unit) if self.strip_diacritics else unit)
-            else:
+            if self.output == "ipa":
                 suffix = "".join(self.diacritics.get(m, "") for m in raw)
                 unit = base_ipa + suffix
                 units.append(clean_ipa(unit) if self.clean else unit)
+            elif self.output == "latin":
+                # native-script unit -> Latin form (Latin input maps to itself)
+                base = self.romanization.get(chunk, chunk)
+                units.append(unicodedata.normalize("NFC", base + raw))
+            else:  # grapheme: the native writing unit, tone marks preserved
+                unit = unicodedata.normalize("NFC", chunk + raw)
+                units.append(clean_ipa(unit) if self.strip_diacritics else unit)
         return units
 
     def _longest_base_match(self, text: str, i: int, n: int):

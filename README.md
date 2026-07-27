@@ -114,6 +114,13 @@ G2P("vai", output="ipa").convert("ꕙꔤ")   # native Vai script -> 'vai'
 G2P("vai", output="ipa").convert("vai")    # Latin              -> 'vai'
 ```
 
+Because the data pairs each script unit with its Latin form, africa-g2p also does
+**transliteration** — convert a non-Latin script to Latin with `output="latin"`:
+
+```python
+G2P("vai", output="latin").convert("ꔰꕗ")   # -> 'gbigba'   (Vai script -> Latin)
+```
+
 ## Supported languages
 
 **137 languages** across West, Central, and East Africa — Akan, Yoruba, Igbo, Hausa, Ga,

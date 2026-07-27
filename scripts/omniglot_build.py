@@ -49,6 +49,7 @@ def parse_chart(path: str):
     grid = [[_txt(df.iat[r, c]) for c in range(df.shape[1])] for r in range(df.shape[0])]
 
     graphemes: dict[str, str] = {}
+    romanization: dict[str, str] = {}
     script_units, latin_units = set(), set()
     for r, row in enumerate(grid):
         if r < 2 or not _is_ipa_row(row):
@@ -59,16 +60,18 @@ def parse_chart(path: str):
             if not m:
                 continue
             ipa = m.group(1).strip()
-            s, la = script[c] if c < len(script) else "", latin[c] if c < len(latin) else ""
-            # skip the metadata column (language name / [code])
-            if not ipa or la.lower() in ("", "vai") or re.fullmatch(r"[a-z]{2,3}", ipa):
-                pass
+            if not ipa:
+                continue
+            s = unicodedata.normalize("NFC", script[c] if c < len(script) else "")
+            la = unicodedata.normalize("NFC", latin[c] if c < len(latin) else "")
             for unit, bucket in ((s, script_units), (la, latin_units)):
-                unit = unicodedata.normalize("NFC", unit)
                 if unit and unit not in graphemes:
                     graphemes[unit] = ipa
                     bucket.add(unit)
-    return graphemes, sorted(script_units), sorted(latin_units)
+            # script unit -> its Latin romanisation (enables output="latin")
+            if s and la and s != la:
+                romanization.setdefault(s, la)
+    return graphemes, romanization, sorted(script_units), sorted(latin_units)
 
 
 def main() -> int:
@@ -80,7 +83,7 @@ def main() -> int:
     ap.add_argument("--family", default=None)
     args = ap.parse_args()
 
-    graphemes, script_units, latin_units = parse_chart(args.chart)
+    graphemes, romanization, script_units, latin_units = parse_chart(args.chart)
     if not graphemes:
         print("No triplets parsed — is this an Omniglot chart?", file=sys.stderr)
         return 1
@@ -94,6 +97,7 @@ def main() -> int:
         "confidence": "omniglot",
         "scripts": {"native": script_units, "latin": latin_units},
         "graphemes": graphemes,
+        "romanization": romanization,
         "diacritics": {},
         "alphabet": latin_units,
         "examples": [],
@@ -101,7 +105,8 @@ def main() -> int:
     out = LANG_DIR / f"{args.code}.json"
     out.write_text(json.dumps(rule, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"wrote {out.name}: {len(graphemes)} units "
-          f"({len(script_units)} native-script, {len(latin_units)} latin)")
+          f"({len(script_units)} native-script, {len(latin_units)} latin, "
+          f"{len(romanization)} romanisation pairs)")
     return 0
 
 

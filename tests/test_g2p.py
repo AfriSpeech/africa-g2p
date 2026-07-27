@@ -107,6 +107,14 @@ def test_vai_dual_script_if_present():
     assert ipa.convert("ꕙꔤ") == ipa.convert("vai")  # native script == Latin phonemisation
 
 
+def test_latin_transliteration_if_present():
+    if "vai" not in available_languages():
+        pytest.skip("vai (omniglot) not built")
+    lat = G2P("vai", output="latin")
+    assert lat.convert("ꔰꕗ").lower() == "gbigba"   # Vai script -> Latin
+    assert lat.convert("gbagba") == "gbagba"        # Latin input unchanged
+
+
 # --- library-wide regression guards over the extracted rule files ---
 
 def test_library_size():
