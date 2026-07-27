@@ -1,0 +1,2357 @@
+[
+  {
+    "code": "aar",
+    "corpus": "aar",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'aar'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "acd",
+    "corpus": "acd",
+    "name": "Kyode",
+    "coverage": 0.997,
+    "n": 10,
+    "example": {
+      "text": "Sakpii belɛ ɔko gi kyaabɔɔ mɔ. Gɛnen so mɔ ɔ dii loo gikolii dɔ ɔ tɛ; asa mɔ, mɔ, mɛ san mɛ yelɛ gigengen so.",
+      "phonemes": "s a kp i i b e l ɛ ɔ k o g i ky a a b ɔ ɔ m ɔ. g ɛ n e n s o m ɔ ɔ d i i l o o g i k o l i i d ɔ ɔ t ɛ; a s a m ɔ, m ɔ, m ɛ s a n m ɛ y e l ɛ g i g e ng e n s o."
+    }
+  },
+  {
+    "code": "ach",
+    "corpus": "ach",
+    "name": "Acholi",
+    "coverage": 0.996,
+    "n": 9,
+    "example": {
+      "text": "Moses owacci, Abiŋak wek anen gin ma nen madit-ti ki piŋo caka-ni pe waŋ woko.",
+      "phonemes": "m o s e s o w a c c i, a b i ŋ a k w e k a n e n g i n m a n e n m a d i t-t i k i p i ŋ o c a k a-n i p e w a ŋ w o k o."
+    }
+  },
+  {
+    "code": "ada",
+    "corpus": "ada",
+    "name": "Dangme",
+    "coverage": 0.95,
+    "n": 12,
+    "example": {
+      "text": "Ligbi ekpa nyɛ kɛ tsu ní, se ligbi nɛ ji kpaago ɔ lɛɛ nyɛɛ ye lɛ kaa Hejɔɔmi ligbi klɔuklɔu ha imi Yawɛ. Nɔ tsuaa nɔ nɛ ma tsu ní jamɛ a ligbi ɔ, a gbe lɛ.",
+      "phonemes": "l i gb i e kp a ny ɛ k ɛ ts u n í, s e l i gb i n ɛ j i kp a a g o ɔ l ɛ ɛ ny ɛ ɛ y e l ɛ k a a h e j ɔ ɔ m i l i gb i k l ɔ u k l ɔ u h a i m i y a w ɛ. n ɔ ts u a a n ɔ n ɛ m a ts u n í j a m ɛ a l i gb i ɔ, a gb e l ɛ."
+    }
+  },
+  {
+    "code": "ade",
+    "corpus": "ade",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'ade'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "adj",
+    "corpus": "adj",
+    "name": "Adioukrou",
+    "coverage": 0.929,
+    "n": 11,
+    "example": {
+      "text": "Lɛgŋ a cɛ, Jesu anŋ akŋ a ɛy ↄkm ɛtŋ im sig es mij saw eke ki yɛgm agŋ low.",
+      "phonemes": "l ɛ g ŋ a c ɛ, j e s u a n ŋ a k ŋ a ɛ y ↄ k m ɛ t ŋ i m s i g e s m i j s a w e k e k i y ɛ g m a g ŋ l o w."
+    }
+  },
+  {
+    "code": "afr",
+    "corpus": "afr",
+    "name": "Afrikaans",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Ek weet egter dat hy, die koning van Egipte, julle nie sal toelaat om te gaan nie, tensy hy gedwing word deur 'n kragtige hand.",
+      "phonemes": "e k w ee t e g t e r d a t h y, d ie k o n i ng v a n e g i p t e, j u l l e n ie s a l t oe l aa t o m t e g aa n n ie, t e n s y h y g e d w i ng w o r d d eu r 'n k r a g t i g e h a n d."
+    }
+  },
+  {
+    "code": "ags",
+    "corpus": "ags",
+    "name": "Esimbi",
+    "coverage": 0.972,
+    "n": 10,
+    "example": {
+      "text": "Əsə muutu mɛmbuɛmbu ɔbə ini, Jisɔs ulu ɔtə kitumbu ondə nɔmu əsə ɔŋgərə wu mamə.",
+      "phonemes": "ə s ə m u u t u m ɛ mb u ɛ mb u ɔ b ə i n i, j i s ɔ s u l u ɔ t ə k i t u mb u o nd ə n ɔ m u ə s ə ɔ ŋg ə r ə w u m a m ə."
+    }
+  },
+  {
+    "code": "akp",
+    "corpus": "akp",
+    "name": "Siwu",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Ɔte ma ara gbodzoo i agbã ame. Ɔɣere ma sɔ, Kpɛ̃dze ɔwɛ̃ ɔsɛ ɔraɖui kasakɔ̃.",
+      "phonemes": "ɔ t e m a a r a gb o dz o o i a gb ã a m e. ɔ ɣ e r e m a s ɔ, kp ɛ̃ dz e ɔ w ɛ̃ ɔ s ɛ ɔ r a ɖ u i k a s a k ɔ̃."
+    }
+  },
+  {
+    "code": "alz",
+    "corpus": "alz",
+    "name": "Alur",
+    "coverage": 0.968,
+    "n": 12,
+    "example": {
+      "text": "E Musa wacu kumae, Abilokra cen kawono, man abineno giranena ma dit maeni, nedi yen mudinyo wang ungo.",
+      "phonemes": "e m u s a w a c u k u m a e, a b i l o k r a c e n k a w o n o, m a n a b i n e n o g i r a n e n a m a d i t m a e n i, n e d i y e n m u d i ny o w a ng u ng o."
+    }
+  },
+  {
+    "code": "amh",
+    "corpus": "amh",
+    "name": "Amharic",
+    "coverage": 0.994,
+    "n": 12,
+    "example": {
+      "text": "ሙሴንም፦ እኔ አማትህ ዮቶር፥ ሚስትህም፥ ከእርስዋም ጋር ሁለቱ ልጆችዋ መጥተንልሃል አለው።.",
+      "phonemes": "mu se nə mə፦ ’ə ne ’a ma tə hə jo to rə፥ mi sə tə hə mə፥ kä ’ə rə sə wa mə ga rə hu lä tu lə ǧo čə wa mä ṭə tä nə lə ha lə ’a lä wə።."
+    }
+  },
+  {
+    "code": "ann",
+    "corpus": "ann",
+    "name": "Obolo",
+    "coverage": 1.0,
+    "n": 5,
+    "example": {
+      "text": "Mije keya, Mosis obebe, Mâje igbet-nu isi iriọọn̄ ubọk ikpọ ikpele nke nke inu keyi, ìre keke orọ ukan̄ ìkataka gwun̄ uti yi ìriọk.",
+      "phonemes": "m i j e k e y a, m o s i s o b e b e, m â j e i gb e t-n u i s i i r i ọ ọ n̄ u b ọ k i kp ọ i kp e l e n k e n k e i n u k e y i, ì r e k e k e o r ọ u k a n̄ ì k a t a k a gw u n̄ u t i y i ì r i ọ k."
+    }
+  },
+  {
+    "code": "any",
+    "corpus": "any",
+    "name": "Anyin",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Cɩan sɔ'n, Zozi fi yɩ́ awulo ɛbɛlɛ ɔ kɔ hɔ asue nɩn anʋan ɛlɔ. Ɔ kɔ tanlan asɩ, ɔ kɔ hehele menian'n-mɔ Nyanmɩan ninnge.",
+      "phonemes": "c ɩ a n s ɔ ' n, z o z i f i y ɩ́ a w u l o ɛ b ɛ l ɛ ɔ k ɔ h ɔ a s u e n ɩ n a n ʋ a n ɛ l ɔ. ɔ k ɔ t a n l a n a s ɩ, ɔ k ɔ h e h e l e m e n i a n ' n-m ɔ ny a n m ɩ a n n i n ng e."
+    }
+  },
+  {
+    "code": "ary",
+    "corpus": "ary",
+    "name": "Arabic (Moroccan)",
+    "coverage": 0.983,
+    "n": 12,
+    "example": {
+      "text": "وْتّجمعو عليه بزّاف د الناس حتّى دخل نالفلوكة وْݣلس. والناس كاملين وَقفو على الحاشية د البحَر.",
+      "phonemes": "wْtّj m ʕ w ʕ l y h b zّʔ f d ʔ l n ʔ s ḥ tّى d x l n ʔ l f l w k ə wْݣ l s. w ʔ l n ʔ s k ʔ m l y n wَq f w ʕ l ى ʔ l ḥ ʔ š y ə d ʔ l b ḥَr."
+    }
+  },
+  {
+    "code": "avn",
+    "corpus": "avn",
+    "name": "Avatime",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Linɔkpi i lɛ gi lixogo ní yɛ su i, likeme nite si Yesu emu eku katapokpa katɔ mɛ lɛ eple e ze e. Linɔkpi le kɔ ɔ lize ní limu ne oge no.",
+      "phonemes": "l i n ɔ kp i i l ɛ g i l i x o g o n í y ɛ s u i, l i k e m e n i t e s i y e s u e m u e k u k a t a p o kp a k a t ɔ m ɛ l ɛ e p l e e z e e. l i n ɔ kp i l e k ɔ ɔ l i z e n í l i m u n e o g e n o."
+    }
+  },
+  {
+    "code": "avu",
+    "corpus": "avu",
+    "name": "Avokaya",
+    "coverage": 0.935,
+    "n": 3,
+    "example": {
+      "text": "Gõꞌdá órĩ gólĩyî ꞌdẽ ꞌbá ı̣̃nyạ́kú rõvõ bê rî ꞌá rî, ꞌdĩî rĩꞌá õjílã gólĩyî tã âtî-âtî tãndí ꞌdĩ ârí ꞌbá dódó, gõꞌdá drílĩyî tã lẽzó ꞌá lâ ãyĩkõ sĩ.",
+      "phonemes": "g õ ꞌ d á ó r ĩ g ó l ĩ y î ꞌ d ẽ ꞌ b á ị̃ ny ạ́ k ú r õ v õ b ê r î ꞌ á r î, ꞌ d ĩ î r ĩ ꞌ á õ j í l ã g ó l ĩ y î t ã â t î-â t î t ã nd í ꞌ d ĩ â r í ꞌ b á d ó d ó, g õ ꞌ d á dr í l ĩ y î t ã l ẽ z ó ꞌ á l â ã y ĩ k õ s ĩ."
+    }
+  },
+  {
+    "code": "azo",
+    "corpus": "azo",
+    "name": "Awing",
+    "coverage": 0.825,
+    "n": 8,
+    "example": {
+      "text": "Tsɔʼə alě yə wɨ́, Yeso a fɛ́lə á ndɛ̂ yi wɨ́ ńgɛn ńnáanə nkaŋ əfooghəəmə́.",
+      "phonemes": "ts ɔ ' ə a l ě y ə w ɨ́, y e s o a f ɛ́ l ə á n d ɛ̂ y i w ɨ́ ń g ɛ n ń n á a n ə n k a ŋ ə f oo gh ə ə m ə."
+    }
+  },
+  {
+    "code": "bav",
+    "corpus": "bav",
+    "name": "Vengo",
+    "coverage": 0.973,
+    "n": 10,
+    "example": {
+      "text": "Kɨ luu sheꞌ maa shi kɔ́, Yeso fuu fɨ taa ŋii, gə̀ yɨ maghia, gə̀ dùꞌ shɔ.",
+      "phonemes": "k ɨ l uu sh e ꞌ m aa sh i k ɔ́, y e s o f uu f ɨ t aa ŋ ii, g ə̀ y ɨ m a gh i a, g ə̀ d ù ꞌ sh ɔ."
+    }
+  },
+  {
+    "code": "bax",
+    "corpus": "bax",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'bax'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "bba",
+    "corpus": "bba",
+    "name": "Bariba",
+    "coverage": 0.871,
+    "n": 10,
+    "example": {
+      "text": "Sɑɑ yerɑ Yinni Gusunɔ u kɑ Mɔwisi mɔru kuɑ. Mɑ u nɛɛ, n ǹ Aroni Lefi u sɑ̃ɑ wunɛn mɔɔ? Nɑ yɛ̃ mɑ ɡɑri ɡerubu kun kɑ nùn sɛ̃. Win tii wee, u nun sennɔ sisi. Ù n nun wɑ, win nukurɑ koo dorɑ.",
+      "phonemes": "s ɑ ɑ y e r ɑ y i n n i g u s u n ɔ u k ɑ m ɔ w i s i m ɔ r u k u ɑ. m ɑ u n ɛ ɛ, n ǹ a r o n i l e f i u s ɑ ɑ w u n ɛ n m ɔ ɔ? n ɑ y ɛ̃ m ɑ g ɑ r i g e r u b u k u n k ɑ n ù n s ɛ̃. w i n t i i w e e, u n u n s e n n ɔ s i s i. ù n n u n w ɑ, w i n n u k u r ɑ k o o d o r ɑ."
+    }
+  },
+  {
+    "code": "bci",
+    "corpus": "bci",
+    "name": "Baoulé",
+    "coverage": 0.946,
+    "n": 10,
+    "example": {
+      "text": "Bɛ kwlaa ng'ɔ la su'n, yɛ bia kwlaa ng'ɔ tran su'n, wuun fiɛn ɔ'a kan be kɛ blɛ nga i sa'n bu nun'n sa.",
+      "phonemes": "b ɛ k w l a a n g ' ɔ l a s u ' n, y ɛ b i a k w l a a n g ' ɔ t r an s u ' n, w u un f i ɛn ɔ ' a k an b e k ɛ b l ɛ n g a i s a ' n b u n un ' n s a."
+    }
+  },
+  {
+    "code": "bec",
+    "corpus": "bec",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'bec'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "beh",
+    "corpus": "beh",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'beh'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "bej",
+    "corpus": "bej",
+    "name": "Beja",
+    "coverage": 0.969,
+    "n": 12,
+    "example": {
+      "text": "Beet tooyin tookna, Yasuuꞌa ugawii ifirꞌat ubhari daraag isꞌa.",
+      "phonemes": "b ee t t oo y i n t oo k n a, y a s uu ꞌ a u g a w ii i f i r ꞌ a t u b h a r i d a r aa g i s ꞌ a."
+    }
+  },
+  {
+    "code": "bem",
+    "corpus": "bem",
+    "name": "Bemba",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Elyo atontonkanya ati, Kampalameko, uleke ndoleshe icakupapusha ici namona, ico icimpusa cishipilile.",
+      "phonemes": "e l y o a t o n t o n k a n y a a t i, k a m p a l a m e k o, u l e k e n d o l e sh e i c a k u p a p u sh a i c i n a m o n a, i c o i c i m p u s a c i sh i p i l i l e."
+    }
+  },
+  {
+    "code": "bex",
+    "corpus": "bex",
+    "name": "Jur Modo",
+    "coverage": 0.971,
+    "n": 7,
+    "example": {
+      "text": "Bo ileki kititi lïjë, iya te, Ikalike bɔ mɔtɔ rɔ Labana kole ꞌba Nawura? Lïjë iya te, Yëë, dikali bo.",
+      "phonemes": "b o i l e k i k i t i t i l ï j ë, i y a t e, i k a l i k e b ɔ m ɔ t ɔ r ɔ l a b a n a k o l e ꞌ b a n a w u r a? l ï j ë i y a t e, y ë ë, d i k a l i b o."
+    }
+  },
+  {
+    "code": "bfa",
+    "corpus": "bfa",
+    "name": "Bari",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "A MATAT kulyani adi, Nan diri aje met sasanya na Ŋutu kwe lo gwon Ejipeto yu kulu, a nan iŋge yiŋ gwien nase kogwon katokitak kase; kogwon nan a den delyaesi kase.",
+      "phonemes": "a m a t a t k u l y a n i a d i, n a n d i r i a j e m e t s a s a ny a n a ŋ u t u kw e l o g w o n e j i p e t o y u k u l u, a n a n i ŋ g e y i ŋ g w i e n n a s e k o g w o n k a t o k i t a k k a s e; k o g w o n n a n a d e n d e l y a e s i k a s e."
+    }
+  },
+  {
+    "code": "bfm",
+    "corpus": "bfm",
+    "name": "Mmen",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Ghɨ ghɛ ghe tè pə̀yn fu tè tsɨ̀ə tsɛ̂sə̀ ndò. Zɨnə mə ə nə̀ Vəyn è və njiə ə ngwùʼ èghaʼâ ə tsɨsə̂ ətəyn, nɔ̂ynkè ə tyəmtə̂ etipì zɨtə̂ sê Vəyn.",
+      "phonemes": "gh ɨ gh ɛ gh e t è p ə̀ yn f u t è ts ɨ̀ ə ts ɛ̂ s ə̀ nd ò. z ɨ n ə m ə ə n ə̀ v ə yn è v ə nj i ə ə ng w ù ' è gh a ' â ə ts ɨ s ə̂ ə t ə yn, n ɔ̂ yn k è ə t y ə m t ə̂ e t i p ì z ɨ t ə̂ s ê v ə yn."
+    }
+  },
+  {
+    "code": "bib",
+    "corpus": "bib",
+    "name": "Bisa",
+    "coverage": 0.986,
+    "n": 11,
+    "example": {
+      "text": "Hinni bɩ dɔ ʊ bɩ, Yeezuu bɔ har ʊ, an aa nyɩnta higʊta bɩ lɛ ra.",
+      "phonemes": "h i n n i b ɩ d ɔ ʊ b ɩ, y e e z u u b ɔ h a r ʊ, a n a a ny ɩ n t a h i g ʊ t a b ɩ l ɛ r a."
+    }
+  },
+  {
+    "code": "bim",
+    "corpus": "bim",
+    "name": "Bimoba",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Bonfoor kur manfoor be u sɔn nie, li paak teen ki Yennu bet Israel teeb nan bi daa ŋman sɔn, a ki wunba tun nna ji kan ban pukin ŋɔɔ Yennu niib na po.",
+      "phonemes": "b o n f o o r k u r m a n f o o r b e u s ɔ n n i e, l i p a a k t e e n k i y e n n u b e t i s r a e l t e e b n a n b i d a a ŋm a n s ɔ n, a k i w u n b a t u n n n a j i k a n b a n p u k i n ŋ ɔ ɔ y e n n u n i i b n a p o."
+    }
+  },
+  {
+    "code": "bjo",
+    "corpus": "liy",
+    "name": "Banda",
+    "coverage": 0.735,
+    "n": 9,
+    "example": {
+      "text": "Kʉ pə tə̂ alɔ nə səkɔ, Jezu wûtu lə anda ə nâ ə sə̂ gâ tʉ mâ tə̂ ama dala ə̂ngû əgɔ Galile.",
+      "phonemes": "k ʉ p ə t ə a l ɔ n ə s ə k ɔ, j e z u w û t u l ə a nd a ə n â ə s ə g â t ʉ m â t ə a m a d a l a ə ng û ə g ɔ g a l i l e."
+    }
+  },
+  {
+    "code": "bky",
+    "corpus": "bkv",
+    "name": "Bekwarra",
+    "coverage": 0.957,
+    "n": 10,
+    "example": {
+      "text": "Rˈitirite plee, iJekop a kung ukaa angˈahe a pom irishi ana bibi kˈitang kung ebeku olif wu he kˈirishi.",
+      "phonemes": "r ˈ i t i r i t e p l e e, i j e k o p a k u ng u k a a a ng ˈ a h e a p o m i r i sh i a n a b i b i k ˈ i t a ng k u ng e b e k u o l i f w u h e k ˈ i r i sh i."
+    }
+  },
+  {
+    "code": "bng",
+    "corpus": "bng",
+    "name": "Benga",
+    "coverage": 0.996,
+    "n": 11,
+    "example": {
+      "text": "Fereo a hake ekae, na mâ‐a kenjě babandamidi o ehe, na mâ‐a ka nângâkâ mbeyi ya itano ya hiki ya Ijipt o mepuma hěmbwědi mea utumbě.",
+      "phonemes": "f e r e o a h a k e e k a e, n a m â‐a k e nj ě b a b a n d a m i d i o e h e, n a m â‐a k a n â ng â k â mb e y i y a i t a n o y a h i k i y a i j i p t o m e p u m a h ě mbw ě d i m e a u t u mb ě."
+    }
+  },
+  {
+    "code": "bni",
+    "corpus": "bni",
+    "name": "Bangi",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Yakoba asekwi nebimi, mpe akwi libwa li tiki yeye o nce mutu mo yeye, mpe asiki lingo lizala lipata, mpe akongi mali o likolo li lingo.",
+      "phonemes": "y a k o b a a s e k w i n e b i m i, mp e a k w i l i b w a l i t i k i y e y e o nc e m u t u m o y e y e, mp e a s i k i l i ng o l i z a l a l i p a t a, mp e a k o ng i m a l i o l i k o l o l i l i ng o."
+    }
+  },
+  {
+    "code": "bom",
+    "corpus": "bom",
+    "name": "Berom",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Ko ka sede mwa na pyɛ̂ bes yane yɛn a sey tsak o wɛt, ko yɛn a tɛ̀ betong, na be wok arɔng wɛt, hwà rɔda wɔ̀ vo nshî Gwɔrɔt Nil, hwo vey shusha nɛ e vwel, nshi mo na rɔda doyo, ne tɛ́ ɛn nemi.",
+      "phonemes": "k o k a s e d e m w a n a p y ɛ̂ b e s y a n e y ɛ n a s e y ts a k o w ɛ t, k o y ɛ n a t ɛ̀ b e t o ng, n a b e w o k a r ɔ ng w ɛ t, h w à r ɔ d a w ɔ̀ v o n sh î g w ɔ r ɔ t n i l, h w o v e y sh u sh a n ɛ e v w e l, n sh i m o n a r ɔ d a d o y o, n e t ɛ́ ɛ n n e m i."
+    }
+  },
+  {
+    "code": "bqj",
+    "corpus": "bqj",
+    "name": "Bandial",
+    "coverage": 0.996,
+    "n": 11,
+    "example": {
+      "text": "Ñer ngujaor bi yaŋ Laban. Min urokaol gujal bíteb suñokombo sasu, guban ngusen so mafos ni éful sitiñ. Ngúŋarul ᵽoᵽ mal min mbi áine ahu ni gátinenol me guᵽos guolil.",
+      "phonemes": "ñ e r ng u j a o r b i y a ŋ l a b a n. m i n u r o k a o l g u j a l b í t e b s u ñ o k o mb o s a s u, g u b a n ng u s e n s o m a f o s n i é f u l s i t i ñ. ng ú ŋ a r u l ᵽ o ᵽ m a l m i n mb i á i n e a h u n i g á t i n e n o l m e g u ᵽ o s g u o l i l."
+    }
+  },
+  {
+    "code": "bqp",
+    "corpus": "bqp",
+    "name": "Busa",
+    "coverage": 0.966,
+    "n": 11,
+    "example": {
+      "text": "Kũ Dikiri è à sù gwa, akũ à lɛ́ zùi zaa tariankpã pìi gũn à pì: Musa! Musa! Akũ à wèa à pì: Makũ di!.",
+      "phonemes": "k ũ d i k i r i è à s ù gw a, a k ũ à l ɛ́ z ù i z aa t a r i a nk p ã p ì i g ũ n à p ì: m u s a! m u s a! a k ũ à w è a à p ì: m a k ũ d i!."
+    }
+  },
+  {
+    "code": "bsc",
+    "corpus": "bsc",
+    "name": "Bassari",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Xaɗëp in w̃ëka ko: «Wëj endënaw̃ end noỹo wa hi këƴ? Axara xara këmi, pelële. Aŝot nde këmi ŝot gër ndewën në er këɓo xey?».",
+      "phonemes": "x a ɗ ë p i n w̃ ë k a k o: «w ë j e nd ë n a w̃ e nd n o ỹ o w a h i k ë ƴ? a x a r a x a r a k ë m i, p e l ë l e. a ŝ o t nd e k ë m i ŝ o t g ë r nd e w ë n n ë e r k ë ɓ o x e y?»."
+    }
+  },
+  {
+    "code": "bsq",
+    "corpus": "bsq",
+    "name": "Bassa",
+    "coverage": 0.982,
+    "n": 9,
+    "example": {
+      "text": "Kɛɛ ḿ dyuòɛ̀ kà Íjè-kã̀ǎɔ̀ se ɓě dyi táǎ mu, ɓɛ́ ɓě ké mu, ɔ sèìn dyɛ ké ḿ kpɔ̃̀ìn ɔ ganaún hwɛ̀.",
+      "phonemes": "k ɛ ɛ ḿ d y u ò ɛ̀ k à í j è-k ã̀ ǎ ɔ̀ s e ɓ ě d y i t á ǎ m u, ɓ ɛ́ ɓ ě k é m u, ɔ s è ì n d y ɛ k é ḿ kp ɔ̃̀ ì n ɔ g a n a ú n h w ɛ̀."
+    }
+  },
+  {
+    "code": "bum",
+    "corpus": "bum",
+    "name": "Bulu",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Ane Môze a nga same wo e mañe yôp; ndibe tyé, mañ me nga beta bulan avale me wô'ô tabe; bôte ya Ejipte be nga mate me; ve Nti a nga sô'ôlô be ézezañ mañ été.",
+      "phonemes": "a n e m ô z e a n g a s a m e w o e m a ñ e y ô p; n d i b e t y é, m a ñ m e n g a b e t a b u l a n a v a l e m e w ô ' ô t a b e; b ô t e y a e j i p t e b e n g a m a t e m e; v e n t i a n g a s ô ' ô l ô b e é z e z a ñ m a ñ é t é."
+    }
+  },
+  {
+    "code": "bvm",
+    "corpus": "bvm",
+    "name": "Bamunka",
+    "coverage": 0.91,
+    "n": 10,
+    "example": {
+      "text": "Kʉ̂ʉ bɛ haʼ yɔ̂ŋ-ghɔ̄, Jiso fyú hə mu njaa gɛ̀ ŋgwuu taanə-kəghəŋ-kə.",
+      "phonemes": "k ʉ ʉ b ɛ h a ' y ɔ̂ ŋ-gh ɔ̄, j i s o f y ú h ə m u n j a a g ɛ̀ ŋ g w u u t a a n ə-k ə gh ə ŋ-k ə."
+    }
+  },
+  {
+    "code": "bwj",
+    "corpus": "bwj",
+    "name": "Láá Láá Bwamu",
+    "coverage": 1.0,
+    "n": 8,
+    "example": {
+      "text": "Ɛ́ pehɔ̀ zɔn, ɛ́ Yiezu zɔǹ lɔ́ lé zũnù sɔ hũn ɛ́ lɔ́ van kɛsí hɔ́ ɲumu ɲunù.",
+      "phonemes": "ɛ́ p e h ɔ̀ z ɔ n, ɛ́ y i e z u z ɔ ǹ l ɔ́ l é z ũ n ù s ɔ h ũ n ɛ́ l ɔ́ v a n k ɛ s í h ɔ́ ɲ u m u ɲ u n ù."
+    }
+  },
+  {
+    "code": "bxk",
+    "corpus": "bxk",
+    "name": "Bukusu",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Lola nauliile bililo bie babaandu base Baisiraeli, mala naboone nga nilwo Bamisiri ne balikho ba bapia siibi.",
+      "phonemes": "l o l a n a u l i i l e b i l i l o b i e b a b a a nd u b a s e b a i s i r a e l i, m a l a n a b o o n e ng a n i l w o b a m i s i r i n e b a l i kh o b a b a p i a s i i b i."
+    }
+  },
+  {
+    "code": "byv",
+    "corpus": "byv",
+    "name": "Medumba",
+    "coverage": 0.99,
+    "n": 11,
+    "example": {
+      "text": "Mosé tshob ndù: M'a' Kù'te nèn ndôte yen kuni ju li, ndèn ju z'a ghù tswe'tù ke ke nkù là.",
+      "phonemes": "m o s é ts h o b nd ù: m ' a ' k ù ' t e n è n nd ô t e y e n k u n i j u l i, nd è n j u z ' a gh ù ts w e ' t ù k e k e n k ù l à."
+    }
+  },
+  {
+    "code": "cjk",
+    "corpus": "cjk",
+    "name": "Chokwe",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Hindu kachi o kechi kufuliela yilayi yize yiali, chipwe kupanjika ku liji lie, ka, ukaswite meya a mu lwiji ukaamwange hashi, mba e meya muswita a mu lwiji, kumalumuka manyinga hashi.",
+      "phonemes": "h i nd u k a c h i o k e c h i k u f u l i e l a y i l a y i y i z e y i a l i, c h i p w e k u p a n j i k a k u l i j i l i e, k a, u k a s w i t e m e y a a m u l w i j i u k a a m w a ng e h a s h i, mb a e m e y a m u s w i t a a m u l w i j i, k u m a l u m u k a m a ny i ng a h a s h i."
+    }
+  },
+  {
+    "code": "cko",
+    "corpus": "cko",
+    "name": "Chakosi",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Nyini cɛɛn n na Yesu afite awuru n nu akɔ atana Galili kunma kpiri n nɔɔ su, ka i kan Nyɛmɛ jɔrɛ kere jama ni.",
+      "phonemes": "ny in i c ɛɛ n n n a y e s u a f i t e a w u r u n n u a k ɔ a t an a g a l i l i k un m a kp i r i n n ɔɔ s u, k a i k an ny ɛ m ɛ j ɔ r ɛ k e r e j a m a n i."
+    }
+  },
+  {
+    "code": "cop",
+    "corpus": "cop",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'cop'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "daa",
+    "corpus": "daa",
+    "name": "Dangaléat",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Ƴiriy taar-at di, Iisa amiltu min ɗo ger-aka ho ŋa birtu bi ka barrer. Ɗo wer-ak, ŋa goytu, ŋa garkiyiy gee.",
+      "phonemes": "ƴ i r i y t aa r-a t d i, ii s a a m i l t u m i n ɗ o g e r-a k a h o ŋ a b i r t u b i k a b a r r e r. ɗ o w e r-a k, ŋ a g o y t u, ŋ a g a r k i y i y g ee."
+    }
+  },
+  {
+    "code": "dag",
+    "corpus": "dag",
+    "name": "Dagbani",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Ka Naawuni daa wum bɛ fabila maa, ka teeg o ni daa lo Ibrahimma mini Yisahaku ni Yaakubu alikauli shɛl la yɛla.",
+      "phonemes": "k a n aa w u n i d aa w u m b ɛ f a b i l a m aa, k a t e e g o n i d aa l o i b r a h i m m a m i n i y i s a h a k u n i y aa k u b u a l i k a u l i sh ɛ l l a y ɛ l a."
+    }
+  },
+  {
+    "code": "did",
+    "corpus": "did",
+    "name": "Lango",
+    "coverage": 0.899,
+    "n": 9,
+    "example": {
+      "text": "Ma baa ngerrenita, ĩtĩnga Yakobo nẽ ittiha bẽẽ baa aruhaanĩ õõ adaeek hĩbĩl ꞌcũl nẽ udduuttik ngõõrrõ lokora, hátĩ hubuluth Nyekuc.",
+      "phonemes": "m a b a a n g e r r e n i t a, ĩ t ĩ n g a y a k o b o n ẽ i t t i h a b ẽ ẽ b a a a r u h a a n ĩ õ õ a d a e e k h ĩ b ĩ l ꞌ c ũ l n ẽ u d d u u t t i k n g õ õ r r õ l o k o r a, h á t ĩ h u b u l u t h ny e k u c."
+    }
+  },
+  {
+    "code": "dnj",
+    "corpus": "daf",
+    "name": "Dan",
+    "coverage": 1.0,
+    "n": 5,
+    "example": {
+      "text": "'Yö mɛbhɩɩdhe ‑yö bho dhuu 'yö 'wo ꞊klëën‑ ‑zü. ꞊Dhɛ 'ö ‑gɛnziödhɛ 'bha 'yaa 'dhö 'zü mɛbhɩɩdhe ‑gɔ, 'yö ‑da yitagɔ 'gü 'yö ‑ya mü. 'Yö 'mɛ 'wo bha 'wo to yi kpʋng dhiʋ̈.",
+      "phonemes": "'y ö m ɛ bh ɩ ɩ dh e ‑y ö bh o dh u u 'y ö 'w o ꞊k l ë ë n‑ ‑z ü. ꞊dh ɛ 'ö ‑g ɛ n z i ö dh ɛ 'bh a 'y a a 'dh ö 'z ü m ɛ bh ɩ ɩ dh e ‑g ɔ, 'y ö ‑d a y i t a g ɔ 'g ü 'y ö ‑y a m ü. 'y ö 'm ɛ 'w o bh a 'w o t o y i kp ʋ ng dh i ʋ̈."
+    }
+  },
+  {
+    "code": "dow",
+    "corpus": "dow",
+    "name": "Doayo",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Yɔ saalzanɔ gbɔɔl zaa hi mɔks gi dɔŋdi, gii be kar ɗɔ̀ɔ̀t a lɛmb za du. Dood saal wɔ hi ɗɔ̀ɔ̀t a mɛmbalya̧ di be.",
+      "phonemes": "y ɔ s a a l z a n ɔ gb ɔ ɔ l z a a h i m ɔ k s g i d ɔ ŋ d i, g i i b e k a r ɗ ɔ̀ ɔ̀ t a l ɛ m b z a d u. d o o d s a a l w ɔ h i ɗ ɔ̀ ɔ̀ t a m ɛ m b a l y a̧ d i b e."
+    }
+  },
+  {
+    "code": "dsh",
+    "corpus": "dsh",
+    "name": "Daasanach",
+    "coverage": 0.961,
+    "n": 9,
+    "example": {
+      "text": "Kúlích tikiˈde kinaallá Yíésu ˈbíl kinaal gaa kie, mu bás ílung yíéđie.",
+      "phonemes": "k ú l í ch t i k i ˈ d e k i n a a l l á y í é s u ˈ b í l k i n a a l g a a k i e, m u b á s í l u n g y í é đ i e."
+    }
+  },
+  {
+    "code": "dug",
+    "corpus": "dug",
+    "name": "Duruma",
+    "coverage": 0.999,
+    "n": 9,
+    "example": {
+      "text": "Phapho atʼu achiloka kuloka hata vichimuhenda Jeso aphenye mashuwani, achisagala mumo. Atʼu ao achiima kuko kʼanda-kʼanda.",
+      "phonemes": "ph a ph o a t' u a ch i l o k a k u l o k a h a t a v i ch i m u h e nd a j e s o a ph e ny e m a sh u w a n i, a ch i s a g a l a m u m o. a t' u a o a ch i i m a k u k o k' a nd a-k' a nd a."
+    }
+  },
+  {
+    "code": "ebr",
+    "corpus": "ebr",
+    "name": "Tchaman",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Lócí lókɔn, Jezwi chan bháthó thándi, ló ńno chre duphé mɛ́n ánnie néphan yí.",
+      "phonemes": "l ó c í l ó k ɔn, j e z w i ch an bh á th ó th á n d i, l ó ń n o ch r e d u ph é m ɛ́ n á n n i e n é ph an y í."
+    }
+  },
+  {
+    "code": "efi",
+    "corpus": "efi",
+    "name": "Efik",
+    "coverage": 0.919,
+    "n": 12,
+    "example": {
+      "text": "Kpukpru mbri eke owo udɔŋɔ oro anade ke esit edehe; kpukpru ŋkpɔ eke enye etiede ke esit enyuŋ edehe:.",
+      "phonemes": "kp u kp r u mb r i e k e o w o u d ɔ ŋ ɔ o r o a n a d e k e e s i t e d e h e; kp u kp r u ŋ kp ɔ e k e e ny e e t i e d e k e e s i t e ny u ŋ e d e h e:."
+    }
+  },
+  {
+    "code": "ewe",
+    "corpus": "ewe",
+    "name": "Ewe",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "agbadɔ ŋu tsyotiwo kple kpɔ ŋu tsyotiwo kpakple woƒe atagbiawo;.",
+      "phonemes": "a gb a d ɔ ŋ u ts y o t i w o kp l e kp ɔ ŋ u ts y o t i w o kp a kp l e w o ƒ e a t a gb i a w o;."
+    }
+  },
+  {
+    "code": "ewo",
+    "corpus": "ewo",
+    "name": "Ewondo",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Amos te, ndò Yesus angakodo a nda, akë tòbò a ntsag maṅ .",
+      "phonemes": "a m o s t e, nd ò y e s u s a ng a k o d o a nd a, a k ë t ò b ò a n t s a g m a ṅ ."
+    }
+  },
+  {
+    "code": "fat",
+    "corpus": "aka",
+    "name": "Fante",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Enti, Mose kaa sɛ, Mɛkɔ akɔhwɛ anwanwadeɛ yi ahunu deɛ enti a wira no nhye.",
+      "phonemes": "e n t i, m o s e k a a s ɛ, m ɛ k ɔ a k ɔ hw ɛ a nw a nw a d e ɛ y i a h u nu d e ɛ e n t i a w i r a no n hy e."
+    }
+  },
+  {
+    "code": "fia",
+    "corpus": "fia",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'fia'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "flr",
+    "corpus": "flr",
+    "name": "Fuliiru",
+    "coverage": 0.989,
+    "n": 8,
+    "example": {
+      "text": "Musa anabuuza Rurema: «Aaho! Niehe, ndi nga nyandi? Na kuti kwo nangagenda imwa mwami weꞌMiisiri, ninayami lyosa Abahisiraheeri mu kihugo kyage?».",
+      "phonemes": "m u s a a n a b u u z a r u r e m a: «a a h o! n i e h e, nd i ng a ny a nd i? n a k u t i k w o n a ng a g e nd a i m w a m w a m i w e ꞌ m i i s i r i, n i n a y a m i l y o s a a b a h i s i r a h e e r i m u k i h u g o k y a g e?»."
+    }
+  },
+  {
+    "code": "fon",
+    "corpus": "fon",
+    "name": "Fon",
+    "coverage": 0.983,
+    "n": 11,
+    "example": {
+      "text": "Bɔ Mɔyízi ɖɔ: Un ná lɛ́ kɔ yi kpɔ́n nǔ baɖabaɖa élɔ́ e mɔ wɛ un ɖe é. Un ná kpɔ́n nǔ e wú zungodwe ɔ́ má ɖo jiji wɛ ǎ é.",
+      "phonemes": "b ɔ m ɔ y í z i ɖ ɔ: u n n á l ɛ́ k ɔ y i kp ɔ́ n n ǔ b a ɖ a b a ɖ a é l ɔ́ e m ɔ w ɛ u n ɖ e é. u n n á kp ɔ́ n n ǔ e w ú z u n g o d w e ɔ́ m á ɖ o j i j i w ɛ ǎ é."
+    }
+  },
+  {
+    "code": "fue",
+    "corpus": "fue",
+    "name": "Borgu Fulfulde",
+    "coverage": 0.99,
+    "n": 9,
+    "example": {
+      "text": "O wi'i kade: Mi yi'ii toora himɓe am wonuɓe der leydi Misira. Mi nanii bojji ɗi ɓe bullintee, mii anni bo bone maɓɓe.",
+      "phonemes": "o w i ' i k a d e: m i y i ' ii t oo r a h i m ɓ e a m w o n u ɓ e d e r l e y d i m i s i r a. m i n a n ii b o j j i ɗ i ɓ e b u l l i n t ee, m ii a n n i b o b o n e m a ɓ ɓ e."
+    }
+  },
+  {
+    "code": "gaa",
+    "corpus": "gaa",
+    "name": "Ga",
+    "coverage": 0.997,
+    "n": 11,
+    "example": {
+      "text": "Ni beni Iehowa na ake̱ egba ebakwe̱ le̱, Nyoṅmo̱ dše̱ ṅmeitšo le teṅ etšé̱le̱, ni ekē̱: Mose, Mose! Ni no kē̱: Nami!.",
+      "phonemes": "n i b e n i i e h o w a n a a k e̱ e gb a e b a kw e̱ l e̱, ny o ṅ m o̱ d š e̱ ṅ m e i tš o l e t e ṅ e tš é̱ l e̱, n i e k ē̱: m o s e, m o s e! n i n o k ē̱: n a m i!."
+    }
+  },
+  {
+    "code": "gej",
+    "corpus": "gej",
+    "name": "Gen",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Mosè gblɔ̃ be: Mù la trɔ do ènukpèkpe gãa kèa, ne ma kpɔ ènu kè ŋuti àve mumu kèa mu le fiɔ̃ ò a.",
+      "phonemes": "m o s è gb l ɔ̃ b e: m ù l a t r ɔ d o è n u kp è kp e g ã a k è a, n e m a kp ɔ è n u k è ŋ u t i à v e m u m u k è a m u l e f i ɔ̃ ò a."
+    }
+  },
+  {
+    "code": "gez",
+    "corpus": "gez",
+    "name": "Ge'ez",
+    "coverage": 0.989,
+    "n": 12,
+    "example": {
+      "text": "ወተጋብኡ ኀቤሁ ሰብእ ብዙኃን እስከ ሶበ የዐርግ ውስተ ሐመር ወይነብር ወኵሉ ሰብእ ውስተ ሐይቅ ይቀውሙ።.",
+      "phonemes": "we te ga b(ə) (ʔ)u ha be hu se b(ə) (ʔ)(ə) b(ə) zu ha n(ə) (ʔ)(ə) s(ə) ke so be je ʔa r(ə) g(ə) w(ə) s(ə) te ha me r(ə) we j(ə) ne b(ə) r(ə) we ኵ lu se b(ə) (ʔ)(ə) w(ə) s(ə) te ha j(ə) k’(ə) j(ə) k’e w(ə) mu።."
+    }
+  },
+  {
+    "code": "gjn",
+    "corpus": "gjn",
+    "name": "Gonja",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Nɛ Ebɔrɛ kaŋɛ mo: Sa maŋ kaŋ naŋ firgi m ba n ti so. Lara fo asɛbta na, ŋkpal manɛ so, kasawule cheembi so nɛ fo yil na.",
+      "phonemes": "n ɛ e b ɔ r ɛ k a ŋ ɛ m o: s a m a ŋ k a ŋ n a ŋ f i r g i m b a n t i s o. l a r a f o a s ɛ b t a n a, ŋ kp a l m a n ɛ s o, k a s a w u l e ch ee m b i s o n ɛ f o y i l n a."
+    }
+  },
+  {
+    "code": "gng",
+    "corpus": "gng",
+    "name": "Gangam",
+    "coverage": 0.964,
+    "n": 12,
+    "example": {
+      "text": "Linigociɛnl taan' uʼsaan, nɛ u kɔn' ki kɛ̀le' buñɛrbu buba ni. Linigol nnɔ kɛ se miñunm ya gbaal.",
+      "phonemes": "l i n i g o c i ɛ n l t a a n ' u ' s a a n, n ɛ u k ɔ n ' k i k ɛ̀ l e ' b u ñ ɛ r b u b u b a n i. l i n i g o l n n ɔ k ɛ s e m i ñ u n m y a gb a a l."
+    }
+  },
+  {
+    "code": "god",
+    "corpus": "god",
+    "name": "Godié",
+    "coverage": 0.952,
+    "n": 9,
+    "example": {
+      "text": "‑Lɔɔ ylʋʋ 'kʋ, Zozii wlʋʋ‑ ‑zɔɔ 'nɩ ɔ ‑mʋ 'nyie yëku 'nɩ ɔ ‑kʋ ‑mɔɔ sä.",
+      "phonemes": "‑l ɔ ɔ y l ʋ ʋ 'k ʋ, z o z i i w l ʋ ʋ‑ ‑z ɔ ɔ 'n ɩ ɔ ‑m ʋ 'ny i e y ë k u 'n ɩ ɔ ‑k ʋ ‑m ɔ ɔ s ä."
+    }
+  },
+  {
+    "code": "gog",
+    "corpus": "gog",
+    "name": "Gogo",
+    "coverage": 0.996,
+    "n": 8,
+    "example": {
+      "text": "hanyuma ho wokunga wulanje kwi'lolo, ku mupaka wa Misili, nawo wodumiliziza mwi'lenga lya Meditelaneya.",
+      "phonemes": "h a ny u m a h o w o k u ng a w u l a n j e k w i ' l o l o, k u m u p a k a w a m i s i l i, n a w o w o d u m i l i z i z a m w i ' l e ng a l y a m e d i t e l a n e y a."
+    }
+  },
+  {
+    "code": "gou",
+    "corpus": "gou",
+    "name": "Gawar",
+    "coverage": 0.999,
+    "n": 12,
+    "example": {
+      "text": "Ma vah watsa ya, Yesu a nda a bəza a gi, ka a ndza tə ka a ma mtil, aska a sərəkatana ma a həji aagi.",
+      "phonemes": "m a v a h w a ts a y a, y e s u a nd a a b ə z a a g i, k a a ndz a t ə k a a m a m t i l, a s k a a s ə r ə k a t a n a m a a h ə j i a a g i."
+    }
+  },
+  {
+    "code": "gud",
+    "corpus": "gud",
+    "name": "Yocoboué Dida",
+    "coverage": 0.916,
+    "n": 9,
+    "example": {
+      "text": "'Dɛ 'la clɩɩa bhlogbɩɩ 'kʋ, Zozii ya ‑zɔnwlʋ, ɔ ya 'nyia cɩ mʋ 'nyɩ ɔ ya sakʋ.",
+      "phonemes": "'d ɛ 'l a c l ɩ ɩ a bh l o gb ɩ ɩ 'k ʋ, z o z i i y a ‑z ɔ n w l ʋ, ɔ y a 'ny i a c ɩ m ʋ 'ny ɩ ɔ y a s a k ʋ."
+    }
+  },
+  {
+    "code": "gur",
+    "corpus": "gur",
+    "name": "Frafra",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "De daarɛ mɛa ti Yezu yehe yire ta zi'a ateko nuuren.",
+      "phonemes": "d e d aa r ɛ m ɛ a t i y e z u y e h e y i r e t a z i ' a a t e k o n uu r en."
+    }
+  },
+  {
+    "code": "gux",
+    "corpus": "gux",
+    "name": "Gourmanchéma",
+    "coverage": 0.996,
+    "n": 10,
+    "example": {
+      "text": "O Diedo den yedi: «Go kubini a nuu a liadili nni.» O go den kubini o nuu o liadili nni, ki go ñani ki sua ke u go guani ki tua nani wun den kpa tie maama. O Diedo den yedi o:.",
+      "phonemes": "o d i e d o d e n y e d i: «g o k u b i n i a n u u a l i a d i l i n n i.» o g o d e n k u b i n i o n u u o l i a d i l i n n i, k i g o ñ a n i k i s u a k e u g o g u a n i k i t u a n a n i w u n d e n kp a t i e m a a m a. o d i e d o d e n y e d i o:."
+    }
+  },
+  {
+    "code": "guz",
+    "corpus": "guz",
+    "name": "Gusii",
+    "coverage": 0.999,
+    "n": 9,
+    "example": {
+      "text": "Abanto bakabisangereria, bakabibeka ebinge chinyinge, na ense yonsi egatioka bobe.",
+      "phonemes": "a b a nt o b a k a b i s a ng e r e r i a, b a k a b i b e k a e b i ng e ch i ny i ng e, n a e ns e y o ns i e g a t io k a b o b e."
+    }
+  },
+  {
+    "code": "gwr",
+    "corpus": "gwr",
+    "name": "Gwere",
+    "coverage": 0.979,
+    "n": 7,
+    "example": {
+      "text": "ABamisiri bamanya nga Ninze oMusengwa, owenamala okuwangula oFalaawo nʼebigaalibye nʼamajeege agʼoku mbalaasi.",
+      "phonemes": "a b a m i s i r i b a m a ny a n g a n i n z e o m u s e n g w a, o w e n a m a l a o k u w a n g u l a o f a l aa w o n ' e b i g aa l i b y e n ' a m a j ee g e a g ' o k u m b a l aa s i."
+    }
+  },
+  {
+    "code": "hag",
+    "corpus": "hag",
+    "name": "Hanga",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Niŋi n na, Sefi gba naa poga, a dogi daba, ka digili o yuuri Inosi. A jemani maa n na niriba piili n naa Duuma yuuri kpeesira u.",
+      "phonemes": "n i ŋ i n n a, s e f i gb a n a a p o g a, a d o g i d a b a, k a d i g i l i o y u u r i i n o s i. a j e m a n i m a a n n a n i r i b a p i i l i n n a a d u u m a y u u r i kp e e s i r a u."
+    }
+  },
+  {
+    "code": "hau-niger",
+    "corpus": "hau",
+    "name": "Hausa",
+    "coverage": 0.333,
+    "n": 9,
+    "example": {
+      "text": "دَ بَغَدٜىٰ نَهَدَايَ تَڧُواْنَاوَا دَ رَاغَرْسَ تَتَغُلَّ دَ سَنْدُنَنْسَ دَ كَايَنْ عَيْكِنْسَ دَ ڧَتُوانْ ݣُونُواْ نَتَغُلَّ دَ غِنْدِنْ ذَمَنْسَ،.",
+      "phonemes": "دَ بَغَدٜىٰ نَهَدَا يَ تَڧُو اْنَا وَا دَ رَا غَرْسَ تَتَغُلَّ دَ سَنْدُنَنْسَ دَ كَا يَنْ عَيْكِنْسَ دَ ڧَتُو ا نْ ݣُو نُو اْ نَتَغُلَّ دَ غِنْدِنْ ذَمَنْسَ،."
+    }
+  },
+  {
+    "code": "hay",
+    "corpus": "hay",
+    "name": "Haya",
+    "coverage": 0.999,
+    "n": 12,
+    "example": {
+      "text": "Agamba ati, Kangye aha rubaju mbone eihano lihango eli. Kubaki ekishaka kitalikusosotoka.",
+      "phonemes": "a g a m b a a t i, k a n g y e a h a r u b a j u m b o n e e i h a n o l i h a n g o e l i. k u b a k i e k i sh a k a k i t a l i k u s o s o t o k a."
+    }
+  },
+  {
+    "code": "hdy",
+    "corpus": "hdy",
+    "name": "Hadiyya",
+    "coverage": 0.962,
+    "n": 8,
+    "example": {
+      "text": "Qeessichchim ee mancho hincaa'u kitimmuwwinne maqirem Keesammi Dukkaa'n goocanne i illagenne hincaa'ona.",
+      "phonemes": "q e e s s i ch ch i m e e m a n ch o h i n c a a ' u k i t i m m u w w i n n e m a q i r e m k e e s a m m i d u k k a a ' n g o o c a n n e i i l l a g e n n e h i n c a a ' o n a."
+    }
+  },
+  {
+    "code": "ibo",
+    "corpus": "ibo",
+    "name": "Igbo",
+    "coverage": 0.984,
+    "n": 10,
+    "example": {
+      "text": "Jehova we hu na o wezugara onwe-ya ihu, Chineke we si n'etiti osisi ntà ahu kpọ ya òkù, si, Moses, Moses. Ọ si, Lekwam.",
+      "phonemes": "j e h o v a w e h u n a o w e z u g a r a o nw e-y a i h u, ch i n e k e w e s i n ' e t i t i o s i s i n t à a h u kp ọ y a ò k ù, s i, m o s e s, m o s e s. ọ s i, l e kw a m."
+    }
+  },
+  {
+    "code": "igb",
+    "corpus": "igb",
+    "name": "Ebira",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Tana okutẹ awụ, dụ wa tana ụvọ tụra oku ọnọọ. Oku vaa gàa hi ẹẹva dị Anisirẹrị ẹ̀ zi oze ịnị akakana oku na para hu ịrẹsụ ẹtẹ ọyịwụ.",
+      "phonemes": "t a n a o k u t ẹ a w ụ, d ụ w a t a n a ụ v ọ t ụ r a o k u ọ n ọ ọ. o k u v a a g à a h i ẹ ẹ v a d ị a n i s i r ẹ r ị ẹ̀ z i o z e ị n ị a k a k a n a o k u n a p a r a h u ị r ẹ s ụ ẹ t ẹ ọ y ị w ụ."
+    }
+  },
+  {
+    "code": "ige",
+    "corpus": "ige",
+    "name": "Igede",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Hu ọgọdọ nyang hwaa, ká kpa ka uhye nya ihụ. Ọọwa, enyi à ka chị eku imiiye kpoo, chajị ká ala Isirẹlụ ka jẹdịyẹ bwu ọpyị ọchọrụ kpoye nya Ihu lẹlẹ.",
+      "phonemes": "h u ọ g ọ d ọ ny a ng h w a a, k á kp a k a u h y e ny a i h ụ. ọ ọ w a, e ny i à k a ch ị e k u i m i i y e kp o o, ch a j ị k á a l a i s i r ẹ l ụ k a j ẹ d ị y ẹ b w u ọ p y ị ọ ch ọ r ụ kp o y e ny a i h u l ẹ l ẹ."
+    }
+  },
+  {
+    "code": "igl",
+    "corpus": "igl",
+    "name": "Igala",
+    "coverage": 0.958,
+    "n": 12,
+    "example": {
+      "text": "Fai, e̩ lewa kʼu kpʼe̩ nyʼugbo Fero kʼuwe̩ ki mʼamone̩-mi, amo̩ma Israe̩l le̩, ko kwʼoj ane̩ Ijipti dufu.",
+      "phonemes": "f a i, e̩ l e w a k ' u kp ' e̩ ny ' u gb o f e r o k ' u w e̩ k i m ' a m o n e̩-m i, a m o̩ m a i s r a e̩ l l e̩, k o kw ' o j a n e̩ i j i p t i d u f u."
+    }
+  },
+  {
+    "code": "ikw",
+    "corpus": "ikw",
+    "name": "Ikwerre",
+    "coverage": 0.992,
+    "n": 11,
+    "example": {
+      "text": "N'ọbochi wam Jizọsi whụyaru nụ rime ọro zne dazịri ẹli nụ ngeri osimini.",
+      "phonemes": "n ' ọ b o ch i w a m j i z ọ s i wh ụ y a r u n ụ r i m e ọ r o z n e d a z ị r i ẹ l i n ụ n g e r i o s i m i n i."
+    }
+  },
+  {
+    "code": "irk",
+    "corpus": "irk",
+    "name": "Iraqw",
+    "coverage": 0.967,
+    "n": 8,
+    "example": {
+      "text": "Barnaxes hhawaata nee /ameenír baraá hariímaarós ar slahhaángwí dirii' taa alqaát, inós i baraá meeta deelo faanqwe. Qatanír hhawaatundá' i qaati aa meetagwá'.",
+      "phonemes": "b a r n a x e s hh a w aa t a n ee /a m ee n í r b a r aá h a r ií m aa r ó s a r sl a hh aá ngw í d i r ii ' t aa a l q aá t, i n ó s i b a r aá m ee t a d ee l o f aa n qw e. q a t a n í r hh a w aa t u n d á ' i q aa t i aa m ee t a gw á '."
+    }
+  },
+  {
+    "code": "jib",
+    "corpus": "jib",
+    "name": "Jibu",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Bìr mpìrká nìnànn nímá kwonn bi á byarwá ni. Ku kà á kòr-à ni n shi wann, bìr mpìr káníng sar sig á nu gàin-à ni.",
+      "phonemes": "b ì r m p ì r k á n ì n à n n n í m á kw o n n b i á by a r w á n i. k u k à á k ò r-à n i n sh i w a n n, b ì r m p ì r k á n í ng s a r s i g á n u g à i n-à n i."
+    }
+  },
+  {
+    "code": "kab",
+    "corpus": "kab",
+    "name": "Kabyle",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Atan tura yewweḍ-d ɣuṛ-i leɛyaḍ n wat Isṛail , yerna walaɣ leqheṛ s wayes i ten-qehṛen Yimaṣriyen.",
+      "phonemes": "a t a n t u r a y e w w e ḍ-d ɣ u ṛ-i l e ɛ y a ḍ n w a t i s ṛ a i l , y e r n a w a l a ɣ l e q h e ṛ s w a y e s i t e n-q e h ṛ e n y i m a ṣ r i y e n."
+    }
+  },
+  {
+    "code": "kbo",
+    "corpus": "kbo",
+    "name": "Keliko",
+    "coverage": 0.963,
+    "n": 11,
+    "example": {
+      "text": "Ĩri ní vũrã ꞌdãri ã rụ́ ꞌdazú Bẽtélẽ. Drị̃drị̃ ni, zịkí kụ̃rụ́ ꞌdãri ã rụ́ Lụ́zị̃.",
+      "phonemes": "ĩ r i n í v ũ r ã ꞌ d ã r i ã r ụ́ ꞌ d a z ú b ẽ t é l ẽ. dr ị̃ dr ị̃ n i, z ị k í k ụ̃ r ụ́ ꞌ d ã r i ã r ụ́ l ụ́ z ị̃."
+    }
+  },
+  {
+    "code": "kbp",
+    "corpus": "kbp",
+    "name": "Kabiye",
+    "coverage": 0.987,
+    "n": 12,
+    "example": {
+      "text": "Ɛyáa sakɩyɛ kaakpeɣli ɛ-cɔlɔ. Pʋ-yɔɔ ɛkʋyaa ɛkpa kpɩyʋʋ taa nɛ ɛcaɣ nɛ paba ñasɩŋ patɩŋa kidiiliŋ yɔɔ nɛ pewelesiɣ ɛ-tɔm.",
+      "phonemes": "ɛ y á a s a k ɩ y ɛ k aa kp eɣ l i ɛ-c ɔ l ɔ. p ʋ-y ɔɔ ɛ k ʋ y aa ɛ kp a kp ɩ y ʋʋ t aa n ɛ ɛ c a ɣ n ɛ p a b a ñ a s ɩ ŋ p a t ɩ ŋ a k i d ii l i ŋ y ɔɔ n ɛ p e w e l e s iɣ ɛ-t ɔ m."
+    }
+  },
+  {
+    "code": "kbr",
+    "corpus": "kbr",
+    "name": "Kafa",
+    "coverage": 0.972,
+    "n": 9,
+    "example": {
+      "text": "Doono Yeeri Gibitseenaꞌo toommooch bi tuniiti ooge bi giidoon beeggiꞌi, Doono Yeerin shattiyeete; Doono Yeerinaa bi guuno Muusinon gibeneheete.",
+      "phonemes": "d oo n o y ee r i g i b i t s ee n a ꞌ o t oo m m oo c h b i t u n ii t i oo g e b i g ii d oo n b ee g g i ꞌ i, d oo n o y ee r i n s h a t t i y ee t e; d oo n o y ee r i n aa b i g uu n o m uu s i n o n g i b e n e h ee t e."
+    }
+  },
+  {
+    "code": "kcn",
+    "corpus": "kcn",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'kcn'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "kde",
+    "corpus": "kde",
+    "name": "Makonde",
+    "coverage": 0.994,
+    "n": 12,
+    "example": {
+      "text": "Pamo na anelo, Falao nkunnyaulila Yusufu kuchidoni, Nangu njo nfalume wa Misili! Ngùhaula kuva, munu woheyo wa nchilambo chammalele cha Misili anatende chinu chohecho bila luhusa lwako.",
+      "phonemes": "p a m o n a a n e l o, f a l a o n k u n ny a u l i l a y u s u f u k u ch i d o n i, n a ng u nj o n f a l u m e w a m i s i l i! ng ù h a u l a k u v a, m u n u w o h e y o w a n ch i l a mb o ch a m m a l e l e ch a m i s i l i a n a t e nd e ch i n u ch o h e ch o b i l a l u h u s a l w a k o."
+    }
+  },
+  {
+    "code": "kdh",
+    "corpus": "kdh",
+    "name": "Tem",
+    "coverage": 0.966,
+    "n": 11,
+    "example": {
+      "text": "Weeyéle mamʊná sɩsɩ mádánjaa Kanáanɩ laadɔ́ɔ ɩwɛ kadaá ɖɔ́ nɛ́-dɛ́ɛ aléeré mejéle ibiyaalʊ́ ɩmʊ́;.",
+      "phonemes": "w e e y é l e m a m ʊ n á s ɩ s ɩ m á d á n j a a k a n á a n ɩ l a a d ɔ́ ɔ ɩ w ɛ k a d a á ɖ ɔ́ n ɛ́-d ɛ́ ɛ a l é e r é m e j é l e i b i y a a l ʊ ɩ m ʊ;."
+    }
+  },
+  {
+    "code": "kdj",
+    "corpus": "kdj",
+    "name": "Karamojong",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Ekeyakiyari ayoŋ iyoŋ tokona neni a Parao iyau ŋituŋa kaŋ, Ŋisirael anakwap a Ijipit.",
+      "phonemes": "e k e y a k i y a r i a y o ŋ i y o ŋ t o k o n a n e n i a p a r a o i y a u ŋ i t u ŋ a k a ŋ, ŋ i s i r a e l a n a k w a p a i j i p i t."
+    }
+  },
+  {
+    "code": "kdn",
+    "corpus": "kdn",
+    "name": "Kunda",
+    "coverage": 0.969,
+    "n": 11,
+    "example": {
+      "text": "Abhuramu adapitiliza ulendo wake mpaka adafika ku Negebhu.",
+      "phonemes": "a b h u r a m u a d a p i t i l i z a u l e nd o w a k e m p a k a a d a f i k a k u n e g e b h u."
+    }
+  },
+  {
+    "code": "ker",
+    "corpus": "ker",
+    "name": "Kera",
+    "coverage": 0.918,
+    "n": 7,
+    "example": {
+      "text": "Dər hi toŋa kəyaŋ, Yeesu kəlaŋ warda aker da, wə ɗeŋ a isi warna cin ku kan kəmtəŋ na.",
+      "phonemes": "d ə r h i t o ŋ a k ə y a ŋ, y ee s u k ə l a ŋ w a r d a a k e r d a, w ə ɗ e ŋ a i s i w a r n a c i n k u k a n k ə m t ə ŋ n a."
+    }
+  },
+  {
+    "code": "khy",
+    "corpus": "khy",
+    "name": "Kili",
+    "coverage": 0.907,
+    "n": 12,
+    "example": {
+      "text": "Inde loekesiyo njasɔ wike kola bembila, mbo— Tɛnɛ, bɔlɔi ɔmɔi lɔkɛ okalɔɔ koto;.",
+      "phonemes": "i n d e l o e k e s i u o n j a s ɔ w i k e k o l a b e m b i l a, m b o— t ɛ n ɛ, b ɔ l ɔ i ɔ m ɔ i l ɔ k ɛ o k a l ɔ ɔ k o t o;."
+    }
+  },
+  {
+    "code": "kik",
+    "corpus": "kik",
+    "name": "Kikuyu",
+    "coverage": 0.993,
+    "n": 10,
+    "example": {
+      "text": "ũhoro ũcio wao ũgaatuuo na njĩra ya kwĩhĩta mwĩhĩtwa mbere ya Jehova atĩ ũrĩa ũhithĩtio tiwe ũiyĩte indo icio. Mwene nake etĩkĩre mwĩhĩtwa ũcio, na hatikagĩa ũhoro wa kũrĩhania.",
+      "phonemes": "ũ h o r o ũ c i o w a o ũ g a a t u u o n a nj ĩ r a y a k w ĩ h ĩ t a m w ĩ h ĩ t w a mb e r e y a j e h o v a a t ĩ ũ r ĩ a ũ h i th ĩ t i o t i w e ũ i y ĩ t e i nd o i c i o. m w e n e n a k e e t ĩ k ĩ r e m w ĩ h ĩ t w a ũ c i o, n a h a t i k a g ĩ a ũ h o r o w a k ũ r ĩ h a n i a."
+    }
+  },
+  {
+    "code": "kin",
+    "corpus": "kin",
+    "name": "Kinyarwanda",
+    "coverage": 0.973,
+    "n": 10,
+    "example": {
+      "text": "Umuntu niyonesha umurima cyangwa uruzabibu by'undi, cyangwa niyihorera itungo rye rikona umurima w'undi, amugerere imyaka irushaho kuba myiza yo mu we murima cyangwa iyo mu rwe ruzabibu, ayimurihe.",
+      "phonemes": "u m u n t u n i y o n e s h a u m u r i m a cy a n g w a u r u z a b i b u by ' u n d i, cy a n g w a n i y i h o r e r a i t u n g o ry e r i k o n a u m u r i m a w ' u n d i, a m u g e r e r e i my a k a i r u s h a h o k u b a my i z a y o m u w e m u r i m a cy a n g w a i y o m u rw e r u z a b i b u, a y i m u r i h e."
+    }
+  },
+  {
+    "code": "kmb",
+    "corpus": "kmb",
+    "name": "Kimbundu",
+    "coverage": 0.989,
+    "n": 11,
+    "example": {
+      "text": "Mozé anga u amba, uixi: Ngiia-bhu hanji, ngi mone kidiuanuʼiki, mba kisasa kia kambela-hi kúbhia.",
+      "phonemes": "m o z é a ng a u a mb a, u i x i: ng i i a-b h u h a nj i, ng i m o n e k i d i u a n u ' i k i, mb a k i s a s a k i a k a mb e l a-h i k ú b h i a."
+    }
+  },
+  {
+    "code": "knf",
+    "corpus": "knf",
+    "name": "Bola",
+    "coverage": 0.891,
+    "n": 12,
+    "example": {
+      "text": "Awul dko mënţ katim ki Betel , katim ki ubeeka mënţ kabi wo Luŧ.",
+      "phonemes": "a w u l d k o m ë n ţ k a t i m k i b e t e l , k a t i m k i u b e e k a m ë n ţ k a b i w o l u ŧ."
+    }
+  },
+  {
+    "code": "koo",
+    "corpus": "koo",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'koo'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "kqs",
+    "corpus": "kqs",
+    "name": "Kissi",
+    "coverage": 0.953,
+    "n": 9,
+    "example": {
+      "text": "Mɛɛ Mɛlɛka ce maa o co sɔɔnguuo le cɔu lapi, mó veelu ndu o bɔɔ nin aa: «Moise! Moise!» Mí Moise cɛl aa: «Yoo!».",
+      "phonemes": "m ɛɛ m ɛ l ɛ k a c e m aa o c o s ɔɔ n g uu o l e c ɔ u l a p i, m ó v ee l u nd u o b ɔɔ n i n aa: «m o i s e! m o i s e!» m í m o i s e c ɛ l aa: «y oo!»."
+    }
+  },
+  {
+    "code": "kri",
+    "corpus": "kri",
+    "name": "Krio",
+    "coverage": 0.998,
+    "n": 10,
+    "example": {
+      "text": "I se, Mi na di PAPA GƆD we yu fɔstɛm-papa dɛn we na Ebraam, Ayzak ɛn Jekɔb, bin de wɔship. We Mozis yɛri dis, i tek in an kɔba in fes bikɔs i bin de fred fɔ luk PAPA GƆD.",
+      "phonemes": "i s e, m i n a d i p a p a g ɔ d w e y u f ɔ s t ɛ m-p a p a d ɛ n w e n a e b r a a m, ay z a k ɛ n j e k ɔ b, b i n d e w ɔ sh i p. w e m o z i s y ɛ r i d i s, i t e k i n a n k ɔ b a i n f e s b i k ɔ s i b i n d e f r e d f ɔ l u k p a p a g ɔ d."
+    }
+  },
+  {
+    "code": "ksb",
+    "corpus": "ksb",
+    "name": "Shambala",
+    "coverage": 0.989,
+    "n": 12,
+    "example": {
+      "text": "Akimyaγa mbeyu, kuṅwe zizagwa silai, videγe vizaiza, vizazija.",
+      "phonemes": "a k i m y a γ a mb e y u, k u ṅ w e z i z a g w a s i l a i, v i d e γ e v i z a i z a, v i z a z i j a."
+    }
+  },
+  {
+    "code": "kuj",
+    "corpus": "kuj",
+    "name": "Kuria",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Na örë wonsui aturubhani ibhintö bhiyö, nköbha arë ni ibhikui, na kuhika ahura ichingëbho chaae na guisaabha ömöbhërë gonsui, na nköbha arë ni ibhikui kuhika ömögoroobha.",
+      "phonemes": "n a ö r ë w o n s u i a t u r u b h a n i i b h i n t ö b h i y ö, n k ö b h a a r ë n i i b h i k u i, n a k u h i k a a h u r a i ch i n g ë b h o ch aa e n a g u i s aa b h a ö m ö b h ë r ë g o n s u i, n a n k ö b h a a r ë n i i b h i k u i k u h i k a ö m ö g o r oo b h a."
+    }
+  },
+  {
+    "code": "kus",
+    "corpus": "kus",
+    "name": "Kusaal",
+    "coverage": 0.997,
+    "n": 10,
+    "example": {
+      "text": "Ka m na digilim Egipt dim la sʋnya ka ba dɔlli ya ka m paam girima yi Faaro nɛ o wiedban'adib nɛ soogianam la san'an.",
+      "phonemes": "k a m n a d i g i l i m e g i p t d i m l a s ʋ ny a k a b a d ɔ l l i y a k a m p a a m g i r i m a y i f a a r o n ɛ o w i e d b a n ' a d i b n ɛ s o o g i a n a m l a s a n ' a n."
+    }
+  },
+  {
+    "code": "lai",
+    "corpus": "lai",
+    "name": "Lambya",
+    "coverage": 0.957,
+    "n": 9,
+    "example": {
+      "text": "Bo u Mwene amwennya u Mozesi ukuti akupalamila, akamwitizya muchivwati chila akati, Wee Mozesi! Mozesi! U Mozesi akamula akati, Indi pano.",
+      "phonemes": "b o u m w e n e a m w e n ny a u m o z e s i u k u t i a k u p a l a m i l a, a k a m w i t i z y a m u c h i v w a t i c h i l a a k a t i, w ee m o z e s i! m o z e s i! u m o z e s i a k a m u l a a k a t i, i n d i p a n o."
+    }
+  },
+  {
+    "code": "lgg",
+    "corpus": "lgg",
+    "name": "Lugbara",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Te Musa yo Mungu tia, Ma adii ya muzu Farau vu, mani ngazu anzi Israelini ofuzu Misiri­arisi?.",
+      "phonemes": "t e m u s a y o m u ng u t i a, m a a d i i y a m u z u f a r a u v u, m a n i ng a z u a nz i i s r a e l i n i o f u z u m i s i r i­a r i s i?."
+    }
+  },
+  {
+    "code": "lin",
+    "corpus": "lin",
+    "name": "Lingala",
+    "coverage": 0.998,
+    "n": 9,
+    "example": {
+      "text": "Tango Yawe amonaki ete Moyize azali kobaluka mpo na kotala, Nzambe abengaki ye wuta na nzete moke yango : — Moyize, Moyize ! Moyize azongisaki : — Ngai oyo !.",
+      "phonemes": "t a ng o y a w e a m o n a k i e t e m o y i z e a z a l i k o b a l u k a mp o n a k o t a l a, nz a mb e a b e ng a k i y e w u t a n a nz e t e m o k e y a ng o : — m o y i z e, m o y i z e ! m o y i z e a z o ng i s a k i : — ng a i o y o !."
+    }
+  },
+  {
+    "code": "lmd",
+    "corpus": "lmd",
+    "name": "Lumun",
+    "coverage": 0.984,
+    "n": 11,
+    "example": {
+      "text": "Nocaꞌri cen oIeccuo poingkathe ntuan akwothikkat cik nokuthut korue irapangka toCelïl akwongkene.",
+      "phonemes": "n o c a ꞌ r i c e n o i e c c u o p o i ng k a th e n t u a n a kw o th i k k a t c i k n o k u th u t k o r u e i r a p a ng k a t o c e l ï l a kw o ng k e n e."
+    }
+  },
+  {
+    "code": "lmp",
+    "corpus": "lmp",
+    "name": "Limbum",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Jisòs à m fʉʉ embe Ndàp Nyʉ̀ anà a du a cu àwǎa rò.",
+      "phonemes": "j i s ò s à m f ʉ ʉ e m b e n d à p n y ʉ̀ a n à a d u a c u à w ǎ a r ò."
+    }
+  },
+  {
+    "code": "lns",
+    "corpus": "lns",
+    "name": "Nso",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Nyùy nèn sùúy jii, «M yíi a dzə wòsò. À yíi fəə́r wír veé Isray fo Ejiv, á cu mo é gwan fèn, é nèn a dzə kisəəm kee ji tùm á mo wò.».",
+      "phonemes": "ny ù y n è n s ù ú y j ii, «m y í i a dz ə w ò s ò. à y í i f əə́ r w í r v eé i s r ay f o e j i v, á c u m o é gw a n f è n, é n è n a dz ə k i s əə m k ee j i t ù m á m o w ò.»."
+    }
+  },
+  {
+    "code": "lol",
+    "corpus": "lol",
+    "name": "Mongo",
+    "coverage": 0.97,
+    "n": 12,
+    "example": {
+      "text": "Ko aʼendʼole lʼeyaya ofetswa lima eyaya ekande, ifoanda bembile nsambo ndʼeloko eʼefetswelo ekande, nkako asole benkoto bekae, okya jonge likae ndʼasi bayoleke, ko mpangʼafetswa.",
+      "phonemes": "k o a ' e nd ' o l e l ' e y a y a o f e t s w a l i m a e y a y a e k a nd e, i f o a nd a b e mb i l e ns a mb o nd ' e l o k o e ' e f e t s w e l o e k a nd e, nk a k o a s o l e b e nk o t o b e k a e, o k y a j o ng e l i k a e nd ' a s i b a y o l e k e, k o mp a ng ' a f e t s w a."
+    }
+  },
+  {
+    "code": "lot",
+    "corpus": "lot",
+    "name": "Lotuko",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Ittiyenio inyi isi erre arryai ta narryamarita ette jaran, Olo obo atulo yehina enyomo honyi.",
+      "phonemes": "i t t i y e n i o i ny i i s i e r r e a r r y a i t a n a r r y a m a r i t a e t t e j a r a n, o l o o b o a t u l o y e h i n a e ny o m o h o ny i."
+    }
+  },
+  {
+    "code": "luc",
+    "corpus": "luc",
+    "name": "Aringa",
+    "coverage": 0.958,
+    "n": 10,
+    "example": {
+      "text": "Úpí la mụ ndrelé la Mụ́sã asé ru ãni rú ꞌbo, Ãdróŋá umve ĩꞌdi angájó mị̃rị́ ãcí trũ rĩ agâlé, Mụ́sã! Mụ́sã! Mụ́sã umvi, Ma ꞌdõ.",
+      "phonemes": "ú p í l a m ụ ndr e l é l a m ụ́ s ã a s é r u ã n i r ú ꞌ b o, ã dr ó ŋ á u mv e ĩ ꞌ d i a ng á j ó m ị̃ r ị́ ã c í tr ũ r ĩ a g â l é, m ụ́ s ã! m ụ́ s ã! m ụ́ s ã u mv i, m a ꞌ d õ."
+    }
+  },
+  {
+    "code": "lue",
+    "corpus": "lue",
+    "name": "Luvale",
+    "coverage": 0.988,
+    "n": 9,
+    "example": {
+      "text": "Wexowo mwakwata hacuma ci­mwe eji kutwama ikiye, akose ma­hinenyi, asane meya mumujimba wenyi, kaha mwapihya palanga nahakulauka calikumbi.",
+      "phonemes": "w e x o w o mw a k w a t a h a c u m a c i­mw e e j i k u t w a m a i k i y e, a k o s e m a­h i n e ny i, a s a n e m e y a m u m u j i mb a w e ny i, k a h a mw a p i h y a p a l a ng a n a h a k u l a u k a c a l i k u mb i."
+    }
+  },
+  {
+    "code": "lug",
+    "corpus": "lug",
+    "name": "Luganda",
+    "coverage": 0.99,
+    "n": 11,
+    "example": {
+      "text": "Musa bwe yawanikanga emikono gye, Abayisirayiri nga bagoba, naye bwe yagissanga, nga Abamaleki bagoba.",
+      "phonemes": "m u s a b w e y a w a n i k a n g a e m i k o n o g y e, a b a y i s i r a y i r i n g a b a g o b a, n a y e b w e y a g i s s a n g a, n g a a b a m a l e k i b a g o b a."
+    }
+  },
+  {
+    "code": "lun",
+    "corpus": "lun",
+    "name": "Lunda",
+    "coverage": 0.996,
+    "n": 11,
+    "example": {
+      "text": "Yehova wamwilili Mosi, nindi, Mwili Aroni neyi, Ololaku chikasa cheyi namukombu weyi hatuloŋa twamaneni, nihatuloŋa twanyanya, nihamajiya, wukandwishumu yuula yiyi mwituŋa daEjipitu.",
+      "phonemes": "y e h o v a w a m w i l i l i m o s i, n i n d i, m w i l i a r o n i n e y i, o l o l a k u ch i k a s a ch e y i n a m u k o m b u w e y i h a t u l o ŋ a t w a m a n e n i, n i h a t u l o ŋ a t w a ny a ny a, n i h a m a j i y a, w u k a n d w i sh u m u y u u l a y i y i m w i t u ŋ a d a e j i p i t u."
+    }
+  },
+  {
+    "code": "mas",
+    "corpus": "mas",
+    "name": "Maasai",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Ore te nkalo e ndoyioroto e nkolong tipika ilkarash onom te nkadoro o ng'apeta tomon o nkitotoneta tomon.",
+      "phonemes": "o r e t e n k a l o e n d o yi o r o t o e n k o l o n g t i p i k a i l k a r a sh o n o m t e n k a d o r o o n g ' a p e t a t o m o n o n k i t o t o n e t a t o m o n."
+    }
+  },
+  {
+    "code": "maw",
+    "corpus": "maw",
+    "name": "Mampruli",
+    "coverage": 1.0,
+    "n": 8,
+    "example": {
+      "text": "Di daari maa ka Yisa daa yi yiri maa ni na n‑kyaŋŋi nti zinni mɔ'ari maa gbiriŋŋu.",
+      "phonemes": "d i d aa r i m aa k a y i s a d aa y i y i r i m aa n i n a n‑ky a ŋ ŋ i n t i z i n n i m ɔ ' a r i m aa gb i r i ŋ ŋ u."
+    }
+  },
+  {
+    "code": "mck",
+    "corpus": "mck",
+    "name": "Mbunda",
+    "coverage": 0.969,
+    "n": 10,
+    "example": {
+      "text": "ngecivene, vaIsalele vajavukile a mema a kalunga nakwenda a livu lyakuma. Mema emanene noku-noku ngwe vivumbe, ngeci vanu vendele mukati ka vivumbe vya mema.",
+      "phonemes": "ng e c i v e n e, v a i s a l e l e v a j a v u k i l e a m e m a a k a l u ng a n a k w e nd a a l i v u l y a k u m a. m e m a e m a n e n e n o k u-n o k u ng w e v i v u mb e, ng e c i v a n u v e nd e l e m u k a t i k a v i v u mb e v y a m e m a."
+    }
+  },
+  {
+    "code": "mcp",
+    "corpus": "mcp",
+    "name": "Makaa",
+    "coverage": 0.976,
+    "n": 11,
+    "example": {
+      "text": "Nə́mə́ jwɔ̂w nɨ dɨ, Yésus nyə a wú njɔ́w, kə ncindye mâŋ, kə ji shí.",
+      "phonemes": "n ə́ m ə́ j w ɔ w n ɨ d ɨ, y é s u s ny ə a w ú n j ɔ w, k ə n c i nd y e m â ŋ, k ə j i sh í."
+    }
+  },
+  {
+    "code": "mcu",
+    "corpus": "mcu",
+    "name": "Mambila",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Loù sâ Yeésò yuo ké lɔ, à nde den seér ké dùà sòn tuùb njèh feh den.",
+      "phonemes": "l o ù s â y e é s ò y u o k é l ɔ, à nd e d e n s e é r k é d ù à s ò n t u ù b nj è h f e h d e n."
+    }
+  },
+  {
+    "code": "mev",
+    "corpus": "mev",
+    "name": "Mano",
+    "coverage": 0.914,
+    "n": 7,
+    "example": {
+      "text": "Lúó nɔ́ doó e kília káa, Zízɛ̀ e gó ká e kília wì, e ló yíí‐pṹã́a sɔ́nɔ́. E yà tã́ã̀ yi, kɛ é pɛ zɔ̃̀ɔ̃̀ mia lɛ̀ɛ.",
+      "phonemes": "l ú ó n ɔ́ d o ó e k í l i a k á a, z í z ɛ̀ e g ó k á e k í l i a w ì, e l ó y í í‐p ṹ ã́ a s ɔ́ n ɔ́. e y à t ã́ ã̀ y i, k ɛ é p ɛ z ɔ̃̀ ɔ̃̀ m i a l ɛ̀ ɛ."
+    }
+  },
+  {
+    "code": "mfb",
+    "corpus": "nza",
+    "name": "Mbembe",
+    "coverage": 0.838,
+    "n": 10,
+    "example": {
+      "text": "È yá ma lè chú alɔhuŋ, Yeso yá pwɛ̀te tα, è dɔ shiwa ŋɛ chɛ nyrɔ yi.",
+      "phonemes": "è y á m a l è ch ú a l ɔ h u ŋ, y e s o y á p w ɛ t e t α, è d ɔ s h i w a ŋ ɛ ch ɛ ny r ɔ y i."
+    }
+  },
+  {
+    "code": "mfe",
+    "corpus": "mfe",
+    "name": "Mauritian Creole",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Ezronn papa Ram, e Ram papa Aminadab.",
+      "phonemes": "e z r onn p a p a r a m, e r a m p a p a a m in a d a b."
+    }
+  },
+  {
+    "code": "mfi",
+    "corpus": "mzw",
+    "name": "Mo",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Korowii aa naa kɛŋɔ o ba sie dɛ́ ba na la, o yerɔ dawii la bini ŋɔ, Mosis! Mosis! Asɛ o chaŋe ŋɔ, N Naa Korowii, menee nɔ.",
+      "phonemes": "k o r o w i i a a n a a k ɛ ŋ ɔ o b a s i e d ɛ́ b a n a l a, o y e r ɔ d a w i i l a b i n i ŋ ɔ, m o s i s! m o s i s! a s ɛ o ch a ŋ e ŋ ɔ, n n a a k o r o w i i, m e n e e n ɔ."
+    }
+  },
+  {
+    "code": "mfq",
+    "corpus": "mfq",
+    "name": "Moba",
+    "coverage": 0.802,
+    "n": 11,
+    "example": {
+      "text": "L dɑɑl mɑnŋ k Yiesu din nyii ŋɑɑk nɑ ni k sɑɑn k sɑɑ kɑl mɔkgbenŋl kpinŋ.",
+      "phonemes": "l d ɑ ɑ l m ɑ n ŋ k y i e s u d i n ny i i ŋ ɑ ɑ k n ɑ n i k s ɑ ɑ n k s ɑ ɑ k ɑ l m ɔ k gb e n ŋ l kp i n ŋ."
+    }
+  },
+  {
+    "code": "mgc",
+    "corpus": "mgc",
+    "name": "Morokodo",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Ëzë vïdï ma owo kö'du yandi 'bama ne dë koro mo aba, atëdï kaa vo lumë ma o'ba loko ënï da yayi.",
+      "phonemes": "ë z ë v ï d ï m a o w o k ö 'd u y a nd i 'b a m a n e d ë k o r o m o a b a, a t ë d ï k a a v o l u m ë m a o 'b a l o k o ë n ï d a y a y i."
+    }
+  },
+  {
+    "code": "mgh",
+    "corpus": "mgh",
+    "name": "Mato",
+    "coverage": 0.963,
+    "n": 11,
+    "example": {
+      "text": "Nkayonkwa wichishuru, nkayaakusha nlhuku naarupenlhe aya wuuthi muru nne, nkayeesha ukhalha nipoto no wuupuwelhiya vavawo vakittu vawo, nkaamiinelha makhura vachulhu waya ukhalha no Apwiiya Nlhuku.",
+      "phonemes": "n k a y o n k w a w i c h i s h u r u, n k a y a a k u s h a n l h u k u n a a r u p e n l h e a y a w u u t h i m u r u n n e, n k a y e e s h a u k h a l h a n i p o t o n o w u u p u w e l h i y a v a v a w o v a k i t t u v a w o, n k a a m i i n e l h a m a k h u r a v a c h u l h u w a y a u k h a l h a n o a p w i i y a n l h u k u."
+    }
+  },
+  {
+    "code": "mhi",
+    "corpus": "mhi",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'mhi'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "mkf",
+    "corpus": "mkf",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'mkf'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "mkw",
+    "corpus": "mkw",
+    "name": "Kituba",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Moyize tubaka na yisi ya ntima: «Mu ke lutila na manima na kwenda tala dyambu yayi ya ngitukulu, samu na yinki divunda ke na kuya ve.».",
+      "phonemes": "m o y i z e t u b a k a n a y i s i y a nt i m a: «m u k e l u t i l a n a m a n i m a n a k w e nd a t a l a d y a mb u y a y i y a ng i t u k u l u, s a m u n a y i nk i d i v u nd a k e n a k u y a v e.»."
+    }
+  },
+  {
+    "code": "mlw",
+    "corpus": "mlw",
+    "name": "Moloko",
+    "coverage": 0.858,
+    "n": 11,
+    "example": {
+      "text": "Na fat ndana, Yeso a zlərvalay a mogom ava nata a nje kə dəŋdaŋ a bəlay aka.",
+      "phonemes": "n a f a t nd a n a, y e s o a zl ə r v a l a y a m o g o m a v a n a t a a nj e k ə d ə ŋ d a ŋ a b ə l a y a k a."
+    }
+  },
+  {
+    "code": "mmo",
+    "corpus": "moa",
+    "name": "Muan",
+    "coverage": 0.967,
+    "n": 7,
+    "example": {
+      "text": "'Bhɛ blaan boolazi, 'yee‑ ‑yrekpaa' do 'ɛ 'le, 'ke Zesu 'pwɛle 'fɛ 'ɛ ꞊la, 'bhɛɛ‑ 'kee‑ gele‑ yaalɛ wɛyi‑ 'ɛ 'lɛ ma.",
+      "phonemes": "'bh ɛ b l a a n b o o l a z i, 'y e e‑ ‑y r e kp a a ' d o 'ɛ 'l e, 'k e z e s u 'p w ɛ l e 'f ɛ 'ɛ ꞊l a, 'bh ɛ ɛ‑ 'k e e‑ g e l e‑ y a a l ɛ w ɛ y i‑ 'ɛ 'l ɛ m a."
+    }
+  },
+  {
+    "code": "mmy",
+    "corpus": "mmy",
+    "name": "Migaama",
+    "coverage": 0.993,
+    "n": 9,
+    "example": {
+      "text": "Guu giimi asiyyee timma ta til til namma ga kalpiɗe markabati ga nuntiɗe. Giimi ku maani kotti pa paracco nowotte goŋgomni.",
+      "phonemes": "g uu g ii m i a s i y y ee t i m m a t a t i l t i l n a m m a g a k a l p i ɗ e m a r k a b a t i g a n u n t i ɗ e. g ii m i k u m aa n i k o t t i p a p a r a c c o n o w o t t e g o ŋ g o m n i."
+    }
+  },
+  {
+    "code": "mnf",
+    "corpus": "mnf",
+    "name": "Mundani",
+    "coverage": 0.96,
+    "n": 12,
+    "example": {
+      "text": "TaꞋà ènɔ̧̂ bòt e kɨꞋɨ̀ mbù̧ù̧tè a ngèt tò, kwat tè tà tsiꞋi sà àwɔb aguŋ ngà tseke a èbem ànkànuꞋ.",
+      "phonemes": "t a ꞌ à è n ɔ̧̂ b ò t e k ɨ ꞌ ɨ̀ m b ù̧ ù̧ t è a n g è t t ò, k w a t t è t à ts i ꞌ i s à à w ɔ b a g u ŋ n g à ts e k e a è b e m à n k à n u ꞌ."
+    }
+  },
+  {
+    "code": "mnk",
+    "corpus": "mnk",
+    "name": "Mandinka",
+    "coverage": 1.0,
+    "n": 8,
+    "example": {
+      "text": "Ŋa a loŋ ne ko, Misira mansa te soŋ na ali ye taa, fo niŋ sembe baa laata a kaŋ.",
+      "phonemes": "ŋ a a l o ŋ n e k o, m i s i r a m a n s a t e s o ŋ n a a l i y e t a a, f o n i ŋ s e m b e b a a l a a t a a k a ŋ."
+    }
+  },
+  {
+    "code": "mos",
+    "corpus": "mos",
+    "name": "Mossi",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Ya rẽnda la m sok-ba: ‹Ãnda n tar sãnem?› La b fãa rɩka b sẽn tar n kõ-ma la m sẽn los rẽ fãa bugmẽ, nag-bil kãnga la m dõog-ya.».",
+      "phonemes": "y a r ẽ n d a l a m s o k-b a: ‹ã n d a n t a r s ã n e m?› l a b f ã a r ɩ k a b s ẽ n t a r n k õ-m a l a m s ẽ n l o s r ẽ f ã a b u g m ẽ, n a g-b i l k ã n g a l a m d õ o g-y a.»."
+    }
+  },
+  {
+    "code": "mpg",
+    "corpus": "mpg",
+    "name": "Marba",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Ma didina mi we dala Moise mi des á gola da, mi yumï aduk azlupa ala: Moise! Moise! Moise mi humum ala: An huma!.",
+      "phonemes": "m a d i d i n a m i w e d a l a m o i s e m i d e s á g o l a d a, m i y u m ï a d u k a zl u p a a l a: m o i s e! m o i s e! m o i s e m i h u m u m a l a: a n h u m a!."
+    }
+  },
+  {
+    "code": "mse",
+    "corpus": "mse",
+    "name": "Musey",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "An may ni hin so huu suu Egiptena a asi cuk ha u suu Israelna dagan may, an hin ŋga tan kay Faraw u kulumi suu duu mamsina u suu mam suu duuna halaŋ, suu kulumina lay.",
+      "phonemes": "a n m a y n i h i n s o h u u s u u e g i p t e n a a a s i c u k h a u s u u i s r a e l n a d a g a n m a y, a n h i n ŋg a t a n k a y f a r a w u k u l u m i s u u d u u m a m s i n a u s u u m a m s u u d u u n a h a l a ŋ, s u u k u l u m i n a l a y."
+    }
+  },
+  {
+    "code": "mur",
+    "corpus": "mur",
+    "name": "Murle",
+    "coverage": 0.991,
+    "n": 12,
+    "example": {
+      "text": "Inoko acinan niina aneet kabil ṯuuk nico otoga ŋina. Zin mã aku dole ceen kabarzec ka kiiya kɔtɔgɔcɔ ṯuuwa ŋina, kanei tedec naana nɔɔnɔ nɛ, Nyan maam ci kawudi.",
+      "phonemes": "i n o k o a c i n a n n i i n a a n e e t k a b i l ṯ u u k n i c o o t o g a ŋ i n a. z i n m ã a k u d o l e c e e n k a b a r z e c k a k i i y a k ɔ t ɔ g ɔ c ɔ ṯ u u w a ŋ i n a, k a n e i t e d e c n a a n a n ɔ ɔ n ɔ n ɛ, ny a n m a a m c i k a w u d i."
+    }
+  },
+  {
+    "code": "myk",
+    "corpus": "myk",
+    "name": "Minyanka",
+    "coverage": 0.873,
+    "n": 12,
+    "example": {
+      "text": "Wee tuun wu ni a Yesu di gbɔn pu ɲìi ki na, na pu pye: «Lemu yʼa zhaa ge, li pye yi mu na saha ni yi wo nʼa daa wu ni.».",
+      "phonemes": "w e e t u u n w u n i a y e s u d i gb ɔ n p u ɲ ì i k i n a, n a p u p y e: «l e m u y ' a zh a a g e, l i p y e y i m u n a s a h a n i y i w o n ' a d a a w u n i.»."
+    }
+  },
+  {
+    "code": "myx",
+    "corpus": "myx",
+    "name": "Masaaba",
+    "coverage": 0.968,
+    "n": 9,
+    "example": {
+      "text": "Ali ni khuusalaasakho kamafuki kamalala khu sheeso sha buroonzi, ne kakaaramire ali ni khuukalekha karonyake mwisina mwe shisheeso. Iyo ili isaayilo iye khukhwiyakhila bibyoonako.",
+      "phonemes": "a l i n i kh uu s a l aa s a kh o k a m a f u k i k a m a l a l a kh u s h ee s o s h a b u r oo n z i, n e k a k aa r a m i r e a l i n i kh uu k a l e kh a k a r o ny a k e mw i s i n a mw e s h i s h ee s o. i y o i l i i s aa y i l o i y e kh u kh w i y a kh i l a b i by oo n a k o."
+    }
+  },
+  {
+    "code": "ncu",
+    "corpus": "ncu",
+    "name": "Chumburung",
+    "coverage": 0.999,
+    "n": 8,
+    "example": {
+      "text": "Mò̱ ko̱so̱bɛɛ‑ana ayaafɔre̱ ne̱ baa saŋ‑ɔ a ŋu ke̱tɔ ne̱ ɔɔ waa‑ɔ, ne̱ bamo̱ iduŋ a fwii bwe̱e̱tɔ, ne̱ baa ya tɔwe̱ gywii owure‑o.",
+      "phonemes": "m ò̱ k o̱ s o̱ b ɛ ɛ‑a n a a y a a f ɔ r e̱ n e̱ b a a s a ŋ‑ɔ a ŋ u k e̱ t ɔ n e̱ ɔ ɔ w a a‑ɔ, n e̱ b a m o̱ i d u ŋ a f w i i b w e̱ e̱ t ɔ, n e̱ b a a y a t ɔ w e̱ gy w i i o w u r e‑o."
+    }
+  },
+  {
+    "code": "ndo",
+    "corpus": "ndo",
+    "name": "Oshiwambo",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Omuwa okwa ti: Ngele itaye ku itaale, nenge ya tompwe koshinyengandunge shotango, nena shika otashi ke ya tompa.",
+      "phonemes": "o m u w a o k w a t i: ng e l e i t a y e k u i t aa l e, n e ng e y a t o mp w e k o sh i ny e ng a n d u ng e sh o t a ng o, n e n a sh i k a o t a sh i k e y a t o mp a."
+    }
+  },
+  {
+    "code": "ney",
+    "corpus": "ney",
+    "name": "Neyo",
+    "coverage": 0.734,
+    "n": 10,
+    "example": {
+      "text": "Ɩ́ zà nyɔɔ́ nɩ̀ nú ná cícíwɔlɩ lé ɔ̀ nɩɩ́ nɩ a, bhʋ́anɩ nyɔɔ́ wlʋ́ mànɩ́ nɩnà nyɔ̀ɔ̀ ɔ̀ pá ɔ wlʋ nyíbòdú a mnɩ́ a.",
+      "phonemes": "ɩ z à n y ɔ ɔ n ɩ n ú n á c í c í w ɔ l ɩ l é ɔ n ɩ ɩ n ɩ a, bh ʋ a n ɩ n y ɔ ɔ w l ʋ m à n ɩ n ɩ n à n y ɔ ɔ ɔ p á ɔ w l ʋ n y í b ò d ú a m n ɩ a."
+    }
+  },
+  {
+    "code": "nga",
+    "corpus": "nga",
+    "name": "Ngbaka",
+    "coverage": 0.999,
+    "n": 7,
+    "example": {
+      "text": "Mɔ fua owinɔ 'da mɔ kɔ ngbá, nɛ mɔ kpe dati wa do kɔ̃a zã, do ngawi 'da mɔ. Mɔ kã wa dɛ ngɔ nù santoe kɛ mɔ ia ma hã wa ni.",
+      "phonemes": "m ɔ f u a o w i n ɔ 'd a m ɔ k ɔ ng b á, n ɛ m ɔ kp e d a t i w a d o k ɔ̃ a z ã, d o ng a w i 'd a m ɔ. m ɔ k ã w a d ɛ ng ɔ n ù s a n t o e k ɛ m ɔ i a m a h ã w a n i."
+    }
+  },
+  {
+    "code": "ngb-zaire",
+    "corpus": "ngb",
+    "name": "Ngbandi",
+    "coverage": 0.987,
+    "n": 10,
+    "example": {
+      "text": "Azi butu butu ĩ bombi tɛrɛ la so tɔ̃nda lo ko, lo ko lo du ka ya ngɔ mɛ ka lɛ ngu. Azi ko butu butu alonga tɛ la na gɛrɛ la so nyɔ ngu.",
+      "phonemes": "a z i b u t u b u t u ĩ b o m b i t ɛ r ɛ l a s o t ɔ̃ n d a l o k o, l o k o l o d u k a y a n g ɔ m ɛ k a l ɛ n g u. a z i k o b u t u b u t u a l o n g a t ɛ l a n a g ɛ r ɛ l a s o ny ɔ n g u."
+    }
+  },
+  {
+    "code": "nhu",
+    "corpus": "nhu",
+    "name": "Noni",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Kɛ ɛbvubwɛ, ɛ Jisos ke nɛ buy yew, gɛn shii mbew mamase le.",
+      "phonemes": "k ɛ ɛ b v u b w ɛ, ɛ j i s o s k e n ɛ b u y y e w, g ɛ n sh i i m b e w m a m a s e l e."
+    }
+  },
+  {
+    "code": "nko",
+    "corpus": "nko",
+    "name": "Nkonya",
+    "coverage": 0.994,
+    "n": 11,
+    "example": {
+      "text": "Mɩ ɩklʋn mɛdɩ mɩ asɩ. Opuni dɛ mɩ tsii, ndekle anwu.",
+      "phonemes": "m ɩ ɩ k l ʋ n m ɛ d ɩ m ɩ a s ɩ. o p u n i d ɛ m ɩ t s ii, n d e k l e a n w u."
+    }
+  },
+  {
+    "code": "nmq",
+    "corpus": "nmq",
+    "name": "Nambya",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Nelyo izhuba Jesu wakabhuda mungumba, akanogala mumbali mwegungwa.",
+      "phonemes": "n e l y o i z h u b a j e s u w a k a bh u d a m u ng u m b a, a k a n o g a l a m u m b a l i m w e g u ngw a."
+    }
+  },
+  {
+    "code": "nnb",
+    "corpus": "nnb",
+    "name": "Nande",
+    "coverage": 0.984,
+    "n": 9,
+    "example": {
+      "text": "Nʼenyungu yʼeribumba eyĩkatũlawako nʼoyũkwĩre ekinyaro, yasyatulangwa; nʼobuli kibindi kyʼomuti kyasyerĩbwa omo magetsi.",
+      "phonemes": "n ' e ny u ng u y ' e r i b u mb a e y ĩ k a t ũ l a w a k o n ' o y ũ k w ĩ r e e k i ny a r o, y a s y a t u l a ng w a; n ' o b u l i k i b i nd i k y ' o m u t i k y a s y e r ĩ b w a o m o m a g e t s i."
+    }
+  },
+  {
+    "code": "nso",
+    "corpus": "nso",
+    "name": "Northern Sotho",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Morena a re: Bušetša seatla sa gago lehwafeng. A se bušetša; gomme ya re ge a se ntšha, a hwetša se boetše sa ba bjalo ka mmele wa gagwe.",
+      "phonemes": "m o r e n a a r e: b u š e tš a s e a tl a s a g a g o l e h w a f e ng. a s e b u š e tš a; g o m m e y a r e g e a s e n tš h a, a h w e tš a s e b o e tš e s a b a b j a l o k a m m e l e w a g a g w e."
+    }
+  },
+  {
+    "code": "nuj",
+    "corpus": "nuj",
+    "name": "Nyole",
+    "coverage": 0.99,
+    "n": 10,
+    "example": {
+      "text": "Falaawo ateŋo abatangirisi mu hiisi hitundu ohusoloosa hirala ehyohutaanu ehyʼamakungula mu gwanga lyʼe Misiri mu myaha ejo omusanvu ejʼemere embitiirifu.",
+      "phonemes": "f a l aa w o a t e ŋ o a b a t a ng i r i s i m u h ii s i h i t u nd u o h u s o l oo s a h i r a l a e hy o h u t aa n u e hy ' a m a k u ng u l a m u gw a ng a ly ' e m i s i r i m u my a h a e j o o m u s a n v u e j ' e m e r e e mb i t ii r i f u."
+    }
+  },
+  {
+    "code": "nus",
+    "corpus": "nus",
+    "name": "Nuer",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Mëë ci Kuoth Nhial jɛ nɛn i̱ ri̱tdɛ rɔɔdɛ thi̱n, cuɛ jɛ cɔl rɛy buɔ̱t buɔ̱ɔ̱t i̱, Muthɛ, Muthɛ. Cu Muthɛ ɛ loc i̱, Ɣän ɛ.",
+      "phonemes": "m ë ë c i k u o th nh i a l j ɛ n ɛ n i̱ r i̱ t d ɛ r ɔ ɔ d ɛ th i̱ n, c u ɛ j ɛ c ɔ l r ɛ y b u ɔ̱ t b u ɔ̱ ɔ̱ t i̱, m u th ɛ, m u th ɛ. c u m u th ɛ ɛ l o c i̱, ɣ ä n ɛ."
+    }
+  },
+  {
+    "code": "nwb",
+    "corpus": "nwb",
+    "name": "Nyabwa",
+    "coverage": 0.769,
+    "n": 7,
+    "example": {
+      "text": "Ɔ -nɩꞌa lɩ ꞌle gle ꞌmʋ -gbanamʋ, ꞌya ꞌyɔtɔlʋ ꞌkpa-a ꞌbho -jolʋkpa ꞌꞌyi. Nɩkpɩ nʋꞌa -kaa, ɩ yi-oꞌo, ɩ ꞌye ɩ li.",
+      "phonemes": "ɔ -n ɩ ꞌ a l ɩ ꞌ l e g l e ꞌ m ʋ -gb an a m ʋ, ꞌ y a ꞌ y ɔ t ɔ l ʋ ꞌ kp a-a ꞌ bh o -j o l ʋ kp a ꞌ ꞌ y i. n ɩ kp ɩ n ʋ ꞌ a -k a a, ɩ y i-o ꞌ o, ɩ ꞌ y e ɩ l i."
+    }
+  },
+  {
+    "code": "nya",
+    "corpus": "nya",
+    "name": "Chichewa",
+    "coverage": 0.973,
+    "n": 11,
+    "example": {
+      "text": "Munthu akamalekerera zoŵeta zake kuloŵa m'munda mwa munthu wina ndi kukadya mbeu za m'mundamo, mwini zoŵetayo alipire mbeu zabwino kwambiri za m'munda mwake, kapena mphesa zake zabwino kwambiri.",
+      "phonemes": "m u n th u a k a m a l e k e r e r a z o ŵ e t a z a k e k u l o ŵ a m ' m u n d a m w a m u n th u w i n a n d i k u k a d y a m b e u z a m ' m u n d a m o, m w i n i z o ŵ e t a y o a l i p i r e m b e u z a b w i n o k w a m b i r i z a m ' m u n d a m w a k e, k a p e n a m ph e s a z a k e z a b w i n o k w a m b i r i."
+    }
+  },
+  {
+    "code": "nym",
+    "corpus": "nym",
+    "name": "Nyamwezi",
+    "coverage": 0.933,
+    "n": 12,
+    "example": {
+      "text": "Wangalu'ke ndiyu' Yakobo watunu'laga, wali'solaga iwe i'lo wav'age asagami'lile, wali'ki'ndi'kaga wi'i'ma ki'ti' nhi'ngi' na ku'li'v'ezya isondo ku' ku'liti'li'la maguta.",
+      "phonemes": "w a ng a l u ' k e nd i y u ' y a k o b o w a t u n u ' l a g a, w a l i ' s o l a g a i w e i ' l o w a v ' a g e a s a g a m i ' l i l e, w a l i ' k i ' nd i ' k a g a w i ' i ' m a k i ' t i ' n h i ' ng i ' n a k u ' l i ' v ' e z y a i s o nd o k u ' k u ' l i t i ' l i ' l a m a g u t a."
+    }
+  },
+  {
+    "code": "nzd",
+    "corpus": "nzd",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'nzd'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "nzi",
+    "corpus": "nzi",
+    "name": "Nzema",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Na bɛhanle bɛhilele Mosisi kɛ, Yɛhɔle azɛlɛ ne mɔɔ ɛzoanle yɛ zo la azo. Azɛlɛ ne kye aleɛ yɛɛ ninyɛne kpalɛ wɔ zolɛ; ma mɔɔ wɔ zolɛ la bie mɔ ɛ; azɛlɛ ne kye aleɛ bɔkɔɔ.",
+      "phonemes": "n a b ɛ h a n l e b ɛ h i l e l e m o s i s i k ɛ, y ɛ h ɔ l e a z ɛ l ɛ n e m ɔ ɔ ɛ z o a n l e y ɛ z o l a a z o. a z ɛ l ɛ n e k y e a l e ɛ y ɛ ɛ n i n y ɛ n e k p a l ɛ w ɔ z o l ɛ; m a m ɔ ɔ w ɔ z o l ɛ l a b i e m ɔ ɛ; a z ɛ l ɛ n e k y e a l e ɛ b ɔ k ɔ ɔ."
+    }
+  },
+  {
+    "code": "oku",
+    "corpus": "oku",
+    "name": "Oku",
+    "coverage": 0.951,
+    "n": 10,
+    "example": {
+      "text": "Ngose wel kaame ɛ wen ɛybee bɛme, əb me lii se kenək è diom se ten nɛ ghel ɛjime teem se əbghune jio.",
+      "phonemes": "n g o s e w e l k aa m e ɛ w e n ɛ y b ee b ɛ m e, ə b m e l ii s e k e n ə k è d i o m s e t e n n ɛ gh e l ɛ j i m e t ee m s e ə b gh u n e j i o."
+    }
+  },
+  {
+    "code": "pny",
+    "corpus": "pny",
+    "name": "Pinyin",
+    "coverage": 0.847,
+    "n": 7,
+    "example": {
+      "text": "Tyìʼə̀ njyə̂ ghu Yěsû à lə̀ furə̀ a ndâ ndèrə̀ ngə̀ nnwuunə̀ a nɨ̀pwùnə atəŋə nchyə.",
+      "phonemes": "t y ì ' ə n j y ə gh u y ě s û à l ə f u r ə a n d â n d è r ə n g ə n n w u u n ə a n ɨ̀ p w ù n ə a t ə ŋ ə n ch y ə."
+    }
+  },
+  {
+    "code": "pov",
+    "corpus": "pov",
+    "name": "Guinea-Bissau Creole",
+    "coverage": 0.99,
+    "n": 12,
+    "example": {
+      "text": "I falal mas: Ami N sedu Deus di bu pape, Deus di Abraon, Deus di Isak, Deus di Jakó. Moisés kubri si rostu pabia i tenba medu pa oja ku Deus.",
+      "phonemes": "i f a l a l m a s: a m i n s e d u d e u s d i b u p a p e, d e u s d i a b r a o n, d e u s d i i s a k, d e u s d i j a k ó. m o i s é s k u b r i s i r o s t u p a b i a i t e n b a m e d u p a o j a k u d e u s."
+    }
+  },
+  {
+    "code": "puu",
+    "corpus": "puu",
+    "name": "Punu",
+    "coverage": 0.945,
+    "n": 11,
+    "example": {
+      "text": "Moise anolaba yimaga yieni amatsiengila yivala mbana amakewivula rie: Dibandu yi yivala yigenyengili?.",
+      "phonemes": "m o i s e a n o l a b a y i m a g a y i e n i a m a t s i e ng i l a y i v a l a mb a n a a m a k e w i v u l a r i e: d i b a nd u y i y i v a l a y i g e ny e ng i l i?."
+    }
+  },
+  {
+    "code": "rel",
+    "corpus": "rel",
+    "name": "Rendille",
+    "coverage": 0.987,
+    "n": 10,
+    "example": {
+      "text": "Maalinkaas goya, Yeesso minki us kajire kabahe, irte beyti Gaalilaaya afiche orronte.",
+      "phonemes": "m a a l i n k a a s g o y a, y e e s s o m i n k i u s k a j i r e k a b a h e, i r t e b e y t i g a a l i l a a y a a f i ch e o r r o n t e."
+    }
+  },
+  {
+    "code": "rng",
+    "corpus": "rng",
+    "name": "Ronga",
+    "coverage": 0.997,
+    "n": 10,
+    "example": {
+      "text": "Hi siku droledro Yesu ahumi andlwini ayatrhama ankingeni wa nambu.",
+      "phonemes": "h i s i k u d r o l e d r o y e s u a h u m i a n d l w i n i a y a t r h a m a a n k i n g e n i w a n a m b u."
+    }
+  },
+  {
+    "code": "run",
+    "corpus": "run",
+    "name": "Kirundi",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Mose arīvuganya, ati Hinge nkīkame ndābe karya katābonetse, mmenye igituma igisaka kidatemutse.",
+      "phonemes": "m o s e a r ī v u g a ny a, a t i h i n g e nk ī k a m e n d ā b e k a ry a k a t ā b o n e t s e, m m e ny e i g i t u m a i g i s a k a k i d a t e m u t s e."
+    }
+  },
+  {
+    "code": "sag-central_african_republic",
+    "corpus": "sag",
+    "name": "Sango",
+    "coverage": 1.0,
+    "n": 7,
+    "example": {
+      "text": "Moïse atene na be ti lo: Mbi yeke ngoro ti gue ti baa kota ye ti ndima so. Ngbanga ti nyen si wâ agbi keke ni pepe so.",
+      "phonemes": "m o ï s e a t e n e n a b e t i l o: mb i y e k e ng o r o t i g u e t i b a a k o t a y e t i nd i m a s o. ngb a ng a t i ny e n s i w â a gb i k e k e n i p e p e s o."
+    }
+  },
+  {
+    "code": "sav",
+    "corpus": "sav",
+    "name": "Safen",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Ƴutta, a gapukka an : « Kooh hun na so, a tufkoh ho ŋ ɓaaɓiŋ ngo, a on ndo kañam na ɓekkaah.",
+      "phonemes": "ƴ u t t a, a g a p u k k a a n : « k o o h h u n n a s o, a t u f k o h h o ŋ ɓ a a ɓ i ŋ ng o, a o n n d o k a ñ a m n a ɓ e k k a a h."
+    }
+  },
+  {
+    "code": "seh",
+    "corpus": "seh",
+    "name": "Sena",
+    "coverage": 0.999,
+    "n": 11,
+    "example": {
+      "text": "Xana akuXabja awsiNdjengeletanu wsiBhidji haPeni na? kutani akunakuWa emiSabeni naxiGnwe kuWsone naangawsiTibi Hsohswenu:.",
+      "phonemes": "x a n a a k u x a b j a a w s i nd j e ng e l e t a n u w s i bh i dj i h a p e n i n a? k u t a n i a k u n a k u w a e m i s a b e n i n a x i g n w e k u w s o n e n a a ng a w s i t i b i h s o h sw e n u:."
+    }
+  },
+  {
+    "code": "shk",
+    "corpus": "shk",
+    "name": "Shilluk",
+    "coverage": 0.821,
+    "n": 11,
+    "example": {
+      "text": "Apyëjii yi Jwøng-ɑ Ácwɑ̈ɑ̈j kinni, Á ngø ɑ cingí ɑnɑn? Kɑ Mosɑ̀ okööbø kinni, Lodh.",
+      "phonemes": "a p y ë j i i y i j w ø n g-ɑ á c w ɑ ɑ j k i n n i, á n g ø ɑ c i n g í ɑ n ɑ n? k ɑ m o s ɑ o k ö ö b ø k i n n i, l o dh."
+    }
+  },
+  {
+    "code": "shu",
+    "corpus": "shu",
+    "name": "Arabic (Chadian)",
+    "coverage": 0.595,
+    "n": 7,
+    "example": {
+      "text": "Wakit Bani Israaʼiil gataʼo al-bahar khalaas, Allah gaal le Muusa : «Midd iidak ale l-bahar wa khalli al-almi yilimm fi l-Masriyiin wa fi arabaat al-harib wa fi siyaad al-kheel.».",
+      "phonemes": "w a k i t b a n i i s r a a ' i i l g a t a ' o a l-b a h a r k h a l a a s, a l l a h g a a l l e m u u s a : «m i d d i i d a k a l e l-b a h a r w a k h a l l i a l-a l m i y i l i m m f i l-m a s r i y i i n w a f i a r a b a a t a l-h a r i b w a f i s i y a a d a l-k h e e l.»."
+    }
+  },
+  {
+    "code": "sig",
+    "corpus": "sig",
+    "name": "Paasaal",
+    "coverage": 1.0,
+    "n": 8,
+    "example": {
+      "text": "Ka kɩdoho hʋ badɔmɔŋ mɛ gyɩ tele sɔsɩ tɩyaŋ, a nyʋ amɛ sɔsɩ hʋ sii waa gɩrɩgɩ ba, ba pʋgɩmɩ.",
+      "phonemes": "k a k ɩ d o h o h ʋ b a d ɔ m ɔ ŋ m ɛ gy ɩ t e l e s ɔ s ɩ t ɩ y a ŋ, a ny ʋ a m ɛ s ɔ s ɩ h ʋ s i i w a a g ɩ r ɩ g ɩ b a, b a p ʋ g ɩ m ɩ."
+    }
+  },
+  {
+    "code": "sna",
+    "corpus": "sna",
+    "name": "Shona",
+    "coverage": 0.977,
+    "n": 9,
+    "example": {
+      "text": "Akauya nechipiriso chinopiswa akachipa nenzira yakatarwa.",
+      "phonemes": "a k a u y a n e ch i p i r i s o ch i n o p i sw a a k a ch i p a n e nz i r a y a k a t a r w a."
+    }
+  },
+  {
+    "code": "sop",
+    "corpus": "sop",
+    "name": "Songe",
+    "coverage": 0.985,
+    "n": 12,
+    "example": {
+      "text": "Hadiefuku Yesu batukile ku nshibo, bashalele kubukunkula kwishiba.",
+      "phonemes": "h a d i e f u k u y e s u b a t u k i l e k u nsh i b o, b a sh a l e l e k u b u k u nk u l a k w i sh i b a."
+    }
+  },
+  {
+    "code": "ssw",
+    "corpus": "ssw",
+    "name": "Swati",
+    "coverage": 0.998,
+    "n": 7,
+    "example": {
+      "text": "Mosi wakhuluma watsi: Ase ngiphambuke ngitewubona lesihlahla kutsi, njengobe naku siyavutsa, asishi ngani.",
+      "phonemes": "m o s i w a kh u l u m a w a ts i: a s e ng i ph a mb u k e ng i t e w u b o n a l e s i hl a hl a k u ts i, n j e ng o b e n a k u s i y a v u ts a, a s i sh i ng a n i."
+    }
+  },
+  {
+    "code": "suk",
+    "corpus": "suk",
+    "name": "Sukuma",
+    "coverage": 0.981,
+    "n": 12,
+    "example": {
+      "text": "Ū munhū wa kūfung'wa būsoso ūlū ūpīla, akūdīīla shikū mpungatī alī ng'wikanza lya kwejiwa; ūfula ī shizwalo shakwe, ooga nū mīlī gwakwe mu minzī ga kūsela, hūna wela.",
+      "phonemes": "ū m u n h ū w a k ū f u ng ' w a b ū s o s o ū l ū ū p ī l a, a k ū d ī ī l a s h i k ū mp u ng a t ī a l ī ng ' w i k a nz a l y a kw e j i w a; ū f u l a ī s h i zw a l o s h a kw e, oo g a n ū m ī l ī gw a kw e m u m i nz ī g a k ū s e l a, h ū n a w e l a."
+    }
+  },
+  {
+    "code": "sur",
+    "corpus": "sur",
+    "status": "fetch_failed",
+    "note": "\"Unknown language 'sur'. Run with --list to see available codes.\""
+  },
+  {
+    "code": "sus",
+    "corpus": "sus",
+    "name": "Susu",
+    "coverage": 0.5,
+    "n": 12,
+    "example": {
+      "text": "Munsa naxa a fala a yɛtɛ ma, «N xa n makɔrɛ yi kaabanako ra, n xa a kolon munfe ra wuri bili lanma mu ganxi.».",
+      "phonemes": "m un s a n a x a a f a l a a y ɛ t ɛ m a, «n x a n m a k ɔ r ɛ y i k aa b an a k o r a, n x a a k o l on m un f e r a w u r i b i l i l an m a m u g an x i.»."
+    }
+  },
+  {
+    "code": "swb",
+    "corpus": "swb",
+    "name": "Comorian",
+    "coverage": 0.981,
+    "n": 12,
+    "example": {
+      "text": "Suku ɗe wiyo ile, Insa alawa ɗagoni, andre aketsi wangoni na iɓahari .",
+      "phonemes": "s u k u ɗ e w i y o i l e, i n s a a l a w a ɗ a g o n i, a n dr e a k e ts i w a ng o n i n a i ɓ a h a r i ."
+    }
+  },
+  {
+    "code": "swh",
+    "corpus": "swh",
+    "name": "Swahili",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "na safu ya nne ilikuwa ya zabarajadi, ya shohamu na yaspi; yote yalimiminiwa vijalizo vya dhahabu.",
+      "phonemes": "n a s a f u y a n n e i l i k u w a y a z a b a r a j a d i, y a sh o h a m u n a y a s p i; y o t e y a l i m i m i n i w a v i j a l i z o v y a dh a h a b u."
+    }
+  },
+  {
+    "code": "tan",
+    "corpus": "tan",
+    "name": "Tangale",
+    "coverage": 0.999,
+    "n": 12,
+    "example": {
+      "text": "Kẹnok ka‐mana, mim pugum wan tọmẹi: Yesu ga, Ma lig kẹk ka na dom yaz wa jẹ? Ka, Ọ, Pọbẹ.",
+      "phonemes": "k ẹ n o k k a‐m a n a, m i m p u g u m w a n t ọ m ẹ i: y e s u g a, m a l i g k ẹ k k a n a d o m y a z w a j ẹ? k a, ọ, p ọ b ẹ."
+    }
+  },
+  {
+    "code": "taq",
+    "corpus": "taq",
+    "name": "Tamasheq",
+    "coverage": 0.971,
+    "n": 12,
+    "example": {
+      "text": "Izjăr Ɣisa ašăl-wen-dăɣ, ikkʼ asălim n-ejănš, ăqqima.",
+      "phonemes": "i z j ă r ɣ i s a a š ă l-w e n-d ă ɣ, i k k ' a s ă l i m n-e j ă n š, ă q q i m a."
+    }
+  },
+  {
+    "code": "tbt",
+    "corpus": "tbt",
+    "name": "Tembo",
+    "coverage": 0.987,
+    "n": 9,
+    "example": {
+      "text": "Mwo'lu lusuku, Yesu era kutenga mwa nyumba na áya kwíkala kwa musike se'nyanja, chaisya akángirise ebandu.",
+      "phonemes": "mw o ' l u l u s u k u, y e s u e r a k u t e ng a mw a ny u mb a n a á y a kw í k a l a kw a m u s i k e s e ' ny a nj a, ch a i s y a a k á ng i r i s e e b a nd u."
+    }
+  },
+  {
+    "code": "tem",
+    "corpus": "tem",
+    "name": "Themne",
+    "coverage": 0.994,
+    "n": 12,
+    "example": {
+      "text": "Ka ȧŋrey ŋati Yisɔs ɔ wur ka ȧŋseth, ɔ kɔ yirȧ ro baŋ rayɛr.",
+      "phonemes": "k a ȧ ŋ r e y ŋ a t i y i s ɔ s ɔ w u r k a ȧ ŋ s e th, ɔ k ɔ y i r ȧ r o b a ŋ r a y ɛ r."
+    }
+  },
+  {
+    "code": "teo",
+    "corpus": "teo",
+    "name": "Ateso",
+    "coverage": 0.973,
+    "n": 12,
+    "example": {
+      "text": "Ŋin yenetirori aperisike ilosi ikenapen, iloŋi kakip, eraun yenimam elai kiton eboŋ.",
+      "phonemes": "ŋ i n y e n e t i r o r i a p e r i s i k e i l o s i i k e n a p e n, i l o ŋ i k a k i p, e r a u n y e n i m a m e l ai k i t o n e b o ŋ."
+    }
+  },
+  {
+    "code": "thv",
+    "corpus": "thv",
+    "name": "Tamahaq",
+    "coverage": 0.999,
+    "n": 12,
+    "example": {
+      "text": "Yesséwel Yaḷḷah i Noḥ, yenna has :.",
+      "phonemes": "y e s s é w e l y a ḷ ḷ a h i n o ḥ, y e n n a h a s :."
+    }
+  },
+  {
+    "code": "tir",
+    "corpus": "tir",
+    "name": "Tigrinya",
+    "coverage": 0.952,
+    "n": 12,
+    "example": {
+      "text": "እግዚኣብሄር ከዓ ንሙሴ ዘሎን ዝነብርን ኣነ እየ፤ ንደቂ እስራኤል ድማ እቲ ዘሎን ዝነብርን ናባኻትኩም ልኢኹኒ በሎም በሎ።.",
+      "phonemes": "ʾ(ə) g(ə) zi ʾa b(ə) he r(ə) kä ʿa n(ə) mu se zä lo n(ə) z(ə) nä b(ə) r(ə) n(ə) ʾa nä ʾ(ə) yä፤ n(ə) dä q’i ʾ(ə) s(ə) ra ʾe l(ə) d(ə) ma ʾ(ə) ti zä lo n(ə) z(ə) nä b(ə) r(ə) n(ə) na ba ኻ t(ə) ku m(ə) l(ə) ʾi ኹ ni bä lo m(ə) bä lo።."
+    }
+  },
+  {
+    "code": "tnr",
+    "corpus": "tnr",
+    "name": "Ménik",
+    "coverage": 0.995,
+    "n": 11,
+    "example": {
+      "text": "Gang yicütékën géƴ le, kënsëm han elóɗ er kënyó Génésaret.",
+      "phonemes": "g a ng y i c ü t é k ë n g é ƴ l e, k ë n s ë m h a n e l ó ɗ e r k ë n y ó g é n é s a r e t."
+    }
+  },
+  {
+    "code": "toh",
+    "corpus": "toh",
+    "name": "Tonga",
+    "coverage": 0.985,
+    "n": 10,
+    "example": {
+      "text": "Avbovbo, Ngilozi ya Pfhumu Nungungulu yi di dzi wonegisa gwaye vbakari nya malavbelavbe nya nilo mugipopwanani. Mosi a di ema a khedzisela gipopo gi nga bani gi khondra, aholu gi di si tsagami.",
+      "phonemes": "a v b o v b o, ng i l o z i y a p f h u m u n u ng u ng u l u y i d i d z i w o n e g i s a gw a y e v b a k a r i ny a m a l a v b e l a v b e ny a n i l o m u g i p o p w a n a n i. m o s i a d i e m a a k h e d z i s e l a g i p o p o g i ng a b a n i g i k h o nd r a, a h o l u g i d i s i t s a g a m i."
+    }
+  },
+  {
+    "code": "tsc",
+    "corpus": "tsc",
+    "name": "Tswa",
+    "coverage": 0.992,
+    "n": 9,
+    "example": {
+      "text": "Mosi aku: Nza ha nga hambuka nziya wona a xihlamaliso lexi xa hombe, lezaku hiyini a xihlahla xi swako xi nga mbheli!.",
+      "phonemes": "m o s i a k u: n z a h a n g a h a m b u k a n z i y a w o n a a x i hl a m a l i s o l e x i x a h o m b e, l e z a k u h i y i n i a x i hl a hl a x i s w a k o x i n g a m b h e l i!."
+    }
+  },
+  {
+    "code": "tso",
+    "corpus": "tso",
+    "name": "Tsonga",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Yehovha u bile tiko hi mukhuva wulowo, hikuva va byerile Aroni ku va endlela rhole.",
+      "phonemes": "y e h o vh a u b i l e t i k o h i m u kh u v a w u l o w o, h i k u v a v a by e r i l e a r o n i k u v a e n dl e l a rh o l e."
+    }
+  },
+  {
+    "code": "ttq",
+    "corpus": "ttq",
+    "name": "Tawallammat Tamajaq",
+    "coverage": 0.326,
+    "n": 11,
+    "example": {
+      "text": "ⵤⵍ ⵓⵏ ⴶⵎⴹ ⵗⵢⵙⴰ ⵂⵏ ⴶⵍⴰ ⵆⵎ ⴹⵗ ⵜⴶⴹⵎⵢⵜ ⵏⴶⵔⵓ⵰.",
+      "phonemes": "ⵤ ⵍ ⵓ ⵏ ⴶ ⵎ ⴹ ⵗ ⵢ ⵙ ⴰ ⵂ ⵏ ⴶ ⵍ ⴰ ⵆ ⵎ ⴹ ⵗ ⵜ ⴶ ⴹ ⵎ ⵢ ⵜ ⵏ ⴶ ⵔ ⵓ⵰."
+    }
+  },
+  {
+    "code": "tui",
+    "corpus": "tui",
+    "name": "Tupuri",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Day ma ɓin ndi hig gi jiili jar Ejipte yaŋ wo go nen maga á mo laa wo wo wer ɓaara, day Farawoŋ de soode ɓen wo ɓuy, pus durgi ɓen wo, jar piiri ɓen wo, naa ge wo nen togoɗge ɓin yaŋ go.",
+      "phonemes": "d a y m a ɓ i n nd i h i g g i j ii l i j a r e j i p t e y a ŋ w o g o n e n m a g a á m o l aa w o w o w e r ɓ aa r a, d a y f a r a w o ŋ d e s oo d e ɓ e n w o ɓ u y, p u s d u r g i ɓ e n w o, j a r p ii r i ɓ e n w o, n aa g e w o n e n t o g o ɗ g e ɓ i n y a ŋ g o."
+    }
+  },
+  {
+    "code": "tum",
+    "corpus": "tum",
+    "name": "Tumbuka",
+    "coverage": 1.0,
+    "n": 8,
+    "example": {
+      "text": "Chiuta wakati, Ungasenderanga pafupi. Vura skapato zako ku malundi ghako, pakuti malo gheneagho wimilirapo ngakupatulika.",
+      "phonemes": "ch i u t a w a k a t i, u ng a s e nd e r a ng a p a f u p i. v u r a sk a p a t o z a k o k u m a l u nd i gh a k o, p a k u t i m a l o gh e n e a gh o w i m i l i r a p o ng a k u p a t u l i k a."
+    }
+  },
+  {
+    "code": "twi",
+    "corpus": "twi",
+    "name": "Twi",
+    "coverage": 0.998,
+    "n": 11,
+    "example": {
+      "text": "Sɛ obi kowia nantwi anaa oguan na okum no anaa ɔtɔn no a, ɔde anantwi anum besi nantwi baako anan mu. Na ɔde nguan anan asi oguan baako biara anan mu.",
+      "phonemes": "s ɛ o b i k o w ia n a n tw i a n a a o g u a n n a o k u m n o a n a a ɔ t ɔ n n o a, ɔ d e a n a n tw i a n u m b e s i n a n tw i b a a k o a n a n m u. n a ɔ d e ng u a n a n a n a s i o g u a n b a a k o b ia r a a n a n m u."
+    }
+  },
+  {
+    "code": "udu",
+    "corpus": "udu",
+    "name": "Uduk",
+    "coverage": 1.0,
+    "n": 6,
+    "example": {
+      "text": "Adi yuḵki mo c̱aan gway mo ka Beeṯ/iil mo, hili gway gi peŋkuman bampa/ yan mo tani adi yuḵu iṯwa/a/ ka Luus mo be.",
+      "phonemes": "a d i y u ḵ k i m o c̱ a a n g w a y m o k a b e e ṯ/i i l m o, h i l i g w a y g i p e ŋ k u m a n b a m p a/ y a n m o t a n i a d i y u ḵ u i ṯ w a/a/ k a l u u s m o b e."
+    }
+  },
+  {
+    "code": "urh",
+    "corpus": "urh",
+    "name": "Urhobo",
+    "coverage": 0.993,
+    "n": 10,
+    "example": {
+      "text": "Ẹkẹvuọvo Mosis da ta kẹ Ọghẹnẹ, Mẹvwẹ ono ri mi vwo bru Fẹro ra, ra vwọ rọye emọ rẹ Izrẹl nẹ Ijipt rhe.",
+      "phonemes": "ẹ k ẹ v u ọ v o m o s i s d a t a k ẹ ọ gh ẹ n ẹ, m ẹ vw ẹ on o r i m i vw o b r u f ẹ r o r a, r a vw ọ r ọ y e e m ọ r ẹ i z r ẹ l n ẹ i j i p t rh e."
+    }
+  },
+  {
+    "code": "vag",
+    "corpus": "vag",
+    "name": "Vagala",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Awia, u fɛ u biini, Bɛɛ wiarɛ kennei? N daŋ hel de di na gunla wia a daapuza n waa fuuh.",
+      "phonemes": "a w i a, u f ɛ u b i i n i, b ɛ ɛ w i a r ɛ k e n n e i? n d a ŋ h e l d e d i n a g u n l a w i a a d a a p u z a n w a a f u u h."
+    }
+  },
+  {
+    "code": "vai",
+    "corpus": "vai",
+    "name": "Vai",
+    "coverage": 0.929,
+    "n": 12,
+    "example": {
+      "text": "ꔎꔒ ꗏꗒ ꔫꔤ ꕮ, ꔤꕢ ꗃꕎ ꔞꘋꗣ ꗏ ꕉ ꕚꕌ ꕉ ꔻꔤꕩ ꕭꕞꔷ ꕀꘂ ꕮꔧ ꕉꔤ ꗞꗢ ꖸ ꕪꕌ.",
+      "phonemes": "te le lɔ ndɔ bhi i mã, i sa bɔ wa ke ꘋ ꗣ lɔ a ta ha a si i ya ga la li ji yɛ mã ĩ a i mɔ̃ ɛ̃ nũ ka ha."
+    }
+  },
+  {
+    "code": "ven",
+    "corpus": "ven",
+    "name": "Venda",
+    "coverage": 0.999,
+    "n": 11,
+    "example": {
+      "text": "Mudzimu a ri, U songo sendela tsini. Bvula navhula dzau, fhethu he wa ima hone ndi mavu makhethwa.",
+      "phonemes": "m u dz i m u a r i, u s o ng o s e n d e l a ts i n i. bv u l a n a vh u l a dz a u, fh e th u h e w a i m a h o n e n d i m a v u m a kh e th w a."
+    }
+  },
+  {
+    "code": "vut",
+    "corpus": "vut",
+    "name": "Vute",
+    "coverage": 0.96,
+    "n": 10,
+    "example": {
+      "text": "Ye kù, Yésù ɨ́ fô̧, ŋgə́ ɨ́ gì dùrénɨ gín ɓárí.",
+      "phonemes": "y e k ù, y é s ù ɨ́ f ô̧, ŋg ə́ ɨ́ g ì d ù r é n ɨ g í n ɓ á r í."
+    }
+  },
+  {
+    "code": "wmw",
+    "corpus": "wmw",
+    "name": "Mwani",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Paifikire subuu, Yankubu riwe renyamire rire akitwala akisomeka akitenda kuwa shuda ra kumbu-kumbu, ikisa akimiminira mafuta julu yake.",
+      "phonemes": "p a i f i k i r e s u b u u, y a n k u b u r i w e r e ny a m i r e r i r e a k i t w a l a a k i s o m e k a a k i t e n d a k u w a sh u d a r a k u m b u-k u m b u, i k i s a a k i m i m i n i r a m a f u t a j u l u y a k e."
+    }
+  },
+  {
+    "code": "wob",
+    "corpus": "wob",
+    "name": "Wobé",
+    "coverage": 0.885,
+    "n": 11,
+    "example": {
+      "text": "'De 'wɩ due' ‑nɩa 'mʋa‑ 'di 'bomɔ Sesi 'wlʋʋ 'e ‑gbu 'di ‑wɛe ɔ mu 'o ni ‑kwlɩ 'de ɔ ‑te i.",
+      "phonemes": "'d e 'w ɩ d u e ' ‑n ɩ a 'm ʋ a‑ 'd i 'b o m ɔ s e s i 'w l ʋ ʋ 'e ‑gb u 'd i ‑w ɛ e ɔ m u 'o n i ‑kw l ɩ 'd e ɔ ‑t e i."
+    }
+  },
+  {
+    "code": "wol",
+    "corpus": "wol",
+    "name": "Wolof",
+    "coverage": 1.0,
+    "n": 12,
+    "example": {
+      "text": "Lal bu mu tëdd ci diir bi muy xëpp yépp, day mel ni lalam bu ko fekk ci jamonoy baax te lépp lu mu toog day sobewu, ni bu nekkoon ci jamonoy baaxam.",
+      "phonemes": "l a l b u m u t ë dd c i d ii r b i m u y x ë pp y é pp, d a y m e l n i l a l a m b u k o f e kk c i j a m o n o y b aa x t e l é pp l u m u t oo g d a y s o b e w u, n i b u n e kk oo n c i j a m o n o y b aa x a m."
+    }
+  },
+  {
+    "code": "xho",
+    "corpus": "xho",
+    "name": "Xhosa",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Ndandiya kunika ababantu ufefe emehlweni ama‐Jipete; kwakuya kuti, nakumka, aniyi kumka zé:.",
+      "phonemes": "n d a n d i y a k u n i k a a b a b a n t u u f e f e e m e hl w e n i a m a‐j i p e t e; k w a k u y a k u t i, n a k u m k a, a n i y i k u m k a z é:."
+    }
+  },
+  {
+    "code": "xog",
+    "corpus": "xog",
+    "name": "Soga",
+    "coverage": 0.989,
+    "n": 10,
+    "example": {
+      "text": "Yaakoba mule ati: Kino kyewuunhisa! Omuliro gwagema guti ekisaka, aye kyaloba kusiriira! Ka nseete mbone bukalamu.",
+      "phonemes": "y aa k o b a m u l e a t i: k i n o ky e w uu nh i s a! o m u l i r o gw a g e m a g u t i e k i s a k a, a y e ky a l o b a k u s i r ii r a! k a n s ee t e mb o n e b u k a l a m u."
+    }
+  },
+  {
+    "code": "xon",
+    "corpus": "xon",
+    "name": "Konkomba",
+    "coverage": 0.998,
+    "n": 11,
+    "example": {
+      "text": "Ba pu? tiwanfuurkaan mɔmɔk aamɔfal bi nsin ni la, nima pu le Uwumbɔr bui Israel yaab ke bi taa ji tinann ti nsin bi ti ponn ni na, ke unii umɔk ŋa kina na, waan ki li ye Uwumbɔr aanib ponn ni ubaa.",
+      "phonemes": "b a p u? t i w a n f u u r k a a n m ɔ m ɔ k a a m ɔ f a l b i n s i n n i l a, n i m a p u l e u w u m b ɔ r b u i i s r a e l y a a b k e b i t a a j i t i n a n n t i n s i n b i t i p o n n n i n a, k e u n i i u m ɔ k ŋ a k i n a n a, w a a n k i l i y e u w u m b ɔ r a a n i b p o n n n i u b a a."
+    }
+  },
+  {
+    "code": "xrb",
+    "corpus": "xrb",
+    "name": "Kar",
+    "coverage": 1.0,
+    "n": 9,
+    "example": {
+      "text": "Koo per na, Yesu n yi kaha wo, ma ga tege nii ke langbãŋ yɛ̃ tãy, ma nii nawee- klaha.",
+      "phonemes": "k o o p e r n a, y e s u n y i k a h a w o, m a g a t e g e n i i k e l a ngb ã ŋ y ɛ̃ t ã y, m a n i i n a w ee- k l a h a."
+    }
+  },
+  {
+    "code": "xsm",
+    "corpus": "xsm",
+    "name": "Kasem",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Ko na jege se ko ke tei to, Aron wó ja na-bala kam o ba, se o kwei-ka o ma o ke wɛleere saarem kaanem se o le o tete lwarem de o diga tiina lwarem Wɛ yiga ne. O wó gwoni ka ba o go.",
+      "phonemes": "k o n a j e g e s e k o k e t e i t o, a r o n w ó j a n a-b a l a k a m o b a, s e o k w e i-k a o m a o k e w ɛ l e e r e s a a r e m k a a n e m s e o l e o t e t e l w a r e m d e o d i g a t i i n a l w a r e m w ɛ y i g a n e. o w ó g w o n i k a b a o g o."
+    }
+  },
+  {
+    "code": "yam",
+    "corpus": "yam",
+    "name": "Yamba",
+    "coverage": 1.0,
+    "n": 8,
+    "example": {
+      "text": "Jisòs à tesə tsə mʉnda'à sə̀' nùmbu ànə, nə kə cum ŋgʉ ndzəp Galìli.",
+      "phonemes": "j i s ò s à t e s ə ts ə m ʉ n d a ' à s ə̀ ' n ù m b u à n ə, n ə k ə c u m ŋ g ʉ n dz ə p g a l ì l i."
+    }
+  },
+  {
+    "code": "yat",
+    "corpus": "yat",
+    "name": "Yambeta",
+    "coverage": 1.0,
+    "n": 10,
+    "example": {
+      "text": "Ɛ́fɔlɛ́ ɛ́ pɔɔd yááság kiim əgəə́yii kɔ a ɛbá yə́ə́ŋ, kiʼtúú kilúd. Ná yɛɛ́dála náan, yɛɛ́bág a kɛʼkɔ́m kɛ́ kɛ́yɛ́ɛ kɔ áay, əə́ləndin kɔ lɛ́ nyɔ́lɛ́ a məní, pɔɔd a kɛdɛ́ɛ́.",
+      "phonemes": "ɛ́ f ɔ l ɛ́ ɛ́ p ɔ ɔ d y á á s á g k i i m ə g ə ə́ y i i k ɔ a ɛ b á y ə́ ə́ ŋ, k i ' t ú ú k i l ú d. n á y ɛ ɛ́ d á l a n á a n, y ɛ ɛ́ b á g a k ɛ ' k ɔ́ m k ɛ́ k ɛ́ y ɛ́ ɛ k ɔ á a y, ə ə́ l ə n d i n k ɔ l ɛ́ ny ɔ́ l ɛ́ a m ə n í, p ɔ ɔ d a k ɛ d ɛ́ ɛ́."
+    }
+  },
+  {
+    "code": "ybb",
+    "corpus": "ybb",
+    "name": "Yemba",
+    "coverage": 1.0,
+    "n": 6,
+    "example": {
+      "text": "Á lɛ ánɛ aleʼé mɛ́t, Yɛɛ́so á fhó á ŋgyā ntó ŋgʉ̄ɔ ńnáŋ á akʉŋɛ́ mía ntshi Ŋgaliléa.",
+      "phonemes": "á l ɛ á n ɛ a l e ' é m ɛ́ t, y ɛ ɛ́ s o á f h ó á ŋ g y ā n t ó ŋ g ʉ̄ ɔ ń n á ŋ á a k ʉ ŋ ɛ́ m í a n ts h i ŋ g a l i l é a."
+    }
+  },
+  {
+    "code": "yor",
+    "corpus": "yor",
+    "name": "Yoruba",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Bí mààlúù ẹnìkan bá pa ti ẹlòmíràn, àwọn mejeeji yóo ta mààlúù tí ó jẹ́ ààyè, wọn yóo pín owó rẹ̀, wọn yóo sì pín òkú mààlúù náà pẹlu.",
+      "phonemes": "b í m à à l ú ù ẹ n ì k an b á p a t i ẹ l ò m í r à n, à w ọ n m e j e e j i y ó o t a m à à l ú ù t í ó j ẹ́ à à y è, w ọ n y ó o p í n o w ó r ẹ̀, w ọ n y ó o s ì p í n ò k ú m à à l ú ù n á à p ẹ l u."
+    }
+  },
+  {
+    "code": "ziw",
+    "corpus": "ziw",
+    "name": "Zigula",
+    "coverage": 0.998,
+    "n": 12,
+    "example": {
+      "text": "Mwe dizuwa idyo, Yesu niyo alaila kuse kwe idya nyumba, aita akwikala hankanda hediziwa niyo akonga kuhinya.",
+      "phonemes": "mw e d i z u w a i d y o, y e s u n i y o a l a i l a k u s e k w e i d y a ny u m b a, a i t a a k w i k a l a h a n k a n d a h e d i z i w a n i y o a k o ng a k u h i ny a."
+    }
+  },
+  {
+    "code": "zne",
+    "corpus": "zne",
+    "name": "Zande",
+    "coverage": 0.981,
+    "n": 11,
+    "example": {
+      "text": "Ko ki ya, Ka mo mbédi nga kono ya; mo úru rakata nduro yo bambiko gu rago ru mo rogo re kparakpara sende du.",
+      "phonemes": "k o k i y a, k a m o mb é d i ng a k o n o y a; m o ú r u r a k a t a nd u r o y o b a mb i k o g u r a g o r u m o r o g o r e kp a r a kp a r a s e nd e d u."
+    }
+  },
+  {
+    "code": "zul",
+    "corpus": "zul",
+    "name": "Zulu",
+    "coverage": 1.0,
+    "n": 11,
+    "example": {
+      "text": "Owenzela abanye onkulunkulu umhlatshelo, angenzeli uSimakade yena yedwa, uyobhujiswa.",
+      "phonemes": "o w e n z e l a a b a ny e o nk u l u nk u l u u m hl a tsh e l o, a ng e n z e l i u s i m a k a d e y e n a y e d w a, u y o bh u j i s w a."
+    }
+  }
+]

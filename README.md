@@ -2749,6 +2749,14 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 
 ## Coverage & limitations
 
+**Verified on real text:** phonemisation was measured on real [africa-corpus]
+(https://github.com/AfriSpeech/africa-corpus-builder) sentences for the 207 languages that
+have a corpus match — **177 map ≥95%** of characters and **195 map ≥85%**. The dozen below
+85% are mostly script mismatches (corpus text in a different script than the rule file). See
+[`docs/COVERAGE.md`](docs/COVERAGE.md); regenerate with `scripts/corpus_qa.py`. Languages
+without a corpus match are supported but unverified this way.
+
+
 - These orthographies are largely **shallow (phonemic)**, so segmentation is direct and
   deterministic. It is **not** a neural model — it doesn't resolve context-dependent readings
   or heteronyms.
@@ -2790,6 +2798,7 @@ python scripts/build_rules.py
 
 python scripts/enrich_registry.py                     # ISO/family/region/alt-names (afriso)
 python scripts/qa.py                                  # validate mappings & round-trips
+python scripts/corpus_qa.py --versions <csv>          # coverage on real corpus text -> docs/COVERAGE.md
 python scripts/make_showcase.py --versions <csv>      # regenerate docs/SHOWCASE.md
 pytest
 ```
