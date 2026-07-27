@@ -18,7 +18,8 @@ class G2P:
     """Grapheme-to-phoneme converter for a single language."""
 
     def __init__(self, code: str, *, output: str = "grapheme",
-                 unknown: str = "passthrough", clean: bool = True):
+                 unknown: str = "passthrough", clean: bool = True,
+                 strip_diacritics: bool = False):
         """
         Args:
             code: ISO 639-3 language code with a rule file.
@@ -31,8 +32,11 @@ class G2P:
                      "passthrough" (keep the character), "drop", or "mark" (�).
             clean: IPA mode only — if True (default), guarantee the output holds only
                    phoneme symbols and IPA diacritics (strips any leaked orthographic
-                   tone/accent marks). Grapheme mode always preserves the written form,
-                   including tone/nasalization marks.
+                   tone/accent marks).
+            strip_diacritics: grapheme mode only — if True, remove orthographic
+                   tone/accent marks (acute, grave, circumflex, …) from the native
+                   output while keeping segmental letters (ɔ, ɛ, ŋ, dot-below) and
+                   nasalization. Default False (preserve the written form exactly).
         """
         if output not in ("ipa", "grapheme"):
             raise ValueError("output must be 'ipa' or 'grapheme'")
@@ -41,6 +45,7 @@ class G2P:
         self.output = output
         self.unknown = unknown
         self.clean = clean
+        self.strip_diacritics = strip_diacritics
 
         # Grapheme table: base letters (no combining marks) -> IPA string.
         # Grapheme keys are lowercased + confusable-folded to match normalized input.
@@ -119,7 +124,8 @@ class G2P:
                 i += 1
             if self.output == "grapheme":
                 # emit the native writing unit, preserving tone marks as written
-                units.append(unicodedata.normalize("NFC", chunk + raw))
+                unit = unicodedata.normalize("NFC", chunk + raw)
+                units.append(clean_ipa(unit) if self.strip_diacritics else unit)
             else:
                 suffix = "".join(self.diacritics.get(m, "") for m in raw)
                 unit = base_ipa + suffix
@@ -146,10 +152,12 @@ class G2P:
 
 
 def g2p(text: str, lang: str, *, output: str = "grapheme",
-        unknown: str = "passthrough", clean: bool = True, **kwargs) -> str:
+        unknown: str = "passthrough", clean: bool = True,
+        strip_diacritics: bool = False, **kwargs) -> str:
     """One-shot convenience wrapper: ``g2p("akwaaba", "aka")``.
 
-    Constructor options (output/unknown/clean) are accepted here; remaining keyword
-    arguments (sep, lower) are passed to ``convert``.
+    Constructor options (output/unknown/clean/strip_diacritics) are accepted here;
+    remaining keyword arguments (sep, lower) are passed to ``convert``.
     """
-    return G2P(lang, output=output, unknown=unknown, clean=clean).convert(text, **kwargs)
+    return G2P(lang, output=output, unknown=unknown, clean=clean,
+               strip_diacritics=strip_diacritics).convert(text, **kwargs)

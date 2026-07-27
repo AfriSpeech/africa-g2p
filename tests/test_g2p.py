@@ -87,6 +87,26 @@ def test_invalid_output_mode():
         G2P("dyu", output="phonetic")
 
 
+def test_strip_diacritics_option():
+    assert g2p("bàbá", "dyu", sep=" ") == "b à b á"                       # kept by default
+    assert g2p("bàbá", "dyu", sep=" ", strip_diacritics=True) == "b a b a"
+    # segmental letters must survive stripping
+    assert g2p("gbɛ", "dyu", sep=" ", strip_diacritics=True) == "gb ɛ"
+
+
+def test_akan_digraphs_are_single_units():
+    # palatalization/labial-palatalization digraphs restored from the source page
+    assert G2P("aka").convert("gye nyansa hyɛ", sep=" ") == "gy e ny a n s a hy ɛ"
+    assert G2P("aka", output="ipa").convert("gye", sep=" ") == "dʑ ɪ"
+
+
+def test_vai_dual_script_if_present():
+    if "vai" not in available_languages():
+        pytest.skip("vai (omniglot) not built")
+    ipa = G2P("vai", output="ipa")
+    assert ipa.convert("ꕙꔤ") == ipa.convert("vai")  # native script == Latin phonemisation
+
+
 # --- library-wide regression guards over the extracted rule files ---
 
 def test_library_size():

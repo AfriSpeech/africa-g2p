@@ -75,17 +75,44 @@ echo "Akwaaba" | africa-g2p aka        # read from stdin
 | `"grapheme"` *(default)* | Native writing units; multigraphs kept whole; tone/diacritics preserved | `o n y a n k o p ɔ n` |
 | `"ipa"` | IPA transcription; tone → IPA marks; guaranteed to contain only IPA symbols | `ʊ n j a n k ʊ p ɔ n` |
 
-**Which mode?** For per-language or few-language models on these (largely shallow, phonemic)
-orthographies, **grapheme** mode is simpler and more robust: it doesn't depend on the accuracy
-of an IPA mapping, round-trips to text, and avoids IPA glyphs (tie bars, combining marks) that
-trip up tokenizers. Choose **ipa** when pooling many languages into one model (a shared,
-language-independent phoneme space enables transfer/zero-shot) or when you need explicit,
-unambiguous pronunciation.
+Both modes are first-class — pick per task:
 
+**Use `grapheme` (native orthography) when:**
+- Training/​fine-tuning a **single- or few-language** TTS/ASR model. These orthographies are
+  largely phonemic, so grapheme units already capture the sound with none of the risk.
+- You want output that **round-trips to text** and is readable/verifiable by native speakers.
+- You want **tokenizer-safe** units — no IPA tie bars (`͡`) or combining marks that silently
+  break normalization, fonts, or vocab building.
+- You don't want to depend on the accuracy of an IPA mapping derived from a written source.
+
+**Use `ipa` when:**
+- Building a **multilingual** model and want a **shared, language-independent phoneme space**
+  (enables cross-language transfer and zero-shot to new languages).
+- You need **explicit, unambiguous pronunciation** (a TTS front-end that consumes phonemes).
+- You're comparing pronunciations across languages or datasets.
+
+Rule of thumb: **per-language → grapheme; many-languages-in-one-model → IPA.** Keeping both
+means you're never locked in.
+
+Options that apply:
 - Multigraphs are handled in both modes (`kp`, `gb`, `ny`, `sh`, …) via longest-match segmentation.
+- Grapheme mode: `strip_diacritics=True` drops orthographic tone/accent marks (keeping segmental
+  letters like `ɔ`, `ɛ`, `ŋ` and nasalization) for a smaller, toneless token set.
 - Punctuation and spacing are preserved; unknown characters pass through by default
   (set `unknown="drop"` or `unknown="mark"`).
 - Use `.phonemes(text)` to get a `list[str]` of units instead of a joined string.
+
+### Multiple writing systems
+
+Some languages are written in more than one script (e.g. Vai in its own syllabary *and* Latin;
+Hausa in Latin/Boko *and* Ajami). Where the data covers a script, africa-g2p phonemises text in
+**either written form directly** — no transliteration step:
+
+```python
+from africa_g2p import G2P
+G2P("vai", output="ipa").convert("ꕙꔤ")   # native Vai script -> 'vai'
+G2P("vai", output="ipa").convert("vai")    # Latin              -> 'vai'
+```
 
 ## Supported languages
 
@@ -149,8 +176,8 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 <summary><b>Akan</b> (<code>aka</code> · Ghana)</summary>
 
 > **Text:** Ɛno enti na apam a ɛdi ɛkan no wɔnam mogya so na wɔhyɛɛ no den no.  
-> **Phonemes:** `ɛ n o e n t i n a a p a m a ɛ d i ɛ k a n n o w ɔ n a m m o g y a s o n a w ɔ h y ɛ ɛ n o d e n n o.`  
-> **IPA:** `ɛ n ʊ ɪ n t i n a a p a m a ɛ d i ɛ k a n n ʊ w ɔ n a m m ʊ ɡ j a s ʊ n a w ɔ h j ɛ ɛ n ʊ d ɪ n n ʊ.`
+> **Phonemes:** `ɛ n o e n t i n a a p a m a ɛ d i ɛ k a n n o w ɔ n a m m o gy a s o n a w ɔ hy ɛ ɛ n o d e n n o.`  
+> **IPA:** `ɛ n ʊ ɪ n t i n a a p a m a ɛ d i ɛ k a n n ʊ w ɔ n a m m ʊ dʑ a s ʊ n a w ɔ ɕ ɛ ɛ n ʊ d ɪ n n ʊ.`
 
 > **Text:** Ɛkorɔn sene ɔsoro, ɛdeɛn na wobɛtumi ayɛ? Emu dɔ sene damena ase tɔnn, ɛdeɛn na wobɛtumi ahunu?.  
 > **Phonemes:** `ɛ k o r ɔ n s e n e ɔ s o r o, ɛ d e ɛ n n a w o b ɛ t u m i a y ɛ? e m u d ɔ s e n e d a m e n a a s e t ɔ n n, ɛ d e ɛ n n a w o b ɛ t u m i a h u n u?.`  

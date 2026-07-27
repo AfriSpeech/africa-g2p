@@ -17,8 +17,8 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 <summary><b>Akan</b> (<code>aka</code> · Ghana)</summary>
 
 > **Text:** Ɛno enti na apam a ɛdi ɛkan no wɔnam mogya so na wɔhyɛɛ no den no.  
-> **Phonemes:** `ɛ n o e n t i n a a p a m a ɛ d i ɛ k a n n o w ɔ n a m m o g y a s o n a w ɔ h y ɛ ɛ n o d e n n o.`  
-> **IPA:** `ɛ n ʊ ɪ n t i n a a p a m a ɛ d i ɛ k a n n ʊ w ɔ n a m m ʊ ɡ j a s ʊ n a w ɔ h j ɛ ɛ n ʊ d ɪ n n ʊ.`
+> **Phonemes:** `ɛ n o e n t i n a a p a m a ɛ d i ɛ k a n n o w ɔ n a m m o gy a s o n a w ɔ hy ɛ ɛ n o d e n n o.`  
+> **IPA:** `ɛ n ʊ ɪ n t i n a a p a m a ɛ d i ɛ k a n n ʊ w ɔ n a m m ʊ dʑ a s ʊ n a w ɔ ɕ ɛ ɛ n ʊ d ɪ n n ʊ.`
 
 > **Text:** Ɛkorɔn sene ɔsoro, ɛdeɛn na wobɛtumi ayɛ? Emu dɔ sene damena ase tɔnn, ɛdeɛn na wobɛtumi ahunu?.  
 > **Phonemes:** `ɛ k o r ɔ n s e n e ɔ s o r o, ɛ d e ɛ n n a w o b ɛ t u m i a y ɛ? e m u d ɔ s e n e d a m e n a a s e t ɔ n n, ɛ d e ɛ n n a w o b ɛ t u m i a h u n u?.`  

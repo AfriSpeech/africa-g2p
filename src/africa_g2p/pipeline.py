@@ -15,9 +15,10 @@ from .loader import registry
 
 class AfricaPipeline:
     def __init__(self, lang: str, *, output: str = "grapheme",
-                 unknown: str = "passthrough"):
+                 unknown: str = "passthrough", strip_diacritics: bool = False):
         self.lang = lang
-        self.g2p = G2P(lang, output=output, unknown=unknown)
+        self.g2p = G2P(lang, output=output, unknown=unknown,
+                       strip_diacritics=strip_diacritics)
         self.info = registry().get(lang, {"code": lang})
 
     def run(self, text: Union[str, List[str]], *, sep: str = ""):
