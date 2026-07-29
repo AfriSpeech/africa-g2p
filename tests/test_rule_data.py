@@ -115,3 +115,24 @@ def test_twi_unaffected_by_composed_matching():
 def test_tone_still_handled_as_suprasegmental():
     """Tone marks stay suffix-mapped; only keys the rules declare are matched whole."""
     assert G2P("gur", output="ipa").phonemes("á") == ["a"]
+
+
+def test_no_uppercase_letters_in_values():
+    """IPA has no uppercase letters.
+
+    Capitals in the scanned charts were three different mistakes, not one: Ɂ/Ɩ standing
+    in for ʔ/ɪ, an l/I OCR confusion, and "V" used as a metavariable meaning "any vowel"
+    (``VV -> Vː`` states that doubled vowels are long — it is not a grapheme mapping, and
+    as a key it matched literal "vv"). The small-capital IPA symbols (ɪ ʁ ɢ) are their own
+    lowercase-category codepoints and are unaffected.
+    """
+    bad = {}
+    for c in ALL:
+        for k, v in load_rules(c).get("graphemes", {}).items():
+            if v and any(ch.isupper() for ch in str(v)):
+                bad.setdefault(c, {})[k] = v
+    assert not bad, f"uppercase letters in IPA values: {bad}"
+
+
+def test_glottal_stop_uses_ipa_codepoint():
+    assert G2P("any", output="ipa").phonemes("m'ɔ") == ["m", "ʔ", "ɔ"]
