@@ -31,11 +31,16 @@ def slug(name: str) -> str:
 
 # Greek letters that stand in for IPA letters in the scanned sources. β, θ and χ are
 # genuine IPA codepoints and are deliberately absent here.
-_GREEK_LOOKALIKES = {
+_LOOKALIKES = {
+    # Greek letters standing in for IPA letters. β, θ and χ are genuine IPA and absent here.
     "γ": "ɣ",  # gamma -> IPA voiced velar fricative U+0263
     "ε": "ɛ",  # epsilon -> IPA open e U+025B
     "ι": "ɪ",  # iota -> IPA small capital i U+026A
     "α": "ɑ",  # alpha -> IPA script a U+0251
+    # Capital letters standing in for IPA symbols. IPA has no uppercase letters; the
+    # small-capital symbols (ɪ ʁ ɢ) are their own codepoints.
+    "Ɂ": "ʔ",  # U+0241 capital glottal stop -> U+0294
+    "Ɩ": "ɪ",  # U+0196 capital iota -> U+026A
 }
 
 
@@ -43,7 +48,8 @@ def norm_ipa(s: str) -> str:
     """Normalize common IPA glyph variants to their canonical codepoints.
 
     Also strips the phonetic brackets and slashes that several source charts wrap every
-    value in ("[a]", "/k͡p/"). Left in place they end up inside phoneme values, where they
+    value in ("[a]", "/k͡p/"), and folds Greek and capital-letter lookalikes to the IPA
+    codepoint they stand for. Left in place these end up inside phoneme values, where they
     are indistinguishable from real symbols to any downstream consumer.
     """
     s = (
@@ -53,7 +59,7 @@ def norm_ipa(s: str) -> str:
     )
     s = re.sub(r"^[\[/](.*)[\]/]$", r"\1", s.strip())
     s = s.replace("[", "").replace("]", "")
-    return "".join(_GREEK_LOOKALIKES.get(ch, ch) for ch in s)
+    return "".join(_LOOKALIKES.get(ch, ch) for ch in s)
 
 
 def to_rule_file(raw: dict) -> dict | None:
