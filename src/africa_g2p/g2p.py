@@ -150,10 +150,23 @@ class G2P:
         return units
 
     def _longest_base_match(self, text: str, i: int, n: int):
+        """Longest matching grapheme key at position i.
+
+        Keys may themselves contain combining marks (``ẽ``, ``ɛ̃``, ``e̱``). Those encode a
+        *segmental* change that the base-letter + diacritic-suffix model cannot express —
+        e.g. gur writes ``ẽ`` -> ``ɛ̃``, a different vowel quality under nasalization, and
+        acz writes ``ä`` -> ``ə``. Because keys are stored NFD, such a key only matches if
+        combining marks are allowed inside the chunk; skipping them made every one of those
+        entries dead data. Longest-match then naturally prefers the composed key over the
+        bare base letter, and any marks it consumes are not re-applied as suprasegmentals.
+
+        A chunk may not *start* with a combining mark: that would attach a mark to the
+        wrong base, and a stray leading mark is handled by the caller instead.
+        """
         upper = min(self._max_len, n - i)
         for length in range(upper, 0, -1):
             chunk = text[i:i + length]
-            if any(unicodedata.combining(c) for c in chunk):
+            if unicodedata.combining(chunk[0]):
                 continue
             if chunk in self._keys:
                 # IPA falls back to the written form for alphabet-only letters

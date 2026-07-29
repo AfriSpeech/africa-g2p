@@ -17,9 +17,37 @@ class Token(NamedTuple):
     is_word: bool
 
 
+def _mark_class() -> str:
+    """Regex character class covering every combining mark in the BMP.
+
+    Hardcoding the Latin combining block (U+0300-U+036F) split marks off as separators
+    for every other script: Ethiopic gemination (U+135F), Arabic/Ajami vowel points,
+    Hebrew points, N'Ko and Tifinagh marks all fell outside it, so keys containing them
+    could never match. Deriving the class from Unicode covers all of them and costs
+    ~20 ms once at import. Marks above the BMP are historic/musical and irrelevant here.
+    """
+    ranges, start, prev = [], None, None
+    for cp in range(0x300, 0x10000):
+        if unicodedata.category(chr(cp)) in ("Mn", "Mc"):
+            if start is None:
+                start = cp
+            prev = cp
+        elif start is not None:
+            ranges.append((start, prev))
+            start = None
+    if start is not None:
+        ranges.append((start, prev))
+    return "".join(
+        re.escape(chr(a)) if a == b else f"{re.escape(chr(a))}-{re.escape(chr(b))}"
+        for a, b in ranges
+    )
+
+
 # A "word" is a run of letters/marks/apostrophes; everything else is a separator.
 # \w is Unicode-aware under re.UNICODE (default in py3), covering ɛ ɔ ŋ etc.
-_WORD_RE = re.compile(r"[^\W\d_]+(?:['’ʼ̀-ͯ][^\W\d_]*)*", re.UNICODE)
+_WORD_RE = re.compile(
+    r"[^\W\d_]+(?:['’ʼ" + _mark_class() + r"][^\W\d_]*)*", re.UNICODE
+)
 
 # Visually-confusable characters that appear in the scanned source where a specific
 # Latin/IPA orthographic letter is meant. Folded on both grapheme keys and input text
