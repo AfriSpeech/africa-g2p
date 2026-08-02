@@ -23,7 +23,3 @@ africa-g2p = "africa_g2p.cli:main"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/africa_g2p"]
-
-[tool.hatch.build.targets.wheel.force-include]
-"src/africa_g2p/languages" = "africa_g2p/languages"
-"src/africa_g2p/data" = "africa_g2p/data"
