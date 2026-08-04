@@ -136,3 +136,19 @@ def test_no_uppercase_letters_in_values():
 
 def test_glottal_stop_uses_ipa_codepoint():
     assert G2P("any", output="ipa").phonemes("m'ɔ") == ["m", "ʔ", "ɔ"]
+
+
+def test_voiced_velar_stop_uses_ipa_codepoint():
+    """IPA voiced velar stop is U+0261, not ASCII g.
+
+    norm_ipa enforces this at build time, but the Ethiopic parser bypassed it and left 99
+    entries across amh, byn, gez, tig and tir spelling the same sound the other way. In a
+    shared phoneme vocabulary that silently splits /ɡ/ into two tokens.
+    """
+    bad = {
+        c: {k: v for k, v in load_rules(c).get("graphemes", {}).items()
+            if v and "g" in str(v)}
+        for c in ALL
+    }
+    bad = {c: v for c, v in bad.items() if v}
+    assert not bad, f"ASCII g in IPA values: {bad}"
