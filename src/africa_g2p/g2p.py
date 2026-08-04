@@ -10,6 +10,7 @@ from __future__ import annotations
 import unicodedata
 from typing import Dict, List, Optional
 
+from .fallback import fallback_ipa
 from .loader import load_rules
 from .normalizer import clean_ipa, fold_confusables, normalize_text, tokenize
 
@@ -19,7 +20,7 @@ class G2P:
 
     def __init__(self, code: str, *, output: str = "grapheme",
                  unknown: str = "passthrough", clean: bool = True,
-                 strip_diacritics: bool = False):
+                 strip_diacritics: bool = False, fallback: bool = True):
         """
         Args:
             code: ISO 639-3 language code with a rule file.
@@ -41,6 +42,12 @@ class G2P:
                    tone/accent marks (acute, grave, circumflex, …) from the native
                    output while keeping segmental letters (ɔ, ɛ, ŋ, dot-below) and
                    nasalization. Default False (preserve the written form exactly).
+            fallback: IPA mode only — if True (default), a letter the language's chart
+                   omits falls back to its conventional reading across African Latin
+                   orthographies rather than being dropped. Alphabet charts are not
+                   always complete (naw has no p, bud no e or o), and losing a phoneme
+                   silently is worse than an error because the output still looks
+                   plausible. The language's own rules always take precedence.
         """
         if output not in ("ipa", "grapheme", "latin"):
             raise ValueError("output must be 'ipa', 'grapheme', or 'latin'")
@@ -50,6 +57,7 @@ class G2P:
         self.unknown = unknown
         self.clean = clean
         self.strip_diacritics = strip_diacritics
+        self.fallback = fallback
 
         def _norm(k):
             return unicodedata.normalize("NFD", fold_confusables(str(k).lower()))
@@ -123,7 +131,8 @@ class G2P:
                     # stray combining mark with no base — attach or drop silently
                     i += 1
                     continue
-                units.append(self._handle_unknown(ch))
+                sub = fallback_ipa(ch) if (self.fallback and self.output == "ipa") else None
+                units.append(sub if sub is not None else self._handle_unknown(ch))
                 i += 1
                 continue
             base_ipa, length = match
