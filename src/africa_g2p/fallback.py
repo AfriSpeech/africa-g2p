@@ -43,6 +43,25 @@ FALLBACK_IPA: Final[Dict[str, str]] = {
     # schwa, written two ways
     "ǝ": "ə",
     "ə": "ə",
+    # IPA letters pressed into service as ordinary graphemes. These carry their IPA
+    # value by construction — an orthography that borrows `ɛ` from the IPA does so
+    # precisely to write /ɛ/ — yet most charts list them only in the rows where they
+    # happen to be phonemic, so 251 of 400 tables have no entry for `ɛ` and 214 none
+    # for `ŋ`. Measured on Kisi, whose donor chart omits all of ŋ, ɛ, ɔ.
+    "ɛ": "ɛ",
+    "ɔ": "ɔ",
+    "ŋ": "ŋ",
+    "ɩ": "ɪ",    # latin iota — the near-close front vowel in Gur and Kwa ATR systems
+    "ʋ": "ʋ",    # v-hook, labiodental approximant (Ewe, Gbe)
+    "ɓ": "ɓ",    # implosives, written with the hook letters across West Africa
+    "ɗ": "ɗ",
+    "ɖ": "ɖ",
+    "ƙ": "kʼ",   # Hausa ejective k
+    # Nigerian dot-below vowels and sibilant (Yoruba, Igbo, Edoid). No chart lists
+    # them, because each language documents its own dotted letters in the base rows.
+    "ẹ": "ɛ",
+    "ọ": "ɔ",
+    "ṣ": "ʃ",
 }
 
 

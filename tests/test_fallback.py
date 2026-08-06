@@ -69,3 +69,39 @@ def test_no_language_regresses():
         on = G2P(code, output="ipa", fallback=True).phonemes(covered)
         off = G2P(code, output="ipa", fallback=False).phonemes(covered)
         assert on == off, code
+
+
+# --------------------------------------------------------------- IPA-letter graphemes
+
+@pytest.mark.parametrize("ch,ipa", [("ɛ", "ɛ"), ("ɔ", "ɔ"), ("ŋ", "ŋ"), ("ʋ", "ʋ"),
+                                    ("ɓ", "ɓ"), ("ɗ", "ɗ"), ("ɖ", "ɖ"), ("ɩ", "ɪ")])
+def test_ipa_letters_read_as_themselves(ch, ipa):
+    """A chart that omits a borrowed IPA letter must not lose it: kiz has no ŋ, ɛ or ɔ."""
+    assert G2P("kiz", output="ipa", unknown="mark").phonemes(ch) == [ipa]
+
+
+def test_kisi_letters_no_longer_lost():
+    assert "�" not in "".join(G2P("kiz", output="ipa", unknown="mark").phonemes("buŋgɛi pɛɛkɛi"))
+
+
+# ------------------------------------------------------------------ dot-below letters
+
+@pytest.mark.parametrize("word,expected", [("ọmọ", ["ɔ", "m", "ɔ"]),
+                                           ("ẹgbẹ", ["ɛ", "k", "p", "ɛ"]),
+                                           ("ṣe", ["ʃ", "ə"])])
+def test_dot_below_is_segmental(word, expected):
+    """Dot-below changes the vowel; dropping the mark silently gave the wrong phoneme."""
+    assert G2P("kdx", output="ipa", unknown="mark").phonemes(word) == expected
+
+
+def test_dot_below_keeps_tone():
+    """Re-composing the base must not swallow marks the language does define."""
+    assert G2P("yor", output="ipa").phonemes("ṣé") == ["ʃ", "e˥"]
+
+
+def test_tone_marks_unaffected_by_recomposition():
+    assert G2P("yor", output="ipa").phonemes("bàbá") == ["b", "ä˩", "b", "ä˥"]
+
+
+def test_dot_below_respects_opt_out():
+    assert G2P("kdx", output="ipa", fallback=False).phonemes("ẹ") == ["ə"]
