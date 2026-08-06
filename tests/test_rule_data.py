@@ -12,6 +12,7 @@ import unicodedata
 import pytest
 
 from africa_g2p import G2P
+from africa_g2p.normalizer import tie_affricates
 from africa_g2p.loader import available_languages, load_rules
 from africa_g2p.normalizer import tokenize
 
@@ -56,7 +57,9 @@ def test_composed_keys_reachable_repo_wide():
             continue
         for key, val in composed_keys(code).items():
             total += 1
-            if "".join(g2p.phonemes(key)) == str(val):
+            # Compare against the normalised value: affricate spellings are unified at
+            # load, so a raw `tʃ` in the file is legitimately `t͡ʃ` in the output.
+            if "".join(g2p.phonemes(key)) == tie_affricates(str(val)):
                 working += 1
     assert total > 1000, "expected a substantial number of composed keys"
     assert working / total >= 0.94, f"only {working}/{total} composed keys reachable"
@@ -152,3 +155,47 @@ def test_voiced_velar_stop_uses_ipa_codepoint():
     }
     bad = {c: v for c, v in bad.items() if v}
     assert not bad, f"ASCII g in IPA values: {bad}"
+
+
+# ------------------------------------------------------------- affricate normalisation
+
+@pytest.mark.parametrize("raw,tied", [
+    ("tʃ", "t͡ʃ"), ("dʒ", "d͡ʒ"), ("ts", "t͡s"), ("kp", "k͡p"), ("ɡb", "ɡ͡b"),
+    ("ʧ", "t͡ʃ"), ("ʤ", "d͡ʒ"),                      # precomposed ligatures
+    ("tʃʰ", "t͡ʃʰ"),                                  # aspiration rides along
+    ("p̪f", "p̪͡f"),                                  # marks stay with their base
+    ("n͡dʒ", "n͡d͡ʒ"),                                # prenasalised: tie both junctions
+])
+def test_tie_affricates(raw, tied):
+    assert tie_affricates(raw) == tied
+
+
+def test_tie_affricates_is_idempotent():
+    for s in ("t͡ʃ", "d͡ʒ", "p̪͡f", "n͡d͡ʒ"):
+        assert tie_affricates(s) == s
+
+
+def test_no_table_emits_a_bare_affricate():
+    """The same sound must not reach a model as two symbols."""
+    offenders = []
+    for code in ALL:
+        try:
+            g2p = G2P(code, output="ipa")
+        except Exception:
+            continue
+        for key, val in g2p.graphemes.items():
+            for a, b in (("t", "ʃ"), ("d", "ʒ"), ("k", "p"), ("ɡ", "b"), ("t", "s")):
+                if a + b in val:
+                    offenders.append((code, key, val))
+    assert not offenders, offenders[:5]
+
+
+def test_grapheme_mode_keeps_the_written_form():
+    """Normalisation is an IPA concern; native-orthography output is untouched."""
+    assert "͡" not in "".join(G2P("twi", output="grapheme").phonemes("gye"))
+
+
+def test_kabuverdianu_reads_sounds_not_letter_names():
+    """kea's chart was extracted from the alphabet-recitation column: k read 'kappa'."""
+    assert "".join(G2P("kea", output="ipa").phonemes("kaza")) == "kaza"
+    assert "".join(G2P("kea", output="ipa").phonemes("txeu")) == "t͡ʃɛu"

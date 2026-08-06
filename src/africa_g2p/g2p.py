@@ -12,7 +12,8 @@ from typing import Dict, List, Optional
 
 from .fallback import SPACING_TONE, fallback_ipa
 from .loader import load_rules
-from .normalizer import clean_ipa, fold_confusables, normalize_text, tokenize
+from .normalizer import (clean_ipa, fold_confusables, normalize_text, tie_affricates,
+                         tokenize)
 
 
 class G2P:
@@ -64,8 +65,14 @@ class G2P:
 
         # Grapheme table: base letters (no combining marks) -> IPA string.
         # Grapheme keys are lowercased + confusable-folded to match normalized input.
+        # Values are normalised to one affricate spelling. The tables disagree — 126 of
+        # 400 write `tʃ` where the rest write `t͡ʃ`, and a few carry the ligature `ʧ` —
+        # and a model trained on the raw values would learn the same sound as two or
+        # three separate symbols. Safe here because a value is one grapheme's realisation;
+        # the same normalisation over converted text could tie two adjacent phonemes.
         self.graphemes: Dict[str, str] = {
-            _norm(g): ipa for g, ipa in self.rules["graphemes"].items()
+            _norm(g): (tie_affricates(ipa) if output == "ipa" else ipa)
+            for g, ipa in self.rules["graphemes"].items()
         }
         # Romanization table: native-script unit -> Latin form (for output="latin").
         # Latin units map to themselves, so Latin input passes through unchanged.

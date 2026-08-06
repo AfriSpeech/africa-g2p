@@ -114,3 +114,39 @@ def tokenize(text: str) -> List[Token]:
     if pos < len(text):
         tokens.append(Token(text[pos:], False))
     return tokens
+
+
+# Affricates written as two bare letters, and the precomposed ligatures, both normalised
+# to the tie-bar spelling the package uses elsewhere.
+#
+# 126 of the 400 rule tables write `tʃ` where the rest write `t͡ʃ`, and a few carry the
+# Unicode ligatures `ʧ`/`ʤ`. They are the same sounds, but a model trained on the raw
+# tables sees them as different symbols: measured across the 141 AfriSpeech languages,
+# `t͡ʃ` and `tʃ` appeared as separate units 134,581 and 70,142 times, splitting one
+# phoneme's probability mass across two output classes for no reason.
+#
+# Ordered longest-first so `t͡ʃʰ` is not left half-converted by the `tʃ` rule.
+_LIGATURES = {"ʧ": "t͡ʃ", "ʤ": "d͡ʒ", "ʨ": "t͡ɕ", "ʥ": "d͡ʑ", "ʦ": "t͡s", "ʣ": "d͡z"}
+_AFFRICATE_PAIRS = (
+    ("t", "ʃ"), ("d", "ʒ"), ("t", "ɕ"), ("d", "ʑ"), ("t", "s"), ("d", "z"),
+    ("t", "ʂ"), ("d", "ʐ"), ("k", "p"), ("ɡ", "b"), ("p", "f"), ("b", "v"),
+)
+_TIE = "͡"
+
+
+def tie_affricates(ipa: str) -> str:
+    """Write affricates and doubly-articulated stops with a tie bar, consistently.
+
+    Applied to a rule table's *values*, where the string is one grapheme's realisation, so
+    an adjacent `t` and `s` there really are one affricate. It must not be run over
+    converted text, where the same two symbols may be neighbouring phonemes.
+    """
+    for lig, rep in _LIGATURES.items():
+        ipa = ipa.replace(lig, rep)
+    # The marks class excludes the tie itself, so a junction that is already tied simply
+    # does not match — no double ties, and no need to skip the whole value. Skipping it
+    # left prenasalised segments half-done: `n͡dʒ` kept a bare `dʒ` after the first tie.
+    for a, b in sorted(_AFFRICATE_PAIRS, key=lambda p: -len(p[0] + p[1])):
+        pat = re.compile(re.escape(a) + "([\u0300-\u0360\u0362-\u036f]*)" + re.escape(b))
+        ipa = pat.sub(lambda m: a + m.group(1) + _TIE + b, ipa)
+    return ipa

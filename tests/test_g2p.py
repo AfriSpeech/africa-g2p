@@ -97,7 +97,9 @@ def test_strip_diacritics_option():
 def test_twi_digraphs_are_single_units():
     # Twi palatalization/labial-palatalization digraphs kept as single units
     assert G2P("twi").convert("gye nyansa hyɛ", sep=" ") == "gy e ny a n s a hy ɛ"
-    assert G2P("twi", output="ipa").convert("gye", sep=" ") == "dʑ e"
+    # Affricates carry a tie bar: the tables disagreed and the same sound was landing in
+    # the inventory as both `dʑ` and `d͡ʑ`.
+    assert G2P("twi", output="ipa").convert("gye", sep=" ") == "d͡ʑ e"
 
 
 def test_akan_macrolanguage_dropped_for_varieties():
