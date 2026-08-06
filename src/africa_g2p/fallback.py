@@ -57,12 +57,34 @@ FALLBACK_IPA: Final[Dict[str, str]] = {
     "ɗ": "ɗ",
     "ɖ": "ɖ",
     "ƙ": "kʼ",   # Hausa ejective k
+    "w": "w",    # kiz omits it, and w is w wherever African Latin orthography uses it
     # Nigerian dot-below vowels and sibilant (Yoruba, Igbo, Edoid). No chart lists
     # them, because each language documents its own dotted letters in the base rows.
     "ẹ": "ɛ",
     "ọ": "ɔ",
     "ṣ": "ʃ",
+    # Clicks. Khoekhoe, Nama, Damara and Juǀʼhoan write them with the IPA click letters
+    # themselves, so like the borrowed vowels above these read as what they already are.
+    # No Latin chart carries them, which made every click language look unphonemisable.
+    "ǀ": "ǀ",    # dental
+    "ǁ": "ǁ",    # lateral
+    "ǃ": "ǃ",    # alveolar
+    "ǂ": "ǂ",    # palatal
+    "ʘ": "ʘ",    # bilabial
 }
+
+#: Spacing modifier letters used as orthographic tone marks.
+#:
+#: The Kru orthographies of Côte d'Ivoire — Dida, Godié, Bété, Attié — mark tone with a
+#: raised bar written *beside* the syllable rather than as a combining mark on the vowel.
+#: Because they are spacing characters they never attach to a base letter, so segmentation
+#: treated each one as an unknown grapheme: tone notation alone put Attié at 0.86 and Dida
+#: at 0.85, low enough to look like languages that could not be phonemised at all.
+#:
+#: They carry tone, not a segment, so they are dropped from IPA output rather than guessed
+#: at — which bar means which tone is language-specific and no chart records it. A language
+#: that *does* define one in its diacritics table still wins, as everywhere else.
+SPACING_TONE: Final[frozenset] = frozenset("ˈˉˊˋˌ˗˖")
 
 
 def fallback_ipa(char: str) -> str | None:

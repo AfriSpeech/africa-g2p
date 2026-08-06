@@ -105,3 +105,46 @@ def test_tone_marks_unaffected_by_recomposition():
 
 def test_dot_below_respects_opt_out():
     assert G2P("kdx", output="ipa", fallback=False).phonemes("ẹ") == ["ə"]
+
+
+# ------------------------------------------------------------------------- clicks
+
+@pytest.mark.parametrize("ch", ["ǀ", "ǁ", "ǃ", "ǂ", "ʘ"])
+def test_clicks_read_as_themselves(ch):
+    """Khoekhoe writes clicks with the IPA click letters; no Latin chart carries them."""
+    assert G2P("mfi", output="ipa", unknown="mark").phonemes(ch) == [ch]
+
+
+def test_click_language_is_phonemisable():
+    out = "".join(G2P("mfi", output="ipa", unknown="mark").phonemes("ǁÎ ǃNAETSANAS ǀnî"))
+    assert "�" not in out
+
+
+# -------------------------------------------------------------- spacing tone marks
+
+def test_spacing_tone_is_not_a_segment():
+    """Kru marks tone with a raised bar beside the syllable, not on the vowel."""
+    assert G2P("god", output="ipa", unknown="mark").phonemes("ˈze") == ["z", "e"]
+
+
+def test_spacing_tone_does_not_hide_real_unknowns():
+    """Only the tone bars are dropped — any other unmapped letter still reports."""
+    assert "�" in "".join(G2P("god", output="ipa", unknown="mark").phonemes("zЖe"))
+
+
+def test_spacing_tone_respects_opt_out():
+    assert "�" in "".join(G2P("god", output="ipa", unknown="mark",
+                              fallback=False).phonemes("ˈze"))
+
+
+def test_grapheme_mode_keeps_written_form():
+    """Native-orthography output must still show the tone bar the language writes."""
+    assert G2P("god", output="grapheme").phonemes("ˈze") == ["ˈ", "z", "e"]
+
+
+def test_language_defining_the_mark_still_wins():
+    """A chart that maps a tone bar itself must take precedence over dropping it."""
+    g = G2P("god", output="ipa")
+    g.graphemes["ˈ"] = "˥"
+    g._keys.add("ˈ")
+    assert g.phonemes("ˈze") == ["˥", "z", "e"]
