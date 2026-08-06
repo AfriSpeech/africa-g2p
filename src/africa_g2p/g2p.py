@@ -10,7 +10,7 @@ from __future__ import annotations
 import unicodedata
 from typing import Dict, List, Optional
 
-from .fallback import fallback_ipa
+from .fallback import SPACING_TONE, fallback_ipa
 from .loader import load_rules
 from .normalizer import clean_ipa, fold_confusables, normalize_text, tokenize
 
@@ -127,6 +127,13 @@ class G2P:
             match = self._longest_base_match(text, i, n)
             if match is None:
                 ch = text[i]
+                # Spacing tone bars carry tone, not a segment. They never attach to a base
+                # letter, so without this each one counted as an unknown grapheme and the
+                # Kru orthographies looked unphonemisable on tone notation alone.
+                if (self.output == "ipa" and self.fallback and ch in SPACING_TONE
+                        and ch not in self.graphemes):
+                    i += 1
+                    continue
                 if unicodedata.combining(ch):
                     # stray combining mark with no base — attach or drop silently
                     i += 1
