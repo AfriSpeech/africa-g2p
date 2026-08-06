@@ -144,6 +144,17 @@ class G2P:
                 raw += text[i]
                 i += 1
             if self.output == "ipa":
+                # A mark the language does not define is currently dropped. That is right
+                # for decoration, but dot-below is segmental: Yoruba, Igbo and Edoid write
+                # /ɛ ɔ ʃ/ as ẹ ọ ṣ, and no chart lists them, so `ẹgbẹ` came out as the wrong
+                # vowel entirely rather than as an error. Re-compose the base with its
+                # undefined marks and see whether the whole letter has a known reading.
+                stray = [m for m in raw if m not in self.diacritics]
+                if stray and self.fallback:
+                    sub = fallback_ipa(unicodedata.normalize("NFC", chunk + "".join(stray)))
+                    if sub is not None:
+                        base_ipa = sub
+                        raw = "".join(m for m in raw if m in self.diacritics)
                 suffix = "".join(self.diacritics.get(m, "") for m in raw)
                 unit = base_ipa + suffix
                 units.append(clean_ipa(unit) if self.clean else unit)
