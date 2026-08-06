@@ -17,13 +17,28 @@ dependencies = []
 dev = ["pytest>=7.0"]
 # Tools used only by the data/build scripts (not needed to use the library):
 data = ["afriso", "huggingface_hub"]
+# English G2P goes through phonemizer, which was previously required but undeclared: the feature
+# raised EspeakUnavailable and its tests skipped, on a machine where the espeak-ng binary was in
+# fact present. The binary is a system package and cannot be a Python dependency — install it
+# with apt/brew as the error message says.
+english = ["phonemizer>=3.0"]
 
 [project.scripts]
 africa-g2p = "africa_g2p.cli:main"
 
+[project.urls]
+Homepage = "https://github.com/AfriSpeech/africa-g2p"
+Issues = "https://github.com/AfriSpeech/africa-g2p/issues"
+
 [tool.hatch.build.targets.wheel]
+# `packages` already carries everything under src/africa_g2p, data files included — unlike
+# setuptools, hatchling does not need package-data declarations. A force-include of
+# languages/ and data/ therefore added them a second time, and hatchling refuses an archive
+# with duplicate paths ("A second file is being added ... at the same path"), so no wheel
+# could be built at all. There is a test below that fails if the data stops being included.
 packages = ["src/africa_g2p"]
 
-[tool.hatch.build.targets.wheel.force-include]
-"src/africa_g2p/languages" = "africa_g2p/languages"
-"src/africa_g2p/data" = "africa_g2p/data"
+[tool.hatch.build.targets.sdist]
+# Excluded from the source distribution: extraction/ and scripts/ regenerate the language
+# charts and need the `data` extra, and docs/ is not used at runtime.
+include = ["src/africa_g2p", "tests", "README.md", "DATA_LICENSE.md", "pyproject.toml"]

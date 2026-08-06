@@ -1,0 +1,75 @@
+# Publish to PyPI when a version tag is pushed.
+#
+# Uses PyPI Trusted Publishing (OIDC), so there is no API token in this repository's secrets.
+# GitHub mints a short-lived identity token that PyPI verifies against a publisher configured once
+# at https://pypi.org/manage/project/africa-g2p/settings/publishing/ with owner AfriSpeech, repo
+# africa-g2p, workflow release.yml, environment pypi. The first release cannot use this — a
+# trusted publisher cannot be added to a project that does not exist yet, so upload once by hand.
+#
+# Tag and version must agree. A tag of v0.2.0 with `version = "0.1.0"` in pyproject.toml would
+# upload the wrong release and PyPI does not allow re-uploading a version, so the check below
+# fails the job before the build rather than after the upload.
+name: release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:          # lets you dry-run the build without tagging
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Tag matches pyproject version
+        if: startsWith(github.ref, 'refs/tags/v')
+        run: |
+          tag="${GITHUB_REF_NAME#v}"
+          ver=$(python -c "import tomllib,pathlib; \
+            print(tomllib.loads(pathlib.Path('pyproject.toml').read_text())['project']['version'])")
+          echo "tag=$tag pyproject=$ver"
+          [ "$tag" = "$ver" ] || { echo "::error::tag $tag != version $ver"; exit 1; }
+
+      - run: pip install build twine
+      - run: python -m build
+
+      # `twine check` catches a malformed README before upload. PyPI renders the long
+      # description itself and rejects the whole upload if it cannot.
+      - run: twine check dist/*
+
+      - name: Import the built wheel
+        run: |
+          pip install dist/*.whl
+          python -c "import africa_g2p; print('ok')"
+          africa-g2p --help > /dev/null
+
+      # Run the suite against the *installed wheel*, from outside the source tree: the
+      # data files are the thing most likely to be missing from a build, and a test run
+      # from the repo root would find them on disk whether or not they were packaged.
+      - name: Test the installed wheel
+        run: |
+          pip install pytest
+          cd /tmp && python -m pytest "$GITHUB_WORKSPACE/tests" -q
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist/
+
+  publish:
+    needs: build
+    if: startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    environment: pypi          # must match the environment name set on PyPI's publisher form
+    permissions:
+      id-token: write          # required for OIDC; without it the upload cannot authenticate
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist/
+      - uses: pypa/gh-action-pypi-publish@release/v1
