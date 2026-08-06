@@ -30,7 +30,38 @@ cd africa-g2p
 pip install -e .
 ```
 
-Pure Python (3.9+), no runtime dependencies.
+Pure Python (3.9+), no runtime dependencies. English is the one exception — see below.
+
+## English
+
+African speech is full of English, so English is supported too, but **not** through the rule
+tables. It routes to espeak-ng:
+
+```bash
+pip install "africa-g2p[english]"
+apt install espeak-ng            # or: brew install espeak-ng
+```
+
+```python
+from africa_g2p import AfricaPipeline
+
+AfricaPipeline(lang="eng").run("through though tough thought", sep=" ")
+# 'θɹuː ðoʊ tʌf θɔːt'
+```
+
+**Why it cannot use the tables.** Greedy longest-match over a grapheme table is the right
+algorithm for the shallow orthographies in this package, and the wrong one for English: it maps
+*through*, *though*, *tough* and *thought* to a single identical string. `ough` alone has six
+readings, decided by etymology and morphology rather than by adjacent letters.
+
+Output is normalised to the same IPA conventions as the other 400 languages, so English phonemes
+share one inventory with them — no per-language tagging needed. Every symbol espeak emits already
+occurs somewhere in the rule tables, and where English genuinely differs, IPA already
+distinguishes it (`æ` is not `a`, `ɹ` is not `r`).
+
+Requesting English without `[english]` installed raises `EspeakUnavailable` naming what to
+install. It does not fall back to the tables, because plausible-looking wrong phonemes are worse
+than an error — everything downstream keeps working and only the audio is wrong.
 
 ## Quick start
 

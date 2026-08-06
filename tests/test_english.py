@@ -78,3 +78,41 @@ def test_grapheme_output_refused():
     """There is no rule table for English, so native-orthography units are meaningless."""
     with pytest.raises(ValueError):
         EnglishG2P(output="grapheme")
+
+
+# --- routing: the high-level entry points must not use the eng.json rule table ---------------
+
+def test_pipeline_routes_english_to_espeak() -> None:
+    """`AfricaPipeline(lang="eng")` used to segment with the shallow eng.json chart.
+
+    That is the failure mode worth a test: greedy longest-match collapses the -ough words onto
+    one string and raises nothing, so the caller gets confident, fluent, wrong phonemes.
+    """
+    from africa_g2p import AfricaPipeline
+
+    got = AfricaPipeline(lang="eng").run("through though tough thought", sep=" ")
+    assert got == EnglishG2P().convert("through though tough thought", sep=" ")
+    # The distinctions a rule table cannot make must survive.
+    assert len({AfricaPipeline(lang="eng").run(w) for w in
+                ("through", "though", "tough", "thought")}) == 4
+
+
+def test_g2p_helper_routes_english() -> None:
+    from africa_g2p import g2p
+
+    assert g2p("knight", "eng", sep=" ") == "n aɪ t"
+
+
+def test_english_codes_all_route() -> None:
+    from africa_g2p import ENGLISH_CODES, AfricaPipeline
+
+    for code in ENGLISH_CODES:
+        out = AfricaPipeline(lang=code).run("thought")
+        assert "θ" in out, f"{code} did not route to espeak: {out!r}"
+
+
+def test_other_languages_unaffected() -> None:
+    """Twi must still go through the rule tables — stable-twi-tts depends on it."""
+    from africa_g2p import AfricaPipeline
+
+    assert AfricaPipeline(lang="twi", output="ipa").run("Akwaaba", sep=" ") == "a kʷ a a b a"

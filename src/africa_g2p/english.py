@@ -54,8 +54,9 @@ def _backend(voice: str):
         from phonemizer.backend import EspeakBackend
     except ImportError as e:
         raise EspeakUnavailable(
-            "English G2P needs phonemizer and espeak-ng: pip install phonemizer, "
-            "and install the espeak-ng binary for your platform."
+            "English G2P needs phonemizer and the espeak-ng binary:\n"
+            "  pip install 'africa-g2p[english]'\n"
+            "  apt install espeak-ng            # or: brew install espeak-ng"
         ) from e
     try:
         return EspeakBackend(voice, with_stress=False, language_switch="remove-flags")

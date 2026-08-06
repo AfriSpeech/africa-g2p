@@ -197,6 +197,15 @@ def g2p(text: str, lang: str, *, output: str = "grapheme",
 
     Constructor options (output/unknown/clean/strip_diacritics) are accepted here;
     remaining keyword arguments (sep, lower) are passed to ``convert``.
+
+    English routes to espeak — see AfricaPipeline for why the eng.json rule table must not be
+    used for it. Imported here rather than at module scope to keep this module free of the
+    optional phonemizer dependency for the 400 languages that do not need it.
     """
+    from .english import ENGLISH_CODES, EnglishG2P
+
+    if lang in ENGLISH_CODES:
+        return EnglishG2P(
+            lang, output="ipa" if output == "grapheme" else output).convert(text, **kwargs)
     return G2P(lang, output=output, unknown=unknown, clean=clean,
                strip_diacritics=strip_diacritics).convert(text, **kwargs)
