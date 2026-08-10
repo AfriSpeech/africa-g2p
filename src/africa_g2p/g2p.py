@@ -111,13 +111,34 @@ class G2P:
         word = normalize_text(word, lower=lower)
         return self._convert_word(word, sep=sep)
 
-    def phonemes(self, text: str, *, lower: bool = True) -> List[str]:
-        """Return a flat list of phoneme units for the text (words only)."""
+    def phonemes(self, text: str, *, lower: bool = True,
+                 punctuation: bool = True) -> List[str]:
+        """Return a flat list of units for the text.
+
+        Punctuation is kept by default, each mark as its own unit:
+
+            >>> G2P("yor", output="ipa").phonemes("ṣé o wà?")
+            ['ʃ', 'e˥', 'o', 'w', 'ä˩', '?']
+
+        It used to be dropped silently, which is wrong for most of what this output feeds.
+        Forced alignment needs the marks to place pauses; TTS needs them for phrasing; and
+        an ASR model trained on stripped targets can never learn to emit them. Callers
+        that genuinely want bare phonemes can pass ``punctuation=False`` — but they should
+        be choosing that, rather than discovering it after training a model.
+
+        Whitespace is never emitted: word boundaries are carried by the list itself.
+        """
         text = normalize_text(text, lower=lower)
         units: List[str] = []
         for tok in tokenize(text):
             if tok.is_word:
                 units.extend(self._segment(tok.text))
+            elif punctuation:
+                # Unicode punctuation only. A non-word run can also hold whitespace, a
+                # stray combining mark with no base, or a digit; none of those are
+                # punctuation and emitting them would put junk in the inventory.
+                units.extend(c for c in tok.text
+                             if unicodedata.category(c).startswith("P"))
         return units
 
     # ----------------------------------------------------------------- private

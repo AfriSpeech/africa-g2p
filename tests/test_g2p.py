@@ -197,3 +197,42 @@ def test_specific_ipa_outputs(code, word, expected):
     if code not in available_languages():
         pytest.skip(f"{code} not extracted")
     assert G2P(code, output="ipa").convert(word, sep=" ") == expected
+
+
+# ------------------------------------------------------------------- punctuation
+
+def test_punctuation_is_kept_by_default():
+    """Dropping it silently is wrong for alignment, TTS and ASR targets alike."""
+    assert G2P("yor", output="ipa").phonemes("ṣé o wà?") == ["ʃ", "e˥", "o", "w", "ä˩", "?"]
+
+
+def test_punctuation_marks_are_separate_units():
+    units = G2P("yor", output="ipa").phonemes("ẹ jọ̀wọ́, ṣé")
+    assert "," in units and not any(len(u) > 1 and "," in u for u in units)
+
+
+@pytest.mark.parametrize("mark", [",", ".", "?", "!", ";", ":", '"', "—", "…"])
+def test_common_marks_survive(mark):
+    assert mark in G2P("yor", output="ipa").phonemes(f"o wà{mark} ṣé")
+
+
+def test_apostrophe_stays_a_glottal_stop():
+    """Not punctuation: across these orthographies ' is a letter, and treating it as a
+    mark is how 77k rows once lost their glottal stop."""
+    assert "ʔ" in G2P("kus", output="ipa").phonemes("ba'as")
+
+
+def test_punctuation_can_be_opted_out():
+    assert G2P("yor", output="ipa").phonemes("ṣé o wà?", punctuation=False) == \
+        ["ʃ", "e˥", "o", "w", "ä˩"]
+
+
+def test_whitespace_is_never_emitted():
+    assert not any(u.isspace() for u in G2P("yor", output="ipa").phonemes("ṣé   o\twà"))
+
+
+def test_digits_and_stray_marks_are_not_punctuation():
+    """Only Unicode punctuation is kept; a digit or a base-less mark is not."""
+    units = G2P("yor", output="ipa").phonemes("3 wà")
+    assert "3" not in units
+    assert G2P("twi", output="ipa").phonemes("̃a") == ["a"]
