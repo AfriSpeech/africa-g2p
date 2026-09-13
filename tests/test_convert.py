@@ -1,0 +1,63 @@
+import pytest
+
+from africa_g2p import (
+    UNIVERSAL,
+    GraphemeConverter,
+    convert_lang,
+)
+from africa_g2p.g2p import G2P
+from africa_g2p.loader import LanguageNotFoundError
+
+
+# --- cross-language grapheme conversion ---
+
+def test_same_phoneme_written_identically():
+    # k͡p is written <kp> in both Jula and Ewe, so conversion is a no-op per unit
+    assert convert_lang("kpako", "dyu", "ewe", sep=" ") == "kp a k o"
+
+
+def test_roundtrip_ewe_dyu():
+    assert convert_lang("kpako", "ewe", "dyu", sep=" ") == "kp a k o"
+    assert convert_lang("nyini", "dyu", "ewe", sep=" ") == "ny i n i"
+
+
+def test_to_universal():
+    # ɲ -> ny is the majority grapheme, so universal output matches the source here
+    assert convert_lang("nyini", "dyu", UNIVERSAL, sep=" ") == "ny i n i"
+
+
+def test_converter_object_and_word():
+    conv = GraphemeConverter("dyu", "ewe")
+    assert conv.convert_word("kpako") == "kp a k o"
+    assert conv.convert_word("kpako", sep="") == "kpako"
+    assert conv.convert("kpako, nyini.") == "kp a k o, ny i n i."
+
+
+def test_punctuation_and_whitespace_preserved():
+    assert convert_lang("Jakuma, sogo.", "dyu", "ewe", sep=" ") == "dy a k u m a, s o g o."
+
+
+def test_unknown_target_phoneme_falls_back_to_universal():
+    # Ewe does not mark aspiration, so /kʰ/ (Twi <k>) falls back to the majority 'kh'
+    assert convert_lang("Onyankopɔn", "twi", UNIVERSAL, sep=" ") == "o ny a n kh o ph ɔ n"
+
+
+def test_universal_as_source():
+    text = "kpako"
+    assert convert_lang(text, UNIVERSAL, "ewe", sep=" ") == "kp a k o"
+
+
+def test_missing_language_raises():
+    with pytest.raises(LanguageNotFoundError):
+        GraphemeConverter("nope-not-a-lang", "ewe")
+    with pytest.raises(LanguageNotFoundError):
+        GraphemeConverter("dyu", "nope-not-a-lang")
+
+
+# --- G2P.from_rules (used for the virtual universal language) ---
+
+def test_from_rules_builds_engine():
+    rules = {"code": "zz", "graphemes": {"kp": "k͡p", "k": "k", "a": "a", "o": "o"}}
+    conv = G2P.from_rules(rules)
+    assert conv.convert("kpako", sep=" ") == "k͡p a k o"
+    assert conv.convert_word("kpako", sep=" ") == "k͡p a k o"

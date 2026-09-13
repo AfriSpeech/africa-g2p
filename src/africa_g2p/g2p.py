@@ -53,13 +53,35 @@ class G2P:
         if output not in ("ipa", "grapheme", "latin"):
             raise ValueError("output must be 'ipa', 'grapheme', or 'latin'")
         self.code = code
-        self.rules = load_rules(code)
         self.output = output
         self.unknown = unknown
         self.clean = clean
         self.strip_diacritics = strip_diacritics
         self.fallback = fallback
+        self._build_tables(load_rules(code))
 
+    @classmethod
+    def from_rules(cls, rules: Dict, *, output: str = "ipa",
+                   unknown: str = "passthrough", clean: bool = True,
+                   strip_diacritics: bool = False, fallback: bool = True) -> "G2P":
+        """Build a G2P from an in-memory rules dict rather than a language file.
+
+        Used by the cross-language converter for its virtual ``"universal"`` language
+        (the per-IPA majority grapheme set), which is not a file on disk.
+        """
+        if output not in ("ipa", "grapheme", "latin"):
+            raise ValueError("output must be 'ipa', 'grapheme', or 'latin'")
+        self = cls.__new__(cls)
+        self.code = rules.get("code", "?")
+        self.output = output
+        self.unknown = unknown
+        self.clean = clean
+        self.strip_diacritics = strip_diacritics
+        self.fallback = fallback
+        self._build_tables(rules)
+        return self
+
+    def _build_tables(self, rules: Dict) -> None:
         def _norm(k):
             return unicodedata.normalize("NFD", fold_confusables(str(k).lower()))
 
@@ -71,13 +93,13 @@ class G2P:
         # three separate symbols. Safe here because a value is one grapheme's realisation;
         # the same normalisation over converted text could tie two adjacent phonemes.
         self.graphemes: Dict[str, str] = {
-            _norm(g): (tie_affricates(ipa) if output == "ipa" else ipa)
-            for g, ipa in self.rules["graphemes"].items()
+            _norm(g): (tie_affricates(ipa) if self.output == "ipa" else ipa)
+            for g, ipa in rules["graphemes"].items()
         }
         # Romanization table: native-script unit -> Latin form (for output="latin").
         # Latin units map to themselves, so Latin input passes through unchanged.
         self.romanization: Dict[str, str] = {
-            _norm(k): v for k, v in self.rules.get("romanization", {}).items()
+            _norm(k): v for k, v in rules.get("romanization", {}).items()
         }
         # Segmentation inventory. For grapheme/latin output we also admit letters from
         # the ALPHABET row (and any romanization keys), so words segment fully even where
@@ -85,14 +107,14 @@ class G2P:
         self._keys = set(self.graphemes)
         if self.output in ("grapheme", "latin"):
             self._keys.update(self.romanization)
-            for a in self.rules.get("alphabet", []):
+            for a in rules.get("alphabet", []):
                 k = _norm(a)
                 if k and not any(unicodedata.combining(c) for c in k):
                     self._keys.add(k)
         self._max_len = max((len(k) for k in self._keys), default=1)
 
         # Diacritic table: combining codepoint -> IPA suprasegmental suffix.
-        self.diacritics: Dict[str, str] = dict(self.rules.get("diacritics", {}))
+        self.diacritics: Dict[str, str] = dict(rules.get("diacritics", {}))
 
     # ------------------------------------------------------------------ public
     def convert(self, text: str, *, sep: str = "", lower: bool = True) -> str:
