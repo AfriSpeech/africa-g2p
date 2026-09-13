@@ -218,24 +218,27 @@ class GraphemeConverter:
         return sep.join(self._map_units(units))
 
     def _map_units(self, units: list) -> list:
-        """Map each phoneme to a target grapheme, replacing conversion collisions on
-        vowels with their closest vowel alternative (e.g. o -> u, e -> i) to avoid
-        creating artificial double letters: Twi ``dodoɔ`` -> ``dodou`` (not ``dodoo``),
-        while genuine long vowels / geminates stay double."""
+        """Map each phoneme to a target grapheme, replacing the existing (preceding)
+        vowel in a conversion collision with its closest alternative (e.g. o -> u)
+        while keeping the converted vowel as its universal target:
+        Twi ``dodoɔ`` -> ``doduo``."""
         mapped: list = []
         prev_g, run_converted = None, False
         for ipa in units:
             g, converted = self._map(ipa)
             if converted and len(g) >= 2 and len(set(g)) == 1 and g[0] in _VOWELS:
                 alt = _VOWEL_ALTERNATIVES.get(g[0], "u" if g[0] in "oɔ" else "i")
-                g = g[0] + alt
+                g = alt + g[0]
             if g != prev_g:
                 prev_g, run_converted = g, converted
                 mapped.append(g)
             else:
                 if (run_converted or converted) and g and g[0] in _VOWELS:
-                    alt = _VOWEL_ALTERNATIVES.get(g, "u" if g in "oɔ" else "i")
-                    mapped.append(alt)
+                    if mapped and mapped[-1] and mapped[-1][-1] in _VOWELS:
+                        last_v = mapped[-1][-1]
+                        alt = _VOWEL_ALTERNATIVES.get(last_v, "u" if last_v in "oɔ" else "i")
+                        mapped[-1] = mapped[-1][:-1] + alt
+                    mapped.append(g)
                     run_converted = True
                 else:
                     mapped.append(g)

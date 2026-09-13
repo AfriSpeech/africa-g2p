@@ -95,8 +95,9 @@ def test_convert_to_ipa_normalizes_through_universal():
 
 def test_conversion_artificial_double_tripled():
     # Twi "dodoɔ" converted to universal: /ɔ/ -> <o> creates an artificial double,
-    # which has its second vowel replaced with its alternative 'u' to become "dodou".
-    assert convert_lang("dodoɔ", "twi", UNIVERSAL) == "dodou"
+    # which has its existing vowel replaced with its alternative 'u' and converted
+    # vowel kept as universal 'o' to become "doduo".
+    assert convert_lang("dodoɔ", "twi", UNIVERSAL) == "doduo"
 
 
 def test_missing_language_raises():
