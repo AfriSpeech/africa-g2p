@@ -48,9 +48,25 @@ def test_punctuation_and_whitespace_preserved():
     assert convert_lang("Jakuma, sogo.", "dyu", "ewe", sep=" ") == "dy a k u m a, s o g o."
 
 
-def test_unknown_target_phoneme_falls_back_to_universal():
-    # Ewe does not mark aspiration, so /kʰ/ (Twi <k>) falls back to the majority 'kh'
-    assert convert_lang("Onyankopɔn", "twi", UNIVERSAL, sep=" ") == "o ny a n kh o ph ɔ n"
+def test_aspiration_relaxed_to_universal():
+    # these phones are the same for conversion purposes, so aspiration is dropped and
+    # /kʰ/ /pʰ/ take the majority grapheme of plain /k/ /p/ (and /ɔ/ is written <o>)
+    assert convert_lang("Onyankopɔn", "twi", UNIVERSAL, sep=" ") == "o ny a n k o p o n"
+
+
+def test_aspiration_relaxed_for_target_without_aspiration():
+    # Ewe does not mark aspiration, so Twi /kʰ/ writes with Ewe's /k/ grapheme
+    assert convert_lang("Onyankopɔn", "twi", "ewe", sep=" ") == "o ny a n k o p ɔ n"
+
+
+def test_target_exact_aspiration_still_wins():
+    # Duruma marks aspiration (kʰ -> <k'>), so its exact reading beats the relaxed one
+    assert convert_lang("ka", "twi", "dug", sep=" ") == "k' a"
+
+
+def test_relax_aspiration_can_be_disabled():
+    conv = GraphemeConverter("twi", "ewe", relax_aspiration=False)
+    assert conv.convert_word("Onyankopɔn", sep=" ") == "o ny a n kh o ph ɔ n"
 
 
 def test_universal_as_source():

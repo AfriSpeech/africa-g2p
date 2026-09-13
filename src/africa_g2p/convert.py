@@ -5,10 +5,11 @@ graphemes another language uses for the same phonemes, routing both through IPA:
 
     L1 graphemes -> IPA -> L2 graphemes
 
-Either side may be the virtual language ``"universal"`` — the per-IPA majority
-grapheme set distilled from all 400 language charts (see
-``scripts/ipa_universal_graphemes.py``). When a source phoneme has no entry in the
-target's chart, the universal grapheme is used as a fallback.
+Either side may be the virtual language ``"universal"`` — the per-IPA grapheme set distilling
+    all 400 language charts: majority winners of ``scripts/ipa_universal_graphemes.py``, re-judged
+    per IPA by Gemini into common Latin/English spellings (see
+    ``scripts/build_universal_from_gemini.py``). When a source phoneme has no entry in the target's
+    chart, the universal grapheme is used as a fallback.
 
     >>> from africa_g2p import GraphemeConverter
     >>> GraphemeConverter("twi", "ewe").convert("Onyankopɔn")      # text, words kept
@@ -17,6 +18,8 @@ target's chart, the universal grapheme is used as a fallback.
 from __future__ import annotations
 
 import json
+import re
+import unicodedata
 from pathlib import Path
 from typing import Dict, Tuple
 
@@ -34,6 +37,50 @@ _universal_forward: Dict[str, str] = {}
 _universal_reverse: Dict[str, str] = {}
 _reverse_cache: Dict[str, Dict[str, str]] = {}
 
+# IPA aspiration marks: modifier small-h U+02B0 (ʰ) and breathy-voiced hook U+02B1 (ʱ).
+# Dropped to relax an aspirated phoneme onto its plain counterpart for matching.
+_ASPIRATION_TRANS = str.maketrans({"\u02b0": "", "\u02b1": ""})
+
+
+def _relax_aspiration(ipa: str) -> str:
+    """Drop aspiration/breathy marks: /tɕʰ/ -> /tɕ/, /kʰ/ -> /k/, /ɡʱ/ -> /ɡ/."""
+    return ipa.translate(_ASPIRATION_TRANS)
+
+
+# --- single-phoneme filter for the universal *forward* ("reading") table ---------
+# The per-IPA grapheme picks include transliterations of multi-phoneme fidel
+# syllables (e.g. /k͡p a/ as "kpa", /ɓ i/ as "bi"). Those are fine for writing
+# (reverse table: IPA -> pick verbatim) but must not become graphemes of the
+# virtual universal orthography (forward table) — the greedy tokenizer would
+# otherwise slice ordinary words like "kpako" into "kpa"+"ko". A value counts as
+# one phoneme segment iff it has at most two core letters, and for two they form
+# a coarticulated CONSONANT pair (k͡p, t͡ʃ, ᵑɡ͡b, ts, ny ...), not C+V.
+_VOWELS = set("aàáãäæèéêëɛəɐɑɒɔɜɞɘɚeẽiĩɪɨɤɵoõöòóôuùũüʊʉɯʏøœyỹʌǝǐịụ")
+_SKIP_CATEGORIES = frozenset(("Mn", "Lm", "Cn", "Pc", "Pe", "Pf", "Po", "Ps", "Sm"))
+_TIE_SPLIT = re.compile("[\u0361\u035C]")
+
+
+def _phone_cores(ipa: str) -> list:
+    """Base (consonant/vowel) letters of an IPA value, tie bars and all diacritic
+    marks, aspiration/glide/length modifiers and superscript prenasals removed."""
+    s = tie_affricates(ipa)
+    s = "".join(ch for ch in s if unicodedata.category(ch) not in _SKIP_CATEGORIES)
+    return [
+        ch
+        for part in _TIE_SPLIT.split(s)
+        for ch in part
+        if unicodedata.category(ch) in ("Ll", "Lo")
+    ]
+
+
+def _is_single_phoneme(ipa: str) -> bool:
+    cores = _phone_cores(ipa)
+    if len(cores) > 2:
+        return False
+    if len(cores) < 2:
+        return True
+    return cores[0] not in _VOWELS and cores[1] not in _VOWELS
+
 
 def _universal_tables() -> Tuple[Dict[str, str], Dict[str, str]]:
     """Forward (majority grapheme -> IPA) and reverse (IPA -> majority grapheme)
@@ -49,8 +96,9 @@ def _universal_tables() -> Tuple[Dict[str, str], Dict[str, str]]:
         for raw_ipa, v in order:
             ipa = tie_affricates(raw_ipa)
             if v["grapheme"]:  # guard against empty winners
-                _universal_forward.setdefault(v["grapheme"], ipa)
                 _universal_reverse.setdefault(ipa, v["grapheme"])
+                if _is_single_phoneme(raw_ipa):  # only keep real segment graphemes
+                    _universal_forward.setdefault(v["grapheme"], ipa)
     return _universal_forward, _universal_reverse
 
 
@@ -88,17 +136,23 @@ def reverse_table(lang: str) -> Dict[str, str]:
 class GraphemeConverter:
     """Rewrite one language's graphemes in another's, per shared phonemes."""
 
-    def __init__(self, source: str, target: str):
+    def __init__(self, source: str, target: str, *, relax_aspiration: bool = True):
         """
         Args:
             source: ISO 639-3 code of the input language, or "universal" to read the
                     majority grapheme set.
             target: ISO 639-3 code of the output language, or "universal" to write
                     every phoneme with the grapheme most languages use.
+            relax_aspiration: when a source phoneme has no writing in the target (e.g.
+                    aspirated /tʰ/ where the target only spells plain /t/), drop the
+                    aspiration mark and map the plain phoneme instead — /tɕʰ/ writes
+                    like /tɕ/, /kʰ/ like /k/. Exact target readings always win when the
+                    target does mark aspiration. Default True.
         """
         forward, reverse = _universal_tables()
         self.source = source
         self.target = target
+        self.relax_aspiration = relax_aspiration
         # Forward engine: language graphemes -> IPA (or majority graphemes -> IPA).
         if source == UNIVERSAL:
             self._forward = G2P.from_rules({"code": UNIVERSAL, "graphemes": forward})
@@ -131,9 +185,26 @@ class GraphemeConverter:
         return sep.join(self._map(ipa) for ipa in units)
 
     def _map(self, ipa: str) -> str:
-        # Target's own writing for the phoneme; the majority grapheme if the target
-        # chart has no entry; the IPA unit itself as a last-resort passthrough.
-        return self._reverse.get(ipa, self._universal_reverse.get(ipa, ipa))
+        # 1) a real-language target's own writing: exact reading first (a target that
+        #    spells /tʰ/ as <th> still wins), aspiration-relaxed as its fallback (a
+        #    target with no /tʰ/ at all uses its /t/ reading). For the virtual
+        #    "universal" target this step is identical to the majority step below.
+        relaxed = _relax_aspiration(ipa) if self.relax_aspiration else ipa
+        if self.target != UNIVERSAL:
+            for form in (ipa, relaxed):
+                g = self._reverse.get(form)
+                if g is not None:
+                    return g
+        # 2) the majority grapheme set. Rare aspirated phonemes win their vote by tiny
+        #    samples (e.g. /tɕʰ/ is written <q> by just 3 languages), so prefer the
+        #    relaxed, plain-phoneme majority (/tɕʰ/ reads like the /tɕ/ winner) and
+        #    keep the exact entry only as a last resort.
+        for form in (relaxed, ipa):
+            g = self._universal_reverse.get(form)
+            if g is not None:
+                return g
+        # 3) unmappable: pass the IPA unit through untouched.
+        return ipa
 
 
 def convert_lang(text: str, source: str, target: str, *, sep: str = "") -> str:
