@@ -100,6 +100,17 @@ def test_conversion_artificial_double_tripled():
     assert convert_lang("dodoɔ", "twi", UNIVERSAL) == "doduo"
 
 
+def test_true_source_doubles_preserved():
+    # True source long vowels (e.g. Twi "hyɛɛ") are not conversion collisions
+    # and should stay double ("shee"), not be altered to single/alternative vowels.
+    assert convert_lang("hyɛɛ", "twi", UNIVERSAL) == "shee"
+
+
+def test_english_words_skipped():
+    # English words found in text are passed through untouched.
+    assert convert_lang("Google is great", "twi", UNIVERSAL) == "google is great"
+
+
 def test_missing_language_raises():
     with pytest.raises(LanguageNotFoundError):
         GraphemeConverter("nope-not-a-lang", "ewe")

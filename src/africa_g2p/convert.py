@@ -67,6 +67,20 @@ _VOWEL_ALTERNATIVES = {
     "a": "ə",
     "ə": "a",
 }
+
+try:
+    from spellchecker import SpellChecker
+    _spell = SpellChecker()
+except ImportError:
+    _spell = None
+
+
+def _is_english_word(word: str) -> bool:
+    if _spell is None or len(word) < 4:
+        return False
+    if not word.isalpha() or not word.isascii():
+        return False
+    return word.lower() in _spell
 _SKIP_CATEGORIES = frozenset(("Mn", "Lm", "Cn", "Pc", "Pe", "Pf", "Po", "Ps", "Sm"))
 _TIE_SPLIT = re.compile("[\u0361\u035C]")
 
@@ -204,7 +218,7 @@ class GraphemeConverter:
         text = normalize_text(text, lower=lower)
         out: list = []
         for tok in tokenize(text):
-            if not tok.is_word:
+            if not tok.is_word or _is_english_word(tok.text):
                 out.append(tok.text)
                 continue
             units = self._forward.convert_word(tok.text, sep=" ", lower=False).split(" ")
@@ -213,35 +227,41 @@ class GraphemeConverter:
 
     def convert_word(self, word: str, *, sep: str = "", lower: bool = True) -> str:
         """Convert a single word (no tokenization)."""
+        if _is_english_word(word):
+            return word
         word = normalize_text(word, lower=lower)
         units = self._forward.convert_word(word, sep=" ", lower=False).split(" ")
         return sep.join(self._map_units(units))
 
     def _map_units(self, units: list) -> list:
         """Map each phoneme to a target grapheme, replacing the existing (preceding)
-        vowel in a conversion collision with its closest alternative (e.g. o -> u)
-        while keeping the converted vowel as its universal target:
-        Twi ``dodoɔ`` -> ``doduo``."""
+        vowel in a conversion collision (between different source phonemes) with its
+        closest alternative (e.g. o -> u) while keeping true source doubles (long
+        vowels like hyɛɛ -> hyee) and converted vowels untouched."""
         mapped: list = []
-        prev_g, run_converted = None, False
+        prev_g, prev_ipa, run_converted = None, None, False
         for ipa in units:
             g, converted = self._map(ipa)
             if converted and len(g) >= 2 and len(set(g)) == 1 and g[0] in _VOWELS:
                 alt = _VOWEL_ALTERNATIVES.get(g[0], "u" if g[0] in "oɔ" else "i")
                 g = alt + g[0]
-            if g != prev_g:
-                prev_g, run_converted = g, converted
+            # Only collide if it's the same target grapheme AND different source phonemes
+            # (so true source doubles like hyɛɛ -> hyee are left as double ee, not ii/etc.)
+            is_different_phoneme_collision = (g == prev_g and ipa != prev_ipa)
+            if is_different_phoneme_collision and g and g[0] in _VOWELS:
+                if mapped and mapped[-1] and mapped[-1][-1] in _VOWELS:
+                    last_v = mapped[-1][-1]
+                    alt = _VOWEL_ALTERNATIVES.get(last_v, "u" if last_v in "oɔ" else "i")
+                    mapped[-1] = mapped[-1][:-1] + alt
                 mapped.append(g)
+                run_converted = True
             else:
-                if (run_converted or converted) and g and g[0] in _VOWELS:
-                    if mapped and mapped[-1] and mapped[-1][-1] in _VOWELS:
-                        last_v = mapped[-1][-1]
-                        alt = _VOWEL_ALTERNATIVES.get(last_v, "u" if last_v in "oɔ" else "i")
-                        mapped[-1] = mapped[-1][:-1] + alt
+                if g != prev_g:
+                    prev_g, prev_ipa, run_converted = g, ipa, converted
                     mapped.append(g)
-                    run_converted = True
                 else:
                     mapped.append(g)
+                    prev_ipa = ipa
                     run_converted = run_converted or converted
         return mapped
 
