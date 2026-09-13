@@ -57,6 +57,16 @@ def _relax_aspiration(ipa: str) -> str:
 # one phoneme segment iff it has at most two core letters, and for two they form
 # a coarticulated CONSONANT pair (k͡p, t͡ʃ, ᵑɡ͡b, ts, ny ...), not C+V.
 _VOWELS = set("aàáãäæèéêëɛəɐɑɒɔɜɞɘɚeẽiĩɪɨɤɵoõöòóôuùũüʊʉɯʏøœyỹʌǝǐịụ")
+_VOWEL_ALTERNATIVES = {
+    "o": "u",
+    "u": "o",
+    "e": "i",
+    "i": "e",
+    "ɔ": "u",
+    "ɛ": "i",
+    "a": "ə",
+    "ə": "a",
+}
 _SKIP_CATEGORIES = frozenset(("Mn", "Lm", "Cn", "Pc", "Pe", "Pf", "Po", "Ps", "Sm"))
 _TIE_SPLIT = re.compile("[\u0361\u035C]")
 
@@ -208,33 +218,28 @@ class GraphemeConverter:
         return sep.join(self._map_units(units))
 
     def _map_units(self, units: list) -> list:
-        """Map each phoneme to a target grapheme, marking conversion collisions.
-
-        When a converted phoneme — one the target writes differently from the source's
-        own spelling (e.g. /ɔ/ as universal <o>) — lands next to a phoneme the target
-        spells with that same letter, or maps directly to a double letter (e.g. 'oo'),
-        the accidental double would read as a long vowel or geminate. So the converted
-        unit is written double/tripled, to keep the merge distinct from a true double:
-        Twi ``dodoɔ`` -> ``dodooo`` (not ``dodoo``), while a genuine /oː/ stays ``oo``."""
+        """Map each phoneme to a target grapheme, replacing conversion collisions on
+        vowels with their closest vowel alternative (e.g. o -> u, e -> i) to avoid
+        creating artificial double letters: Twi ``dodoɔ`` -> ``dodou`` (not ``dodoo``),
+        while genuine long vowels / geminates stay double."""
         mapped: list = []
-        prev_g, run_converted, run_wrapped = None, False, False
+        prev_g, run_converted = None, False
         for ipa in units:
             g, converted = self._map(ipa)
-            if converted and len(g) >= 2 and len(set(g)) == 1:
-                g = g + g[0]
+            if converted and len(g) >= 2 and len(set(g)) == 1 and g[0] in _VOWELS:
+                alt = _VOWEL_ALTERNATIVES.get(g[0], "u" if g[0] in "oɔ" else "i")
+                g = g[0] + alt
             if g != prev_g:
-                prev_g, run_converted, run_wrapped = g, converted, False
+                prev_g, run_converted = g, converted
                 mapped.append(g)
             else:
-                if run_converted or converted:
-                    if not run_wrapped:
-                        mapped.append(g + g)
-                        run_wrapped = True
-                    else:
-                        mapped.append(g)
+                if (run_converted or converted) and g and g[0] in _VOWELS:
+                    alt = _VOWEL_ALTERNATIVES.get(g, "u" if g in "oɔ" else "i")
+                    mapped.append(alt)
                     run_converted = True
                 else:
                     mapped.append(g)
+                    run_converted = run_converted or converted
         return mapped
 
     def _map(self, ipa: str) -> tuple:
