@@ -11,8 +11,8 @@ grapheme set distilled from all 400 language charts (see
 target's chart, the universal grapheme is used as a fallback.
 
     >>> from africa_g2p import GraphemeConverter
-    >>> GraphemeConverter("twi", "ewe").convert("Onyankopɔn", sep=" ")
-    GraphemeConverter("twi", "universal").convert("Onyankopɔn", sep=" ")
+    >>> GraphemeConverter("twi", "ewe").convert("Onyankopɔn")      # text, words kept
+    >>> GraphemeConverter("twi", "universal").convert("Onyankopɔn", sep=" ")  # units
 """
 from __future__ import annotations
 
@@ -108,8 +108,11 @@ class GraphemeConverter:
         self._reverse = reverse if target == UNIVERSAL else reverse_table(target)
         self._universal_reverse = reverse
 
-    def convert(self, text: str, *, sep: str = " ", lower: bool = True) -> str:
-        """Convert a full text, keeping spacing/punctuation in place."""
+    def convert(self, text: str, *, sep: str = "", lower: bool = True) -> str:
+        """Convert a full text. Word boundaries (spacing and punctuation) are always
+        preserved; `sep` joins the phoneme units *within* a word — so the default
+        ``sep=""`` emits continuous text, while ``sep=" "`` prints every unit as a
+        separate token (the phoneme-sequence view)."""
         text = normalize_text(text, lower=lower)
         out: list = []
         for tok in tokenize(text):
@@ -120,7 +123,8 @@ class GraphemeConverter:
             out.append(sep.join(self._map(ipa) for ipa in units))
         return "".join(out)
 
-    def convert_word(self, word: str, *, sep: str = " ", lower: bool = True) -> str:
+    def convert_word(self, word: str, *, sep: str = "", lower: bool = True) -> str:
+        """Convert a single word (no tokenization)."""
         """Convert a single word (no tokenization)."""
         word = normalize_text(word, lower=lower)
         units = self._forward.convert_word(word, sep=" ", lower=False).split(" ")
@@ -132,6 +136,7 @@ class GraphemeConverter:
         return self._reverse.get(ipa, self._universal_reverse.get(ipa, ipa))
 
 
-def convert_lang(text: str, source: str, target: str, *, sep: str = " ") -> str:
-    """One-shot converter: ``convert_lang("Onyankopɔn", "twi", "ewe", sep=" ")``."""
+def convert_lang(text: str, source: str, target: str, *, sep: str = "") -> str:
+    """One-shot converter: ``convert_lang("Onyankopɔn", "twi", "ewe")``. Words are
+    kept whole by default; pass ``sep=" "`` for per-unit (phoneme-sequence) output."""
     return GraphemeConverter(source, target).convert(text, sep=sep)

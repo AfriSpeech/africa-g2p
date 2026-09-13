@@ -28,9 +28,20 @@ def test_to_universal():
 
 def test_converter_object_and_word():
     conv = GraphemeConverter("dyu", "ewe")
-    assert conv.convert_word("kpako") == "kp a k o"
-    assert conv.convert_word("kpako", sep="") == "kpako"
-    assert conv.convert("kpako, nyini.") == "kp a k o, ny i n i."
+    assert conv.convert_word("kpako") == "kpako"
+    assert conv.convert_word("kpako", sep=" ") == "kp a k o"
+    assert conv.convert("kpako, nyini.") == "kpako, nyini."
+    assert conv.convert("kpako, nyini.", sep=" ") == "kp a k o, ny i n i."
+
+
+def test_text_output_preserves_word_boundaries():
+    # default: words are kept whole (no separator between units), spacing/punct intact
+    assert convert_lang("kpako sogo.", "dyu", "ewe") == "kpako sogo."
+    assert convert_lang("kpako nyini", "ewe", UNIVERSAL) == "kpako nyini"
+
+
+def test_unit_sequence_with_explicit_sep():
+    assert convert_lang("kpako", "dyu", "ewe", sep=" ") == "kp a k o"
 
 
 def test_punctuation_and_whitespace_preserved():

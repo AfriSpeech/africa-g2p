@@ -17,7 +17,9 @@ def main(argv=None) -> int:
     parser = argparse.ArgumentParser(prog="africa-g2p", description=__doc__)
     parser.add_argument("lang", nargs="?", help="ISO 639-3 language code")
     parser.add_argument("text", nargs="?", help="text to convert (or read stdin)")
-    parser.add_argument("--sep", default=" ", help="separator between phonemes")
+    parser.add_argument("--sep", default=None,
+                        help="separator between phoneme units (default: \" \" for G2P, "
+                             "none for --to, i.e. words are kept whole)")
     parser.add_argument("--to", default=None,
                         help=f"rewrite graphemes into this language (or '{UNIVERSAL}') "
                              "instead of native output")
@@ -44,7 +46,8 @@ def main(argv=None) -> int:
         except LanguageNotFoundError as e:
             print(e, file=sys.stderr)
             return 1
-    print(conv.convert(text, sep=args.sep))
+    sep = args.sep if args.sep is not None else ("" if args.to else " ")
+    print(conv.convert(text, sep=sep))
     return 0
 
 

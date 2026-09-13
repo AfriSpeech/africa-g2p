@@ -159,11 +159,15 @@ Every grapheme is logged against the phoneme it spells, so graphemes can be conv
 language to another through the shared IPA**: `<twi> o ny a n k p ɔ n` → IPA → Ewe's writing of the
 same sounds. This is cross-language rewrite, not translation — the words are left to the reader.
 
+Word boundaries, spacing and punctuation are always preserved, and output is **continuous text**
+by default (each source word maps to a single mapped word). Pass `sep=" "` to print every grapheme
+unit as its own token instead.
+
 ```python
 from africa_g2p import GraphemeConverter, convert_lang
 
-convert_lang("Onyankopɔn", "twi", "ewe", sep=" ")     # Twi graphemes -> Ewe's
-GraphemeConverter("dyu", "xho").convert("kpako", sep=" ")
+convert_lang("Onyankopɔn", "twi", "ewe")              # 'onyankhophɔn' (Ewe letters, text)
+GraphemeConverter("dyu", "xho").convert("kpako", sep=" ")   # 'kp a k o' (unit sequence)
 ```
 
 Either side may be the virtual language `"universal"` — for each IPA symbol, the grapheme most
@@ -175,7 +179,7 @@ into any language:
 from africa_g2p import UNIVERSAL
 
 convert_lang("Onyankopɔn", "twi", UNIVERSAL, sep=" ")  # -> 'o ny a n kh o ph ɔ n'
-convert_lang("kpako", UNIVERSAL, "dyu", sep=" ")       # universal set -> any language
+convert_lang("kpako", UNIVERSAL, "dyu")                # -> 'kpako' (universal -> any)
 ```
 
 When a target language has no entry for a source phoneme (e.g. Ewe does not mark aspiration in its
