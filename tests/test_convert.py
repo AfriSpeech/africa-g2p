@@ -4,6 +4,7 @@ from africa_g2p import (
     UNIVERSAL,
     GraphemeConverter,
     convert_lang,
+    convert_to_ipa,
 )
 from africa_g2p.g2p import G2P
 from africa_g2p.loader import LanguageNotFoundError
@@ -72,6 +73,30 @@ def test_relax_aspiration_can_be_disabled():
 def test_universal_as_source():
     text = "kpako"
     assert convert_lang(text, UNIVERSAL, "ewe", sep=" ") == "kp a k o"
+
+
+def test_convert_to_ipa_via_universal():
+    # g2u2p: dyu "kpako" -> universal "kpako" -> IPA
+    assert convert_to_ipa("kpako", "dyu", sep=" ") == "k͡p a k o"
+
+
+def test_convert_to_ipa_text_preserves_boundaries():
+    assert convert_to_ipa("kpako nyini.", "dyu") == "k͡pako ɲini."
+    assert convert_to_ipa("kpako nyini.", "dyu", sep=" ") == "k͡p a k o ɲ i n i."
+
+
+def test_convert_to_ipa_normalizes_through_universal():
+    # /ɔ/ writes <o> in the universal set and is read back as the winner phoneme /o/.
+    # The greedy reader also follows universal grapheme conventions (a long <aa>, a
+    # prenasal <nk>), so round-trip IPA differs from the language's own chart IPA.
+    assert convert_to_ipa("ɔfa", "twi", sep=" ") == "o f a"
+    assert convert_to_ipa("Onyankopɔn", "twi", sep=" ") == "o ɲ a ᵑk o p o n"
+
+
+def test_conversion_artificial_double_tripled():
+    # Twi "dodoɔ" converted to universal: /ɔ/ -> <o> creates an artificial double,
+    # which is tripled to "dodooo" to distinguish from a true double.
+    assert convert_lang("dodoɔ", "twi", UNIVERSAL) == "dodooo"
 
 
 def test_missing_language_raises():

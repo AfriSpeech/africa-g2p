@@ -35,6 +35,7 @@ UNIVERSAL = "universal"
 
 _universal_forward: Dict[str, str] = {}
 _universal_reverse: Dict[str, str] = {}
+_universal_g2p: "G2P | None" = None
 _reverse_cache: Dict[str, Dict[str, str]] = {}
 
 # IPA aspiration marks: modifier small-h U+02B0 (ʰ) and breathy-voiced hook U+02B1 (ʱ).
@@ -82,6 +83,17 @@ def _is_single_phoneme(ipa: str) -> bool:
     return cores[0] not in _VOWELS and cores[1] not in _VOWELS
 
 
+def _readable_grapheme(g: str) -> bool:
+    """A reading grapheme of the universal orthography must not start with a vowel
+    followed by a consonant letter. Gemini transliterates nasal vowels as <Vn>
+    ("an", "on", "in"...) — fine for writing, but as reading keys they would swallow
+    ordinary word-initial segments ("onyankopon" -> /õ.../). Vowel digraphs ("aa",
+    "ei") stay: they only match genuinely adjacent vowels."""
+    if len(g) < 2 or g[0] not in _VOWELS:
+        return True
+    return not any(ch not in _VOWELS for ch in g[1:])
+
+
 def _universal_tables() -> Tuple[Dict[str, str], Dict[str, str]]:
     """Forward (majority grapheme -> IPA) and reverse (IPA -> majority grapheme)
     tables for the virtual "universal" language, loaded once from the survey output."""
@@ -97,9 +109,18 @@ def _universal_tables() -> Tuple[Dict[str, str], Dict[str, str]]:
             ipa = tie_affricates(raw_ipa)
             if v["grapheme"]:  # guard against empty winners
                 _universal_reverse.setdefault(ipa, v["grapheme"])
-                if _is_single_phoneme(raw_ipa):  # only keep real segment graphemes
+                if _is_single_phoneme(raw_ipa) and _readable_grapheme(v["grapheme"]):
                     _universal_forward.setdefault(v["grapheme"], ipa)
     return _universal_forward, _universal_reverse
+
+
+def _universal_g2p_engine() -> G2P:
+    """G2P engine that reads the virtual universal orthography back to IPA."""
+    global _universal_g2p
+    if _universal_g2p is None:
+        forward, _ = _universal_tables()
+        _universal_g2p = G2P.from_rules({"code": UNIVERSAL, "graphemes": forward})
+    return _universal_g2p
 
 
 def _primary_grapheme(rule: dict, candidates: set) -> str:
@@ -161,6 +182,9 @@ class GraphemeConverter:
         # Reverse table: IPA -> target graphemes.
         self._reverse = reverse if target == UNIVERSAL else reverse_table(target)
         self._universal_reverse = reverse
+        # Source's own spelling per phoneme -> flag when a target differs, so a
+        # converted phoneme that lands next to the same letter can be tripled.
+        self._source_spelling = {} if source == UNIVERSAL else reverse_table(source)
 
     def convert(self, text: str, *, sep: str = "", lower: bool = True) -> str:
         """Convert a full text. Word boundaries (spacing and punctuation) are always
@@ -174,17 +198,49 @@ class GraphemeConverter:
                 out.append(tok.text)
                 continue
             units = self._forward.convert_word(tok.text, sep=" ", lower=False).split(" ")
-            out.append(sep.join(self._map(ipa) for ipa in units))
+            out.append(sep.join(self._map_units(units)))
         return "".join(out)
 
     def convert_word(self, word: str, *, sep: str = "", lower: bool = True) -> str:
         """Convert a single word (no tokenization)."""
-        """Convert a single word (no tokenization)."""
         word = normalize_text(word, lower=lower)
         units = self._forward.convert_word(word, sep=" ", lower=False).split(" ")
-        return sep.join(self._map(ipa) for ipa in units)
+        return sep.join(self._map_units(units))
 
-    def _map(self, ipa: str) -> str:
+    def _map_units(self, units: list) -> list:
+        """Map each phoneme to a target grapheme, marking conversion collisions.
+
+        When a converted phoneme — one the target writes differently from the source's
+        own spelling (e.g. /ɔ/ as universal <o>) — lands next to a phoneme the target
+        spells with that same letter, or maps directly to a double letter (e.g. 'oo'),
+        the accidental double would read as a long vowel or geminate. So the converted
+        unit is written double/tripled, to keep the merge distinct from a true double:
+        Twi ``dodoɔ`` -> ``dodooo`` (not ``dodoo``), while a genuine /oː/ stays ``oo``."""
+        mapped: list = []
+        prev_g, run_converted, run_wrapped = None, False, False
+        for ipa in units:
+            g, converted = self._map(ipa)
+            if converted and len(g) >= 2 and len(set(g)) == 1:
+                g = g + g[0]
+            if g != prev_g:
+                prev_g, run_converted, run_wrapped = g, converted, False
+                mapped.append(g)
+            else:
+                if run_converted or converted:
+                    if not run_wrapped:
+                        mapped.append(g + g)
+                        run_wrapped = True
+                    else:
+                        mapped.append(g)
+                    run_converted = True
+                else:
+                    mapped.append(g)
+        return mapped
+
+    def _map(self, ipa: str) -> tuple:
+        """Return (grapheme, converted). `converted` is True when the target writes
+        this phoneme differently from the source's own spelling (or the source has no
+        spelling for it), i.e. a merge/simplification actually happened."""
         # 1) a real-language target's own writing: exact reading first (a target that
         #    spells /tʰ/ as <th> still wins), aspiration-relaxed as its fallback (a
         #    target with no /tʰ/ at all uses its /t/ reading). For the virtual
@@ -194,20 +250,45 @@ class GraphemeConverter:
             for form in (ipa, relaxed):
                 g = self._reverse.get(form)
                 if g is not None:
-                    return g
-        # 2) the majority grapheme set. Rare aspirated phonemes win their vote by tiny
-        #    samples (e.g. /tɕʰ/ is written <q> by just 3 languages), so prefer the
-        #    relaxed, plain-phoneme majority (/tɕʰ/ reads like the /tɕ/ winner) and
-        #    keep the exact entry only as a last resort.
-        for form in (relaxed, ipa):
-            g = self._universal_reverse.get(form)
-            if g is not None:
-                return g
+                    break
+            else:
+                g = None
+        else:
+            g = None
+        if g is None:
+            # 2) the majority grapheme set. Rare aspirated phonemes win their vote by
+            #    tiny samples (e.g. /tɕʰ/ is written <q> by just 3 languages), so prefer
+            #    the relaxed, plain-phoneme majority (/tɕʰ/ reads like the /tɕ/ winner)
+            #    and keep the exact entry only as a last resort.
+            for form in (relaxed, ipa):
+                g = self._universal_reverse.get(form)
+                if g is not None:
+                    break
+            else:
+                g = None
         # 3) unmappable: pass the IPA unit through untouched.
-        return ipa
+        if g is None:
+            return ipa, False
+        if not self._source_spelling:
+            return g, False
+        src = self._source_spelling.get(tie_affricates(ipa))
+        return g, src != g
 
 
 def convert_lang(text: str, source: str, target: str, *, sep: str = "") -> str:
     """One-shot converter: ``convert_lang("Onyankopɔn", "twi", "ewe")``. Words are
     kept whole by default; pass ``sep=" "`` for per-unit (phoneme-sequence) output."""
     return GraphemeConverter(source, target).convert(text, sep=sep)
+
+
+def convert_to_ipa(text: str, source: str, *, sep: str = "") -> str:
+    """G2U2P pipeline: a language's graphemes -> universal graphemes -> IPA.
+
+    Writes the source in the universal majority-grapheme set first, then reads that
+    back to IPA, so every language phonemicizes along the same curated conventions
+    (Gemini-normalised spellings and aspiration relaxation included). Lossy by design:
+    two phonemes the universal set writes alike (e.g. /ɔ/ and /o/ both <o>) read back
+    as the single winner phoneme. ``sep=" "`` prints per-unit phonemes; the default
+    ``sep=""`` emits continuous IPA."""
+    universal = GraphemeConverter(source, UNIVERSAL).convert(text)
+    return _universal_g2p_engine().convert(universal, sep=sep)

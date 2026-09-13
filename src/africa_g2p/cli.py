@@ -8,7 +8,7 @@ from __future__ import annotations
 import argparse
 import sys
 
-from .convert import GraphemeConverter, UNIVERSAL
+from .convert import GraphemeConverter, UNIVERSAL, convert_lang, convert_to_ipa
 from .g2p import G2P
 from .loader import available_languages, registry, LanguageNotFoundError
 
@@ -23,6 +23,9 @@ def main(argv=None) -> int:
     parser.add_argument("--to", default=None,
                         help=f"rewrite graphemes into this language (or '{UNIVERSAL}') "
                              "instead of native output")
+    parser.add_argument("--ipa", action="store_true",
+                        help="print IPA via the universal pipeline "
+                             "(graphemes -> universal -> IPA, the g2u2p route)")
     parser.add_argument("--list", action="store_true", help="list available languages")
     args = parser.parse_args(argv)
 
@@ -34,6 +37,9 @@ def main(argv=None) -> int:
         return 0
 
     text = args.text if args.text is not None else sys.stdin.read()
+    if args.ipa:
+        print(convert_to_ipa(text, args.lang, sep=args.sep or " "))
+        return 0
     if args.to:
         try:
             conv = GraphemeConverter(args.lang, args.to)

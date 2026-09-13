@@ -196,6 +196,21 @@ winners (Ethiopic syllabary glyphs) and tiny-sample artifacts like `/tɕʰ/`→`
 become reading graphemes of the universal language (multi-phoneme transliterations like `kpa` are
 writable but never tokenized as one grapheme).
 
+Route any language's text **through the universal set and out as IPA** (the g2u2p pipeline):
+
+```python
+from africa_g2p import convert_to_ipa
+
+convert_to_ipa("kpako", "dyu", sep=" ")     # -> 'k͡p a k o'  (dyu -> universal -> IPA)
+convert_to_ipa("Onyankopɔn", "twi", sep=" ")  # -> 'o ɲ a ᵑk o p o n'
+```
+
+Every language is phonemicized along the same universal conventions — including aspiration
+relaxation and the Gemini-normalised spellings — so output is comparable across languages. It is
+lossy by design: phonemes the universal set writes alike (e.g. `/ɔ/` and `/o/` both `<o>`) read
+back as the single winner phoneme, and the greedy reader applies universal grapheme rules (a long
+`<aa>` → `/aː/`, prenasal `<nk>` → `/ᵑk/`).
+
 ```bash
 africa-g2p twi "Onyankopɔn" --to ewe        # convert to another language
 africa-g2p twi "Onyankopɔn" --to universal  # convert to the majority grapheme set
