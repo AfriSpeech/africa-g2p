@@ -76,7 +76,7 @@ except ImportError:
 
 
 def _is_english_word(word: str) -> bool:
-    if _spell is None or len(word) < 4:
+    if _spell is None or len(word) < 3:
         return False
     if not word.isalpha() or not word.isascii():
         return False
