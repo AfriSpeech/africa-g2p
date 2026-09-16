@@ -9,7 +9,8 @@
    "date": "2026-09-16",
    "change": "Universal graphemes restricted to plain a-z letters: apostrophes marking ejectives/glottals removed, non-Latin winners replaced by an attested Latin vote where one existed, placeholders (\"VV\") and the null phoneme dropped, and the remaining clicks given plain-Latin approximations. The pre-revision value is kept in grapheme_original on each changed entry.",
    "reason": "Apostrophes and punctuation are read as pauses by speech synthesisers: Xhosa \"ukuba nikwazi ukucalula\" was written \"uk'uba nik'wazi uk'ucalula\".",
-   "approximation_source": "gemini-3.6-flash, same model as the original survey picks"
+   "approximation_source": "gemini-3.6-flash, same model as the original survey picks",
+   "glottal_stop": "unwritten in the universal orthography"
   }
  },
  "phonemes": {
@@ -24725,7 +24726,7 @@
    "base_grapheme": "ዥ"
   },
   "ʔ": {
-   "grapheme": "q",
+   "grapheme": "",
    "grapheme_langs": 114,
    "langs": 114,
    "votes": {
@@ -24763,7 +24764,8 @@
     "/": 1
    },
    "base_grapheme": "’",
-   "grapheme_original": "'"
+   "grapheme_original": "'",
+   "grapheme_note": "glottal stop left unwritten: its attested spellings are apostrophes, which synthesisers read as pauses, and the next Latin vote (q) already spells the postalveolar click"
   },
   "ʔa": {
    "grapheme": "a",

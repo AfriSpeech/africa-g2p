@@ -129,6 +129,8 @@ def _readable_grapheme(g: str) -> bool:
 # table ever ships a grapheme that is not plain letters again, callers are told
 # rather than finding out from the audio.
 _PLACEHOLDER_GRAPHEMES = {"VV", "V", "C", "CC"}
+# Phonemes the universal orthography deliberately does not write.
+_UNWRITTEN = {"∅", "ʔ∅", "ʔ", "ː"}
 
 
 def _is_plain_latin(grapheme: str) -> bool:
@@ -153,10 +155,17 @@ def _universal_tables() -> Tuple[Dict[str, str], Dict[str, str]]:
         for raw_ipa, v in order:
             ipa = tie_affricates(raw_ipa)
             grapheme = v["grapheme"]
-            if grapheme:  # guard against empty winners
+            # An empty grapheme is deliberate, not missing: the glottal stop and the
+            # null phoneme are written as nothing. They must still enter the reverse
+            # table, or the phoneme falls through as unknown and the raw IPA symbol
+            # lands in the text ("dunmanʔn"). Nothing enters the forward table — an
+            # empty string is not readable back.
+            if grapheme:
                 _universal_reverse.setdefault(ipa, grapheme)
                 if _is_single_phoneme(raw_ipa) and _readable_grapheme(grapheme):
                     _universal_forward.setdefault(grapheme, ipa)
+            elif "grapheme_note" in v or raw_ipa in _UNWRITTEN:
+                _universal_reverse.setdefault(ipa, "")
         _warn_non_alphabetic(_universal_reverse)
     return _universal_forward, _universal_reverse
 
@@ -171,12 +180,13 @@ def universal_non_alphabetic() -> Dict[str, str]:
     transcript. Callers feeding a speech synthesiser should know which those are.
     """
     _, reverse = _universal_tables()
-    return {ipa: g for ipa, g in reverse.items() if not _is_usable(g)}
+    return {ipa: g for ipa, g in reverse.items() if g and not _is_usable(g)}
 
 
 def _warn_non_alphabetic(reverse: Dict[str, str]) -> None:
     """Warn once that some universal graphemes are not plain letters."""
-    offenders = {ipa: g for ipa, g in reverse.items() if not _is_usable(g)}
+    # An empty grapheme is a deliberate "written as nothing", not a bad spelling.
+    offenders = {ipa: g for ipa, g in reverse.items() if g and not _is_usable(g)}
     if not offenders:
         return
     sample = ", ".join(f"{ipa} -> {g}" for ipa, g in list(offenders.items())[:5])

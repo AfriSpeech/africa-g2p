@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.2.2
+
+### The glottal stop is written as nothing, not as `q`
+
+0.2.1 banned apostrophes from the universal orthography, and the glottal stop `ʔ`
+— attested in 114 languages, spelled with an apostrophe in 80 of its ~110 votes —
+fell through to the next Latin vote, `q`, on 4 votes. But `q` already spells the
+postalveolar click, so a glottal stop was written as a letter that reads as a
+click or a uvular stop:
+
+```
+0.2.1   dunman'n  ->  dunmanqn
+0.2.2   dunman'n  ->  dunmann
+```
+
+No a-z letter is realised as a glottal stop by a speech model, so it is left
+unwritten. `ʔ`, `∅` and `ː` now map to the empty string rather than being absent
+from the table: an absent phoneme falls through as unknown and the raw IPA symbol
+lands in the text (`dunmanʔn`), which is worse than either.
+
 ## 0.2.1
 
 ### The universal orthography is plain letters again (#12)

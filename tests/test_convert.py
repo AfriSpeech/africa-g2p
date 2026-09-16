@@ -186,6 +186,9 @@ def test_universal_orthography_is_entirely_plain_letters():
     forward, reverse = _universal_tables()
     assert universal_non_alphabetic() == {}
     assert all(_is_usable(g) for g in reverse.values() if g)
+    # Deliberately unwritten phonemes map to "" rather than being absent, so the
+    # converter writes nothing instead of falling through to the raw IPA symbol.
+    assert reverse.get("\u0294") == ""
     assert all(_is_usable(g) for g in forward)
     assert "VV" not in reverse.values()
     assert ":" not in reverse.values()
