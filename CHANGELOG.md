@@ -1,5 +1,38 @@
 # Changelog
 
+## 0.2.1
+
+### The universal orthography is plain letters again (#12)
+
+238 of the 2,063 universal grapheme entries wrote a character that is not a plain
+letter, and 214 of those were apostrophes marking ejectives and glottals. Speech
+synthesisers read an apostrophe as a pause, so Xhosa came out wrong:
+
+```
+0.2.0   ukuba nikwazi ukucalula  ->  uk'uba nik'wazi uk'ucalula
+0.2.1   ukuba nikwazi ukucalula  ->  ukuba nikwazi ukucalula
+```
+
+Also fixed at the source: non-Latin winners now use an attested Latin vote where
+one existed (`n-g` -> `ng`, Vai `ꕨ ꔜ ꕁ ꖍ ꖲ` -> `nyja nyje nyji nyjo nyju`); the
+`VV` placeholder and the Arabic alef that won the null phoneme `∅` are dropped;
+and the 13 clicks with no attested Latin spelling were approximated in plain
+letters (`ʘ` -> `p`, `ʘʰ` -> `ph`), the way Zulu and Xhosa orthographies write
+clicks as `c`, `q`, `x`.
+
+Ejectives and clicks now share a spelling with their plain consonant. That is the
+cost of a plain-letter orthography; `output="ipa"` still carries every contrast.
+
+Each revised entry keeps its previous value in `grapheme_original`, and
+`africa_g2p.convert.universal_non_alphabetic()` reports anything that is not
+plain letters (empty today, and warned about if a future table regresses).
+
+### `__version__` is no longer stale
+
+It read `0.1.0` through the 0.1.1 and 0.2.0 releases, so anything recording it —
+a dataset card, a provenance log — wrote down the wrong version. It is now read
+from the installed package metadata.
+
 ## 0.2.0
 
 Output changes. Anyone pinning 0.1.1 will get different phonemes from the same input, so
