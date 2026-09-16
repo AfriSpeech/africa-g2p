@@ -119,80 +119,24 @@ def _readable_grapheme(g: str) -> bool:
     return not any(ch not in _VOWELS for ch in g[1:])
 
 
-# Apostrophes mark ejectives (kʼ, tsʼ, pʼ) and the glottal stop in the survey's
-# picks. They are a poor fit for the universal orthography's purpose: it exists to
-# write every phoneme in plain letters that downstream tools read reliably, and
-# speech synthesisers treat an apostrophe as punctuation — a pause or a glottal
-# break — rather than as a modifier on the preceding consonant. Xhosa came out as
-# "nt'o njhe ... uk'uba ... k'ok'ubi", which a TTS voice reads with breaks that are
-# not in the language.
+# The universal orthography is plain a-z letters, enforced in the data file itself
+# (see meta.revision there). Apostrophes marking ejectives, punctuation, placeholder
+# tokens and non-Latin script winners were all removed at the source, because a
+# speech synthesiser reads them as pauses or skips them: Xhosa "ukuba nikwazi
+# ukucalula" used to be written "uk'uba nik'wazi uk'ucalula".
 #
-# So ejectives write as their plain consonant here (kʼ -> k). That loses the
-# ejective/plain contrast in the universal spelling, which is the accepted cost of
-# a plain-letter orthography; IPA output keeps the distinction for anyone who needs
-# it. A grapheme that is *only* apostrophes (the bare glottal stop) would strip to
-# nothing, so it is dropped rather than mapped to an empty string.
-_APOSTROPHES = "'\u2019\u02bc\u02c0"
+# Nothing rewrites graphemes at load time any more. What remains is a guard: if the
+# table ever ships a grapheme that is not plain letters again, callers are told
+# rather than finding out from the audio.
+_PLACEHOLDER_GRAPHEMES = {"VV", "V", "C", "CC"}
 
 
-def _without_apostrophes(grapheme: str) -> str:
-    return "".join(ch for ch in grapheme if ch not in _APOSTROPHES)
-
-
-# The universal orthography is meant to be readable plain letters, but the survey
-# picks the grapheme with the most votes, and for a phoneme attested in only one or
-# two charts that winner can be a non-Latin letter or punctuation: Vai syllables
-# (ꕨ ꔜ ꕁ) for prenasalised affricates, an Arabic alef for ∅, a colon for length, a
-# hyphen inside "n-g". They are true to their source chart and useless as a shared
-# orthography — a TTS voice reads punctuation as a pause and skips a script it does
-# not know. Where the same phoneme also drew a plain-Latin vote, that vote is used
-# instead, however few languages cast it.
 def _is_plain_latin(grapheme: str) -> bool:
     return bool(grapheme) and all("a" <= ch <= "z" for ch in grapheme.lower())
 
 
 def _is_usable(grapheme: str) -> bool:
-    """Plain letters, and not one of the survey's placeholder tokens.
-
-    "VV" passes a naive a-z test — which is how the length marker's placeholder
-    reached transcripts through the base_grapheme fallback even after the primary
-    grapheme was rejected.
-    """
     return _is_plain_latin(grapheme) and grapheme not in _PLACEHOLDER_GRAPHEMES
-
-
-# Two survey winners are not spellings at all and must not reach a transcript:
-# "VV" is the placeholder for "write the vowel twice" (it would be read as two
-# letter V's), and the null phoneme ∅ drew an Arabic alef, which writes a letter
-# where the language writes nothing.
-_PLACEHOLDER_GRAPHEMES = {"VV", "V", "C", "CC"}
-_NULL_PHONEMES = {"∅", "ʔ∅"}
-
-
-def _plain_latin_grapheme(record: dict) -> str:
-    """The record's grapheme, or its best plain-Latin alternative if it is not one."""
-    grapheme = _without_apostrophes(record.get("grapheme") or "")
-    if grapheme in _PLACEHOLDER_GRAPHEMES:
-        return ""
-    if _is_usable(grapheme):
-        return grapheme
-    base = _without_apostrophes(record.get("base_grapheme") or "")
-    if _is_usable(base):
-        return base
-    votes = record.get("votes") or {}
-    latin = [(n, g) for g, n in ((_without_apostrophes(g), n) for g, n in votes.items())
-             if _is_usable(g)]
-    if latin:
-        # Most votes wins; ties broken lexicographically, as in the survey itself.
-        return sorted(latin, key=lambda kv: (-kv[0], kv[1]))[0][1]
-
-    # Nothing spellable was attested. Keep the symbol if it is a letter in some
-    # script — a Khoisan click letter is a real phoneme we must not silently drop —
-    # but never keep punctuation: the length marker "ː" fell back to ":" here, and a
-    # colon in a transcript is a pause to every downstream consumer.
-    if any(unicodedata.category(ch).startswith("L") for ch in grapheme):
-        return grapheme
-    return ""
 
 
 def _universal_tables() -> Tuple[Dict[str, str], Dict[str, str]]:
@@ -208,7 +152,7 @@ def _universal_tables() -> Tuple[Dict[str, str], Dict[str, str]]:
         order = sorted(data["phonemes"].items(), key=lambda kv: -kv[1]["langs"])
         for raw_ipa, v in order:
             ipa = tie_affricates(raw_ipa)
-            grapheme = "" if raw_ipa in _NULL_PHONEMES else _plain_latin_grapheme(v)
+            grapheme = v["grapheme"]
             if grapheme:  # guard against empty winners
                 _universal_reverse.setdefault(ipa, grapheme)
                 if _is_single_phoneme(raw_ipa) and _readable_grapheme(grapheme):

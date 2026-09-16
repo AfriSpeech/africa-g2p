@@ -158,34 +158,57 @@ def test_universal_drops_placeholders_and_null_phonemes():
         assert not reverse.get(null)
 
 
-def test_universal_prefers_a_plain_latin_vote_when_the_winner_is_not_one():
-    from africa_g2p.convert import _plain_latin_grapheme
+def test_universal_data_file_is_clean_at_the_source():
+    """The constraint lives in the data, not in a filter applied on the way out —
+    anything reading the JSON directly gets plain letters too."""
+    import json
 
-    vai = {"grapheme": "ꕨ", "base_grapheme": "ꕨ", "votes": {"nyja": 1}}
-    assert _plain_latin_grapheme(vai) == "nyja"
-    hyphen = {"grapheme": "n-g", "base_grapheme": "ng", "votes": {"ng": 1}}
-    assert _plain_latin_grapheme(hyphen) == "ng"
+    from africa_g2p.convert import _UNIVERSAL_FILE, _is_usable
 
-
-def test_non_alphabetic_universal_graphemes_are_listed_and_warned():
-    """Clicks have no plain-Latin spelling, so they survive — but callers are told,
-    and nothing that could have been spelled in letters is left in the list."""
-    from africa_g2p.convert import _is_usable, universal_non_alphabetic
-
-    remaining = universal_non_alphabetic()
-    assert remaining, "expected the Khoisan clicks to remain"
-    assert "\u0298" in "".join(remaining.values())          # bilabial click
-    assert all(not _is_usable(g) for g in remaining.values())
-    # Placeholders and punctuation are dropped, not merely reported.
-    assert "VV" not in remaining.values()
-    assert not any(":" in g or "-" in g for g in remaining.values())
+    data = json.loads(_UNIVERSAL_FILE.read_text(encoding="utf-8"))
+    bad = {ipa: r["grapheme"] for ipa, r in data["phonemes"].items()
+           if r.get("grapheme") and not _is_usable(r["grapheme"])}
+    assert bad == {}, f"non plain-Latin graphemes in the data file: {list(bad.items())[:5]}"
+    # Revised entries keep what they used to say, so the change is auditable.
+    revised = [r for r in data["phonemes"].values() if "grapheme_original" in r]
+    assert len(revised) > 200
+    assert data["meta"]["revision"]["approximation_source"].startswith("gemini")
 
 
-def test_universal_keeps_letters_but_drops_punctuation():
-    """A click letter is a phoneme worth keeping; "ː" falling back to ":" is a pause
-    inserted into every transcript that used it."""
+def test_universal_orthography_is_entirely_plain_letters():
+    """The whole point of the universal set: a-z only, so a synthesiser reads it.
+
+    Clicks with no attested Latin spelling were approximated rather than kept as
+    ʘ or dropped — dropping deletes a phoneme, keeping it makes the voice skip.
+    """
+    from africa_g2p.convert import _is_usable, _universal_tables, universal_non_alphabetic
+
+    forward, reverse = _universal_tables()
+    assert universal_non_alphabetic() == {}
+    assert all(_is_usable(g) for g in reverse.values() if g)
+    assert all(_is_usable(g) for g in forward)
+    assert "VV" not in reverse.values()
+    assert ":" not in reverse.values()
+
+
+def test_clicks_have_plain_letter_spellings():
     from africa_g2p.convert import _universal_tables
 
     _, reverse = _universal_tables()
-    assert ":" not in reverse.values()
-    assert any("\u0298" in g for g in reverse.values())
+    assert reverse["\u0298"] == "p"          # bilabial click
+    assert "\u0298" not in "".join(reverse.values())
+
+
+def test_a_dirty_table_warns_rather_than_reaching_the_audio():
+    """The data is clean, so the guard must fire only if that regresses."""
+    import warnings
+
+    from africa_g2p.convert import _warn_non_alphabetic
+
+    with warnings.catch_warnings(record=True) as caught:
+        warnings.simplefilter("always")
+        _warn_non_alphabetic({"x": "ok"})
+        assert not caught
+        _warn_non_alphabetic({"\u0298": "\u0298"})
+        assert len(caught) == 1
+        assert "not plain a-z letters" in str(caught[0].message)
