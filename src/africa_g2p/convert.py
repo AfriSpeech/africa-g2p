@@ -58,6 +58,14 @@ def _relax_aspiration(ipa: str) -> str:
 # one phoneme segment iff it has at most two core letters, and for two they form
 # a coarticulated CONSONANT pair (k͡p, t͡ʃ, ᵑɡ͡b, ts, ny ...), not C+V.
 _VOWELS = set("aàáãäæèéêëɛəɐɑɒɔɜɞɘɚeẽiĩɪɨɤɵoõöòóôuùũüʊʉɯʏøœyỹʌǝǐịụ")
+# When two different phonemes land on the same target vowel, the earlier one is
+# rewritten to a near neighbour so the pair stays distinguishable. For a real
+# language target the neighbour may be any vowel that language writes; for the
+# universal orthography it has to be a plain letter, and "a" -> "ə" was putting a
+# schwa into output that is supposed to be a-z only ("náań" -> "nəan").
+_UNIVERSAL_VOWEL_ALTERNATIVES = {"o": "u", "u": "o", "e": "i", "i": "e",
+                                 "ɔ": "u", "ɛ": "i", "a": "e", "ə": "a"}
+
 _VOWEL_ALTERNATIVES = {
     "o": "u",
     "u": "o",
@@ -321,8 +329,10 @@ class GraphemeConverter:
         prev_g, prev_ipa, run_converted = None, None, False
         for ipa in units:
             g, converted = self._map(ipa)
+            alternatives = (_UNIVERSAL_VOWEL_ALTERNATIVES if self.target == UNIVERSAL
+                            else _VOWEL_ALTERNATIVES)
             if converted and len(g) >= 2 and len(set(g)) == 1 and g[0] in _VOWELS:
-                alt = _VOWEL_ALTERNATIVES.get(g[0], "u" if g[0] in "oɔ" else "i")
+                alt = alternatives.get(g[0], "u" if g[0] in "oɔ" else "i")
                 g = alt + g[0]
             # Only collide if it's the same target grapheme AND different source phonemes
             # (so true source doubles like hyɛɛ -> hyee are left as double ee, not ii/etc.)
@@ -330,7 +340,7 @@ class GraphemeConverter:
             if is_different_phoneme_collision and g and g[0] in _VOWELS:
                 if mapped and mapped[-1] and mapped[-1][-1] in _VOWELS:
                     last_v = mapped[-1][-1]
-                    alt = _VOWEL_ALTERNATIVES.get(last_v, "u" if last_v in "oɔ" else "i")
+                    alt = alternatives.get(last_v, "u" if last_v in "oɔ" else "i")
                     mapped[-1] = mapped[-1][:-1] + alt
                 mapped.append(g)
                 run_converted = True

@@ -240,3 +240,15 @@ def test_modifier_only_units_write_as_nothing():
     assert _strip_combining("ɔ˥") == "ɔ"      # tone bar
     assert _strip_combining("əˤ") == "ə"      # pharyngealised
     assert _strip_combining("ˤ") == ""                  # nothing but a modifier
+
+
+def test_universal_collision_alternatives_are_plain_letters():
+    """Collision avoidance rewrites a vowel to a near neighbour. For universal that
+    neighbour must be a-z: "a" -> "ə" put a schwa into output with no schwa in the
+    source ("náań" -> "nəan")."""
+    from africa_g2p import UNIVERSAL, GraphemeConverter
+    from africa_g2p.convert import _UNIVERSAL_VOWEL_ALTERNATIVES, _is_plain_latin
+
+    assert all(_is_plain_latin(v) for v in _UNIVERSAL_VOWEL_ALTERNATIVES.values())
+    out = GraphemeConverter("bud", UNIVERSAL).convert("Unimbɔti nín kíĺ ki náań")
+    assert "ə" not in out and "nean" in out

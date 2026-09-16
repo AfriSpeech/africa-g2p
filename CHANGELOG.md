@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.2.4
+
+### Collision avoidance no longer injects a schwa
+
+When two different phonemes land on the same target vowel, the earlier one is
+rewritten to a near neighbour so the pair stays distinguishable. The neighbour
+for `a` was `ə`, which put a schwa into universal output where the source had
+none:
+
+```
+0.2.3   Unimbɔti ... náań  ->  unimboti ... nəan
+0.2.4   Unimbɔti ... náań  ->  unimboti ... nean
+```
+
+The universal target now uses a plain-letter neighbour table. Real-language
+targets are unchanged: a language that writes `ə` should still get it.
+
 ## 0.2.3
 
 ### Tone-marked vowels reach the universal orthography
