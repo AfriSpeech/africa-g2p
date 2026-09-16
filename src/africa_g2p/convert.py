@@ -133,6 +133,23 @@ _PLACEHOLDER_GRAPHEMES = {"VV", "V", "C", "CC"}
 _UNWRITTEN = {"∅", "ʔ∅", "ʔ", "ː"}
 
 
+def _strip_combining(text: str) -> str:
+    """Reduce a phoneme to its base letters for a last-resort lookup.
+
+    Drops combining marks and the modifier letters and symbols that ride on a
+    phoneme — tone bars (˥ ˦ ˧), pharyngealisation (ˤ), velarisation (ˠ) — none of
+    which the universal orthography writes:
+
+        "ɔ́" -> "ɔ"    "h̃" -> "h"    "ɔ˥" -> "ɔ"    "əˤ" -> "ə"
+
+    Only reached when the full unit is unmapped, so a base-letter match is always
+    better than what it replaces: passing the symbol through into the text.
+    """
+    return "".join(ch for ch in unicodedata.normalize("NFD", text)
+                   if not unicodedata.combining(ch)
+                   and unicodedata.category(ch) not in ("Lm", "Sk"))
+
+
 def _is_plain_latin(grapheme: str) -> bool:
     return bool(grapheme) and all("a" <= ch <= "z" for ch in grapheme.lower())
 
@@ -356,7 +373,29 @@ class GraphemeConverter:
                     break
             else:
                 g = None
-        # 3) unmappable: pass the IPA unit through untouched.
+        # 3) a tone-marked or nasalised variant of a phoneme the table does know.
+        #    Source orthographies write tone on the vowel ("lɔ́lɔndai", "ɣɛ́i"), and the
+        #    accented form is absent from the survey, so it used to fall through to
+        #    step 4 — leaving a bare ɔ or ɛ in universal output once normalisation
+        #    stripped the accent, which is exactly the character universal exists to
+        #    remove. Retry on the base letter, keeping the mark off: the universal
+        #    orthography does not write tone.
+        if g is None and self.target == UNIVERSAL:
+            base = _strip_combining(ipa)
+            # A unit that is nothing but modifiers — a lone tone bar or ˤ emitted as
+            # its own unit — writes as nothing, the same as the other phonemes the
+            # universal orthography does not mark.
+            if ipa and not base:
+                return "", True
+            if base and base != ipa:
+                for form in (base, _strip_combining(relaxed)):
+                    g = self._universal_reverse.get(form)
+                    if g is not None:
+                        break
+                else:
+                    g = None
+
+        # 4) unmappable: pass the IPA unit through untouched.
         if g is None:
             return ipa, False
         if not self._source_spelling:

@@ -1,5 +1,31 @@
 # Changelog
 
+## 0.2.3
+
+### Tone-marked vowels reach the universal orthography
+
+Source orthographies write tone on the vowel, and the marked form is absent from
+the survey, so it fell through to passthrough — and once normalisation stripped
+the accent, a bare `ɔ` or `ɛ` was left in universal output. Those are exactly the
+characters universal exists to remove:
+
+```
+0.2.2   lɔ́lɔndai ... ɣɛ́i  ->  lɔlondai ... ghɛi
+0.2.3   lɔ́lɔndai ... ɣɛ́i  ->  lolondai ... ghei
+```
+
+An unmapped phoneme now retries on its base letters, with combining marks, tone
+bars (`˥ ˦ ˧`) and secondary-articulation modifiers (`ˤ ˠ`) removed — none of
+which the universal orthography writes. A unit that is nothing but a modifier
+writes as nothing.
+
+Yoruba shows the size of it: `Ní ìbẹ̀rẹ̀, nígbà` was `ngi˥ i˩bɛ˩rɛ˩, ngi˥gbä˩` and
+is now `ngi ibere, ngigba`.
+
+Across 215 languages this cut stray non-letter characters in universal output
+from 18 distinct to 4, the rest being genuine per-language chart gaps (Ethiopic
+and Vai syllables with no rule).
+
 ## 0.2.2
 
 ### The glottal stop is written as nothing, not as `q`

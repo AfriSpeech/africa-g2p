@@ -215,3 +215,28 @@ def test_a_dirty_table_warns_rather_than_reaching_the_audio():
         _warn_non_alphabetic({"\u0298": "\u0298"})
         assert len(caught) == 1
         assert "not plain a-z letters" in str(caught[0].message)
+
+
+def test_universal_maps_tone_marked_and_modified_variants():
+    """Source orthographies write tone on the vowel. The accented form is absent from
+    the survey, so it used to pass through — and once normalisation stripped the
+    accent, a bare ɔ or ɛ was left in the output, the very character universal
+    exists to remove."""
+    from africa_g2p import UNIVERSAL, GraphemeConverter
+
+    out = GraphemeConverter("bza", UNIVERSAL).convert("lɔ́lɔndai ɣɛ́i")
+    assert "ɔ" not in out and "ɛ" not in out
+    assert "lolondai" in out
+
+    # A phoneme carrying a secondary-articulation mark resolves to its base letter.
+    out = GraphemeConverter("mnf", UNIVERSAL).convert("beˤtat leˤ")
+    assert "ˤ" not in out and "betat" in out
+
+
+def test_modifier_only_units_write_as_nothing():
+    from africa_g2p.convert import _strip_combining
+
+    assert _strip_combining("ɔ́") == "ɔ"
+    assert _strip_combining("ɔ˥") == "ɔ"      # tone bar
+    assert _strip_combining("əˤ") == "ə"      # pharyngealised
+    assert _strip_combining("ˤ") == ""                  # nothing but a modifier
