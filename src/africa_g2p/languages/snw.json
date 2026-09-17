@@ -9,7 +9,6 @@
       "a",
       "á",
       "à",
-      "ã",
       "b",
       "d",
       "e",
@@ -20,7 +19,6 @@
       "h",
       "i",
       "í",
-      "ĩ",
       "k",
       "kp",
       "ky",
@@ -37,7 +35,6 @@
       "t",
       "u",
       "ú",
-      "ũ",
       "v",
       "w",
       "y"
@@ -47,7 +44,6 @@
     "a": "a",
     "á": "a",
     "à": "a",
-    "ã": "ã",
     "b": "b",
     "d": "d",
     "e": "e",
@@ -58,7 +54,6 @@
     "h": "h",
     "i": "i",
     "í": "i",
-    "ĩ": "ĩ",
     "k": "k",
     "kp": "k͡p",
     "ky": "t͡ɕ",
@@ -75,27 +70,25 @@
     "t": "t",
     "u": "u",
     "ú": "u",
-    "ũ": "ũ",
     "v": "v",
     "w": "w",
     "y": "j"
   },
   "romanization": {},
   "diacritics": {
-    "́": "high tone",
-    "̀": "low tone",
-    "̃": "nasalization"
+    "́": "˥",
+    "̀": "˩",
+    "̃": "̃"
   },
   "tones": {
     "́": "high tone",
     "̀": "low tone"
   },
-  "notes": "Selee (Santrokofi) orthography follows standard Ghanaian conventions. Acute and grave accents mark tone, while tildes mark nasalisation. The digraphs 'kp', 'ky', 'nw', and 'ny' are treated as single phonemes. 'ky' is mapped to /t͡ɕ/ following regional influence, and 'nw' to /ŋw/.",
+  "notes": "Selee (Santrokofi) orthography follows standard Ghanaian conventions. Acute and grave accents mark tone, while tildes mark nasalisation. The digraphs 'kp', 'ky', 'nw', and 'ny' are treated as single phonemes. 'ky' is mapped to /t͡ɕ/ following regional influence, and 'nw' to /ŋw/. Nasalisation is handled by the combining tilde in \"diacritics\"; precomposed nasal vowels are therefore not listed as separate graphemes.",
   "alphabet": [
     "a",
     "á",
     "à",
-    "ã",
     "b",
     "d",
     "e",
@@ -106,7 +99,6 @@
     "h",
     "i",
     "í",
-    "ĩ",
     "k",
     "kp",
     "ky",
@@ -123,7 +115,6 @@
     "t",
     "u",
     "ú",
-    "ũ",
     "v",
     "w",
     "y"
