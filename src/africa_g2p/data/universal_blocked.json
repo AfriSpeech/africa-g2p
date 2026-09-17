@@ -1,0 +1,50 @@
+{
+  "_comment": "Languages whose text cannot currently be written in the universal orthography: the rule table is for a different script than the language is actually written in, so text matches no grapheme and passes through verbatim. Measured on the AfriSpeech/africa-corpus text: every one of these returned 100% non a-z letters. Converting to universal raises rather than returning the source script.",
+  "languages": {
+    "apd": {
+      "name": "Sudanese Arabic",
+      "written_in": "Arabic",
+      "table_is": "Latin"
+    },
+    "fuv": {
+      "name": "Nigerian Fulfulde",
+      "written_in": "Arabic",
+      "table_is": "Latin"
+    },
+    "rif": {
+      "name": "Tarifit",
+      "written_in": "Arabic",
+      "table_is": "Latin"
+    },
+    "shi": {
+      "name": "Tashelhiyt",
+      "written_in": "Arabic",
+      "table_is": "Latin"
+    },
+    "ttq": {
+      "name": "Tawallammat Tamajaq",
+      "written_in": "Tifinagh",
+      "table_is": "Latin"
+    },
+    "dwr": {
+      "name": "Dawro",
+      "written_in": "Ethiopic",
+      "table_is": "none"
+    },
+    "gof": {
+      "name": "Gofa",
+      "written_in": "Ethiopic",
+      "table_is": "none"
+    },
+    "mfx": {
+      "name": "Melo",
+      "written_in": "Ethiopic",
+      "table_is": "none"
+    },
+    "oyd": {
+      "name": "Oyda",
+      "written_in": "Ethiopic",
+      "table_is": "none"
+    }
+  }
+}

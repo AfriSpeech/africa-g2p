@@ -22,13 +22,15 @@ import warnings
 import re
 import unicodedata
 from pathlib import Path
-from typing import Dict, Tuple
+from typing import Dict, List, Tuple
+from functools import lru_cache
 
 from .g2p import G2P
 from .loader import load_rules
 from .normalizer import normalize_text, tie_affricates, tokenize
 
 _DATA = Path(__file__).resolve().parent / "data"
+_BLOCKED_FILE = _DATA / "universal_blocked.json"
 _UNIVERSAL_FILE = _DATA / "ipa_universal_graphemes.json"
 
 # Virtual language code: "write every phoneme with the grapheme most languages use".
@@ -334,6 +336,51 @@ def is_plain_latin_language(code: str) -> bool:
     return _alphabet_is_plain_latin(alphabet)
 
 
+class UniversalUnsupported(ValueError):
+    """Raised for a language whose text cannot be written in universal yet."""
+
+
+@lru_cache(maxsize=1)
+def _blocked() -> Dict[str, dict]:
+    try:
+        return json.loads(_BLOCKED_FILE.read_text(encoding="utf-8"))["languages"]
+    except Exception:
+        return {}
+
+
+def universal_supported(code: str) -> bool:
+    """False when ``code``'s text cannot be written in the universal orthography.
+
+    A handful of languages have a rule table for a different script than they are
+    actually written in -- Tarifit and Tashelhiyt are written in Arabic but
+    tabled in Latin, and the Omotic languages are written in Ethiopic. Their text
+    matches no grapheme, so it used to pass through and universal "output" was
+    the source script, verbatim and unconverted.
+    """
+    return code not in _blocked()
+
+
+def universal_languages() -> List[str]:
+    """Languages that can be written in the universal orthography."""
+    from .loader import available_languages
+    codes = set(available_languages()) | set(plain_latin_languages())
+    return sorted(c for c in codes if universal_supported(c))
+
+
+def _check_universal(code: str) -> None:
+    info = _blocked().get(code)
+    if info is None:
+        return
+    table = ("has no rule table" if info.get("table_is") == "none"
+             else f"is tabled in {info['table_is']}")
+    raise UniversalUnsupported(
+        f"{code} ({info['name']}) is written in {info['written_in']} but {table}, "
+        f"so its text cannot be written in the universal orthography yet and would "
+        f"pass through as {info['written_in']} unchanged. "
+        f"Use africa_g2p.universal_supported({code!r}) to test this, or "
+        f"universal_languages() for the ones that work.")
+
+
 def strip_apostrophes(text: str) -> str:
     """Remove apostrophes, which the universal orthography does not write."""
     return "".join(ch for ch in text if ch not in _APOSTROPHES)
@@ -370,6 +417,10 @@ class GraphemeConverter:
                     target does mark aspiration. Default True.
         """
         forward, reverse = _universal_tables()
+        if target == UNIVERSAL and source != UNIVERSAL:
+            _check_universal(source)
+        elif source == UNIVERSAL and target != UNIVERSAL:
+            _check_universal(target)
         self.source = source
         self.target = target
         self.relax_aspiration = relax_aspiration

@@ -296,3 +296,33 @@ def test_passthrough_drops_tone_but_keeps_letters():
     """Dropping marks must not eat the letters they sit on."""
     assert convert_lang("bé mí", "bky", UNIVERSAL) == "be mi"
     assert convert_lang("kúu", "bez", UNIVERSAL) == "kuu"
+
+
+def test_wrong_script_languages_are_blocked_from_universal():
+    """A table for the wrong script does not convert, it passes text through.
+
+    Tarifit and Tashelhiyt are written in Arabic but tabled in Latin; the Omotic
+    languages are written in Ethiopic and had been declared plain-Latin
+    passthrough. Either way every letter matched no grapheme, so "universal"
+    output was the source script returned verbatim. Refusing is more useful than
+    handing back Arabic and calling it universal."""
+    from africa_g2p import UniversalUnsupported, universal_supported
+
+    for code in ("rif", "shi", "apd", "fuv", "ttq", "dwr", "gof", "mfx", "oyd"):
+        assert not universal_supported(code)
+        with pytest.raises(UniversalUnsupported) as err:
+            convert_lang("test", code, UNIVERSAL)
+        assert code in str(err.value)
+        # and the other direction
+        with pytest.raises(UniversalUnsupported):
+            convert_lang("test", UNIVERSAL, code)
+
+
+def test_working_languages_are_not_blocked():
+    from africa_g2p import universal_supported, universal_languages
+
+    for code in ("twi", "ewe", "gaa", "dag", "amh", "vai", "arq", "swh"):
+        assert universal_supported(code), code
+    langs = universal_languages()
+    assert "twi" in langs and "rif" not in langs
+    assert len(langs) > 800
