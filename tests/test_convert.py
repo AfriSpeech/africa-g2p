@@ -271,3 +271,28 @@ def test_universal_never_writes_apostrophes():
 
     # plain-Latin languages already did this; they must keep doing it
     assert "'" not in convert_lang("ng'ombe", "swh", UNIVERSAL)
+
+
+def test_universal_output_is_plain_latin():
+    """Universal is a plain a-z orthography, so nothing else should reach it.
+
+    Three ways non-a-z letters used to survive:
+      - a language whose declared alphabet is plain a-z is passed through
+        unchanged, and several write tone on top of it (Bokyi bé, Bwamu á)
+      - the saltillo ꞌ is a letter, not punctuation, so it dodged the
+        apostrophe check that Beja needed
+      - confusables of letters the chart does have (Adioukrou writes ↄ for ɔ)
+    """
+    cases = [("bky", "bé mí"), ("bwo", "á"), ("bez", "kúu"),
+             ("bej", "ꞌama"), ("adj", "ↄbↄ"), ("bsw", "ɂama")]
+    for code, text in cases:
+        out = convert_lang(text, code, UNIVERSAL)
+        assert out == out.lower()
+        bad = [c for c in out if c.isalpha() and not ("a" <= c <= "z")]
+        assert not bad, f"{code}: {out!r} still has {bad}"
+
+
+def test_passthrough_drops_tone_but_keeps_letters():
+    """Dropping marks must not eat the letters they sit on."""
+    assert convert_lang("bé mí", "bky", UNIVERSAL) == "be mi"
+    assert convert_lang("kúu", "bez", UNIVERSAL) == "kuu"

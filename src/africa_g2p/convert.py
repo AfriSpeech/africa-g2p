@@ -276,7 +276,9 @@ def reverse_table(lang: str) -> Dict[str, str]:
 # elision in several orthographies and carries no grapheme of its own, so it is
 # simply dropped from the universal form.
 
-_APOSTROPHES = "'\u2019\u2018\u02bc\u02bb`"
+# U+A78C SALTILLO is a letter, not punctuation, but orthographies use it exactly
+# as an apostrophe (Beja writes ꞌ where others write '), so it goes too.
+_APOSTROPHES = "'\u2019\u2018\u02bc\u02bb`\ua78c\ua78b"
 
 
 def _alphabet_is_plain_latin(alphabet) -> bool:
@@ -337,6 +339,20 @@ def strip_apostrophes(text: str) -> str:
     return "".join(ch for ch in text if ch not in _APOSTROPHES)
 
 
+def _drop_marks(text: str) -> str:
+    """Drop combining marks, which the universal orthography does not write.
+
+    A language whose declared alphabet is plain a-z is passed through unchanged,
+    but several write tone on top of it -- Bokyi and Bwamu mark é í á ú -- and
+    those accents reached universal output verbatim. The chart path already
+    drops them (a tone-marked phoneme falls back to its base letter), so this
+    only makes passthrough agree with it.
+    """
+    return unicodedata.normalize(
+        "NFC", "".join(ch for ch in unicodedata.normalize("NFD", text)
+                       if not unicodedata.combining(ch)))
+
+
 class GraphemeConverter:
     """Rewrite one language's graphemes in another's, per shared phonemes."""
 
@@ -388,7 +404,7 @@ class GraphemeConverter:
         separate token (the phoneme-sequence view)."""
         text = normalize_text(text, lower=lower)
         if self.passthrough:
-            return strip_apostrophes(text)
+            return strip_apostrophes(_drop_marks(text))
         out: list = []
         for tok in tokenize(text):
             if not tok.is_word or _is_english_word(tok.text):
@@ -410,7 +426,7 @@ class GraphemeConverter:
     def convert_word(self, word: str, *, sep: str = "", lower: bool = True) -> str:
         """Convert a single word (no tokenization)."""
         if self.passthrough:
-            return strip_apostrophes(normalize_text(word, lower=lower))
+            return strip_apostrophes(_drop_marks(normalize_text(word, lower=lower)))
         if _is_english_word(word):
             return word
         word = normalize_text(word, lower=lower)
