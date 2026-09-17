@@ -136,9 +136,63 @@ def build(code: str, freq: collections.Counter | None,
             return blob.count(g)
         return sum(freq.get(c, 0) for c in g) if freq else 0
 
-    by_sound: dict[str, list[str]] = {}
+    def script_of(ch: str) -> str:
+        o = ord(ch)
+        if 0x1200 <= o <= 0x137F: return "ethiopic"
+        if 0x0600 <= o <= 0x06FF: return "arabic"
+        if 0xA500 <= o <= 0xA63F: return "vai"
+        if 0x07C0 <= o <= 0x07FF: return "nko"
+        if 0x0400 <= o <= 0x04FF: return "cyrillic"
+        return "latin"
+
+    def graph_script(g: str) -> str:
+        for c in g:
+            if c.isalpha():
+                return script_of(c)
+        return "latin"
+
+    corpus_script = "latin"
+    if blob:
+        counts = collections.Counter(script_of(c) for c in blob if c.isalpha())
+        if counts:
+            corpus_script = counts.most_common(1)[0][0]
+
+    def in_corpus_script(g: str) -> bool:
+        letters = [c for c in g if c.isalpha()]
+        return bool(letters) and all(script_of(c) == corpus_script for c in letters)
+
+    # Group by sound AND script. Sharing a spelling between two writings of one
+    # sound is right across scripts -- Ethiopic ሀ and its romanisation "ha" are
+    # the same word written two ways, and the reverse returns whichever script
+    # the corpus uses. It is wrong within one script: ሀ ኸ ሐ ኀ are four distinct
+    # Ethiopic letters that happen to be pronounced alike, and merging them left
+    # three of the four unrecoverable. Same for Latin c/k/q and a/à/â.
+    #
+    # So every grapheme in the corpus's own script keeps its own spelling, and
+    # only the other scripts' spellings fold onto it.
+    per_ipa: dict[str, list[str]] = {}
     for graph in plain:
-        by_sound.setdefault(str(graphemes[graph]), []).append(graph)
+        per_ipa.setdefault(str(graphemes[graph]), []).append(graph)
+
+    by_sound: dict[str, list[str]] = {}
+    group_of: dict[str, str] = {}
+    for ipa, gs in per_ipa.items():
+        by_script: dict[str, list[str]] = {}
+        for g in gs:
+            by_script.setdefault(graph_script(g), []).append(g)
+        main = (corpus_script if corpus_script in by_script
+                else max(by_script, key=lambda s: sum(weight(x) for x in by_script[s])))
+        for g in by_script[main]:
+            key = f"{ipa}\x00{g}"
+            by_sound[key] = [g]
+            group_of[g] = key
+        host = f"{ipa}\x00{max(by_script[main], key=lambda g: (weight(g), -len(g)))}"
+        for sc, lst in by_script.items():
+            if sc == main:
+                continue
+            for g in lst:
+                by_sound[host].append(g)
+                group_of[g] = host
 
     # what each sound would like to be spelled
     want: dict[str, str] = {}
@@ -242,11 +296,26 @@ def build(code: str, freq: collections.Counter | None,
                     else:
                         out.append(t[i]); i += 1
                 return out
+            # Blame every value the parser actually used, not just the
+            # left-hand one. Ma'di spells ɨ "yh", and "n"+"yh" parses as
+            # "ny"+"h": the value destroyed is "yh", while "n" maps to itself
+            # and is protected, so blaming "n" respelt nothing.
+            #
+            # This respells hard, and a value can be suffixed on more than one
+            # of the six passes -- Ma'di ɨ ends up "yhhhhhhh", which is ugly and
+            # still wrong, because "ny" swallows the start of anything
+            # beginning with "y" however long it gets. Fixing those few needs a
+            # different stem, which this loop cannot choose. Measured over 557
+            # languages it is nonetheless worth 118 of them at 100%.
             seen = set()
             for a in vals:
                 for b in vals:
-                    if parse(a + b) != [a, b]:
-                        seen.add(a)
+                    got = parse(a + b)
+                    if got == [a, b]:
+                        continue
+                    seen.update(got)
+                    seen.add(a)
+                    seen.add(b)
             risky = [ipa for ipa, v in final.items()
                      if v in seen and v not in by_sound[ipa]]
         if not risky:
@@ -265,7 +334,7 @@ def build(code: str, freq: collections.Counter | None,
                 final[ipa] = f"{v}{k}"
                 taken.add(f"{v}{k}")
 
-    universal = {g: final[str(graphemes[g])] for g in plain}
+    universal = {g: final[group_of[g]] for g in plain}
 
     # Which spelling comes back. Several tables carry two scripts for one
     # language -- Amharic has Ethiopic and a romanisation, Hausa and Afrikaans
@@ -276,24 +345,6 @@ def build(code: str, freq: collections.Counter | None,
     # Hausa, but Hausa is written in Latin in practice, and preferring native
     # made Latin input come back as Ajami. Let the corpus decide instead: the
     # script the language is actually written in is the one to return.
-    def script_of(ch: str) -> str:
-        o = ord(ch)
-        if 0x1200 <= o <= 0x137F: return "ethiopic"
-        if 0x0600 <= o <= 0x06FF: return "arabic"
-        if 0xA500 <= o <= 0xA63F: return "vai"
-        if 0x07C0 <= o <= 0x07FF: return "nko"
-        return "latin"
-
-    corpus_script = "latin"
-    if blob:
-        counts = collections.Counter(script_of(c) for c in blob if c.isalpha())
-        if counts:
-            corpus_script = counts.most_common(1)[0][0]
-
-    def in_corpus_script(g: str) -> bool:
-        letters = [c for c in g if c.isalpha()]
-        return bool(letters) and all(script_of(c) == corpus_script for c in letters)
-
     reverse: dict[str, str] = {}
     for ipa, u in final.items():
         # Shorter first among same-sound alternates. weight() sums character

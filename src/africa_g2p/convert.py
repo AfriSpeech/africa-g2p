@@ -368,27 +368,60 @@ def stored_universal(code: str) -> Tuple[Dict[str, str], Dict[str, str]]:
     return rules.get("universal") or {}, rules.get("universal_reverse") or {}
 
 
+def _nfc(s: str) -> str:
+    """Recompose. Matching runs decomposed, but callers and the normalizer work
+    in NFC -- emitting decomposed text made every accented language compare
+    unequal to its own source and looked like a system-wide collapse."""
+    return unicodedata.normalize("NFC", s)
+
+
 def _greedy_units(text: str, table: Dict[str, str]) -> list:
     """Rewrite text with the longest matching key at each position, one unit per
-    grapheme matched, so a caller can join them with its own separator."""
+    grapheme matched, so a caller can join them with its own separator.
+
+    Text and keys are both compared decomposed, longest key first, and any
+    combining marks trailing a match ride along to the end of its replacement.
+
+    Decomposing is what makes that safe. Ngomba /ɑ̂/ spells "ah" plus a
+    combining circumflex, and NFC fuses the mark with the "h" into ĥ (U+0125);
+    matching the composed text, the reverse key "ah" could never match it again.
+    Acute survived only because Unicode has no precomposed "h with acute", which
+    is why one word round-tripped with one accent and not another. Decomposed,
+    ĥ is h plus a mark again and the key matches as written.
+
+    Matching stays exact. Letting a key match across marks instead -- so that
+    "ah" could find a-circumflex-h -- let long keys swallow accents belonging to
+    a language's own accented graphemes, and cost more languages than it fixed.
+    """
     if not table:
         return [text]
-    keys = sorted(table, key=len, reverse=True)
+    nfd = {unicodedata.normalize("NFD", k): v for k, v in table.items()}
+    # Longest first; at equal length an accented grapheme of the language's own
+    # chart beats a bare one, so Avokaya ị is read as ị, not i plus a mark.
+    keys = sorted(nfd, key=lambda k: (len(k),
+                                      any(unicodedata.combining(c) for c in k)),
+                  reverse=True)
+    flat = unicodedata.normalize("NFD", text)
+
     out, i = [], 0
-    while i < len(text):
-        ch = text[i]
+    while i < len(flat):
+        ch = flat[i]
         if ch.isspace() or unicodedata.category(ch).startswith("P") or ch.isdigit():
-            out.append(ch)
+            out.append(_nfc(ch))
             i += 1
             continue
         for k in keys:
-            if k and text.startswith(k, i):
-                out.append(table[k])
-                i += len(k)
+            if k and flat.startswith(k, i):
+                j = i + len(k)
                 break
         else:
-            out.append(ch)
-            i += 1
+            k, j = None, i + 1
+        held = ""
+        while j < len(flat) and unicodedata.combining(flat[j]):
+            held += flat[j]
+            j += 1
+        out.append(_nfc((nfd[k] if k is not None else ch) + held))
+        i = j
     return out
 
 

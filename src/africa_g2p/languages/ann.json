@@ -148,7 +148,7 @@
     "f": "f",
     "g": "g",
     "gb": "gb",
-    "gw": "g",
+    "gw": "ghhhhhh",
     "h": "h",
     "i": "i",
     "j": "j",
@@ -160,9 +160,9 @@
     "n": "n",
     "nw": "nw",
     "ny": "ny",
-    "n̄": "ngh",
+    "n̄": "nghhhhhh",
     "o": "o",
-    "ọ": "oh",
+    "ọ": "ohhhhhh",
     "p": "p",
     "r": "r",
     "s": "s",
@@ -176,7 +176,7 @@
     "ee": "ee",
     "ii": "ii",
     "oo": "oo",
-    "ọọ": "ooh",
+    "ọọ": "oohhhhhh",
     "uu": "uu"
   },
   "universal_reverse": {
@@ -187,6 +187,7 @@
     "e": "e",
     "f": "f",
     "g": "g",
+    "ghhhhhh": "gw",
     "gb": "gb",
     "h": "h",
     "i": "i",
@@ -199,9 +200,9 @@
     "n": "n",
     "nw": "nw",
     "ny": "ny",
-    "ngh": "n̄",
+    "nghhhhhh": "n̄",
     "o": "o",
-    "oh": "ọ",
+    "ohhhhhh": "ọ",
     "p": "p",
     "r": "r",
     "s": "s",
@@ -215,7 +216,7 @@
     "ee": "ee",
     "ii": "ii",
     "oo": "oo",
-    "ooh": "ọọ",
+    "oohhhhhh": "ọọ",
     "uu": "uu"
   }
 }

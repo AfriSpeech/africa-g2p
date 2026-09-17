@@ -109,9 +109,9 @@
   "universal": {
     "a": "a",
     "b": "b",
-    "’b": "bh",
+    "’b": "bhhhhhhh",
     "d": "d",
-    "’d": "dh",
+    "’d": "dhhhhhhh",
     "e": "e",
     "g": "g",
     "h": "h",
@@ -133,14 +133,14 @@
     "kp": "kp",
     "mb": "mb",
     "nd": "nd",
-    "ŋb": "nb"
+    "ŋb": "nbhhhhhh"
   },
   "universal_reverse": {
     "a": "a",
     "b": "b",
-    "bh": "’b",
+    "bhhhhhhh": "’b",
     "d": "d",
-    "dh": "’d",
+    "dhhhhhhh": "’d",
     "e": "e",
     "g": "g",
     "h": "h",
@@ -162,6 +162,6 @@
     "kp": "kp",
     "mb": "mb",
     "nd": "nd",
-    "nb": "ŋb"
+    "nbhhhhhh": "ŋb"
   }
 }
