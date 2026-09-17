@@ -292,8 +292,32 @@ def _is_plain_latin(alphabet) -> bool:
     return seen
 
 
+_PLAIN_LATIN_FILE = _DATA / "plain_latin_languages.json"
+_plain_latin_registry: "Dict[str, dict] | None" = None
+
+
+def plain_latin_languages() -> Dict[str, dict]:
+    """Languages recorded as writing in basic Latin only, with no rule table.
+
+    These have a corpus but no grapheme-to-IPA chart. A table is not needed for
+    universal output — the orthography already is the universal grapheme set —
+    so they are declared here rather than given a rule file asserting phonetic
+    values nobody has verified.
+    """
+    global _plain_latin_registry
+    if _plain_latin_registry is None:
+        if _PLAIN_LATIN_FILE.exists():
+            with _PLAIN_LATIN_FILE.open(encoding="utf-8") as fh:
+                _plain_latin_registry = json.load(fh)
+        else:
+            _plain_latin_registry = {}
+    return _plain_latin_registry
+
+
 def is_plain_latin_language(code: str) -> bool:
     """True when ``code``'s orthography needs no conversion for universal output."""
+    if code in plain_latin_languages():
+        return True
     try:
         rules = load_rules(code)
     except Exception:
@@ -333,7 +357,11 @@ class GraphemeConverter:
         self.passthrough = (target == UNIVERSAL and source != UNIVERSAL
                             and is_plain_latin_language(source))
         # Forward engine: language graphemes -> IPA (or majority graphemes -> IPA).
-        if source == UNIVERSAL:
+        # Skipped entirely when passing through: a plain-Latin orthography needs
+        # no phoneme round-trip, and such a table may assert no IPA at all.
+        if self.passthrough:
+            self._forward = None
+        elif source == UNIVERSAL:
             self._forward = G2P.from_rules({"code": UNIVERSAL, "graphemes": forward})
         else:
             self._forward = G2P(source, output="ipa")
@@ -342,7 +370,12 @@ class GraphemeConverter:
         self._universal_reverse = reverse
         # Source's own spelling per phoneme -> flag when a target differs, so a
         # converted phoneme that lands next to the same letter can be tripled.
-        self._source_spelling = {} if source == UNIVERSAL else reverse_table(source)
+        # Both are unused when passing through, and a plain-Latin language may
+        # have no rule file to read them from.
+        if self.passthrough or source == UNIVERSAL:
+            self._source_spelling = {}
+        else:
+            self._source_spelling = reverse_table(source)
 
     def convert(self, text: str, *, sep: str = "", lower: bool = True) -> str:
         """Convert a full text. Word boundaries (spacing and punctuation) are always

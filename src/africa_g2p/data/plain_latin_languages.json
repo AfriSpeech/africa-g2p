@@ -1,0 +1,552 @@
+{
+ "ala": {
+  "letters": "abdefghijklmnoprstuwyz",
+  "name": "Alago",
+  "source": "AfriSpeech/africa-corpus ala corpus"
+ },
+ "asa": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Asu (Tanzania)",
+  "source": "AfriSpeech/africa-corpus asa corpus"
+ },
+ "auh": {
+  "letters": "abcdefghiklmnoprstuvwyz",
+  "name": "Aushi",
+  "source": "AfriSpeech/africa-corpus auh corpus"
+ },
+ "bou": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Bondei",
+  "source": "AfriSpeech/africa-corpus bou corpus"
+ },
+ "buj": {
+  "letters": "abcdefghijklmnoprstuwyz",
+  "name": "Basa-Gurmana",
+  "source": "AfriSpeech/africa-corpus buj corpus"
+ },
+ "cky": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Cakfem-Mushere",
+  "source": "AfriSpeech/africa-corpus cky corpus"
+ },
+ "crs": {
+  "letters": "abdefghiklmnoprstuvwyz",
+  "name": "Seselwa Creole French",
+  "source": "AfriSpeech/africa-corpus crs corpus"
+ },
+ "cwe": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Kwere",
+  "source": "AfriSpeech/africa-corpus cwe corpus"
+ },
+ "dav": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Taita",
+  "source": "AfriSpeech/africa-corpus dav corpus"
+ },
+ "dde": {
+  "letters": "abdefghiklmnopstuvwyz",
+  "name": "Doondo",
+  "source": "AfriSpeech/africa-corpus dde corpus"
+ },
+ "dne": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Ndendeule",
+  "source": "AfriSpeech/africa-corpus dne corpus"
+ },
+ "dri": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "C’lela",
+  "source": "AfriSpeech/africa-corpus dri corpus"
+ },
+ "drs": {
+  "letters": "abcdefghijklmnopqrstuwxyz",
+  "name": "Gedeo",
+  "source": "AfriSpeech/africa-corpus drs corpus"
+ },
+ "dwr": {
+  "letters": "abcdefghijklmnoprstuwyz",
+  "name": "Dawro",
+  "source": "AfriSpeech/africa-corpus dwr corpus"
+ },
+ "egm": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Benemanga",
+  "source": "AfriSpeech/africa-corpus egm corpus"
+ },
+ "eko": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Koti",
+  "source": "AfriSpeech/africa-corpus eko corpus"
+ },
+ "gax": {
+  "letters": "abcdefghijklmnopqrstuwxyz",
+  "name": "Oromo, Arsi",
+  "source": "AfriSpeech/africa-corpus gax corpus"
+ },
+ "gaz": {
+  "letters": "abcdefghijklmnopqrstuwxyz",
+  "name": "West Central Oromo",
+  "source": "AfriSpeech/africa-corpus gaz corpus"
+ },
+ "gof": {
+  "letters": "abcdefghijklmnopqrstuwxyz",
+  "name": "Gofa",
+  "source": "AfriSpeech/africa-corpus gof corpus"
+ },
+ "gwn": {
+  "letters": "abdeghijklmnoprstuwyz",
+  "name": "Gwandara",
+  "source": "AfriSpeech/africa-corpus gwn corpus"
+ },
+ "hav": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Havu",
+  "source": "AfriSpeech/africa-corpus hav corpus"
+ },
+ "heh": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Hehe",
+  "source": "AfriSpeech/africa-corpus heh corpus"
+ },
+ "iyx": {
+  "letters": "abdefghiklmnoprstuvwyz",
+  "name": "Yaka",
+  "source": "AfriSpeech/africa-corpus iyx corpus"
+ },
+ "jmc": {
+  "letters": "abdefghiklmnoprstuvwyz",
+  "name": "Machame",
+  "source": "AfriSpeech/africa-corpus jmc corpus"
+ },
+ "kaj": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Jju",
+  "source": "AfriSpeech/africa-corpus kaj corpus"
+ },
+ "kck": {
+  "letters": "abdefghijklmnoprstuvwyz",
+  "name": "Kalanga",
+  "source": "AfriSpeech/africa-corpus kck corpus"
+ },
+ "kcu": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Kami",
+  "source": "AfriSpeech/africa-corpus kcu corpus"
+ },
+ "kdc": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Kutu",
+  "source": "AfriSpeech/africa-corpus kdc corpus"
+ },
+ "kdi": {
+  "letters": "abcdegijklmnoprstuwy",
+  "name": "Kumam",
+  "source": "AfriSpeech/africa-corpus kdi corpus"
+ },
+ "ked": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Bukerebe (Kerebe)",
+  "source": "AfriSpeech/africa-corpus ked corpus"
+ },
+ "kiv": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Kimbu",
+  "source": "AfriSpeech/africa-corpus kiv corpus"
+ },
+ "kki": {
+  "letters": "abcdefghijklmnopstuwy",
+  "name": "Kagulu",
+  "source": "AfriSpeech/africa-corpus kki corpus"
+ },
+ "kln": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Kalenjin",
+  "source": "AfriSpeech/africa-corpus kln corpus"
+ },
+ "kqn": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Kaonde",
+  "source": "AfriSpeech/africa-corpus kqn corpus"
+ },
+ "kqo": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Eastern Krahn",
+  "source": "AfriSpeech/africa-corpus kqo corpus"
+ },
+ "kqy": {
+  "letters": "abcdefghijklmnopqrstuwxyz",
+  "name": "Koorete",
+  "source": "AfriSpeech/africa-corpus kqy corpus"
+ },
+ "ktu": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Kituba (Democratic Republic of Congo)",
+  "source": "AfriSpeech/africa-corpus ktu corpus"
+ },
+ "kua": {
+  "letters": "abdefghijklmnoprstuvwxy",
+  "name": "Kuanyama",
+  "source": "AfriSpeech/africa-corpus kua corpus"
+ },
+ "kwm": {
+  "letters": "abcdefghijklmnoprstuvz",
+  "name": "Oshikwambi",
+  "source": "AfriSpeech/africa-corpus kwm corpus"
+ },
+ "kwn": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Kwangali",
+  "source": "AfriSpeech/africa-corpus kwn corpus"
+ },
+ "kxc": {
+  "letters": "abcdefhijklmnopqrstuwxy",
+  "name": "Konso",
+  "source": "AfriSpeech/africa-corpus kxc corpus"
+ },
+ "leb": {
+  "letters": "abcdefghijklmnopstuvwy",
+  "name": "Lala-Bisa",
+  "source": "AfriSpeech/africa-corpus leb corpus"
+ },
+ "lgm": {
+  "letters": "abdefghiklmnopstuvwyz",
+  "name": "Lega-Mwenga",
+  "source": "AfriSpeech/africa-corpus lgm corpus"
+ },
+ "llb": {
+  "letters": "abcdefghijklmnoprstuvwxyz",
+  "name": "ILolo",
+  "source": "AfriSpeech/africa-corpus llb corpus"
+ },
+ "lon": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Lomwe, Malawi",
+  "source": "AfriSpeech/africa-corpus lon corpus"
+ },
+ "lsm": {
+  "letters": "abcdefghijklmnoprstuwy",
+  "name": "Saamia",
+  "source": "AfriSpeech/africa-corpus lsm corpus"
+ },
+ "lto": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Tsotso",
+  "source": "AfriSpeech/africa-corpus lto corpus"
+ },
+ "lua": {
+  "letters": "abdefghijklmnoprstuvwyz",
+  "name": "Luba-Lulua",
+  "source": "AfriSpeech/africa-corpus lua corpus"
+ },
+ "luo": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Luo (Kenya and Tanzania)",
+  "source": "AfriSpeech/africa-corpus luo corpus"
+ },
+ "lwg": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Wanga",
+  "source": "AfriSpeech/africa-corpus lwg corpus"
+ },
+ "lyn": {
+  "letters": "abcdefghijklmnopstuwyz",
+  "name": "Luyana",
+  "source": "AfriSpeech/africa-corpus lyn corpus"
+ },
+ "mfx": {
+  "letters": "abcdefghijklmnopqrstuwxyz",
+  "name": "Melo",
+  "source": "AfriSpeech/africa-corpus mfx corpus"
+ },
+ "mgj": {
+  "letters": "abdefghiklmnoprstuvwyz",
+  "name": "Abureni",
+  "source": "AfriSpeech/africa-corpus mgj corpus"
+ },
+ "mgr": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Mambwe (ichi-): Lungu",
+  "source": "AfriSpeech/africa-corpus mgr corpus"
+ },
+ "mgs": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Manda (Tanzania)",
+  "source": "AfriSpeech/africa-corpus mgs corpus"
+ },
+ "mgv": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Matengo",
+  "source": "AfriSpeech/africa-corpus mgv corpus"
+ },
+ "mgw": {
+  "letters": "abdefghijklmnoprstuvwyz",
+  "name": "Matumbi",
+  "source": "AfriSpeech/africa-corpus mgw corpus"
+ },
+ "mgy": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Mbunga",
+  "source": "AfriSpeech/africa-corpus mgy corpus"
+ },
+ "mhd": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Mbugu",
+  "source": "AfriSpeech/africa-corpus mhd corpus"
+ },
+ "mhw": {
+  "letters": "abcdefghijklmnoprstuvwy",
+  "name": "Mbukushu",
+  "source": "AfriSpeech/africa-corpus mhw corpus"
+ },
+ "mpa": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Mpoto",
+  "source": "AfriSpeech/africa-corpus mpa corpus"
+ },
+ "mwn": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Nyamwanga",
+  "source": "AfriSpeech/africa-corpus mwn corpus"
+ },
+ "nbl": {
+  "letters": "abcdefghijklmnopqrstuvwyz",
+  "name": "South Ndebele",
+  "source": "AfriSpeech/africa-corpus nbl corpus"
+ },
+ "ndc": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Ndau",
+  "source": "AfriSpeech/africa-corpus ndc corpus"
+ },
+ "nde": {
+  "letters": "abcdefghijklmnopqrstuvwxyz",
+  "name": "North Ndebele",
+  "source": "AfriSpeech/africa-corpus nde corpus"
+ },
+ "ndj": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Ndamba",
+  "source": "AfriSpeech/africa-corpus ndj corpus"
+ },
+ "ndp": {
+  "letters": "abdefghiklmnoprstuvwyz",
+  "name": "Ndo",
+  "source": "AfriSpeech/africa-corpus ndp corpus"
+ },
+ "ngp": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Ngulu",
+  "source": "AfriSpeech/africa-corpus ngp corpus"
+ },
+ "njd": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Ndonde Hamba",
+  "source": "AfriSpeech/africa-corpus njd corpus"
+ },
+ "nka": {
+  "letters": "abcdefghiklmnopstuvwyz",
+  "name": "Nkoya",
+  "source": "AfriSpeech/africa-corpus nka corpus"
+ },
+ "nkn": {
+  "letters": "abcdefghijklmnopstuvyz",
+  "name": "Nkangala",
+  "source": "AfriSpeech/africa-corpus nkn corpus"
+ },
+ "nle": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Nyala",
+  "source": "AfriSpeech/africa-corpus nle corpus"
+ },
+ "nnq": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Ngindo",
+  "source": "AfriSpeech/africa-corpus nnq corpus"
+ },
+ "nww": {
+  "letters": "abcdefghijklmnopstuwyz",
+  "name": "Ndwewe",
+  "source": "AfriSpeech/africa-corpus nww corpus"
+ },
+ "nyd": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Nyore",
+  "source": "AfriSpeech/africa-corpus nyd corpus"
+ },
+ "nyf": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Giryama",
+  "source": "AfriSpeech/africa-corpus nyf corpus"
+ },
+ "nyn": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Nyankole",
+  "source": "AfriSpeech/africa-corpus nyn corpus"
+ },
+ "nyo": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Nyoro",
+  "source": "AfriSpeech/africa-corpus nyo corpus"
+ },
+ "nyu": {
+  "letters": "abcdefghijklmnoprstuvwxyz",
+  "name": "Nyungwe",
+  "source": "AfriSpeech/africa-corpus nyu corpus"
+ },
+ "oyd": {
+  "letters": "abcdefghijklmnopqrstuwxyz",
+  "name": "Oyda",
+  "source": "AfriSpeech/africa-corpus oyd corpus"
+ },
+ "pcm": {
+  "letters": "abcdefghijklmnoprstuvwxyz",
+  "name": "Pidgin, Nigerian",
+  "source": "AfriSpeech/africa-corpus pcm corpus"
+ },
+ "pkb": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Pokomo",
+  "source": "AfriSpeech/africa-corpus pkb corpus"
+ },
+ "poy": {
+  "letters": "abdefghijklmnoprstuvwyz",
+  "name": "Pogolo",
+  "source": "AfriSpeech/africa-corpus poy corpus"
+ },
+ "rag": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Lulogooli",
+  "source": "AfriSpeech/africa-corpus rag corpus"
+ },
+ "ruf": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Luguru",
+  "source": "AfriSpeech/africa-corpus ruf corpus"
+ },
+ "saq": {
+  "letters": "abcdeghijklmnoprstuwy",
+  "name": "Samburu",
+  "source": "AfriSpeech/africa-corpus saq corpus"
+ },
+ "sbm": {
+  "letters": "abcdefghijklmnopstuvwy",
+  "name": "Sagala",
+  "source": "AfriSpeech/africa-corpus sbm corpus"
+ },
+ "sby": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Soli",
+  "source": "AfriSpeech/africa-corpus sby corpus"
+ },
+ "shq": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Sala",
+  "source": "AfriSpeech/africa-corpus shq corpus"
+ },
+ "sid": {
+  "letters": "abcdefghijklmnopqrstuwxyz",
+  "name": "Sidamo",
+  "source": "AfriSpeech/africa-corpus sid corpus"
+ },
+ "som": {
+  "letters": "abcdefghijklmnoqrstuwxy",
+  "name": "Somali",
+  "source": "AfriSpeech/africa-corpus som corpus"
+ },
+ "sot": {
+  "letters": "abdefghijklmnopqrstuvwyz",
+  "name": "Southern Sotho",
+  "source": "AfriSpeech/africa-corpus sot corpus"
+ },
+ "swc": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Congo Swahili",
+  "source": "AfriSpeech/africa-corpus swc corpus"
+ },
+ "swk": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Sena (Malawi)",
+  "source": "AfriSpeech/africa-corpus swk corpus"
+ },
+ "tap": {
+  "letters": "abdefghiklmnoprstuvwyz",
+  "name": "Taabwa",
+  "source": "AfriSpeech/africa-corpus tap corpus"
+ },
+ "tcc": {
+  "letters": "abcdefghijklmnoprstuwy",
+  "name": "Datooga",
+  "source": "AfriSpeech/africa-corpus tcc corpus"
+ },
+ "tga": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Sagalla",
+  "source": "AfriSpeech/africa-corpus tga corpus"
+ },
+ "tke": {
+  "letters": "abcdefghijklmnoprstuvwxyz",
+  "name": "Takwane",
+  "source": "AfriSpeech/africa-corpus tke corpus"
+ },
+ "tsn": {
+  "letters": "abcdefghijklmnoprstuwy",
+  "name": "Setswana",
+  "source": "AfriSpeech/africa-corpus tsn corpus"
+ },
+ "tul": {
+  "letters": "abcdefghiklmnorstuwy",
+  "name": "Tula",
+  "source": "AfriSpeech/africa-corpus tul corpus"
+ },
+ "tuv": {
+  "letters": "abcdeghijklmnoprstuwy",
+  "name": "Turkana",
+  "source": "AfriSpeech/africa-corpus tuv corpus"
+ },
+ "tvs": {
+  "letters": "abcdefghijklmnoprstuvwyz",
+  "name": "Taveta",
+  "source": "AfriSpeech/africa-corpus tvs corpus"
+ },
+ "vid": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Vidunda",
+  "source": "AfriSpeech/africa-corpus vid corpus"
+ },
+ "vmk": {
+  "letters": "abcdefghiklmnoprstuvwxyz",
+  "name": "Makhuwa-Shirima",
+  "source": "AfriSpeech/africa-corpus vmk corpus"
+ },
+ "wal": {
+  "letters": "abcdefghijklmnopqrstuwxyz",
+  "name": "Wolaytta",
+  "source": "AfriSpeech/africa-corpus wal corpus"
+ },
+ "wja": {
+  "letters": "abcdeghijklmnoprstuwy",
+  "name": "Waja",
+  "source": "AfriSpeech/africa-corpus wja corpus"
+ },
+ "xnj": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "kiNgoni",
+  "source": "AfriSpeech/africa-corpus xnj corpus"
+ },
+ "yaf": {
+  "letters": "abdefghiklmnopstuvwyz",
+  "name": "Yaka",
+  "source": "AfriSpeech/africa-corpus yaf corpus"
+ },
+ "yal": {
+  "letters": "abcdefghiklmnoprstuwy",
+  "name": "Yalunka",
+  "source": "AfriSpeech/africa-corpus yal corpus"
+ },
+ "zaj": {
+  "letters": "abcdefghijklmnopstuvwyz",
+  "name": "Zaramo - Zalamo",
+  "source": "AfriSpeech/africa-corpus zaj corpus"
+ }
+}
