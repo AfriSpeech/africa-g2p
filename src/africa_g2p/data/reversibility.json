@@ -1,5 +1,13 @@
 [
  {
+  "code": "abn",
+  "name": "Abua",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
   "code": "abr",
   "name": "Abron",
   "sentences": 60,
@@ -10,6 +18,14 @@
  {
   "code": "acd",
   "name": "Gikyode",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "adj",
+  "name": "Adioukrou",
   "sentences": 60,
   "exact": 60,
   "exact_pct": 100.0,
@@ -32,6 +48,14 @@
   "char_pct": 100.0
  },
  {
+  "code": "akp",
+  "name": "Siwu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
   "code": "ala",
   "name": "Alago",
   "sentences": null,
@@ -43,14 +67,6 @@
  {
   "code": "ald",
   "name": "Alladian",
-  "sentences": 60,
-  "exact": 60,
-  "exact_pct": 100.0,
-  "char_pct": 100.0
- },
- {
-  "code": "alz",
-  "name": "Alur",
   "sentences": 60,
   "exact": 60,
   "exact_pct": 100.0,
@@ -99,6 +115,14 @@
  {
   "code": "arq",
   "name": "Arabic, Algerian",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ary",
+  "name": "Moroccan Arabic",
   "sentences": 60,
   "exact": 60,
   "exact_pct": 100.0,
@@ -379,14 +403,6 @@
   "char_pct": 100.0
  },
  {
-  "code": "bmo",
-  "name": "Bambalang",
-  "sentences": 60,
-  "exact": 60,
-  "exact_pct": 100.0,
-  "char_pct": 100.0
- },
- {
   "code": "bmv",
   "name": "Bum",
   "sentences": 60,
@@ -508,6 +524,14 @@
   "char_pct": 100.0
  },
  {
+  "code": "bsw",
+  "name": "Baiso",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
   "code": "btg",
   "name": "Bété, Gagnoa",
   "sentences": 60,
@@ -518,6 +542,14 @@
  {
   "code": "btt",
   "name": "Bete-Bendi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bui",
+  "name": "Bongili",
   "sentences": 60,
   "exact": 60,
   "exact_pct": 100.0,
@@ -717,6 +749,14 @@
   "exact_pct": 100.0,
   "char_pct": 100.0,
   "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "csk",
+  "name": "Jola-Kasa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
  },
  {
   "code": "cuv",
@@ -1640,6 +1680,14 @@
   "char_pct": 100.0
  },
  {
+  "code": "kab",
+  "name": "Kabyle",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
   "code": "kaj",
   "name": "Jju",
   "sentences": null,
@@ -1667,14 +1715,6 @@
  {
   "code": "kbo",
   "name": "Keliko",
-  "sentences": 60,
-  "exact": 60,
-  "exact_pct": 100.0,
-  "char_pct": 100.0
- },
- {
-  "code": "kbp",
-  "name": "Kabiyè",
   "sentences": 60,
   "exact": 60,
   "exact_pct": 100.0,
@@ -2078,6 +2118,14 @@
   "char_pct": 100.0
  },
  {
+  "code": "kuj",
+  "name": "Kuria",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
   "code": "kus",
   "name": "Kusaal",
   "sentences": 60,
@@ -2228,14 +2276,6 @@
  {
   "code": "leh",
   "name": "Lenje",
-  "sentences": 60,
-  "exact": 60,
-  "exact_pct": 100.0,
-  "char_pct": 100.0
- },
- {
-  "code": "lgg",
-  "name": "Lugbara",
   "sentences": 60,
   "exact": 60,
   "exact_pct": 100.0,
@@ -2557,6 +2597,14 @@
  {
   "code": "mdm",
   "name": "Mayogo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mdy",
+  "name": "Maale",
   "sentences": 60,
   "exact": 60,
   "exact_pct": 100.0,
@@ -3071,14 +3119,6 @@
   "char_pct": 100.0
  },
  {
-  "code": "naq",
-  "name": "Khoekhoe",
-  "sentences": 60,
-  "exact": 60,
-  "exact_pct": 100.0,
-  "char_pct": 100.0
- },
- {
   "code": "nat",
   "name": "Hungworo",
   "sentences": 60,
@@ -3179,14 +3219,6 @@
   "exact_pct": 100.0,
   "char_pct": 100.0,
   "note": "plain-Latin passthrough; apostrophes not restored"
- },
- {
-  "code": "ndv",
-  "name": "Ndut",
-  "sentences": 60,
-  "exact": 60,
-  "exact_pct": 100.0,
-  "char_pct": 100.0
  },
  {
   "code": "ndz",
@@ -3718,6 +3750,14 @@
   "char_pct": 100.0
  },
  {
+  "code": "rif",
+  "name": "Tarifit",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
   "code": "rim",
   "name": "Nyaturu",
   "sentences": 60,
@@ -3892,6 +3932,14 @@
   "char_pct": 100.0
  },
  {
+  "code": "shi",
+  "name": "Tashelhayt",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
   "code": "shk",
   "name": "Shilluk",
   "sentences": 60,
@@ -3952,14 +4000,6 @@
  {
   "code": "sna",
   "name": "Shona",
-  "sentences": 60,
-  "exact": 60,
-  "exact_pct": 100.0,
-  "char_pct": 100.0
- },
- {
-  "code": "snf",
-  "name": "Noon",
   "sentences": 60,
   "exact": 60,
   "exact_pct": 100.0,
@@ -4233,6 +4273,14 @@
  {
   "code": "thk",
   "name": "Tharaka",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "thv",
+  "name": "Tuareg",
   "sentences": 60,
   "exact": 60,
   "exact_pct": 100.0,
@@ -4855,14 +4903,6 @@
   "char_pct": 100.0
  },
  {
-  "code": "ach",
-  "name": "Acholi (Acoli)",
-  "sentences": 60,
-  "exact": 59,
-  "exact_pct": 98.3,
-  "char_pct": 99.3
- },
- {
   "code": "azo",
   "name": "Awing",
   "sentences": 60,
@@ -4887,14 +4927,6 @@
   "char_pct": 99.7
  },
  {
-  "code": "csk",
-  "name": "Jola-Kasa",
-  "sentences": 60,
-  "exact": 59,
-  "exact_pct": 98.3,
-  "char_pct": 98.6
- },
- {
   "code": "glw",
   "name": "Glavda",
   "sentences": 60,
@@ -4916,15 +4948,7 @@
   "sentences": 60,
   "exact": 59,
   "exact_pct": 98.3,
-  "char_pct": 99.2
- },
- {
-  "code": "kab",
-  "name": "Kabyle",
-  "sentences": 60,
-  "exact": 59,
-  "exact_pct": 98.3,
-  "char_pct": 100.0
+  "char_pct": 99.1
  },
  {
   "code": "kvj",
@@ -4932,7 +4956,7 @@
   "sentences": 60,
   "exact": 59,
   "exact_pct": 98.3,
-  "char_pct": 99.4
+  "char_pct": 99.3
  },
  {
   "code": "myb",
@@ -4940,15 +4964,7 @@
   "sentences": 60,
   "exact": 59,
   "exact_pct": 98.3,
-  "char_pct": 98.0
- },
- {
-  "code": "rif",
-  "name": "Tarifit",
-  "sentences": 60,
-  "exact": 59,
-  "exact_pct": 98.3,
-  "char_pct": 100.0
+  "char_pct": 97.8
  },
  {
   "code": "twi",
@@ -4972,7 +4988,7 @@
   "sentences": 60,
   "exact": 58,
   "exact_pct": 96.7,
-  "char_pct": 96.8
+  "char_pct": 96.6
  },
  {
   "code": "hwo",
@@ -4988,7 +5004,15 @@
   "sentences": 60,
   "exact": 58,
   "exact_pct": 96.7,
-  "char_pct": 98.0
+  "char_pct": 97.7
+ },
+ {
+  "code": "ssy",
+  "name": "Saho",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 97.4
  },
  {
   "code": "wib",
@@ -5012,15 +5036,7 @@
   "sentences": 60,
   "exact": 57,
   "exact_pct": 95.0,
-  "char_pct": 95.3
- },
- {
-  "code": "thv",
-  "name": "Tuareg",
-  "sentences": 60,
-  "exact": 57,
-  "exact_pct": 95.0,
-  "char_pct": 99.9
+  "char_pct": 95.2
  },
  {
   "code": "tnr",
@@ -5039,14 +5055,6 @@
   "char_pct": 98.0
  },
  {
-  "code": "ary",
-  "name": "Moroccan Arabic",
-  "sentences": 60,
-  "exact": 56,
-  "exact_pct": 93.3,
-  "char_pct": 99.8
- },
- {
   "code": "fat",
   "name": "Fanti",
   "sentences": 60,
@@ -5063,14 +5071,6 @@
   "char_pct": 94.8
  },
  {
-  "code": "shi",
-  "name": "Tashelhayt",
-  "sentences": 60,
-  "exact": 56,
-  "exact_pct": 93.3,
-  "char_pct": 98.9
- },
- {
   "code": "ven",
   "name": "Venda",
   "sentences": 60,
@@ -5084,7 +5084,7 @@
   "sentences": 60,
   "exact": 55,
   "exact_pct": 91.7,
-  "char_pct": 96.7
+  "char_pct": 96.6
  },
  {
   "code": "gid",
@@ -5095,12 +5095,20 @@
   "char_pct": 94.6
  },
  {
+  "code": "ags",
+  "name": "Esimbi",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 94.4
+ },
+ {
   "code": "fuf",
   "name": "Pular",
   "sentences": 60,
   "exact": 54,
   "exact_pct": 90.0,
-  "char_pct": 93.4
+  "char_pct": 93.1
  },
  {
   "code": "gux",
@@ -5116,7 +5124,15 @@
   "sentences": 60,
   "exact": 54,
   "exact_pct": 90.0,
-  "char_pct": 93.8
+  "char_pct": 93.9
+ },
+ {
+  "code": "bav",
+  "name": "Vengo",
+  "sentences": 60,
+  "exact": 53,
+  "exact_pct": 88.3,
+  "char_pct": 90.3
  },
  {
   "code": "bfm",
@@ -5124,7 +5140,7 @@
   "sentences": 60,
   "exact": 53,
   "exact_pct": 88.3,
-  "char_pct": 92.7
+  "char_pct": 92.3
  },
  {
   "code": "gej",
@@ -5132,7 +5148,7 @@
   "sentences": 60,
   "exact": 53,
   "exact_pct": 88.3,
-  "char_pct": 95.5
+  "char_pct": 95.4
  },
  {
   "code": "maf",
@@ -5156,7 +5172,15 @@
   "sentences": 60,
   "exact": 52,
   "exact_pct": 86.7,
-  "char_pct": 91.8
+  "char_pct": 91.4
+ },
+ {
+  "code": "naq",
+  "name": "Khoekhoe",
+  "sentences": 60,
+  "exact": 52,
+  "exact_pct": 86.7,
+  "char_pct": 97.0
  },
  {
   "code": "ffm",
@@ -5164,7 +5188,7 @@
   "sentences": 60,
   "exact": 51,
   "exact_pct": 85.0,
-  "char_pct": 91.7
+  "char_pct": 91.4
  },
  {
   "code": "gqa",
@@ -5172,7 +5196,7 @@
   "sentences": 60,
   "exact": 51,
   "exact_pct": 85.0,
-  "char_pct": 87.5
+  "char_pct": 87.2
  },
  {
   "code": "ney",
@@ -5183,20 +5207,12 @@
   "char_pct": 88.4
  },
  {
-  "code": "bsw",
-  "name": "Baiso",
-  "sentences": 60,
-  "exact": 50,
-  "exact_pct": 83.3,
-  "char_pct": 89.3
- },
- {
   "code": "fuh",
   "name": "Western Niger Fulfulde",
   "sentences": 60,
   "exact": 49,
   "exact_pct": 81.7,
-  "char_pct": 93.4
+  "char_pct": 93.2
  },
  {
   "code": "khy",
@@ -5212,7 +5228,7 @@
   "sentences": 60,
   "exact": 48,
   "exact_pct": 80.0,
-  "char_pct": 92.1
+  "char_pct": 92.0
  },
  {
   "code": "gsl",
@@ -5221,14 +5237,6 @@
   "exact": 48,
   "exact_pct": 80.0,
   "char_pct": 92.0
- },
- {
-  "code": "ssy",
-  "name": "Saho",
-  "sentences": 60,
-  "exact": 48,
-  "exact_pct": 80.0,
-  "char_pct": 84.8
  },
  {
   "code": "tyx",
@@ -5244,15 +5252,7 @@
   "sentences": 60,
   "exact": 48,
   "exact_pct": 80.0,
-  "char_pct": 88.1
- },
- {
-  "code": "bav",
-  "name": "Vengo",
-  "sentences": 60,
-  "exact": 47,
-  "exact_pct": 78.3,
-  "char_pct": 86.4
+  "char_pct": 88.3
  },
  {
   "code": "hau",
@@ -5271,6 +5271,14 @@
   "char_pct": 87.8
  },
  {
+  "code": "ada",
+  "name": "Adangme",
+  "sentences": 60,
+  "exact": 46,
+  "exact_pct": 76.7,
+  "char_pct": 92.2
+ },
+ {
   "code": "bud",
   "name": "Ntcham",
   "sentences": 60,
@@ -5285,6 +5293,14 @@
   "exact": 46,
   "exact_pct": 76.7,
   "char_pct": 87.3
+ },
+ {
+  "code": "kbp",
+  "name": "Kabiyè",
+  "sentences": 60,
+  "exact": 45,
+  "exact_pct": 75.0,
+  "char_pct": 82.1
  },
  {
   "code": "dsh",
@@ -5316,7 +5332,15 @@
   "sentences": 60,
   "exact": 42,
   "exact_pct": 70.0,
-  "char_pct": 78.9
+  "char_pct": 79.2
+ },
+ {
+  "code": "bmo",
+  "name": "Bambalang",
+  "sentences": 60,
+  "exact": 39,
+  "exact_pct": 65.0,
+  "char_pct": 99.2
  },
  {
   "code": "lug",
@@ -5340,7 +5364,7 @@
   "sentences": 60,
   "exact": 37,
   "exact_pct": 61.7,
-  "char_pct": 79.1
+  "char_pct": 78.6
  },
  {
   "code": "kmw",
@@ -5359,28 +5383,12 @@
   "char_pct": 77.1
  },
  {
-  "code": "kuj",
-  "name": "Kuria",
-  "sentences": 60,
-  "exact": 35,
-  "exact_pct": 58.3,
-  "char_pct": 70.4
- },
- {
   "code": "jit",
   "name": "Jita",
   "sentences": 60,
   "exact": 34,
   "exact_pct": 56.7,
   "char_pct": 67.1
- },
- {
-  "code": "mdy",
-  "name": "Maale",
-  "sentences": 60,
-  "exact": 33,
-  "exact_pct": 55.0,
-  "char_pct": 68.6
  },
  {
   "code": "rng",
@@ -5396,7 +5404,7 @@
   "sentences": 60,
   "exact": 27,
   "exact_pct": 45.0,
-  "char_pct": 62.4
+  "char_pct": 62.2
  },
  {
   "code": "vut",
@@ -5404,7 +5412,7 @@
   "sentences": 60,
   "exact": 27,
   "exact_pct": 45.0,
-  "char_pct": 56.0
+  "char_pct": 56.3
  },
  {
   "code": "dbd",
@@ -5412,7 +5420,7 @@
   "sentences": 60,
   "exact": 26,
   "exact_pct": 43.3,
-  "char_pct": 65.9
+  "char_pct": 66.0
  },
  {
   "code": "lik",
@@ -5420,23 +5428,7 @@
   "sentences": 60,
   "exact": 26,
   "exact_pct": 43.3,
-  "char_pct": 56.2
- },
- {
-  "code": "dur",
-  "name": "Dii",
-  "sentences": 60,
-  "exact": 25,
-  "exact_pct": 41.7,
-  "char_pct": 56.0
- },
- {
-  "code": "bui",
-  "name": "Bongili",
-  "sentences": 60,
-  "exact": 24,
-  "exact_pct": 40.0,
-  "char_pct": 54.7
+  "char_pct": 56.3
  },
  {
   "code": "did",
@@ -5452,7 +5444,23 @@
   "sentences": 60,
   "exact": 23,
   "exact_pct": 38.3,
-  "char_pct": 63.1
+  "char_pct": 63.0
+ },
+ {
+  "code": "snf",
+  "name": "Noon",
+  "sentences": 60,
+  "exact": 21,
+  "exact_pct": 35.0,
+  "char_pct": 50.4
+ },
+ {
+  "code": "dur",
+  "name": "Dii",
+  "sentences": 60,
+  "exact": 20,
+  "exact_pct": 33.3,
+  "char_pct": 71.9
  },
  {
   "code": "buu",
@@ -5460,7 +5468,7 @@
   "sentences": 60,
   "exact": 16,
   "exact_pct": 26.7,
-  "char_pct": 45.4
+  "char_pct": 45.6
  },
  {
   "code": "ego",
@@ -5476,7 +5484,23 @@
   "sentences": 60,
   "exact": 15,
   "exact_pct": 25.0,
-  "char_pct": 37.7
+  "char_pct": 37.8
+ },
+ {
+  "code": "lgg",
+  "name": "Lugbara",
+  "sentences": 60,
+  "exact": 14,
+  "exact_pct": 23.3,
+  "char_pct": 98.4
+ },
+ {
+  "code": "ndv",
+  "name": "Ndut",
+  "sentences": 60,
+  "exact": 14,
+  "exact_pct": 23.3,
+  "char_pct": 53.7
  },
  {
   "code": "snm",
@@ -5484,7 +5508,7 @@
   "sentences": 60,
   "exact": 13,
   "exact_pct": 21.7,
-  "char_pct": 32.1
+  "char_pct": 32.6
  },
  {
   "code": "niy",
@@ -5492,7 +5516,7 @@
   "sentences": 60,
   "exact": 12,
   "exact_pct": 20.0,
-  "char_pct": 37.0
+  "char_pct": 36.5
  },
  {
   "code": "pny",
@@ -5500,15 +5524,7 @@
   "sentences": 60,
   "exact": 12,
   "exact_pct": 20.0,
-  "char_pct": 35.8
- },
- {
-  "code": "log",
-  "name": "Logoti",
-  "sentences": 60,
-  "exact": 7,
-  "exact_pct": 11.7,
-  "char_pct": 42.3
+  "char_pct": 35.2
  },
  {
   "code": "nge",
@@ -5516,7 +5532,7 @@
   "sentences": 60,
   "exact": 6,
   "exact_pct": 10.0,
-  "char_pct": 40.8
+  "char_pct": 40.0
  },
  {
   "code": "avu",
@@ -5525,5 +5541,13 @@
   "exact": 3,
   "exact_pct": 5.0,
   "char_pct": 25.0
+ },
+ {
+  "code": "log",
+  "name": "Logoti",
+  "sentences": 60,
+  "exact": 0,
+  "exact_pct": 0.0,
+  "char_pct": 39.2
  }
 ]

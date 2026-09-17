@@ -43,7 +43,7 @@ UNIVERSAL = "universal"
 # wants -- and it is lossy, because Twi /o/ and /ɔ/ both land on "o". Recovering
 # the orthography means those two must differ, and that spelling can only be
 # chosen per language, so the result is no longer comparable across languages:
-# Twi writes /ɔ/ "ohh" and Ewe writes it "oh", each avoiding sequences its own
+# Twi writes /ɔ/ "oxh" and Ewe writes it "ox", each avoiding sequences its own
 # corpus already uses. Collapsing both behaviours into one target would have
 # forced every caller to take the per-language spellings.
 UNIVERSAL_REVERSIBLE = "universal-reversible"

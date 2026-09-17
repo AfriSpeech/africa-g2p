@@ -43,7 +43,8 @@ CORPUS = "AfriSpeech/africa-corpus"
 # Tried in order; the first free within the language wins. "h" first because a
 # trailing h is rare word-internally in these orthographies, so it reads as a
 # modifier rather than a separate sound.
-SUFFIXES = ("h", "x", "q", "hh", "xx")
+SUFFIXES = ("h", "x", "q", "hh", "hx", "hq", "xh", "xx", "xq",
+            "qh", "qx", "qq", "hhx", "hxh", "xhh", "qhh")
 
 
 def hf_token() -> str:
@@ -219,12 +220,14 @@ def build(code: str, freq: collections.Counter | None,
     # group would otherwise collide with a later group whose base value is "ah".
     taken: set[str] = set(contested)
     final: dict[str, str] = {}
+    base_val: dict[str, str] = {}      # the value before any respelling
     for u, ipas in contested.items():
         # the sound whose own spelling matches the universal value keeps it
         def best(i: str):
             gs = by_sound[i]
             return (u not in gs, -max((weight(g) for g in gs), default=0), i)
         for n, ipa in enumerate(sorted(ipas, key=best)):
+            base_val[ipa] = u
             if n == 0:
                 final[ipa] = u
                 continue
@@ -321,7 +324,12 @@ def build(code: str, freq: collections.Counter | None,
         if not risky:
             break
         for ipa in risky:
-            v = final[ipa]
+            # Always suffix the ORIGINAL value. Suffixing whatever the last
+            # pass produced made a value grow once per pass, so Twi ɔ went
+            # "oh" -> "ohh" -> ... -> "ohhhhhhh" and 1225 values ended up over
+            # four characters long. The clash is the same each time; it is the
+            # suffix that has to differ, not the length.
+            v = base_val.get(ipa, final[ipa])
             for suf in SUFFIXES:
                 if v + suf not in taken and not segmentable(v + suf, vals | {v + suf}):
                     final[ipa] = v + suf

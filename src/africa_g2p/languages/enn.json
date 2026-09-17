@@ -201,7 +201,7 @@
   "universal": {
     "p": "p",
     "b": "b",
-    "ḅ": "bhhhhhhh",
+    "ḅ": "bxh",
     "t": "t",
     "d": "d",
     "ḍ": "dh",
@@ -233,7 +233,7 @@
   "universal_reverse": {
     "p": "p",
     "b": "b",
-    "bhhhhhhh": "ḅ",
+    "bxh": "ḅ",
     "t": "t",
     "d": "d",
     "dh": "ḍ",
