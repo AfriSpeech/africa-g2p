@@ -69,5 +69,43 @@
     "w",
     "y"
   ],
-  "examples": []
+  "examples": [],
+  "universal": {
+    "a": "a",
+    "i": "i",
+    "u": "u",
+    "b": "p",
+    "d": "t",
+    "j": "ch",
+    "k": "k",
+    "l": "l",
+    "ly": "ly",
+    "m": "m",
+    "n": "n",
+    "ng": "ng",
+    "ny": "ny",
+    "r": "r",
+    "rr": "rh",
+    "w": "w",
+    "y": "y"
+  },
+  "universal_reverse": {
+    "a": "a",
+    "i": "i",
+    "u": "u",
+    "p": "b",
+    "t": "d",
+    "ch": "j",
+    "k": "k",
+    "l": "l",
+    "ly": "ly",
+    "m": "m",
+    "n": "n",
+    "ng": "ng",
+    "ny": "ny",
+    "r": "r",
+    "rh": "rr",
+    "w": "w",
+    "y": "y"
+  }
 }

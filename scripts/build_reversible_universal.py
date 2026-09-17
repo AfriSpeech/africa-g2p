@@ -70,69 +70,242 @@ def grapheme_frequency(fname: str, nbytes: int = 200_000) -> collections.Counter
                                                "Range": f"bytes=0-{nbytes}"})
     raw = urllib.request.urlopen(req, timeout=120).read().decode("utf-8", "replace")
     texts = [l.split(",", 2)[2] for l in raw.splitlines()[1:] if l.count(",") >= 2]
-    return collections.Counter("".join(texts).lower())
+    blob = "".join(texts).lower()
+    c = collections.Counter(blob)
+    c["__text__"] = 0            # sentinel; the blob rides along for ambiguity tests
+    return c, blob
 
 
-def build(code: str, freq: collections.Counter | None) -> dict | None:
+def build(code: str, freq: collections.Counter | None,
+          blob: str = "") -> dict | None:
     """Return {'universal': {...}, 'universal_reverse': {...}} or None if unchanged."""
     sys.path.insert(0, str(REPO / "src"))
-    from africa_g2p.convert import _universal_tables
+    from africa_g2p.convert import (_universal_tables, _relax_aspiration,
+                                    _strip_combining)
     from africa_g2p.loader import load_rules
 
     _, ipa_to_uni = _universal_tables()
-    graphemes = load_rules(code).get("graphemes") or {}
+    rules = load_rules(code)
+    graphemes = rules.get("graphemes") or {}
 
     # what each grapheme maps to today
+    def base_value(ipa: str) -> str | None:
+        """The universal spelling the converter itself would choose.
+
+        Not a plain dictionary lookup. Rare aspirated phonemes win the survey
+        vote on tiny samples, so the converter prefers the relaxed plain-phoneme
+        majority and falls back to the exact entry, then to the phoneme stripped
+        of tone marks. Looking the raw IPA up directly disagreed with that:
+        Twi's chart has no plain /k/ at all -- its <k> is /kʰ/, which the survey
+        spells "kh" -- so the stored table started writing <k> as "kh" and Twi
+        rendered "Onyankopɔn" as "onyankhophohhn".
+        """
+        relaxed = _relax_aspiration(ipa)
+        for form in (relaxed, ipa):
+            u = ipa_to_uni.get(form)
+            if u:
+                return u
+        base = _strip_combining(ipa)
+        if base and base != ipa:
+            for form in (base, _strip_combining(relaxed)):
+                u = ipa_to_uni.get(form)
+                if u:
+                    return u
+        return None
+
     plain: dict[str, str] = {}
     for graph, ipa in graphemes.items():
-        u = ipa_to_uni.get(str(ipa))
+        u = base_value(str(ipa))
         if u:
             plain[graph] = u
 
-    clashes: dict[str, list[str]] = {}
-    for graph, u in plain.items():
-        clashes.setdefault(u, []).append(graph)
-    clashes = {u: gs for u, gs in clashes.items() if len(gs) > 1}
-    if not clashes:
-        return None                      # already injective, leave it alone
-
+    # Assign one universal spelling per distinct SOUND, then give every
+    # grapheme of that sound the same spelling. Doing it per grapheme left
+    # alternates holding the old value and re-colliding; Ethiopic and Vai write
+    # many phonemes twice (native script and romanisation) and those are
+    # alternates, not clashes -- disambiguating them produced nonsense like
+    # ሀ -> "hexx".
     def weight(g: str) -> int:
+        """How often this exact spelling occurs, not the sum of its letters.
+
+        Summing letters made "gg" outrank "g" and "ei" outrank "y" purely by
+        length, so Afrikaans round-tripped "gemaak" as "ggemaak" and "hy" as
+        "hei". Counting the string itself ranks them the way the language does.
+        """
+        if blob:
+            return blob.count(g)
         return sum(freq.get(c, 0) for c in g) if freq else 0
 
-    def rank(u: str):
-        """Who keeps the plain spelling: the grapheme that already *is* it.
+    by_sound: dict[str, list[str]] = {}
+    for graph in plain:
+        by_sound.setdefault(str(graphemes[graph]), []).append(graph)
 
-        Frequency alone gives backwards results -- in Fante ɔ outnumbers o, so
-        ɔ would take "o" and plain o would become "oh". Preferring the grapheme
-        identical to the universal value keeps the obvious reading, and
-        frequency only breaks ties among the rest.
-        """
-        def key(g: str):
-            return (g != u, -weight(g), len(g), g)
-        return key
+    # what each sound would like to be spelled
+    want: dict[str, str] = {}
+    for ipa, gs in by_sound.items():
+        want[ipa] = plain[gs[0]]
 
-    taken = set(plain.values())
-    universal = dict(plain)
-    for u, group in clashes.items():
-        # the most frequent grapheme keeps the plain spelling
-        ordered = sorted(group, key=rank(u))
-        for graph in ordered[1:]:
+    contested: dict[str, list[str]] = {}
+    for ipa, u in want.items():
+        contested.setdefault(u, []).append(ipa)
+    # Even with no clashes the table is written: without it the converter falls
+    # back to the IPA path, which drops tone and nasal marks (míǹ -> min) that a
+    # direct grapheme<->universal map passes through untouched.
+    no_clash = not any(len(v) > 1 for v in contested.values())
+    if no_clash:
+        universal = dict(plain)
+        reverse = {}
+        for ipa, gs in by_sound.items():
+            u = plain[gs[0]]
+            cands = sorted(gs, key=lambda g: (g != u, -weight(g), len(g), g))
+            reverse[u] = cands[0]
+        return {"universal": universal, "universal_reverse": reverse}
+
+    # Seed with every base spelling up front: assigning "ah" as a suffix in one
+    # group would otherwise collide with a later group whose base value is "ah".
+    taken: set[str] = set(contested)
+    final: dict[str, str] = {}
+    for u, ipas in contested.items():
+        # the sound whose own spelling matches the universal value keeps it
+        def best(i: str):
+            gs = by_sound[i]
+            return (u not in gs, -max((weight(g) for g in gs), default=0), i)
+        for n, ipa in enumerate(sorted(ipas, key=best)):
+            if n == 0:
+                final[ipa] = u
+                continue
             for suf in SUFFIXES:
-                cand = u + suf
-                if cand not in taken:
-                    universal[graph] = cand
-                    taken.add(cand)
+                if u + suf not in taken:
+                    final[ipa] = u + suf
+                    taken.add(u + suf)
                     break
             else:
-                n = 2
-                while f"{u}{n}" in taken:
-                    n += 1
-                universal[graph] = f"{u}{n}"
-                taken.add(f"{u}{n}")
+                k = 2
+                while f"{u}{k}" in taken:
+                    k += 1
+                final[ipa] = f"{u}{k}"
+                taken.add(f"{u}{k}")
 
-    reverse = {v: k for k, v in universal.items()}
-    if len(reverse) != len(universal):
-        raise RuntimeError(f"{code}: still not injective after disambiguation")
+    # A value is also ambiguous when it can be produced by concatenating other
+    # values: ã spells as "an", which a real a+n sequence produces too, so the
+    # reverse parse turns "nam" into "nã". This dominated the failures in
+    # Kusaal, Fanti and Ga -- the injectivity check was grapheme-vs-grapheme,
+    # but the clash is grapheme-vs-sequence.
+    def segmentable(v: str, vals: set[str]) -> bool:
+        """Ambiguous only when the competing sequence actually occurs.
+
+        Every digraph is segmentable in principle -- "gb" is "g"+"b" -- but
+        greedy matching resolves that correctly unless real g+b sequences are
+        common in the language. "an" is different: a+n is everywhere, so the
+        nasal vowel spelling loses. Corpus frequency decides which is which.
+        """
+        if len(v) < 2 or not freq:
+            return False
+        reach = {0}
+        for i in range(len(v)):
+            if i not in reach:
+                continue
+            for w in vals:
+                if w != v and w and v.startswith(w, i):
+                    reach.add(i + len(w))
+        if len(v) not in reach:
+            return False
+        # the sequence is a genuine competitor when its parts are common letters
+        # v is a real competitor when that exact string already occurs in the
+        # language's own orthography: "an" is everywhere in Kusaal, so spelling
+        # ã as "an" loses; "gb" as a literal pair is not, so the digraph is safe.
+        if not blob:
+            return False
+        return blob.count(v) >= max(3, 0.0002 * len(blob))
+
+    for _ in range(6):                       # respelling can create new clashes
+        vals = set(final.values())
+        # A value that IS one of the sound's own graphemes maps to itself and
+        # cannot be misread: "gb" -> "gb" is safe. Only a value that spells the
+        # sound as some *other* existing string is at risk -- ã -> "an".
+        risky = [ipa for ipa, v in final.items()
+                 if v not in by_sound[ipa] and segmentable(v, vals)]
+
+        # A value is also unsafe when CONCATENATING it with another value
+        # produces a string the greedy reverse parses differently. Ga spells ũ
+        # as "un" and ŋ as "ng"; the sequence u+ŋ gives "ung", which parses as
+        # "un"+"g" and comes back as ũg. Checking values in isolation misses
+        # this -- the collision only exists once they are adjacent.
+        if not risky:
+            longest = sorted(vals, key=len, reverse=True)
+            def parse(t):
+                out, i = [], 0
+                while i < len(t):
+                    for k in longest:
+                        if k and t.startswith(k, i):
+                            out.append(k); i += len(k); break
+                    else:
+                        out.append(t[i]); i += 1
+                return out
+            seen = set()
+            for a in vals:
+                for b in vals:
+                    if parse(a + b) != [a, b]:
+                        seen.add(a)
+            risky = [ipa for ipa, v in final.items()
+                     if v in seen and v not in by_sound[ipa]]
+        if not risky:
+            break
+        for ipa in risky:
+            v = final[ipa]
+            for suf in SUFFIXES:
+                if v + suf not in taken and not segmentable(v + suf, vals | {v + suf}):
+                    final[ipa] = v + suf
+                    taken.add(v + suf)
+                    break
+            else:
+                k = 2
+                while f"{v}{k}" in taken:
+                    k += 1
+                final[ipa] = f"{v}{k}"
+                taken.add(f"{v}{k}")
+
+    universal = {g: final[str(graphemes[g])] for g in plain}
+
+    # Which spelling comes back. Several tables carry two scripts for one
+    # language -- Amharic has Ethiopic and a romanisation, Hausa and Afrikaans
+    # have Latin and a historical Arabic orthography -- and both map to the same
+    # sounds, so the reverse has to choose.
+    #
+    # The scripts block is not the right guide: it labels Arabic "native" for
+    # Hausa, but Hausa is written in Latin in practice, and preferring native
+    # made Latin input come back as Ajami. Let the corpus decide instead: the
+    # script the language is actually written in is the one to return.
+    def script_of(ch: str) -> str:
+        o = ord(ch)
+        if 0x1200 <= o <= 0x137F: return "ethiopic"
+        if 0x0600 <= o <= 0x06FF: return "arabic"
+        if 0xA500 <= o <= 0xA63F: return "vai"
+        if 0x07C0 <= o <= 0x07FF: return "nko"
+        return "latin"
+
+    corpus_script = "latin"
+    if blob:
+        counts = collections.Counter(script_of(c) for c in blob if c.isalpha())
+        if counts:
+            corpus_script = counts.most_common(1)[0][0]
+
+    def in_corpus_script(g: str) -> bool:
+        letters = [c for c in g if c.isalpha()]
+        return bool(letters) and all(script_of(c) == corpus_script for c in letters)
+
+    reverse: dict[str, str] = {}
+    for ipa, u in final.items():
+        # Shorter first among same-sound alternates. weight() sums character
+        # frequencies, so "gg" outscores "g" simply by being longer, and
+        # Afrikaans "gemaak" came back as "ggemaak"; likewise "hy" as "hei".
+        cands = sorted(by_sound[ipa],
+                       key=lambda g: (not in_corpus_script(g), -weight(g),
+                                      g != u, len(g), g))
+        reverse[u] = cands[0]
+
+    if len(reverse) != len(final):
+        raise RuntimeError(f"{code}: sounds still share a spelling")
     return {"universal": universal, "universal_reverse": reverse}
 
 
@@ -168,14 +341,14 @@ def main():
 
     changed = skipped = 0
     for code in codes:
-        freq = None
+        freq, blob = None, ""
         if code in files:
             try:
-                freq = grapheme_frequency(files[code])
+                freq, blob = grapheme_frequency(files[code])
             except Exception:
                 pass
         try:
-            blocks = build(code, freq)
+            blocks = build(code, freq, blob)
         except Exception as exc:
             print(f"  {code:<5} ERROR {type(exc).__name__}: {exc}", flush=True)
             continue

@@ -252,3 +252,55 @@ def test_universal_collision_alternatives_are_plain_letters():
     assert all(_is_plain_latin(v) for v in _UNIVERSAL_VOWEL_ALTERNATIVES.values())
     out = GraphemeConverter("bud", UNIVERSAL).convert("Unimbɔti nín kíĺ ki náań")
     assert "ə" not in out and "nean" in out
+
+
+def test_universal_reversible_recovers_the_orthography():
+    """The point of the reversible target: /o/ and /ɔ/ stay apart, so the text
+    can be read back. Plain universal spells both <o> and cannot."""
+    from africa_g2p import UNIVERSAL_REVERSIBLE
+
+    for word in ("Onyankopɔn", "dodoɔ", "hyɛɛ", "ɔfa"):
+        u = convert_lang(word, "twi", UNIVERSAL_REVERSIBLE)
+        assert convert_lang(u, UNIVERSAL_REVERSIBLE, "twi") == word.lower()
+
+
+def test_universal_stays_lossy_and_shared():
+    """Adding the reversible target must not change plain universal: it is the
+    cross-language column, and every language spells /ɔ/ the same way in it."""
+    assert convert_lang("Onyankopɔn", "twi", UNIVERSAL) == "onyankopon"
+    assert "ɔ" not in convert_lang("ɔfa", "twi", UNIVERSAL)
+
+
+def test_reversible_target_keeps_word_handling():
+    """The stored table runs per token so `sep` and punctuation still work."""
+    from africa_g2p import UNIVERSAL_REVERSIBLE
+
+    out = convert_lang("Onyankopɔn", "twi", UNIVERSAL_REVERSIBLE, sep=" ")
+    assert out.split(" ")[:4] == ["o", "ny", "a", "n"]
+    assert convert_lang("kpako nyini.", "dyu", UNIVERSAL_REVERSIBLE).endswith(".")
+
+
+def test_reversible_does_not_skip_english_words():
+    """Plain UNIVERSAL leaves a loanword legible. The reversible target cannot:
+    Dagbani <o> spells "ooh", which is itself an English word, so a reverse pass
+    that skipped English would skip the token it had to convert. Converting
+    loanwords like any other text is symmetric, so they still round-trip."""
+    from africa_g2p import UNIVERSAL_REVERSIBLE
+
+    assert convert_lang("Google is great", "twi", UNIVERSAL) == "google is great"
+
+    for word in ("o", "the", "dabem"):
+        u = convert_lang(word, "dag", UNIVERSAL_REVERSIBLE)
+        assert convert_lang(u, UNIVERSAL_REVERSIBLE, "dag") == word
+    assert convert_lang("o", "dag", UNIVERSAL_REVERSIBLE) == "ooh"
+
+
+def test_reversible_does_not_respell_unrelated_consonants():
+    """Twi's chart has no plain /k/ -- its <k> is /kʰ/, which the survey spells
+    "kh". Looking the raw phoneme up instead of the relaxed one made Twi write
+    "onyankhophohhn"."""
+    from africa_g2p.convert import stored_universal
+
+    fwd, _ = stored_universal("twi")
+    for g in ("k", "p", "t"):
+        assert fwd.get(g) == g, f"{g} should spell as itself, got {fwd.get(g)!r}"

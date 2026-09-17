@@ -34,6 +34,23 @@ _UNIVERSAL_FILE = _DATA / "ipa_universal_graphemes.json"
 # Virtual language code: "write every phoneme with the grapheme most languages use".
 UNIVERSAL = "universal"
 
+# Virtual language code: the same idea, but injective per language, so the text
+# can be read back into the original orthography.
+#
+# The two exist separately because they want opposite things. UNIVERSAL spells a
+# sound the way most languages spell it, which makes text from different
+# languages directly comparable and is what a shared column across a corpus
+# wants -- and it is lossy, because Twi /o/ and /ɔ/ both land on "o". Recovering
+# the orthography means those two must differ, and that spelling can only be
+# chosen per language, so the result is no longer comparable across languages:
+# Twi writes /ɔ/ "ohh" and Ewe writes it "oh", each avoiding sequences its own
+# corpus already uses. Collapsing both behaviours into one target would have
+# forced every caller to take the per-language spellings.
+UNIVERSAL_REVERSIBLE = "universal-reversible"
+
+#: Both virtual targets, for membership checks.
+_VIRTUAL = (UNIVERSAL, UNIVERSAL_REVERSIBLE)
+
 _universal_forward: Dict[str, str] = {}
 _universal_reverse: Dict[str, str] = {}
 _universal_g2p: "G2P | None" = None
@@ -333,6 +350,53 @@ def strip_apostrophes(text: str) -> str:
     return "".join(ch for ch in text if ch not in _APOSTROPHES)
 
 
+
+
+# --- stored per-language universal tables ---------------------------------------
+# A language's grapheme -> universal mapping was always language-specific (532
+# graphemes take different universal values in different languages), but it was
+# not injective: Twi wrote both `e` and `ɛ` as `e`, so the universal form could
+# not be turned back. Each language now stores an injective mapping and its
+# inverse, built by scripts/build_reversible_universal.py.
+
+def stored_universal(code: str) -> Tuple[Dict[str, str], Dict[str, str]]:
+    """(grapheme -> universal, universal -> grapheme) for ``code``, or two empties."""
+    try:
+        rules = load_rules(code)
+    except Exception:
+        return {}, {}
+    return rules.get("universal") or {}, rules.get("universal_reverse") or {}
+
+
+def _greedy_units(text: str, table: Dict[str, str]) -> list:
+    """Rewrite text with the longest matching key at each position, one unit per
+    grapheme matched, so a caller can join them with its own separator."""
+    if not table:
+        return [text]
+    keys = sorted(table, key=len, reverse=True)
+    out, i = [], 0
+    while i < len(text):
+        ch = text[i]
+        if ch.isspace() or unicodedata.category(ch).startswith("P") or ch.isdigit():
+            out.append(ch)
+            i += 1
+            continue
+        for k in keys:
+            if k and text.startswith(k, i):
+                out.append(table[k])
+                i += len(k)
+                break
+        else:
+            out.append(ch)
+            i += 1
+    return out
+
+
+def _greedy_map(text: str, table: Dict[str, str]) -> str:
+    """Rewrite text with the longest matching key at each position."""
+    return "".join(_greedy_units(text, table))
+
+
 class GraphemeConverter:
     """Rewrite one language's graphemes in another's, per shared phonemes."""
 
@@ -353,26 +417,41 @@ class GraphemeConverter:
         self.source = source
         self.target = target
         self.relax_aspiration = relax_aspiration
-        # A plain-Latin orthography already writes the universal graphemes.
-        self.passthrough = (target == UNIVERSAL and source != UNIVERSAL
-                            and is_plain_latin_language(source))
+        # A plain-Latin orthography already writes the universal graphemes, in
+        # either direction: its universal form is the text itself.
+        self.passthrough = (
+            (target in _VIRTUAL and source not in _VIRTUAL
+             and is_plain_latin_language(source))
+            or (source in _VIRTUAL and target not in _VIRTUAL
+                and is_plain_latin_language(target)))
+
+        # Stored injective tables, for the reversible target only. Using them for
+        # plain UNIVERSAL too would have given every caller the per-language
+        # spellings and broken cross-language comparability.
+        self._stored_fwd: Dict[str, str] = {}
+        self._stored_rev: Dict[str, str] = {}
+        if not self.passthrough:
+            if target == UNIVERSAL_REVERSIBLE and source not in _VIRTUAL:
+                self._stored_fwd, _ = stored_universal(source)
+            elif source == UNIVERSAL_REVERSIBLE and target not in _VIRTUAL:
+                _, self._stored_rev = stored_universal(target)
         # Forward engine: language graphemes -> IPA (or majority graphemes -> IPA).
         # Skipped entirely when passing through: a plain-Latin orthography needs
         # no phoneme round-trip, and such a table may assert no IPA at all.
         if self.passthrough:
             self._forward = None
-        elif source == UNIVERSAL:
+        elif source in _VIRTUAL:
             self._forward = G2P.from_rules({"code": UNIVERSAL, "graphemes": forward})
         else:
             self._forward = G2P(source, output="ipa")
         # Reverse table: IPA -> target graphemes.
-        self._reverse = reverse if target == UNIVERSAL else reverse_table(target)
+        self._reverse = reverse if target in _VIRTUAL else reverse_table(target)
         self._universal_reverse = reverse
         # Source's own spelling per phoneme -> flag when a target differs, so a
         # converted phoneme that lands next to the same letter can be tripled.
         # Both are unused when passing through, and a plain-Latin language may
         # have no rule file to read them from.
-        if self.passthrough or source == UNIVERSAL:
+        if self.passthrough or source in _VIRTUAL:
             self._source_spelling = {}
         else:
             self._source_spelling = reverse_table(source)
@@ -385,10 +464,24 @@ class GraphemeConverter:
         text = normalize_text(text, lower=lower)
         if self.passthrough:
             return strip_apostrophes(text)
+        # The stored table still goes through tokenization. Running it over the
+        # whole string skipped the English check (so "great" came back "greath")
+        # and ignored `sep` entirely, since there was nothing to join.
+        stored = self._stored_fwd or self._stored_rev
         out: list = []
         for tok in tokenize(text):
-            if not tok.is_word or _is_english_word(tok.text):
+            # The English skip is for plain UNIVERSAL, where a loanword is worth
+            # keeping legible. The reversible target must not use it: conversion
+            # can turn a native word into an English one -- Dagbani <o> spells
+            # "ooh" -- and the reverse pass would then skip the token it was
+            # supposed to convert. Treating loanwords as ordinary text instead is
+            # symmetric, so they still survive the round trip.
+            skip_english = not stored
+            if not tok.is_word or (skip_english and _is_english_word(tok.text)):
                 out.append(tok.text)
+                continue
+            if stored:
+                out.append(sep.join(_greedy_units(tok.text, stored)))
                 continue
             units = self._forward.convert_word(tok.text, sep=" ", lower=False).split(" ")
             out.append(sep.join(self._map_units(units)))
@@ -398,9 +491,12 @@ class GraphemeConverter:
         """Convert a single word (no tokenization)."""
         if self.passthrough:
             return strip_apostrophes(normalize_text(word, lower=lower))
-        if _is_english_word(word):
+        stored = self._stored_fwd or self._stored_rev
+        if not stored and _is_english_word(word):
             return word
         word = normalize_text(word, lower=lower)
+        if stored:
+            return sep.join(_greedy_units(word, stored))
         units = self._forward.convert_word(word, sep=" ", lower=False).split(" ")
         return sep.join(self._map_units(units))
 
@@ -413,7 +509,7 @@ class GraphemeConverter:
         prev_g, prev_ipa, run_converted = None, None, False
         for ipa in units:
             g, converted = self._map(ipa)
-            alternatives = (_UNIVERSAL_VOWEL_ALTERNATIVES if self.target == UNIVERSAL
+            alternatives = (_UNIVERSAL_VOWEL_ALTERNATIVES if self.target in _VIRTUAL
                             else _VOWEL_ALTERNATIVES)
             if converted and len(g) >= 2 and len(set(g)) == 1 and g[0] in _VOWELS:
                 alt = alternatives.get(g[0], "u" if g[0] in "oɔ" else "i")
@@ -447,7 +543,7 @@ class GraphemeConverter:
         #    target with no /tʰ/ at all uses its /t/ reading). For the virtual
         #    "universal" target this step is identical to the majority step below.
         relaxed = _relax_aspiration(ipa) if self.relax_aspiration else ipa
-        if self.target != UNIVERSAL:
+        if self.target not in _VIRTUAL:
             for form in (ipa, relaxed):
                 g = self._reverse.get(form)
                 if g is not None:
@@ -474,7 +570,7 @@ class GraphemeConverter:
         #    stripped the accent, which is exactly the character universal exists to
         #    remove. Retry on the base letter, keeping the mark off: the universal
         #    orthography does not write tone.
-        if g is None and self.target == UNIVERSAL:
+        if g is None and self.target in _VIRTUAL:
             base = _strip_combining(ipa)
             # A unit that is nothing but modifiers — a lone tone bar or ˤ emitted as
             # its own unit — writes as nothing, the same as the other phonemes the

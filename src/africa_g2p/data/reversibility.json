@@ -1,0 +1,5529 @@
+[
+ {
+  "code": "abr",
+  "name": "Abron",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ala",
+  "name": "Alago",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "apd",
+  "name": "Arabic, Sudanese (Latin)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "asa",
+  "name": "Asu (Tanzania)",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "asg",
+  "name": "Cishingini",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "atg",
+  "name": "Ivbie North-Okpela-Arhe",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "auh",
+  "name": "Aushi",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "bag",
+  "name": "Tuki",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bba",
+  "name": "Baatonum",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bbk",
+  "name": "Babanki",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bcn",
+  "name": "Bali (Nigeria)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bcy",
+  "name": "Bacama",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bds",
+  "name": "Burunge",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bej",
+  "name": "Bedawiyet",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bem",
+  "name": "Bemba (Zambia)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "beq",
+  "name": "Beembe (Congo)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bet",
+  "name": "Bété, Guiberoua",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bev",
+  "name": "Bété, Daloa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bex",
+  "name": "Jur Modo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bez",
+  "name": "Bena (Tanzania)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bfa",
+  "name": "Bari",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bfo",
+  "name": "Birifor, Malba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bhs",
+  "name": "Buwal",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bib",
+  "name": "Bissa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bim",
+  "name": "Bimoba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bin",
+  "name": "Edo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "biv",
+  "name": "Southern Birifor",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bjv",
+  "name": "Bedjond",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bjw",
+  "name": "Bakwé",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bkv",
+  "name": "Bekwarra",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bkw",
+  "name": "Bekwel",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bky",
+  "name": "Bokyi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bma",
+  "name": "Lame",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bng",
+  "name": "Bɛŋga",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bni",
+  "name": "Bangi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bou",
+  "name": "Bondei",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "bqc",
+  "name": "Boko (Benin)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bqj",
+  "name": "Bandial",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bqp",
+  "name": "Busa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bri",
+  "name": "Mokpwe",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bsc",
+  "name": "Oniyan",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bsp",
+  "name": "Baga Sitemu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "btg",
+  "name": "Bété, Gagnoa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "btt",
+  "name": "Bete-Bendi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "buj",
+  "name": "Basa-Gurmana",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "bus",
+  "name": "Bokobaru",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bwc",
+  "name": "Bwile",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bwj",
+  "name": "Bwamu, Láá Láá",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bwo",
+  "name": "Borna",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bwu",
+  "name": "Buli (Ghana)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bxk",
+  "name": "Bukusu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "bzw",
+  "name": "Basa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "cen",
+  "name": "Ibaas",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "cjk",
+  "name": "Chokwe",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "cky",
+  "name": "Cakfem-Mushere",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "cla",
+  "name": "Ron",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "cou",
+  "name": "Wamey",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "crs",
+  "name": "Seselwa Creole French",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "cuv",
+  "name": "Cuvok",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "cwa",
+  "name": "Kabwa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "cwe",
+  "name": "Kwere",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "cwt",
+  "name": "Kuwaataay",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "daa",
+  "name": "Dangaléat",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "dag",
+  "name": "Dagbani",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "dav",
+  "name": "Taita",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "dde",
+  "name": "Doondo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "dgi",
+  "name": "Dagara, Northern",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "dhm",
+  "name": "Zemba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "dig",
+  "name": "Chidigo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "dks",
+  "name": "Dinka, Southeastern",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "dne",
+  "name": "Ndendeule",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "dnj",
+  "name": "Dan",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "dnn",
+  "name": "Dzùùngoo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "dri",
+  "name": "C’lela",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "drs",
+  "name": "Gedeo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "dug",
+  "name": "Duruma",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "dwr",
+  "name": "Dawro",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "dyi",
+  "name": "Djimini Senoufo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "dyu",
+  "name": "Dyula",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "efi",
+  "name": "Efik",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "egm",
+  "name": "Benemanga",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "eka",
+  "name": "Ekajuk",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "eko",
+  "name": "Koti",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "etx",
+  "name": "Eten",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ewo",
+  "name": "Ewondo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "fip",
+  "name": "Fipa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "flr",
+  "name": "Fuliiru",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gax",
+  "name": "Oromo, Arsi",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "gaz",
+  "name": "West Central Oromo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "gbr",
+  "name": "Gbagyi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gbv",
+  "name": "Gbanu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gde",
+  "name": "Gude",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gel",
+  "name": "ut-Ma’in",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "giz",
+  "name": "South Giziga",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gjn",
+  "name": "Gonja",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gmv",
+  "name": "Gamo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gnd",
+  "name": "Zulgo-Gemzek",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "goa",
+  "name": "Guro",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "god",
+  "name": "Godié",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gof",
+  "name": "Gofa",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "gog",
+  "name": "Gogo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gou",
+  "name": "Gavar",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gud",
+  "name": "Yocoboué Dida",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "guw",
+  "name": "Gun",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "guz",
+  "name": "Ekegusii",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gwn",
+  "name": "Gwandara",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "gwr",
+  "name": "Gwere",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "gyz",
+  "name": "Geji",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "hav",
+  "name": "Havu",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "hay",
+  "name": "Haya",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "hdy",
+  "name": "Hadiyya",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "heh",
+  "name": "Hehe",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "her",
+  "name": "Herero",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ibb",
+  "name": "Ibibio",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ibo",
+  "name": "Igbo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ich",
+  "name": "Etkywan",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "idu",
+  "name": "Idoma",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ife",
+  "name": "Ifè",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "igb",
+  "name": "Ebira",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ige",
+  "name": "Igede",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ikw",
+  "name": "Ikwere",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ikz",
+  "name": "Ikizu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "iri",
+  "name": "Irigwe",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "irk",
+  "name": "Iraqw",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "isn",
+  "name": "Isanzu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "iyx",
+  "name": "Yaka",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "jab",
+  "name": "Hyam",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "jib",
+  "name": "Jibu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "jid",
+  "name": "Bu (Kaduna State)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "jmc",
+  "name": "Machame",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "jum",
+  "name": "Jumjum",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kaj",
+  "name": "Jju",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kam",
+  "name": "Kamba (Kenya)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kbr",
+  "name": "Kafa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kck",
+  "name": "Kalanga",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kcq",
+  "name": "Kamo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kcu",
+  "name": "Kami",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kdc",
+  "name": "Kutu",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kde",
+  "name": "Makonde",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kdh",
+  "name": "Tem",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kdi",
+  "name": "Kumam",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kdl",
+  "name": "Tsikimba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kdn",
+  "name": "Kunda",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ked",
+  "name": "Bukerebe (Kerebe)",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "keo",
+  "name": "Kakwa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ker",
+  "name": "Kera",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kia",
+  "name": "Kim",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kin",
+  "name": "Rwandan",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kiv",
+  "name": "Kimbu",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kki",
+  "name": "Kagulu",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kln",
+  "name": "Kalenjin",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kma",
+  "name": "Konni",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kmb",
+  "name": "Kimbundu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "knf",
+  "name": "Mankanya",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "knk",
+  "name": "Kuranko",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kno",
+  "name": "Kono (Sierra Leone)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kpz",
+  "name": "Kupsapiiny",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kqn",
+  "name": "Kaonde",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kqo",
+  "name": "Eastern Krahn",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kqy",
+  "name": "Koorete",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kri",
+  "name": "Krio",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "krs",
+  "name": "Gbaya (South Sudan)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "krx",
+  "name": "Karon",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ksb",
+  "name": "Shambala",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ksf",
+  "name": "Bafia",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ksp",
+  "name": "Kaba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ktb",
+  "name": "Kambaata",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ktu",
+  "name": "Kituba (Democratic Republic of Congo)",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kua",
+  "name": "Kuanyama",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kub",
+  "name": "Kutep",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kus",
+  "name": "Kusaal",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kwm",
+  "name": "Oshikwambi",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kwn",
+  "name": "Kwangali",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kxc",
+  "name": "Konso",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "kya",
+  "name": "Kwaya",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kyf",
+  "name": "Kouya",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kyq",
+  "name": "Kenga",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kzr",
+  "name": "Karang",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lag",
+  "name": "Langi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lai",
+  "name": "Lambya",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "laj",
+  "name": "Lango (Uganda)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lam",
+  "name": "Lamba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "leb",
+  "name": "Lala-Bisa",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "lef",
+  "name": "Lelemi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "leh",
+  "name": "Lenje",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lgm",
+  "name": "Lega-Mwenga",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "lia",
+  "name": "West-Central Limba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lin",
+  "name": "Lingala",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "llb",
+  "name": "ILolo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "lmd",
+  "name": "Lumun",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lob",
+  "name": "Lobi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lol",
+  "name": "Mongo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lon",
+  "name": "Lomwe, Malawi",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "loq",
+  "name": "Lobala",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lot",
+  "name": "Otuho",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lsm",
+  "name": "Saamia",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "lth",
+  "name": "Thur",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lto",
+  "name": "Tsotso",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "lua",
+  "name": "Luba-Lulua",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "lue",
+  "name": "Luvale",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lun",
+  "name": "Lunda",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "luo",
+  "name": "Luo (Kenya and Tanzania)",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "lwg",
+  "name": "Wanga",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "lwo",
+  "name": "Luwo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "lyn",
+  "name": "Luyana",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mas",
+  "name": "Masai",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "maw",
+  "name": "Mampruli",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mck",
+  "name": "Mbunda",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mcn",
+  "name": "Masana",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "men",
+  "name": "Mende",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "meq",
+  "name": "Merey",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mfe",
+  "name": "Mauritian",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mfh",
+  "name": "Matal",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mfk",
+  "name": "North Mofu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mfn",
+  "name": "Mbembe, Cross River",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mfo",
+  "name": "Mbe",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mfq",
+  "name": "Moba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mfx",
+  "name": "Melo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mgc",
+  "name": "Morokodo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mge",
+  "name": "Mango",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mgh",
+  "name": "Makhuwa-Meetto",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mgj",
+  "name": "Abureni",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mgr",
+  "name": "Mambwe (ichi-): Lungu",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mgs",
+  "name": "Manda (Tanzania)",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mgv",
+  "name": "Matengo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mgw",
+  "name": "Matumbi",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mgy",
+  "name": "Mbunga",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mhd",
+  "name": "Mbugu",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mhw",
+  "name": "Mbukushu",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mif",
+  "name": "Mofu-Gudur",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mkl",
+  "name": "Mokole",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mkw",
+  "name": "Kituba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mlw",
+  "name": "Moloko",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mmy",
+  "name": "Migaama",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mnk",
+  "name": "Mandinka",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mos",
+  "name": "Mossi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "moy",
+  "name": "Shekkacho",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "moz",
+  "name": "Mukulu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mpa",
+  "name": "Mpoto",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "mpe",
+  "name": "Majang",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mpg",
+  "name": "Marba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "msc",
+  "name": "Sankaran Maninka",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mse",
+  "name": "Musey",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mug",
+  "name": "Mousgoum",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "muh",
+  "name": "Mündü",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mur",
+  "name": "Murle",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mwe",
+  "name": "Mwera (Chimwera)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mwm",
+  "name": "Sar",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mwn",
+  "name": "Nyamwanga",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "myk",
+  "name": "Mamara Senoufo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "myx",
+  "name": "Masaaba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mzj",
+  "name": "Manya",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "naq",
+  "name": "Khoekhoe",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nat",
+  "name": "Hungworo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nbl",
+  "name": "South Ndebele",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "ncu",
+  "name": "Chumburung",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ndc",
+  "name": "Ndau",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nde",
+  "name": "North Ndebele",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "ndh",
+  "name": "Ndali",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "ndi",
+  "name": "Samba Leko",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ndj",
+  "name": "Ndamba",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "ndo",
+  "name": "Ndonga",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ndp",
+  "name": "Ndo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "ndv",
+  "name": "Ndut",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ndz",
+  "name": "Ndogo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nga",
+  "name": "Ngbaka",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ngb",
+  "name": "Northern Ngbandi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ngc",
+  "name": "Ngombe (Democratic Republic of Congo)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ngl",
+  "name": "Lomwe",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ngp",
+  "name": "Ngulu",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nhr",
+  "name": "Naro",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nih",
+  "name": "Nyiha, Tanzania",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nin",
+  "name": "Ninzo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "njd",
+  "name": "Ndonde Hamba",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nka",
+  "name": "Nkoya",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nkn",
+  "name": "Nkangala",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nle",
+  "name": "Nyala",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nmq",
+  "name": "Nambya",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nnb",
+  "name": "Kinandi (Ndandi)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nnq",
+  "name": "Ngindo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nnw",
+  "name": "Southern Nuni",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nse",
+  "name": "Nsenga",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ntk",
+  "name": "Ikoma-Nata-Isenye",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nus",
+  "name": "Nuer",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nwb",
+  "name": "Nyabwa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nww",
+  "name": "Ndwewe",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nxd",
+  "name": "Ngando (Democratic Republic of Congo)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nya",
+  "name": "Nyanja",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nyb",
+  "name": "Nyangbo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nyd",
+  "name": "Nyore",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nyf",
+  "name": "Giryama",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nyj",
+  "name": "Nyanga",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nym",
+  "name": "Nyamwezi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nyn",
+  "name": "Nyankole",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nyo",
+  "name": "Nyoro",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nyu",
+  "name": "Nyungwe",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "nyy",
+  "name": "Nyakyusa-Ngonde",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "nzi",
+  "name": "Nzima",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "okr",
+  "name": "Kirike",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "otr",
+  "name": "Otoro",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "oyd",
+  "name": "Oyda",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "pcm",
+  "name": "Pidgin, Nigerian",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "pkb",
+  "name": "Pokomo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "pko",
+  "name": "Pökoot",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "plt",
+  "name": "Malgache",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "pov",
+  "name": "Crioulo, Upper Guinea",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "poy",
+  "name": "Pogolo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "rag",
+  "name": "Lulogooli",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "rel",
+  "name": "Rendille",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "rim",
+  "name": "Nyaturu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "rub",
+  "name": "Gungu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ruc",
+  "name": "Ruuli",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ruf",
+  "name": "Luguru",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "run",
+  "name": "Rundi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "rwk",
+  "name": "Rwa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "rwm",
+  "name": "Amba",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "saa",
+  "name": "Saba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sag",
+  "name": "Sango",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "saq",
+  "name": "Samburu",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "sav",
+  "name": "Saafi-Saafi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sba",
+  "name": "Ngambay",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sbd",
+  "name": "Samo, Southern",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sbk",
+  "name": "Safwa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sbm",
+  "name": "Sagala",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "sbp",
+  "name": "Sangu",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "sby",
+  "name": "Soli",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "sef",
+  "name": "Sénoufo, Cebaara",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "seh",
+  "name": "Sena",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "shk",
+  "name": "Shilluk",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "shq",
+  "name": "Sala",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "shr",
+  "name": "Shi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sid",
+  "name": "Sidamo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "sna",
+  "name": "Shona",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "snf",
+  "name": "Noon",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "som",
+  "name": "Somali",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "sop",
+  "name": "Songe",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sor",
+  "name": "Somrai",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sot",
+  "name": "Southern Sotho",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "soy",
+  "name": "Miyobe",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sqa",
+  "name": "Shama-Sambuga",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "srr",
+  "name": "Serer (Senegal)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ssc",
+  "name": "Suba-Simbiti",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ssw",
+  "name": "Swazi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sus",
+  "name": "Susu (Arabic Script)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "swb",
+  "name": "Comorian, Maore",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "swc",
+  "name": "Congo Swahili",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "swh",
+  "name": "Swahili",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "swk",
+  "name": "Sena (Malawi)",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "sxb",
+  "name": "Suba",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "tan",
+  "name": "Tangale",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tap",
+  "name": "Taabwa",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "tbt",
+  "name": "Tembo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tcc",
+  "name": "Datooga",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "tcd",
+  "name": "Tafi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "teo",
+  "name": "Teso",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tex",
+  "name": "Tennet",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tga",
+  "name": "Sagalla",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "thk",
+  "name": "Tharaka",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tiv",
+  "name": "Tiv",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tke",
+  "name": "Takwane",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "tlj",
+  "name": "Talinga-Bwisi",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "tll",
+  "name": "Tetela",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tng",
+  "name": "Northern Gabri",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tog",
+  "name": "Tonga (Nyasa)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "toh",
+  "name": "Gitonga",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "toi",
+  "name": "Tonga (Zambia)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tpm",
+  "name": "Tampulma",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tsa",
+  "name": "Tsaangi",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tsc",
+  "name": "Tswa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tsn",
+  "name": "Setswana",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "tso",
+  "name": "Tsonga",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tsv",
+  "name": "Tsogo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ttq",
+  "name": "Tuareg",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ttr",
+  "name": "Tera",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tui",
+  "name": "Tupuri",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "tul",
+  "name": "Tula",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "tuv",
+  "name": "Turkana",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "tvs",
+  "name": "Taveta",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "tvu",
+  "name": "Tunen",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "udu",
+  "name": "Uduk",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "umb",
+  "name": "Umbundu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "uth",
+  "name": "Hun-Saare",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "vag",
+  "name": "Vagla",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "vid",
+  "name": "Vidunda",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "vif",
+  "name": "Vili",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "vmk",
+  "name": "Makhuwa-Shirima",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "vun",
+  "name": "Vunjo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "wal",
+  "name": "Wolaytta",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "wbi",
+  "name": "Vwanji",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "wja",
+  "name": "Waja",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "wmw",
+  "name": "Mwani",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "wob",
+  "name": "Wè Northern",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "wol",
+  "name": "Wolof (Senegal)",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "xho",
+  "name": "Xhosa",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "xmd",
+  "name": "Mbudum",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "xnj",
+  "name": "kiNgoni",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "xnz",
+  "name": "Kenzi Nubian",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "xon",
+  "name": "Konkomba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "xsm",
+  "name": "Kasem",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "xuo",
+  "name": "Kuo",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "yaf",
+  "name": "Yaka",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "yal",
+  "name": "Yalunka",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "yam",
+  "name": "Yamba",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "yao",
+  "name": "Yao",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "yat",
+  "name": "Yambeta",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "yav",
+  "name": "Yangben",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "yom",
+  "name": "Yombe",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "zaj",
+  "name": "Zaramo - Zalamo",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "zak",
+  "name": "Zanaki",
+  "sentences": null,
+  "exact": null,
+  "exact_pct": 100.0,
+  "char_pct": 100.0,
+  "note": "plain-Latin passthrough; apostrophes not restored"
+ },
+ {
+  "code": "zin",
+  "name": "Zinza",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ziw",
+  "name": "Zigula",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "zne",
+  "name": "Zande",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "zul",
+  "name": "Zulu",
+  "sentences": 60,
+  "exact": 60,
+  "exact_pct": 100.0,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ach",
+  "name": "Acholi (Acoli)",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.3
+ },
+ {
+  "code": "adj",
+  "name": "Adioukrou",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 98.9
+ },
+ {
+  "code": "anu",
+  "name": "Anuak",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.3
+ },
+ {
+  "code": "asj",
+  "name": "Sari",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.4
+ },
+ {
+  "code": "box",
+  "name": "Buamu",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 97.5
+ },
+ {
+  "code": "byv",
+  "name": "Medumba",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.7
+ },
+ {
+  "code": "bza",
+  "name": "Bandi",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.1
+ },
+ {
+  "code": "ckl",
+  "name": "Cibak",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 100.0
+ },
+ {
+  "code": "cme",
+  "name": "Cerma",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.0
+ },
+ {
+  "code": "dga",
+  "name": "Southern Dagaare",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.2
+ },
+ {
+  "code": "ekm",
+  "name": "Elip",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 97.3
+ },
+ {
+  "code": "ewe",
+  "name": "Éwé",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.0
+ },
+ {
+  "code": "gng",
+  "name": "Ngangam",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 98.5
+ },
+ {
+  "code": "hbb",
+  "name": "Huba",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.3
+ },
+ {
+  "code": "igl",
+  "name": "Igala",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.3
+ },
+ {
+  "code": "ikk",
+  "name": "Ika",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.1
+ },
+ {
+  "code": "izr",
+  "name": "Izere",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 100.0
+ },
+ {
+  "code": "jbn",
+  "name": "Nafusi",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 100.0
+ },
+ {
+  "code": "jow",
+  "name": "Jowulu",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.5
+ },
+ {
+  "code": "kab",
+  "name": "Kabyle",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 100.0
+ },
+ {
+  "code": "kby",
+  "name": "Manga Kanuri",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.0
+ },
+ {
+  "code": "kqs",
+  "name": "Kissi",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.3
+ },
+ {
+  "code": "kvj",
+  "name": "Psikye",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.3
+ },
+ {
+  "code": "lns",
+  "name": "Lamnso’",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 100.0
+ },
+ {
+  "code": "mfi",
+  "name": "Wandala",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.7
+ },
+ {
+  "code": "mmu",
+  "name": "Mmaala",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.2
+ },
+ {
+  "code": "mxx",
+  "name": "Mahou",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.2
+ },
+ {
+  "code": "myb",
+  "name": "Mbay",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 97.7
+ },
+ {
+  "code": "nie",
+  "name": "Niellim",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.1
+ },
+ {
+  "code": "sev",
+  "name": "Sénoufo, Nyarafolo",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 100.0
+ },
+ {
+  "code": "sig",
+  "name": "Paasaal",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.2
+ },
+ {
+  "code": "suk",
+  "name": "Sukuma",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.4
+ },
+ {
+  "code": "suq",
+  "name": "Suri",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 98.7
+ },
+ {
+  "code": "tsw",
+  "name": "Tsishingini",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.9
+ },
+ {
+  "code": "twi",
+  "name": "Twi",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 99.6
+ },
+ {
+  "code": "wof",
+  "name": "Wolof (Gambia)",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 97.4
+ },
+ {
+  "code": "xed",
+  "name": "Hdi",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 98.7
+ },
+ {
+  "code": "yas",
+  "name": "Nugunu",
+  "sentences": 60,
+  "exact": 59,
+  "exact_pct": 98.3,
+  "char_pct": 98.5
+ },
+ {
+  "code": "afo",
+  "name": "Ajiri",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.2
+ },
+ {
+  "code": "anv",
+  "name": "Denya",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.7
+ },
+ {
+  "code": "bkh",
+  "name": "Bakoko",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 96.5
+ },
+ {
+  "code": "bwr",
+  "name": "Bura-Pabir",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 99.4
+ },
+ {
+  "code": "csk",
+  "name": "Jola-Kasa",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 97.5
+ },
+ {
+  "code": "eza",
+  "name": "Ezaa",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 97.4
+ },
+ {
+  "code": "gkp",
+  "name": "Guinea Kpelle",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 97.7
+ },
+ {
+  "code": "idc",
+  "name": "Ajiya",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 97.9
+ },
+ {
+  "code": "jub",
+  "name": "Wannu",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.5
+ },
+ {
+  "code": "kcg",
+  "name": "Tyap",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 100.0
+ },
+ {
+  "code": "ldb",
+  "name": "Duya",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.1
+ },
+ {
+  "code": "lme",
+  "name": "Pévé",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 97.6
+ },
+ {
+  "code": "mda",
+  "name": "Mada (Nigeria)",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 99.4
+ },
+ {
+  "code": "mer",
+  "name": "Kimîîru",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.7
+ },
+ {
+  "code": "mfg",
+  "name": "Mogofin",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 99.1
+ },
+ {
+  "code": "moa",
+  "name": "Mwan",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 99.2
+ },
+ {
+  "code": "mzm",
+  "name": "Mumuye",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.6
+ },
+ {
+  "code": "naw",
+  "name": "Nawuri",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.2
+ },
+ {
+  "code": "ntr",
+  "name": "Delo",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.5
+ },
+ {
+  "code": "taq",
+  "name": "Tamasheq",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.6
+ },
+ {
+  "code": "utr",
+  "name": "Etulo",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.3
+ },
+ {
+  "code": "xog",
+  "name": "Soga",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 99.1
+ },
+ {
+  "code": "xrb",
+  "name": "Eastern Karaboro",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.3
+ },
+ {
+  "code": "xsn",
+  "name": "Sanga",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.6
+ },
+ {
+  "code": "yba",
+  "name": "Yala",
+  "sentences": 60,
+  "exact": 58,
+  "exact_pct": 96.7,
+  "char_pct": 98.8
+ },
+ {
+  "code": "cce",
+  "name": "Chopi",
+  "sentences": 60,
+  "exact": 57,
+  "exact_pct": 95.0,
+  "char_pct": 97.7
+ },
+ {
+  "code": "gab",
+  "name": "Gabri",
+  "sentences": 60,
+  "exact": 57,
+  "exact_pct": 95.0,
+  "char_pct": 99.6
+ },
+ {
+  "code": "gso",
+  "name": "Gbaya, Southwest",
+  "sentences": 60,
+  "exact": 57,
+  "exact_pct": 95.0,
+  "char_pct": 99.9
+ },
+ {
+  "code": "iby",
+  "name": "Ibani",
+  "sentences": 60,
+  "exact": 57,
+  "exact_pct": 95.0,
+  "char_pct": 97.8
+ },
+ {
+  "code": "ijn",
+  "name": "Kalabari",
+  "sentences": 60,
+  "exact": 57,
+  "exact_pct": 95.0,
+  "char_pct": 98.2
+ },
+ {
+  "code": "kqp",
+  "name": "Kimré",
+  "sentences": 60,
+  "exact": 57,
+  "exact_pct": 95.0,
+  "char_pct": 97.9
+ },
+ {
+  "code": "mua",
+  "name": "Mundang",
+  "sentences": 60,
+  "exact": 57,
+  "exact_pct": 95.0,
+  "char_pct": 96.2
+ },
+ {
+  "code": "sil",
+  "name": "Sisaala, Tumulung",
+  "sentences": 60,
+  "exact": 57,
+  "exact_pct": 95.0,
+  "char_pct": 96.0
+ },
+ {
+  "code": "tem",
+  "name": "Timne",
+  "sentences": 60,
+  "exact": 57,
+  "exact_pct": 95.0,
+  "char_pct": 97.5
+ },
+ {
+  "code": "yre",
+  "name": "Yaouré",
+  "sentences": 60,
+  "exact": 57,
+  "exact_pct": 95.0,
+  "char_pct": 98.0
+ },
+ {
+  "code": "bum",
+  "name": "Bulu (Cameroon)",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 97.9
+ },
+ {
+  "code": "ebr",
+  "name": "Ebrié",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 99.9
+ },
+ {
+  "code": "iqw",
+  "name": "Ikwo",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 98.4
+ },
+ {
+  "code": "izz",
+  "name": "Izii",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 97.4
+ },
+ {
+  "code": "kbo",
+  "name": "Keliko",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 99.9
+ },
+ {
+  "code": "kik",
+  "name": "Kikuyu",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 94.8
+ },
+ {
+  "code": "mnh",
+  "name": "Mono",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 96.2
+ },
+ {
+  "code": "mqb",
+  "name": "Mbuko",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 98.2
+ },
+ {
+  "code": "nko",
+  "name": "Nkonya",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 96.2
+ },
+ {
+  "code": "nso",
+  "name": "Sotho, Northern",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 97.9
+ },
+ {
+  "code": "snw",
+  "name": "Selee",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 98.2
+ },
+ {
+  "code": "spp",
+  "name": "Supyire Senoufo",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 96.5
+ },
+ {
+  "code": "ted",
+  "name": "Tepo Krumen",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 98.0
+ },
+ {
+  "code": "tgw",
+  "name": "Sénoufo, Tagwana",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 99.9
+ },
+ {
+  "code": "ven",
+  "name": "Venda",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 96.2
+ },
+ {
+  "code": "zga",
+  "name": "Kinga",
+  "sentences": 60,
+  "exact": 56,
+  "exact_pct": 93.3,
+  "char_pct": 95.9
+ },
+ {
+  "code": "ald",
+  "name": "Alladian",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 96.6
+ },
+ {
+  "code": "ary",
+  "name": "Moroccan Arabic",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 99.3
+ },
+ {
+  "code": "cll",
+  "name": "Chala",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 90.8
+ },
+ {
+  "code": "fuv",
+  "name": "Fulani",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 96.7
+ },
+ {
+  "code": "gid",
+  "name": "Gidar",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 94.3
+ },
+ {
+  "code": "gvl",
+  "name": "Gulay",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 96.3
+ },
+ {
+  "code": "ktj",
+  "name": "Plapo Krumen",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 97.0
+ },
+ {
+  "code": "ldk",
+  "name": "Leelau",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 98.1
+ },
+ {
+  "code": "muy",
+  "name": "Muyang",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 93.1
+ },
+ {
+  "code": "ncr",
+  "name": "Ncane",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 95.3
+ },
+ {
+  "code": "shi",
+  "name": "Tashelhayt",
+  "sentences": 60,
+  "exact": 55,
+  "exact_pct": 91.7,
+  "char_pct": 97.6
+ },
+ {
+  "code": "avn",
+  "name": "Avatime",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 91.8
+ },
+ {
+  "code": "bcv",
+  "name": "Shoo-Minda-Nye",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 93.0
+ },
+ {
+  "code": "bcw",
+  "name": "Bana",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 90.9
+ },
+ {
+  "code": "fuf",
+  "name": "Pular",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 93.3
+ },
+ {
+  "code": "glw",
+  "name": "Glavda",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 97.7
+ },
+ {
+  "code": "gol",
+  "name": "Gola",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 90.6
+ },
+ {
+  "code": "gqr",
+  "name": "Gor",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 89.7
+ },
+ {
+  "code": "gux",
+  "name": "Gourmanchéma",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 92.7
+ },
+ {
+  "code": "nuj",
+  "name": "Nyole",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 99.9
+ },
+ {
+  "code": "tod",
+  "name": "Toma",
+  "sentences": 60,
+  "exact": 54,
+  "exact_pct": 90.0,
+  "char_pct": 93.8
+ },
+ {
+  "code": "bov",
+  "name": "Tuwuli",
+  "sentences": 60,
+  "exact": 53,
+  "exact_pct": 88.3,
+  "char_pct": 99.3
+ },
+ {
+  "code": "gej",
+  "name": "Gen",
+  "sentences": 60,
+  "exact": 53,
+  "exact_pct": 88.3,
+  "char_pct": 95.4
+ },
+ {
+  "code": "kbp",
+  "name": "Kabiyè",
+  "sentences": 60,
+  "exact": 53,
+  "exact_pct": 88.3,
+  "char_pct": 99.2
+ },
+ {
+  "code": "lom",
+  "name": "Loma (Liberia)",
+  "sentences": 60,
+  "exact": 53,
+  "exact_pct": 88.3,
+  "char_pct": 89.6
+ },
+ {
+  "code": "maf",
+  "name": "Mafa",
+  "sentences": 60,
+  "exact": 53,
+  "exact_pct": 88.3,
+  "char_pct": 95.1
+ },
+ {
+  "code": "xtc",
+  "name": "Katcha-Kadugli-Miri",
+  "sentences": 60,
+  "exact": 53,
+  "exact_pct": 88.3,
+  "char_pct": 96.0
+ },
+ {
+  "code": "bci",
+  "name": "Baoulé",
+  "sentences": 60,
+  "exact": 52,
+  "exact_pct": 86.7,
+  "char_pct": 91.4
+ },
+ {
+  "code": "fue",
+  "name": "Fulfulde, Borgu",
+  "sentences": 60,
+  "exact": 52,
+  "exact_pct": 86.7,
+  "char_pct": 91.7
+ },
+ {
+  "code": "lla",
+  "name": "Lala-Roba",
+  "sentences": 60,
+  "exact": 52,
+  "exact_pct": 86.7,
+  "char_pct": 95.6
+ },
+ {
+  "code": "mfm",
+  "name": "Marghi South",
+  "sentences": 60,
+  "exact": 52,
+  "exact_pct": 86.7,
+  "char_pct": 99.9
+ },
+ {
+  "code": "ngz",
+  "name": "Ngungwel",
+  "sentences": 60,
+  "exact": 52,
+  "exact_pct": 86.7,
+  "char_pct": 89.1
+ },
+ {
+  "code": "ffm",
+  "name": "Burkina Faso Fulfulde",
+  "sentences": 60,
+  "exact": 51,
+  "exact_pct": 85.0,
+  "char_pct": 92.0
+ },
+ {
+  "code": "gdf",
+  "name": "Guduf-Gava",
+  "sentences": 60,
+  "exact": 51,
+  "exact_pct": 85.0,
+  "char_pct": 99.9
+ },
+ {
+  "code": "kdj",
+  "name": "Ng’akarimojong",
+  "sentences": 60,
+  "exact": 51,
+  "exact_pct": 85.0,
+  "char_pct": 91.2
+ },
+ {
+  "code": "ney",
+  "name": "Neyo",
+  "sentences": 60,
+  "exact": 51,
+  "exact_pct": 85.0,
+  "char_pct": 88.4
+ },
+ {
+  "code": "nim",
+  "name": "Nilamba",
+  "sentences": 60,
+  "exact": 51,
+  "exact_pct": 85.0,
+  "char_pct": 89.0
+ },
+ {
+  "code": "pfe",
+  "name": "Peere",
+  "sentences": 60,
+  "exact": 51,
+  "exact_pct": 85.0,
+  "char_pct": 99.5
+ },
+ {
+  "code": "yns",
+  "name": "Yansi",
+  "sentences": 60,
+  "exact": 51,
+  "exact_pct": 85.0,
+  "char_pct": 99.3
+ },
+ {
+  "code": "ags",
+  "name": "Esimbi",
+  "sentences": 60,
+  "exact": 50,
+  "exact_pct": 83.3,
+  "char_pct": 91.8
+ },
+ {
+  "code": "gqa",
+  "name": "Ga’anda",
+  "sentences": 60,
+  "exact": 50,
+  "exact_pct": 83.3,
+  "char_pct": 86.9
+ },
+ {
+  "code": "hbn",
+  "name": "Heiban (Sudan)",
+  "sentences": 60,
+  "exact": 50,
+  "exact_pct": 83.3,
+  "char_pct": 91.8
+ },
+ {
+  "code": "thv",
+  "name": "Tuareg",
+  "sentences": 60,
+  "exact": 50,
+  "exact_pct": 83.3,
+  "char_pct": 92.5
+ },
+ {
+  "code": "bom",
+  "name": "Berom",
+  "sentences": 60,
+  "exact": 49,
+  "exact_pct": 81.7,
+  "char_pct": 95.8
+ },
+ {
+  "code": "fuh",
+  "name": "Western Niger Fulfulde",
+  "sentences": 60,
+  "exact": 49,
+  "exact_pct": 81.7,
+  "char_pct": 93.5
+ },
+ {
+  "code": "gaa",
+  "name": "Ga",
+  "sentences": 60,
+  "exact": 49,
+  "exact_pct": 81.7,
+  "char_pct": 81.6
+ },
+ {
+  "code": "kss",
+  "name": "Southern Kisi",
+  "sentences": 60,
+  "exact": 49,
+  "exact_pct": 81.7,
+  "char_pct": 99.7
+ },
+ {
+  "code": "lee",
+  "name": "Lyélé",
+  "sentences": 60,
+  "exact": 49,
+  "exact_pct": 81.7,
+  "char_pct": 99.7
+ },
+ {
+  "code": "luj",
+  "name": "Luna",
+  "sentences": 60,
+  "exact": 49,
+  "exact_pct": 81.7,
+  "char_pct": 99.2
+ },
+ {
+  "code": "mgq",
+  "name": "Malila",
+  "sentences": 60,
+  "exact": 49,
+  "exact_pct": 81.7,
+  "char_pct": 88.9
+ },
+ {
+  "code": "ngn",
+  "name": "Ngwo",
+  "sentences": 60,
+  "exact": 49,
+  "exact_pct": 81.7,
+  "char_pct": 98.1
+ },
+ {
+  "code": "puu",
+  "name": "Punu (Ipounou)",
+  "sentences": 60,
+  "exact": 49,
+  "exact_pct": 81.7,
+  "char_pct": 92.7
+ },
+ {
+  "code": "arq",
+  "name": "Arabic, Algerian",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 99.7
+ },
+ {
+  "code": "bsq",
+  "name": "Bassa",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 99.6
+ },
+ {
+  "code": "bss",
+  "name": "Akoose",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 88.6
+ },
+ {
+  "code": "fuq",
+  "name": "Fulfulde (Central-Eastern Niger)",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 92.4
+ },
+ {
+  "code": "gsl",
+  "name": "Gusilay",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 92.0
+ },
+ {
+  "code": "hwo",
+  "name": "Hwana",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 92.1
+ },
+ {
+  "code": "kkj",
+  "name": "Kako",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 99.6
+ },
+ {
+  "code": "mbu",
+  "name": "Mbula-Bwazza",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 85.5
+ },
+ {
+  "code": "ssy",
+  "name": "Saho",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 85.2
+ },
+ {
+  "code": "tyx",
+  "name": "Teke-Tyee",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 86.0
+ },
+ {
+  "code": "ver",
+  "name": "Verre",
+  "sentences": 60,
+  "exact": 48,
+  "exact_pct": 80.0,
+  "char_pct": 87.4
+ },
+ {
+  "code": "bvm",
+  "name": "Bamunka",
+  "sentences": 60,
+  "exact": 47,
+  "exact_pct": 78.3,
+  "char_pct": 99.1
+ },
+ {
+  "code": "dae",
+  "name": "Duupa",
+  "sentences": 60,
+  "exact": 47,
+  "exact_pct": 78.3,
+  "char_pct": 98.4
+ },
+ {
+  "code": "mho",
+  "name": "Mashi",
+  "sentences": 60,
+  "exact": 47,
+  "exact_pct": 78.3,
+  "char_pct": 87.8
+ },
+ {
+  "code": "yor",
+  "name": "Yoruba",
+  "sentences": 60,
+  "exact": 47,
+  "exact_pct": 78.3,
+  "char_pct": 85.7
+ },
+ {
+  "code": "etu",
+  "name": "Ejagham",
+  "sentences": 60,
+  "exact": 46,
+  "exact_pct": 76.7,
+  "char_pct": 99.5
+ },
+ {
+  "code": "loz",
+  "name": "Lozi",
+  "sentences": 60,
+  "exact": 46,
+  "exact_pct": 76.7,
+  "char_pct": 87.3
+ },
+ {
+  "code": "nza",
+  "name": "Tigon Mbembe",
+  "sentences": 60,
+  "exact": 46,
+  "exact_pct": 76.7,
+  "char_pct": 98.3
+ },
+ {
+  "code": "xmg",
+  "name": "Mengaka",
+  "sentences": 60,
+  "exact": 45,
+  "exact_pct": 75.0,
+  "char_pct": 99.0
+ },
+ {
+  "code": "dsh",
+  "name": "Daasanach",
+  "sentences": 60,
+  "exact": 44,
+  "exact_pct": 73.3,
+  "char_pct": 83.8
+ },
+ {
+  "code": "fat",
+  "name": "Fanti",
+  "sentences": 60,
+  "exact": 44,
+  "exact_pct": 73.3,
+  "char_pct": 92.3
+ },
+ {
+  "code": "mfv",
+  "name": "Mandjak",
+  "sentences": 60,
+  "exact": 44,
+  "exact_pct": 73.3,
+  "char_pct": 99.7
+ },
+ {
+  "code": "adh",
+  "name": "Adhola",
+  "sentences": 60,
+  "exact": 42,
+  "exact_pct": 70.0,
+  "char_pct": 85.6
+ },
+ {
+  "code": "bbj",
+  "name": "Ghomálá'",
+  "sentences": 60,
+  "exact": 42,
+  "exact_pct": 70.0,
+  "char_pct": 91.0
+ },
+ {
+  "code": "cko",
+  "name": "Anufo",
+  "sentences": 60,
+  "exact": 42,
+  "exact_pct": 70.0,
+  "char_pct": 78.9
+ },
+ {
+  "code": "bav",
+  "name": "Vengo",
+  "sentences": 60,
+  "exact": 41,
+  "exact_pct": 68.3,
+  "char_pct": 80.0
+ },
+ {
+  "code": "ngj",
+  "name": "Ngie",
+  "sentences": 60,
+  "exact": 41,
+  "exact_pct": 68.3,
+  "char_pct": 88.3
+ },
+ {
+  "code": "sfw",
+  "name": "Sehwi",
+  "sentences": 60,
+  "exact": 41,
+  "exact_pct": 68.3,
+  "char_pct": 99.7
+ },
+ {
+  "code": "azo",
+  "name": "Awing",
+  "sentences": 60,
+  "exact": 40,
+  "exact_pct": 66.7,
+  "char_pct": 99.0
+ },
+ {
+  "code": "bmo",
+  "name": "Bambalang",
+  "sentences": 60,
+  "exact": 40,
+  "exact_pct": 66.7,
+  "char_pct": 83.5
+ },
+ {
+  "code": "fon",
+  "name": "Fon",
+  "sentences": 60,
+  "exact": 40,
+  "exact_pct": 66.7,
+  "char_pct": 99.3
+ },
+ {
+  "code": "kcc",
+  "name": "Lubila",
+  "sentences": 60,
+  "exact": 40,
+  "exact_pct": 66.7,
+  "char_pct": 80.4
+ },
+ {
+  "code": "lmp",
+  "name": "Limbum",
+  "sentences": 60,
+  "exact": 40,
+  "exact_pct": 66.7,
+  "char_pct": 99.3
+ },
+ {
+  "code": "luc",
+  "name": "Aringa",
+  "sentences": 60,
+  "exact": 40,
+  "exact_pct": 66.7,
+  "char_pct": 99.4
+ },
+ {
+  "code": "lug",
+  "name": "Ganda",
+  "sentences": 60,
+  "exact": 39,
+  "exact_pct": 65.0,
+  "char_pct": 70.5
+ },
+ {
+  "code": "mcp",
+  "name": "Makaa",
+  "sentences": 60,
+  "exact": 39,
+  "exact_pct": 65.0,
+  "char_pct": 98.4
+ },
+ {
+  "code": "oku",
+  "name": "Oku",
+  "sentences": 60,
+  "exact": 39,
+  "exact_pct": 65.0,
+  "char_pct": 90.8
+ },
+ {
+  "code": "ilb",
+  "name": "Ila",
+  "sentences": 60,
+  "exact": 38,
+  "exact_pct": 63.3,
+  "char_pct": 73.1
+ },
+ {
+  "code": "old",
+  "name": "Mochi",
+  "sentences": 60,
+  "exact": 38,
+  "exact_pct": 63.3,
+  "char_pct": 74.0
+ },
+ {
+  "code": "tir",
+  "name": "Tigrinya",
+  "sentences": 60,
+  "exact": 38,
+  "exact_pct": 63.3,
+  "char_pct": 98.0
+ },
+ {
+  "code": "ken",
+  "name": "Kenyang",
+  "sentences": 60,
+  "exact": 37,
+  "exact_pct": 61.7,
+  "char_pct": 93.6
+ },
+ {
+  "code": "gya",
+  "name": "Gbaya, Northwest",
+  "sentences": 60,
+  "exact": 36,
+  "exact_pct": 60.0,
+  "char_pct": 97.9
+ },
+ {
+  "code": "ses",
+  "name": "Koyraboro Senni Songhai",
+  "sentences": 60,
+  "exact": 36,
+  "exact_pct": 60.0,
+  "char_pct": 77.1
+ },
+ {
+  "code": "weh",
+  "name": "Weh",
+  "sentences": 60,
+  "exact": 36,
+  "exact_pct": 60.0,
+  "char_pct": 90.0
+ },
+ {
+  "code": "dow",
+  "name": "Doyayo",
+  "sentences": 60,
+  "exact": 35,
+  "exact_pct": 58.3,
+  "char_pct": 80.8
+ },
+ {
+  "code": "kuj",
+  "name": "Kuria",
+  "sentences": 60,
+  "exact": 35,
+  "exact_pct": 58.3,
+  "char_pct": 70.4
+ },
+ {
+  "code": "nhu",
+  "name": "Noone",
+  "sentences": 60,
+  "exact": 35,
+  "exact_pct": 58.3,
+  "char_pct": 98.9
+ },
+ {
+  "code": "jit",
+  "name": "Jita",
+  "sentences": 60,
+  "exact": 34,
+  "exact_pct": 56.7,
+  "char_pct": 67.1
+ },
+ {
+  "code": "krw",
+  "name": "Western Krahn",
+  "sentences": 60,
+  "exact": 34,
+  "exact_pct": 56.7,
+  "char_pct": 98.8
+ },
+ {
+  "code": "lgg",
+  "name": "Lugbara",
+  "sentences": 60,
+  "exact": 34,
+  "exact_pct": 56.7,
+  "char_pct": 71.6
+ },
+ {
+  "code": "any",
+  "name": "Anyin",
+  "sentences": 60,
+  "exact": 33,
+  "exact_pct": 55.0,
+  "char_pct": 67.6
+ },
+ {
+  "code": "kmw",
+  "name": "Komo",
+  "sentences": 60,
+  "exact": 33,
+  "exact_pct": 55.0,
+  "char_pct": 76.0
+ },
+ {
+  "code": "tnr",
+  "name": "Ménik",
+  "sentences": 60,
+  "exact": 33,
+  "exact_pct": 55.0,
+  "char_pct": 98.5
+ },
+ {
+  "code": "xpe",
+  "name": "Liberia Kpelle",
+  "sentences": 60,
+  "exact": 33,
+  "exact_pct": 55.0,
+  "char_pct": 98.9
+ },
+ {
+  "code": "bmv",
+  "name": "Bum",
+  "sentences": 60,
+  "exact": 32,
+  "exact_pct": 53.3,
+  "char_pct": 97.8
+ },
+ {
+  "code": "gna",
+  "name": "Kaansa",
+  "sentences": 60,
+  "exact": 32,
+  "exact_pct": 53.3,
+  "char_pct": 98.9
+ },
+ {
+  "code": "agq",
+  "name": "Aghem",
+  "sentences": 60,
+  "exact": 31,
+  "exact_pct": 51.7,
+  "char_pct": 99.2
+ },
+ {
+  "code": "bud",
+  "name": "Ntcham",
+  "sentences": 60,
+  "exact": 31,
+  "exact_pct": 51.7,
+  "char_pct": 75.3
+ },
+ {
+  "code": "ebu",
+  "name": "Embu",
+  "sentences": 60,
+  "exact": 30,
+  "exact_pct": 50.0,
+  "char_pct": 93.2
+ },
+ {
+  "code": "mye",
+  "name": "Myene",
+  "sentences": 60,
+  "exact": 30,
+  "exact_pct": 50.0,
+  "char_pct": 72.9
+ },
+ {
+  "code": "rif",
+  "name": "Tarifit",
+  "sentences": 60,
+  "exact": 30,
+  "exact_pct": 50.0,
+  "char_pct": 98.9
+ },
+ {
+  "code": "shu",
+  "name": "Chadian Arabic (Roman script)",
+  "sentences": 60,
+  "exact": 30,
+  "exact_pct": 50.0,
+  "char_pct": 67.0
+ },
+ {
+  "code": "urh",
+  "name": "Urhobo",
+  "sentences": 60,
+  "exact": 30,
+  "exact_pct": 50.0,
+  "char_pct": 99.4
+ },
+ {
+  "code": "wib",
+  "name": "Southern Toussian",
+  "sentences": 60,
+  "exact": 30,
+  "exact_pct": 50.0,
+  "char_pct": 97.8
+ },
+ {
+  "code": "ann",
+  "name": "Obolo",
+  "sentences": 60,
+  "exact": 29,
+  "exact_pct": 48.3,
+  "char_pct": 66.6
+ },
+ {
+  "code": "fub",
+  "name": "Adamawa Fulfulde",
+  "sentences": 60,
+  "exact": 27,
+  "exact_pct": 45.0,
+  "char_pct": 99.1
+ },
+ {
+  "code": "szv",
+  "name": "Isu",
+  "sentences": 60,
+  "exact": 26,
+  "exact_pct": 43.3,
+  "char_pct": 98.3
+ },
+ {
+  "code": "vut",
+  "name": "Vute",
+  "sentences": 60,
+  "exact": 26,
+  "exact_pct": 43.3,
+  "char_pct": 55.4
+ },
+ {
+  "code": "bui",
+  "name": "Bongili",
+  "sentences": 60,
+  "exact": 25,
+  "exact_pct": 41.7,
+  "char_pct": 90.2
+ },
+ {
+  "code": "lip",
+  "name": "Sekpele",
+  "sentences": 60,
+  "exact": 25,
+  "exact_pct": 41.7,
+  "char_pct": 98.1
+ },
+ {
+  "code": "mdm",
+  "name": "Mayogo",
+  "sentences": 60,
+  "exact": 25,
+  "exact_pct": 41.7,
+  "char_pct": 60.6
+ },
+ {
+  "code": "rng",
+  "name": "Ronga",
+  "sentences": 60,
+  "exact": 25,
+  "exact_pct": 41.7,
+  "char_pct": 66.8
+ },
+ {
+  "code": "dbd",
+  "name": "Dadiya",
+  "sentences": 60,
+  "exact": 24,
+  "exact_pct": 40.0,
+  "char_pct": 63.2
+ },
+ {
+  "code": "did",
+  "name": "Didinga",
+  "sentences": 60,
+  "exact": 24,
+  "exact_pct": 40.0,
+  "char_pct": 56.1
+ },
+ {
+  "code": "bdh",
+  "name": "Baka (Sudan)",
+  "sentences": 60,
+  "exact": 23,
+  "exact_pct": 38.3,
+  "char_pct": 61.5
+ },
+ {
+  "code": "bwt",
+  "name": "Bafaw-Balong",
+  "sentences": 60,
+  "exact": 23,
+  "exact_pct": 38.3,
+  "char_pct": 97.4
+ },
+ {
+  "code": "dip",
+  "name": "Northeastern Dinka",
+  "sentences": 60,
+  "exact": 23,
+  "exact_pct": 38.3,
+  "char_pct": 97.3
+ },
+ {
+  "code": "lik",
+  "name": "Lika",
+  "sentences": 60,
+  "exact": 23,
+  "exact_pct": 38.3,
+  "char_pct": 50.3
+ },
+ {
+  "code": "pnz",
+  "name": "Pana",
+  "sentences": 60,
+  "exact": 23,
+  "exact_pct": 38.3,
+  "char_pct": 97.1
+ },
+ {
+  "code": "klu",
+  "name": "Klao",
+  "sentences": 60,
+  "exact": 22,
+  "exact_pct": 36.7,
+  "char_pct": 55.4
+ },
+ {
+  "code": "hag",
+  "name": "Hanga",
+  "sentences": 60,
+  "exact": 21,
+  "exact_pct": 35.0,
+  "char_pct": 98.2
+ },
+ {
+  "code": "tum",
+  "name": "Tumbuka",
+  "sentences": 60,
+  "exact": 21,
+  "exact_pct": 35.0,
+  "char_pct": 98.8
+ },
+ {
+  "code": "bsw",
+  "name": "Baiso",
+  "sentences": 60,
+  "exact": 20,
+  "exact_pct": 33.3,
+  "char_pct": 97.9
+ },
+ {
+  "code": "vai",
+  "name": "Vai",
+  "sentences": 60,
+  "exact": 20,
+  "exact_pct": 33.3,
+  "char_pct": 93.1
+ },
+ {
+  "code": "amh",
+  "name": "Amharic",
+  "sentences": 60,
+  "exact": 18,
+  "exact_pct": 30.0,
+  "char_pct": 97.8
+ },
+ {
+  "code": "dno",
+  "name": "Ndrulo",
+  "sentences": 60,
+  "exact": 18,
+  "exact_pct": 30.0,
+  "char_pct": 52.6
+ },
+ {
+  "code": "dik",
+  "name": "Dinka Southwestern",
+  "sentences": 60,
+  "exact": 17,
+  "exact_pct": 28.3,
+  "char_pct": 96.4
+ },
+ {
+  "code": "buu",
+  "name": "Budu",
+  "sentences": 60,
+  "exact": 16,
+  "exact_pct": 26.7,
+  "char_pct": 44.2
+ },
+ {
+  "code": "mey",
+  "name": "Hassaniyya",
+  "sentences": 60,
+  "exact": 16,
+  "exact_pct": 26.7,
+  "char_pct": 98.0
+ },
+ {
+  "code": "ego",
+  "name": "Eggon",
+  "sentences": 60,
+  "exact": 15,
+  "exact_pct": 25.0,
+  "char_pct": 42.5
+ },
+ {
+  "code": "mzw",
+  "name": "Deg",
+  "sentences": 60,
+  "exact": 15,
+  "exact_pct": 25.0,
+  "char_pct": 92.9
+ },
+ {
+  "code": "odu",
+  "name": "Odual",
+  "sentences": 60,
+  "exact": 15,
+  "exact_pct": 25.0,
+  "char_pct": 97.2
+ },
+ {
+  "code": "liy",
+  "name": "Banda-Bambari",
+  "sentences": 60,
+  "exact": 14,
+  "exact_pct": 23.3,
+  "char_pct": 88.8
+ },
+ {
+  "code": "nla",
+  "name": "Ngombale",
+  "sentences": 60,
+  "exact": 14,
+  "exact_pct": 23.3,
+  "char_pct": 89.4
+ },
+ {
+  "code": "ozm",
+  "name": "Koonzime",
+  "sentences": 60,
+  "exact": 13,
+  "exact_pct": 21.7,
+  "char_pct": 76.5
+ },
+ {
+  "code": "snm",
+  "name": "Ma’di, Southern",
+  "sentences": 60,
+  "exact": 13,
+  "exact_pct": 21.7,
+  "char_pct": 31.8
+ },
+ {
+  "code": "bfd",
+  "name": "Bafut",
+  "sentences": 60,
+  "exact": 12,
+  "exact_pct": 20.0,
+  "char_pct": 60.2
+ },
+ {
+  "code": "gur",
+  "name": "Farefare",
+  "sentences": 60,
+  "exact": 11,
+  "exact_pct": 18.3,
+  "char_pct": 36.2
+ },
+ {
+  "code": "pny",
+  "name": "Pinyin",
+  "sentences": 60,
+  "exact": 10,
+  "exact_pct": 16.7,
+  "char_pct": 32.7
+ },
+ {
+  "code": "dur",
+  "name": "Dii",
+  "sentences": 60,
+  "exact": 8,
+  "exact_pct": 13.3,
+  "char_pct": 71.4
+ },
+ {
+  "code": "khy",
+  "name": "Kele (Democratic Republic of Congo)",
+  "sentences": 60,
+  "exact": 8,
+  "exact_pct": 13.3,
+  "char_pct": 83.9
+ },
+ {
+  "code": "lap",
+  "name": "Laka (Chad)",
+  "sentences": 60,
+  "exact": 8,
+  "exact_pct": 13.3,
+  "char_pct": 31.1
+ },
+ {
+  "code": "bfm",
+  "name": "Mmen",
+  "sentences": 60,
+  "exact": 7,
+  "exact_pct": 11.7,
+  "char_pct": 91.5
+ },
+ {
+  "code": "log",
+  "name": "Logoti",
+  "sentences": 60,
+  "exact": 7,
+  "exact_pct": 11.7,
+  "char_pct": 40.2
+ },
+ {
+  "code": "mgo",
+  "name": "Meta'",
+  "sentences": 60,
+  "exact": 7,
+  "exact_pct": 11.7,
+  "char_pct": 35.0
+ },
+ {
+  "code": "niy",
+  "name": "Ngiti",
+  "sentences": 60,
+  "exact": 7,
+  "exact_pct": 11.7,
+  "char_pct": 38.4
+ },
+ {
+  "code": "nge",
+  "name": "Ngemba",
+  "sentences": 60,
+  "exact": 6,
+  "exact_pct": 10.0,
+  "char_pct": 38.1
+ },
+ {
+  "code": "ybb",
+  "name": "Yemba",
+  "sentences": 60,
+  "exact": 6,
+  "exact_pct": 10.0,
+  "char_pct": 96.9
+ },
+ {
+  "code": "gbo",
+  "name": "Grebo, Northern",
+  "sentences": 60,
+  "exact": 4,
+  "exact_pct": 6.7,
+  "char_pct": 94.8
+ },
+ {
+  "code": "mcu",
+  "name": "Cameroon Mambila",
+  "sentences": 60,
+  "exact": 4,
+  "exact_pct": 6.7,
+  "char_pct": 97.8
+ },
+ {
+  "code": "mdy",
+  "name": "Maale",
+  "sentences": 60,
+  "exact": 4,
+  "exact_pct": 6.7,
+  "char_pct": 96.0
+ },
+ {
+  "code": "mnf",
+  "name": "Mundani",
+  "sentences": 60,
+  "exact": 4,
+  "exact_pct": 6.7,
+  "char_pct": 94.3
+ },
+ {
+  "code": "avu",
+  "name": "Avokaya",
+  "sentences": 60,
+  "exact": 3,
+  "exact_pct": 5.0,
+  "char_pct": 25.0
+ },
+ {
+  "code": "buy",
+  "name": "Bullom So",
+  "sentences": 60,
+  "exact": 2,
+  "exact_pct": 3.3,
+  "char_pct": 21.2
+ },
+ {
+  "code": "jgo",
+  "name": "Ngomba",
+  "sentences": 60,
+  "exact": 2,
+  "exact_pct": 3.3,
+  "char_pct": 19.4
+ },
+ {
+  "code": "hau",
+  "name": "Hausa Arabic script",
+  "sentences": 60,
+  "exact": 1,
+  "exact_pct": 1.7,
+  "char_pct": 97.0
+ },
+ {
+  "code": "daf",
+  "name": "Dan",
+  "sentences": 60,
+  "exact": 0,
+  "exact_pct": 0.0,
+  "char_pct": 19.9
+ },
+ {
+  "code": "gez",
+  "name": "Ge'ez (Ethiopic).",
+  "sentences": 60,
+  "exact": 0,
+  "exact_pct": 0.0,
+  "char_pct": 90.8
+ },
+ {
+  "code": "kbn",
+  "name": "Kare",
+  "sentences": 60,
+  "exact": 0,
+  "exact_pct": 0.0,
+  "char_pct": 24.8
+ },
+ {
+  "code": "lnl",
+  "name": "Banda, South Central",
+  "sentences": 60,
+  "exact": 0,
+  "exact_pct": 0.0,
+  "char_pct": 37.9
+ },
+ {
+  "code": "mev",
+  "name": "Mano",
+  "sentences": 60,
+  "exact": 0,
+  "exact_pct": 0.0,
+  "char_pct": 34.8
+ },
+ {
+  "code": "nnh",
+  "name": "Ngiemboon",
+  "sentences": 60,
+  "exact": 0,
+  "exact_pct": 0.0,
+  "char_pct": 76.4
+ }
+]

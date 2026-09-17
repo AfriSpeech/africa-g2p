@@ -216,6 +216,34 @@ africa-g2p twi "Onyankopɔn" --to ewe        # convert to another language
 africa-g2p twi "Onyankopɔn" --to universal  # convert to the majority grapheme set
 ```
 
+### Getting the orthography back
+
+`universal` cannot be read back, and that is not a bug to fix: it spells a sound
+the way most languages spell it, so Twi `/o/` and `/ɔ/` both become `<o>` and the
+difference is gone. That shared spelling is the point — it makes text from
+different languages directly comparable.
+
+When you need the original orthography back, use `universal-reversible`. It
+assigns each language an injective table, so nothing collapses:
+
+```python
+from africa_g2p import UNIVERSAL_REVERSIBLE, convert_lang
+
+u = convert_lang("Onyankopɔn", "twi", UNIVERSAL_REVERSIBLE)   # 'onyankopohhn'
+convert_lang(u, UNIVERSAL_REVERSIBLE, "twi")                  # 'onyankopɔn'
+```
+
+The cost is that the spelling is chosen per language and is no longer comparable
+across them: Twi writes `/ɔ/` as `ohh` because real `o`+`h` sequences occur in
+Twi text, while Ewe, whose corpus has none, writes it `oh`. Pick `universal` for
+a shared column across languages and `universal-reversible` when the text has to
+survive the trip home.
+
+Fidelity varies by language and is measured, not assumed —
+`src/africa_g2p/data/reversibility.json` records the exact-sentence and
+character-level rate for every language, so you can check your own rather than
+trust an average.
+
 ## Supported languages
 
 **400+ languages** across the continent — Twi, Fante, Yoruba, Igbo, Hausa, Ga, Dagbani, Gonja,
