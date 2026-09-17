@@ -265,6 +265,50 @@ def reverse_table(lang: str) -> Dict[str, str]:
     return _reverse_cache[lang]
 
 
+
+# --- plain-Latin orthographies -------------------------------------------------
+# A language whose orthography uses only the 26 basic Latin letters already *is*
+# written in the universal grapheme set: every letter maps to itself, so routing
+# it through IPA and back can only introduce noise. For those languages the
+# universal form is the text as written.
+#
+# An apostrophe does not disqualify a language. It marks glottalisation or
+# elision in several orthographies and carries no grapheme of its own, so it is
+# simply dropped from the universal form.
+
+_APOSTROPHES = "'\u2019\u2018\u02bc\u02bb`"
+
+
+def _is_plain_latin(alphabet) -> bool:
+    """True when every grapheme is made only of basic a-z (apostrophes ignored)."""
+    seen = False
+    for g in alphabet or ():
+        for ch in unicodedata.normalize("NFD", str(g)):
+            if ch in _APOSTROPHES or not ch.strip():
+                continue
+            if not ("a" <= ch.lower() <= "z"):
+                return False
+            seen = True
+    return seen
+
+
+def is_plain_latin_language(code: str) -> bool:
+    """True when ``code``'s orthography needs no conversion for universal output."""
+    try:
+        rules = load_rules(code)
+    except Exception:
+        return False
+    alphabet = rules.get("alphabet") or rules.get("graphemes") or {}
+    if isinstance(alphabet, dict):
+        alphabet = list(alphabet)
+    return _is_plain_latin(alphabet)
+
+
+def strip_apostrophes(text: str) -> str:
+    """Remove apostrophes, which the universal orthography does not write."""
+    return "".join(ch for ch in text if ch not in _APOSTROPHES)
+
+
 class GraphemeConverter:
     """Rewrite one language's graphemes in another's, per shared phonemes."""
 
@@ -285,6 +329,9 @@ class GraphemeConverter:
         self.source = source
         self.target = target
         self.relax_aspiration = relax_aspiration
+        # A plain-Latin orthography already writes the universal graphemes.
+        self.passthrough = (target == UNIVERSAL and source != UNIVERSAL
+                            and is_plain_latin_language(source))
         # Forward engine: language graphemes -> IPA (or majority graphemes -> IPA).
         if source == UNIVERSAL:
             self._forward = G2P.from_rules({"code": UNIVERSAL, "graphemes": forward})
@@ -303,6 +350,8 @@ class GraphemeConverter:
         ``sep=""`` emits continuous text, while ``sep=" "`` prints every unit as a
         separate token (the phoneme-sequence view)."""
         text = normalize_text(text, lower=lower)
+        if self.passthrough:
+            return strip_apostrophes(text)
         out: list = []
         for tok in tokenize(text):
             if not tok.is_word or _is_english_word(tok.text):
@@ -314,6 +363,8 @@ class GraphemeConverter:
 
     def convert_word(self, word: str, *, sep: str = "", lower: bool = True) -> str:
         """Convert a single word (no tokenization)."""
+        if self.passthrough:
+            return strip_apostrophes(normalize_text(word, lower=lower))
         if _is_english_word(word):
             return word
         word = normalize_text(word, lower=lower)
