@@ -299,6 +299,11 @@
   "name": "Mbukushu",
   "source": "AfriSpeech/africa-corpus mhw corpus"
  },
+ "moy": {
+  "letters": "abcdefghijklmnoprstuwyzꞌ",
+  "name": "Shekkacho",
+  "source": "AfriSpeech/africa-corpus moy corpus"
+ },
  "mpa": {
   "letters": "abcdefghijklmnoprstuvwyz",
   "name": "Mpoto",
@@ -323,6 +328,11 @@
   "letters": "abcdefghijklmnopqrstuvwxyz",
   "name": "North Ndebele",
   "source": "AfriSpeech/africa-corpus nde corpus"
+ },
+ "ndh": {
+  "letters": "abcdefghijklmnopstuwyʼ",
+  "name": "Ndali",
+  "source": "AfriSpeech/africa-corpus ndh corpus"
  },
  "ndj": {
   "letters": "abcdefghijklmnoprstuvwyz",
@@ -424,6 +434,11 @@
   "name": "Luguru",
   "source": "AfriSpeech/africa-corpus ruf corpus"
  },
+ "rwm": {
+  "letters": "abcdefghijklmnopstuvwyzʼ",
+  "name": "Amba",
+  "source": "AfriSpeech/africa-corpus rwm corpus"
+ },
  "saq": {
   "letters": "abcdeghijklmnoprstuwy",
   "name": "Samburu",
@@ -433,6 +448,11 @@
   "letters": "abcdefghijklmnopstuvwy",
   "name": "Sagala",
   "source": "AfriSpeech/africa-corpus sbm corpus"
+ },
+ "sbp": {
+  "letters": "abdefghijklmnopstuvwyʼ",
+  "name": "Sangu",
+  "source": "AfriSpeech/africa-corpus sbp corpus"
  },
  "sby": {
   "letters": "abcdefghijklmnopstuvwyz",
@@ -459,6 +479,11 @@
   "name": "Southern Sotho",
   "source": "AfriSpeech/africa-corpus sot corpus"
  },
+ "sqa": {
+  "letters": "abcdefghijklmnoprstuwyzʻ",
+  "name": "Shama-Sambuga",
+  "source": "AfriSpeech/africa-corpus sqa corpus"
+ },
  "swc": {
   "letters": "abcdefghijklmnoprstuvwyz",
   "name": "Congo Swahili",
@@ -468,6 +493,11 @@
   "letters": "abcdefghijklmnoprstuvwyz",
   "name": "Sena (Malawi)",
   "source": "AfriSpeech/africa-corpus swk corpus"
+ },
+ "sxb": {
+  "letters": "abcdefghijklmnoprstuvwyzʼ",
+  "name": "Suba",
+  "source": "AfriSpeech/africa-corpus sxb corpus"
  },
  "tap": {
   "letters": "abdefghiklmnoprstuvwyz",
@@ -488,6 +518,11 @@
   "letters": "abcdefghijklmnoprstuvwxyz",
   "name": "Takwane",
   "source": "AfriSpeech/africa-corpus tke corpus"
+ },
+ "tlj": {
+  "letters": "abcdefghijklmnopstuvwyʼ",
+  "name": "Talinga-Bwisi",
+  "source": "AfriSpeech/africa-corpus tlj corpus"
  },
  "tsn": {
   "letters": "abcdefghijklmnoprstuwy",
@@ -544,9 +579,19 @@
   "name": "Yalunka",
   "source": "AfriSpeech/africa-corpus yal corpus"
  },
+ "yom": {
+  "letters": "abdefghiklmnopstuvwyzꞌ",
+  "name": "Yombe",
+  "source": "AfriSpeech/africa-corpus yom corpus"
+ },
  "zaj": {
   "letters": "abcdefghijklmnopstuvwyz",
   "name": "Zaramo - Zalamo",
   "source": "AfriSpeech/africa-corpus zaj corpus"
+ },
+ "zak": {
+  "letters": "abcdefghijkmnoprstuwyzʼ",
+  "name": "Zanaki",
+  "source": "AfriSpeech/africa-corpus zak corpus"
  }
 }
