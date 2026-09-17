@@ -227,7 +227,8 @@ def check(tbl: dict, info: dict) -> list[str]:
 
     for k in gr:
         d = unicodedata.normalize("NFD", k)
-        if len(d) == 2 and d[1] in dia:
+        base_present = d[0].lower() in {x.lower() for x in gr}
+        if len(d) >= 2 and all(m in dia for m in d[1:]) and base_present:
             problems.append(f"grapheme {k!r} is precomposed and its mark is already "
                             f"in diacritics; it can never match — remove it")
 
@@ -235,10 +236,16 @@ def check(tbl: dict, info: dict) -> list[str]:
     for c in info["chars"]:
         if c in keys:
             continue
+        # A letter may carry several stacked marks -- ṹ is u + tilde + acute.
+        # It is reachable when the base is a grapheme and *every* mark is in
+        # diacritics, however many there are. Assuming one mark is how the
+        # tranche-3 failures (ṹ, ń, ü) were produced.
         d = unicodedata.normalize("NFD", c)
-        if len(d) == 2 and d[0] in keys and d[1] in dia:
+        base, marks = d[0], d[1:]
+        if marks and base in keys and all(m in dia for m in marks):
             continue
-        problems.append(f"attested letter {c!r} is not reachable")
+        problems.append(f"attested letter {c!r} is not reachable "
+                        f"(base {base!r}, marks {[hex(ord(m)) for m in marks]})")
     return problems
 
 

@@ -1,6 +1,6 @@
 # africa-g2p
 
-Segment written text in **400+ African languages** into phonemes — for text-to-speech, ASR,
+Segment written text in **750 African languages** into phonemes — for text-to-speech, ASR,
 pronunciation lexicons, and linguistic tooling. Many languages support **multiple scripts**
 (e.g. Vai syllabary and Latin), and non-Latin scripts can be **transliterated to Latin** too.
 
@@ -54,7 +54,7 @@ algorithm for the shallow orthographies in this package, and the wrong one for E
 *through*, *though*, *tough* and *thought* to a single identical string. `ough` alone has six
 readings, decided by etymology and morphology rather than by adjacent letters.
 
-Output is normalised to the same IPA conventions as the other 400 languages, so English phonemes
+Output is normalised to the same IPA conventions as the other 750 languages, so English phonemes
 share one inventory with them — no per-language tagging needed. Every symbol espeak emits already
 occurs somewhere in the rule tables, and where English genuinely differs, IPA already
 distinguishes it (`æ` is not `a`, `ɹ` is not `r`).
@@ -218,9 +218,13 @@ africa-g2p twi "Onyankopɔn" --to universal  # convert to the majority grapheme 
 
 ## Supported languages
 
-**400+ languages** across the continent — Twi, Fante, Yoruba, Igbo, Hausa, Ga, Dagbani, Gonja,
+**750 languages** across the continent — Twi, Fante, Yoruba, Igbo, Hausa, Ga, Dagbani, Gonja,
 Ewondo, Fon, Lingala, Kikuyu, Luganda, Wolof, Amharic, Tigrinya, Swahili, Zulu, Dioula, Vai, and
 many more — including several written in non-Latin scripts (Ethiopic, Vai, Tifinagh, N'Ko, …).
+
+A further **119** languages are written in a plain a–z orthography that already matches the
+universal grapheme set, so they need no rule table of their own. Converting to `universal`
+therefore covers **869 languages** in total.
 
 Where a macrolanguage has distinct spoken varieties, we list the **varieties** rather than the
 umbrella — e.g. **Twi** (`twi`) and **Fante** (`fat`) rather than a single "Akan".
