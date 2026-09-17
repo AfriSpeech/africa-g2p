@@ -1,212 +1,112 @@
 {
   "code": "apd",
-  "name": "Arabic (Northern Sudanese Colloquial)",
+  "name": "Arabic, Sudanese (Latin)",
   "country": "Sudan",
-  "family": "Afroasiatic",
-  "source": "Hartell 1993, Alphabets of Africa (UNESCO), p. 9",
-  "confidence": "high",
+  "family": "Afro-Asiatic",
+  "scripts": {
+    "native": [],
+    "latin": [
+      "a",
+      "b",
+      "d",
+      "ḍ",
+      "e",
+      "f",
+      "g",
+      "h",
+      "ḥ",
+      "i",
+      "j",
+      "k",
+      "l",
+      "m",
+      "n",
+      "o",
+      "r",
+      "s",
+      "ṣ",
+      "t",
+      "ṭ",
+      "u",
+      "v",
+      "w",
+      "x",
+      "y",
+      "z",
+      "ẓ"
+    ]
+  },
   "graphemes": {
+    "a": "a",
+    "aa": "aː",
     "b": "b",
     "d": "d",
     "ḍ": "dˤ",
+    "e": "e",
+    "ee": "eː",
     "f": "f",
     "g": "ɡ",
-    "gh": "ɣ",
     "h": "h",
-    "H": "ħ",
-    "j": "dʒ",
+    "ḥ": "ħ",
+    "i": "i",
+    "ii": "iː",
+    "j": "d͡ʒ",
     "k": "k",
-    "kh": "x",
     "l": "l",
     "m": "m",
     "n": "n",
+    "o": "o",
+    "oo": "oː",
     "r": "r",
     "s": "s",
     "ṣ": "sˤ",
     "sh": "ʃ",
     "t": "t",
     "ṭ": "tˤ",
+    "u": "u",
+    "uu": "uː",
+    "v": "ʕ",
     "w": "w",
+    "x": "x",
     "y": "j",
     "z": "z",
-    "ẓ": "zˤ",
-    "9": "ʕ",
-    "'": "ʔ",
-    "v": "v",
-    "a": "a",
-    "aa": "aː",
-    "ee": "eː",
-    "i": "i",
-    "ii": "iː",
-    "oo": "oː",
-    "u": "u",
-    "uu": "uː"
+    "ẓ": "zˤ"
   },
+  "romanization": {},
   "diacritics": {},
-  "tones": null,
-  "notes": "Three orthographic conventions are compared: New Testament, Persson, and Hillelson. The primary alphabet list and examples follow Persson's orthography. Phoneme /ʔ/ is not written word-initially. Phoneme /v/ occurs only in borrowed words. All consonants can be doubled.",
+  "tones": {},
+  "notes": "The letter 'v' is used to represent the voiced pharyngeal fricative /ʕ/ (Ayn), as seen in names like 'Yasuuv' (Jesus) and 'Yavkuub' (Jacob). Long vowels are represented by double letters.",
   "alphabet": [
     "a",
     "b",
     "d",
     "ḍ",
-    "ee",
+    "e",
     "f",
     "g",
-    "gh",
     "h",
-    "H",
+    "ḥ",
     "i",
     "j",
     "k",
-    "kh",
     "l",
     "m",
     "n",
-    "oo",
+    "o",
     "r",
     "s",
     "ṣ",
-    "sh",
     "t",
     "ṭ",
     "u",
     "v",
     "w",
+    "x",
     "y",
     "z",
-    "ẓ",
-    "9",
-    "'"
+    "ẓ"
   ],
-  "examples": [
-    {
-      "word": "arḍ",
-      "gloss": "earth"
-    },
-    {
-      "word": "baab",
-      "gloss": "door"
-    },
-    {
-      "word": "dagiig",
-      "gloss": "flour"
-    },
-    {
-      "word": "ḍeef",
-      "gloss": "guest"
-    },
-    {
-      "word": "beet",
-      "gloss": "house"
-    },
-    {
-      "word": "fajur",
-      "gloss": "dawn"
-    },
-    {
-      "word": "guruush",
-      "gloss": "money"
-    },
-    {
-      "word": "ghanam",
-      "gloss": "goats"
-    },
-    {
-      "word": "hiduum",
-      "gloss": "clothes"
-    },
-    {
-      "word": "Humaar",
-      "gloss": "donkey"
-    },
-    {
-      "word": "miliH",
-      "gloss": "salt"
-    },
-    {
-      "word": "jeeraan",
-      "gloss": "neighbors"
-    },
-    {
-      "word": "kubri",
-      "gloss": "bridge"
-    },
-    {
-      "word": "khamsa",
-      "gloss": "five"
-    },
-    {
-      "word": "laban",
-      "gloss": "milk"
-    },
-    {
-      "word": "mooya",
-      "gloss": "water"
-    },
-    {
-      "word": "naas",
-      "gloss": "people"
-    },
-    {
-      "word": "mooz",
-      "gloss": "bananas"
-    },
-    {
-      "word": "raajil",
-      "gloss": "man"
-    },
-    {
-      "word": "samak",
-      "gloss": "fish"
-    },
-    {
-      "word": "ṣaabuun",
-      "gloss": "soap"
-    },
-    {
-      "word": "sharaab",
-      "gloss": "drink"
-    },
-    {
-      "word": "talaata",
-      "gloss": "three"
-    },
-    {
-      "word": "ṭeer",
-      "gloss": "bird"
-    },
-    {
-      "word": "sukkar",
-      "gloss": "sugar"
-    },
-    {
-      "word": "tilivizyoon",
-      "gloss": "television"
-    },
-    {
-      "word": "walad",
-      "gloss": "boy"
-    },
-    {
-      "word": "yoom",
-      "gloss": "day"
-    },
-    {
-      "word": "zool",
-      "gloss": "person"
-    },
-    {
-      "word": "ẓarif",
-      "gloss": "envelope"
-    },
-    {
-      "word": "9arabi",
-      "gloss": "Arabic"
-    },
-    {
-      "word": "su'aal",
-      "gloss": "question"
-    }
-  ]
+  "examples": [],
+  "source": "Drafted by gemini-3.1-pro-preview from the AfriSpeech/africa-corpus apd corpus (3149 sentences); not reviewed by a speaker.",
+  "confidence": "llm-draft"
 }

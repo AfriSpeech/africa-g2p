@@ -59,6 +59,8 @@ _CONFUSABLES = {
     "ı": "i",       # dotless i ı -> i
     "’": "'",       # right single quote -> apostrophe
     "ʼ": "'",       # modifier apostrophe -> apostrophe
+    "ↄ": "ɔ",       # reversed c ↄ -> Latin open o ɔ (Adioukrou writes it for ɔ)
+    "ɂ": "ʔ",       # Latin glottal stop ɂ -> IPA glottal stop ʔ
 }
 _CONFUSABLE_TABLE = {ord(k): v for k, v in _CONFUSABLES.items()}
 
