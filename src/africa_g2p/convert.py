@@ -396,7 +396,16 @@ class GraphemeConverter:
                 continue
             units = self._forward.convert_word(tok.text, sep=" ", lower=False).split(" ")
             out.append(sep.join(self._map_units(units)))
-        return "".join(out)
+        result = "".join(out)
+        # The universal orthography does not write apostrophes, and a word-initial
+        # one is punctuation to the tokenizer, so it passed through untouched --
+        # Bijwa writes many ('jäa, 'ŋlë) and they survived into universal text,
+        # while the same mark at the end of a word was absorbed and dropped. No
+        # universal value contains an apostrophe, so removing them here cannot
+        # corrupt a mapping.
+        if self.target == UNIVERSAL:
+            result = strip_apostrophes(result)
+        return result
 
     def convert_word(self, word: str, *, sep: str = "", lower: bool = True) -> str:
         """Convert a single word (no tokenization)."""
@@ -406,7 +415,8 @@ class GraphemeConverter:
             return word
         word = normalize_text(word, lower=lower)
         units = self._forward.convert_word(word, sep=" ", lower=False).split(" ")
-        return sep.join(self._map_units(units))
+        out = sep.join(self._map_units(units))
+        return strip_apostrophes(out) if self.target == UNIVERSAL else out
 
     def _map_units(self, units: list) -> list:
         """Map each phoneme to a target grapheme, replacing the existing (preceding)

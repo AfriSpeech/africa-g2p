@@ -252,3 +252,22 @@ def test_universal_collision_alternatives_are_plain_letters():
     assert all(_is_plain_latin(v) for v in _UNIVERSAL_VOWEL_ALTERNATIVES.values())
     out = GraphemeConverter("bud", UNIVERSAL).convert("Unimbɔti nín kíĺ ki náań")
     assert "ə" not in out and "nean" in out
+
+
+def test_universal_never_writes_apostrophes():
+    """The universal orthography is plain a-z, so it writes no apostrophes.
+
+    A word-initial apostrophe is punctuation to the tokenizer, so it used to
+    pass through untouched -- Bijwa writes many ('jäa, 'ŋlë) and they survived
+    into universal text, while the same mark ending a word was absorbed and
+    dropped, which was not even consistent."""
+    from africa_g2p.convert import _APOSTROPHES
+
+    conv = GraphemeConverter("bjw", UNIVERSAL)
+    for text in ("'jäa' 'ŋlëkayerü", "cɛtɛa' ‑gua'", "'na ‑fʋflʋlʋ"):
+        out = conv.convert(text)
+        assert not any(a in out for a in _APOSTROPHES), out
+    assert not any(a in conv.convert_word("'jäa") for a in _APOSTROPHES)
+
+    # plain-Latin languages already did this; they must keep doing it
+    assert "'" not in convert_lang("ng'ombe", "swh", UNIVERSAL)
