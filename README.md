@@ -226,6 +226,11 @@ A further **119** languages are written in a plain a–z orthography that alread
 universal grapheme set, so they need no rule table of their own. Converting to `universal`
 therefore covers **869 languages** in total.
 
+Several languages are written in more than one script, and a table covers the orthography it was
+drafted for. Tarifit and Tashelhiyt convert their Latin orthography exactly, for instance, but
+their Arabic-script texts only approximately — a letter no table lists falls back on the spelling
+most other tables give it. Tuareg in Tifinagh is not supported at all.
+
 Where a macrolanguage has distinct spoken varieties, we list the **varieties** rather than the
 umbrella — e.g. **Twi** (`twi`) and **Fante** (`fat`) rather than a single "Akan".
 

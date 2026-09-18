@@ -313,8 +313,12 @@ def test_unlisted_letters_are_spelt_the_way_most_tables_spell_them():
     # length and modifier marks are not written at all
     assert universal_fallback("ː") == ""
     assert universal_fallback("ʰ") == ""
-    # one table's opinion is not a consensus
-    assert universal_fallback("\u00fe") in (None, "") or universal_fallback("\u00fe").isascii()
+    # where the tables disagree the majority wins; where only one lists the
+    # letter at all it is used anyway, since it is the only evidence there is.
+    # Tifinagh rests entirely on one table, and rejecting it left Tuareg text
+    # passing through unconverted.
+    assert universal_fallback("\u2d4f") == "n"        # Tifinagh, from siz alone
+    assert all(("a" <= c <= "z") for c in universal_fallback("\u00fe") or "a")
 
 
 def test_latin_orthographies_of_arabic_script_languages_still_work():
