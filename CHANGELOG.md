@@ -1,5 +1,34 @@
 # Changelog
 
+## 0.3.1
+
+### Universal output is ASCII, not merely free of non-ASCII letters
+
+An IPA unit the survey has no spelling for passes through whole, tie bar and
+all, so `ntsaa` came out with a combining tie bar between every consonant. The
+check meant to catch that asked `isalpha()`, and a tie bar is a mark rather
+than a letter, so it went straight through -- as did punctuation, which is how
+Ethiopic sentence marks and a hundred corpora's guillemets survived too.
+
+Measured across 684 languages on real corpus text:
+
+    non-ASCII characters in universal output   3076 -> 0
+    languages affected                         100+ -> 0
+
+- A tie bar, undertie, tone bar, modifier letter, invisible formatting
+  character or private-use character is written as nothing.
+- Typographic punctuation folds to its ASCII equivalent: guillemets to a
+  quote, a non-breaking hyphen to `-`, an inverted question mark to `?`.
+- A letter is still kept rather than dropped, so a gap in the tables shows up
+  instead of silently deleting words.
+
+Proxy escapes these instead of folding them, since it has to return exactly
+what it was given; it had been passing non-ASCII punctuation through
+unescaped, which broke its own a-z guarantee.
+
+Reported from a downstream project, which found 123 clips across 11 languages
+carrying the tie bar.
+
 ## 0.3.0
 
 ### `proxy`: write any orthography in plain a-z, and read it back exactly

@@ -375,8 +375,34 @@ def universal_fallback(ch: str) -> str | None:
     return spell.get(ch)
 
 
+# Typographic punctuation that has a plain ASCII equivalent. Universal output is
+# meant to be plain a-z with ordinary punctuation, and these are the same marks
+# in fancier clothing: a hundred corpora write « » where ASCII writes ", and two
+# dozen use a non-breaking hyphen. Proxy must not fold them -- it has to give
+# back exactly what came in -- so this belongs to the universal path only.
+_ASCII_PUNCT = {
+    "\u00ab": '"', "\u00bb": '"', "\u2039": "'", "\u203a": "'",
+    "\u201c": '"', "\u201d": '"', "\u201e": '"', "\u2018": "'", "\u2019": "'",
+    "\u2010": "-", "\u2011": "-", "\u2012": "-", "\u2013": "-", "\u2014": "-",
+    "\u2015": "-", "\u2212": "-", "\u00a0": " ", "\u2007": " ", "\u202f": " ",
+    "\u2026": "...", "\u00b7": ".", "\u2022": ".", "\uff0c": ",", "\uff0e": ".",
+    "\u061b": ";", "\u061f": "?", "\u060c": ",", "\u061e": ".", "\u06d4": ".",
+    "\u2044": "/", "\u00d7": "x", "\u2032": "'", "\u2033": '"',
+    "\u201a": "'", "\u201b": "'", "\u00bf": "?", "\u00a1": "!",
+    "\u2035": "'", "\u2036": '"', "\u00ba": "o", "\u00aa": "a",
+}
+
+
 def _apply_fallback(text: str) -> str:
-    """Spell any leftover non a-z letter the way most tables spell it."""
+    """Spell any leftover non a-z character the way most tables spell it.
+
+    Everything outside ASCII is handled, not only letters. An IPA unit the
+    survey has no spelling for passes through whole, tie bar and all, and a
+    combining tie bar is a mark rather than a letter -- so "ntsaa" came out
+    "n͡t͡saa" and the checks for plain a-z output never saw it, because they
+    asked isalpha(). A mark that carries no sound of its own is dropped; a
+    character with a spelling takes it.
+    """
     spell, drop = _fallback()
     if not spell:
         return text
@@ -384,8 +410,21 @@ def _apply_fallback(text: str) -> str:
     for ch in text:
         if ch in drop:
             continue
-        if ch.isalpha() and not ("a" <= ch <= "z"):
-            out.append(spell.get(ch, ch))
+        if ord(ch) < 128:
+            out.append(ch)
+            continue
+        if ch in spell:
+            out.append(spell[ch])
+        elif ch in _ASCII_PUNCT:
+            out.append(_ASCII_PUNCT[ch])
+        elif not ch.isalpha():
+            # Anything left that is not a letter -- a tie bar, undertie, tone
+            # bar, modifier, invisible formatting character, dagger,
+            # private-use or control character -- is written as nothing.
+            # Universal output is plain ASCII and such a mark has no ASCII
+            # equivalent to fall back on. A letter is kept instead, so a gap
+            # in the tables shows up rather than silently deleting words.
+            continue
         else:
             out.append(ch)
     return "".join(out)
@@ -569,8 +608,11 @@ def to_proxy(text: str) -> str:
             out.append(ch)
         elif ch in fwd:
             out.append("x" + fwd[ch] + "x")
-        elif not ch.isalpha() and not unicodedata.combining(ch):
-            # spaces, digits and punctuation carry through as themselves
+        elif ord(ch) < 128 and not ch.isalpha():
+            # ASCII spaces, digits and punctuation carry through as themselves.
+            # Anything outside ASCII is escaped even when it is punctuation: a
+            # guillemet is not a-z either, and proxy cannot fold it to a quote
+            # the way universal does, because it has to give back what came in.
             out.append(ch)
         else:
             # No entry: encode the codepoint itself, so a letter nobody

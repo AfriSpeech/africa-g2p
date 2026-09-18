@@ -1,4 +1,5 @@
 import pytest
+from africa_g2p.normalizer import normalize_text
 
 from africa_g2p import (
     UNIVERSAL,
@@ -342,3 +343,39 @@ def test_universal_is_plain_a_z_even_with_table_gaps():
         out = convert_lang(text, code, UNIVERSAL)
         bad = [c for c in out if c.isalpha() and not ("a" <= c <= "z")]
         assert not bad, f"{code}: {out!r} has {bad}"
+
+
+def test_universal_output_is_ascii_not_merely_letterless():
+    """Check the whole output, not just its letters.
+
+    Every earlier check here asked `isalpha()`, which silently excused
+    combining marks and punctuation. An IPA unit the survey cannot spell passes
+    through whole, tie bar and all, so "ntsaa" came out "n͡t͡saa" (U+0361, a
+    mark rather than a letter) and no test noticed. The same blind spot let
+    Ethiopic ፣ ። through."""
+    cases = [("twi", "Onyankopɔn"), ("gaa", "ɛŋɔ"), ("amh", "ወንጌል ማቴዎስ፣ ልጆች።"),
+             ("vai", "ꕪꕌꘋ"), ("ttq", "ⵏⴹⵜ"), ("bcw", "ntsaa"), ("dno", "ntsaa")]
+    for code, text in cases:
+        out = convert_lang(text, code, UNIVERSAL)
+        bad = [f"U+{ord(c):04X}" for c in out if ord(c) > 127]
+        assert not bad, f"{code}: {out!r} still has {bad}"
+
+
+def test_tie_bar_never_reaches_universal():
+    from africa_g2p.convert import _apply_fallback
+
+    assert _apply_fallback("n͡t͡saa") == "ntsaa"
+    assert _apply_fallback("k͡pa") == "kpa"
+    assert _apply_fallback("t͜sa") == "tsa"
+
+
+def test_proxy_output_is_ascii_and_reversible():
+    """Proxy cannot fold a guillemet to a quote the way universal does -- it has
+    to give back what came in -- so it escapes anything outside ASCII."""
+    from africa_g2p import PROXY
+
+    for code, text in [("twi", "«ntsaa» a‑b 3!"), ("twi", "Onyankopɔn"),
+                       ("amh", "ወንጌል"), ("gaa", "ɛŋɔ")]:
+        p = convert_lang(text, code, PROXY)
+        assert all(ord(c) < 128 for c in p), f"{code}: {p!r} is not ASCII"
+        assert convert_lang(p, PROXY, code) == normalize_text(text)
