@@ -26,15 +26,29 @@ from typing import Dict, List, Tuple
 from functools import lru_cache
 
 from .g2p import G2P
-from .loader import load_rules
+from .loader import load_rules, LanguageNotFoundError
 from .normalizer import normalize_text, tie_affricates, tokenize
 
 _DATA = Path(__file__).resolve().parent / "data"
 _FALLBACK_FILE = _DATA / "universal_fallback.json"
+_ESCAPES_FILE = _DATA / "proxy_escapes.json"
 _UNIVERSAL_FILE = _DATA / "ipa_universal_graphemes.json"
 
 # Virtual language code: "write every phoneme with the grapheme most languages use".
 UNIVERSAL = "universal"
+
+# Virtual language code: a per-language alphabet that reads back.
+#
+# `universal` writes each sound the way most languages write it, which is what
+# makes text from different languages comparable, and is lossy on purpose --
+# Twi writes both /o/ and /ɔ/ as "o". A proxy alphabet is the same idea made
+# reversible for one language: it starts from the universal spelling and moves
+# a grapheme off it only where reversibility demands, so Twi writes /ɔ/ "ox"
+# while Ewe writes it "oh". Comparable across languages or reversible within
+# one -- no single spelling can be both, which is why these are two targets.
+PROXY = "proxy"
+
+_VIRTUAL = (UNIVERSAL, PROXY)
 
 _universal_forward: Dict[str, str] = {}
 _universal_reverse: Dict[str, str] = {}
@@ -377,6 +391,221 @@ def _apply_fallback(text: str) -> str:
     return "".join(out)
 
 
+def _nfc(s: str) -> str:
+    """Recompose. Matching runs decomposed, but callers and the normalizer work
+    in NFC -- emitting decomposed text made every accented language compare
+    unequal to its own source and looked like a system-wide collapse."""
+    return unicodedata.normalize("NFC", s)
+
+
+def _greedy_units(text: str, table: Dict[str, str]) -> list:
+    """Rewrite text with the longest matching key at each position, one unit per
+    grapheme matched, so a caller can join them with its own separator.
+
+    Text and keys are both compared decomposed, longest key first, and any
+    combining marks trailing a match ride along to the end of its replacement.
+
+    Decomposing is what makes that safe. Ngomba /ɑ̂/ spells "ah" plus a
+    combining circumflex, and NFC fuses the mark with the "h" into ĥ (U+0125);
+    matching the composed text, the reverse key "ah" could never match it again.
+    Acute survived only because Unicode has no precomposed "h with acute", which
+    is why one word round-tripped with one accent and not another. Decomposed,
+    ĥ is h plus a mark again and the key matches as written.
+
+    Matching stays exact. Letting a key match across marks instead -- so that
+    "ah" could find a-circumflex-h -- let long keys swallow accents belonging to
+    a language's own accented graphemes, and cost more languages than it fixed.
+    """
+    if not table:
+        return [text]
+    nfd = {unicodedata.normalize("NFD", k): v for k, v in table.items()}
+    # Longest first; at equal length an accented grapheme of the language's own
+    # chart beats a bare one, so Avokaya ị is read as ị, not i plus a mark.
+    keys = sorted(nfd, key=lambda k: (len(k),
+                                      any(unicodedata.combining(c) for c in k)),
+                  reverse=True)
+    flat = unicodedata.normalize("NFD", text)
+
+    out, i = [], 0
+    while i < len(flat):
+        ch = flat[i]
+        if ch.isspace() or unicodedata.category(ch).startswith("P") or ch.isdigit():
+            out.append(_nfc(ch))
+            i += 1
+            continue
+        for k in keys:
+            if k and flat.startswith(k, i):
+                j = i + len(k)
+                break
+        else:
+            k, j = None, i + 1
+        held = ""
+        while j < len(flat) and unicodedata.combining(flat[j]):
+            # A mark the table gives a letter for becomes that letter, so the
+            # output stays inside a-z. A marked letter the corpus actually uses
+            # is a table key in its own right and never reaches here.
+            held += nfd.get(flat[j], flat[j])
+            j += 1
+        out.append(_nfc((nfd[k] if k is not None else ch) + held))
+        i = j
+    return out
+
+
+def _greedy_map(text: str, table: Dict[str, str]) -> str:
+    """Rewrite text with the longest matching key at each position."""
+    return "".join(_greedy_units(text, table))
+
+
+def proxy_tables(code: str) -> Tuple[Dict[str, str], Dict[str, str]]:
+    """(grapheme -> proxy, proxy -> grapheme) for ``code``, or two empties.
+
+    The forward table carries the combining marks as keys of their own, so a
+    marked letter the corpus never showed still comes out as letters rather
+    than as a stray accent.
+    """
+    try:
+        rules = load_rules(code)
+    except Exception:
+        return {}, {}
+    fwd = dict(rules.get("proxy") or {})
+    if fwd:
+        fwd.update(rules.get("proxy_marks") or {})
+    return fwd, rules.get("proxy_reverse") or {}
+
+
+def proxy_supported(code: str) -> bool:
+    """True when ``code`` has a proxy alphabet to convert through."""
+    fwd, rev = proxy_tables(code)
+    return bool(fwd and rev)
+
+
+def _non_latin_script(ch: str) -> bool:
+    o = ord(ch)
+    return (0x1200 <= o <= 0x137F or 0x0600 <= o <= 0x06FF or 0x0750 <= o <= 0x077F
+            or 0x08A0 <= o <= 0x08FF or 0xFB50 <= o <= 0xFDFF or 0xFE70 <= o <= 0xFEFF
+            or 0xA500 <= o <= 0xA63F or 0x07C0 <= o <= 0x07FF
+            or 0x2D30 <= o <= 0x2D7F or 0x0400 <= o <= 0x04FF
+            or 0x2C80 <= o <= 0x2CFF or 0x1360 <= o <= 0x137F)
+
+
+def _romanise(text: str) -> str:
+    """Write a non-Latin script in Latin, from the baked uroman table.
+
+    Deriving a whole script from our own rule tables produced a romanisation
+    nobody uses -- Amharic ክርስቶስ came out "kirisitosi" -- and a chart that
+    lists Ethiopic graphemes never reached the fallback at all, so the table
+    alone did not change what those languages emitted. A token written in a
+    non-Latin script is romanised here instead of going through the chart.
+    """
+    spell, drop = _fallback()
+    out = []
+    for ch in text:
+        if ch in drop:
+            continue
+        if _non_latin_script(ch):
+            out.append(spell.get(ch, ch))
+        else:
+            out.append(ch)
+    return "".join(out)
+
+
+@lru_cache(maxsize=1)
+def _escapes() -> Tuple[Dict[str, str], Dict[str, str]]:
+    """(character -> payload, payload -> character) for the proxy alphabet."""
+    try:
+        d = json.loads(_ESCAPES_FILE.read_text(encoding="utf-8"))
+    except Exception:
+        return {}, {}
+    fwd = d.get("payloads", {})
+    return fwd, {v: k for k, v in fwd.items()}
+
+
+# No "x": it ends an escape, and a payload containing one was cut short --
+# the Vai syllable ꘋ encoded as "zzckwx" and came back as ٢.
+_B25 = "abcdefghijklmnopqrstuvwyz"
+
+
+def _codepoint_payload(ch: str) -> str:
+    """"zz" plus the codepoint in base 26, for a character with no entry."""
+    n, out = ord(ch), ""
+    while n:
+        out = _B25[n % 25] + out
+        n //= 25
+    return "zz" + (out or "a")
+
+
+def _payload_codepoint(payload: str) -> str | None:
+    if not payload.startswith("zz") or len(payload) < 3:
+        return None
+    n = 0
+    for c in payload[2:]:
+        if c not in _B25:
+            return None
+        n = n * 25 + _B25.index(c)
+    try:
+        return chr(n)
+    except ValueError:
+        return None
+
+
+def to_proxy(text: str) -> str:
+    """Write text in the proxy alphabet: plain a-z, and exactly reversible.
+
+    An a-z letter stands for itself, a literal x doubles to xx, and anything
+    else is written x<payload>x -- ɔ is xox, ŋ is xngx, a combining acute is
+    xqx. The code is decodable by construction, so this needs no per-language
+    table and cannot fail on a language: the earlier per-language version had
+    to check every spelling for collisions and still left 175 languages short
+    of a clean round trip.
+    """
+    fwd, _ = _escapes()
+    out = []
+    for ch in unicodedata.normalize("NFD", text):
+        if ch == "x":
+            # before the a-z test, which would otherwise pass x through and
+            # leave a real x indistinguishable from the start of an escape
+            out.append("xx")
+        elif "a" <= ch <= "z":
+            out.append(ch)
+        elif ch in fwd:
+            out.append("x" + fwd[ch] + "x")
+        elif not ch.isalpha() and not unicodedata.combining(ch):
+            # spaces, digits and punctuation carry through as themselves
+            out.append(ch)
+        else:
+            # No entry: encode the codepoint itself, so a letter nobody
+            # tabulated still round-trips. The Vai syllable ꘋ appears in real
+            # text and in no rule table, and used to pass through as itself.
+            out.append("x" + _codepoint_payload(ch) + "x")
+    return "".join(out)
+
+
+def from_proxy(text: str) -> str:
+    """Read proxy text back into the original orthography."""
+    _, rev = _escapes()
+    out, i = [], 0
+    while i < len(text):
+        ch = text[i]
+        if ch != "x":
+            out.append(ch)
+            i += 1
+            continue
+        if text.startswith("xx", i):
+            out.append("x")
+            i += 2
+            continue
+        j = text.find("x", i + 1)
+        if j == -1:
+            out.append(ch)
+            i += 1
+            continue
+        payload = text[i + 1:j]
+        ch = rev.get(payload) or _payload_codepoint(payload)
+        out.append(ch if ch is not None else payload)
+        i = j + 1
+    return unicodedata.normalize("NFC", "".join(out))
+
+
 def strip_apostrophes(text: str) -> str:
     """Remove apostrophes, which the universal orthography does not write."""
     return "".join(ch for ch in text if ch not in _APOSTROPHES)
@@ -419,23 +648,27 @@ class GraphemeConverter:
         # A plain-Latin orthography already writes the universal graphemes.
         self.passthrough = (target == UNIVERSAL and source != UNIVERSAL
                             and is_plain_latin_language(source))
+        # Proxy is one global escape scheme rather than a per-language table,
+        # so there is nothing to look up and no language it can fail on.
+        self._to_proxy = target == PROXY and source != PROXY
+        self._from_proxy = source == PROXY and target != PROXY
         # Forward engine: language graphemes -> IPA (or majority graphemes -> IPA).
         # Skipped entirely when passing through: a plain-Latin orthography needs
         # no phoneme round-trip, and such a table may assert no IPA at all.
-        if self.passthrough:
+        if self.passthrough or self._to_proxy or self._from_proxy:
             self._forward = None
-        elif source == UNIVERSAL:
+        elif source in _VIRTUAL:
             self._forward = G2P.from_rules({"code": UNIVERSAL, "graphemes": forward})
         else:
             self._forward = G2P(source, output="ipa")
         # Reverse table: IPA -> target graphemes.
-        self._reverse = reverse if target == UNIVERSAL else reverse_table(target)
+        self._reverse = reverse if target in _VIRTUAL else reverse_table(target)
         self._universal_reverse = reverse
         # Source's own spelling per phoneme -> flag when a target differs, so a
         # converted phoneme that lands next to the same letter can be tripled.
         # Both are unused when passing through, and a plain-Latin language may
         # have no rule file to read them from.
-        if self.passthrough or source == UNIVERSAL:
+        if self.passthrough or source in _VIRTUAL:
             self._source_spelling = {}
         else:
             self._source_spelling = reverse_table(source)
@@ -448,10 +681,28 @@ class GraphemeConverter:
         text = normalize_text(text, lower=lower)
         if self.passthrough:
             return _apply_fallback(strip_apostrophes(_drop_marks(text)))
+        if self._to_proxy:
+            return to_proxy(text)
+        if self._from_proxy:
+            return from_proxy(text)
+        stored = None
         out: list = []
         for tok in tokenize(text):
-            if not tok.is_word or _is_english_word(tok.text):
+            # The English skip keeps a loanword legible in universal. A proxy
+            # alphabet cannot use it: converting can turn a native word into an
+            # English one, and the reverse pass would then skip the very token
+            # it had to convert. Treating loanwords as ordinary text is
+            # symmetric, so they still come back unchanged.
+            if not tok.is_word or (not stored and _is_english_word(tok.text)):
                 out.append(tok.text)
+                continue
+            if stored:
+                # Recompose the word: a mark letter turns back into a combining
+                # mark, which has to settle onto the letter before it.
+                out.append(_nfc(sep.join(_greedy_units(tok.text, stored))))
+                continue
+            if self.target == UNIVERSAL and any(_non_latin_script(c) for c in tok.text):
+                out.append(_romanise(tok.text))
                 continue
             units = self._forward.convert_word(tok.text, sep=" ", lower=False).split(" ")
             out.append(sep.join(self._map_units(units)))
@@ -463,7 +714,7 @@ class GraphemeConverter:
         # universal value contains an apostrophe, so removing them here cannot
         # corrupt a mapping.
         if self.target == UNIVERSAL:
-            result = _apply_fallback(strip_apostrophes(result))
+            result = _apply_fallback(strip_apostrophes(_romanise(result)))
         return result
 
     def convert_word(self, word: str, *, sep: str = "", lower: bool = True) -> str:
@@ -471,6 +722,10 @@ class GraphemeConverter:
         if self.passthrough:
             return _apply_fallback(
                 strip_apostrophes(_drop_marks(normalize_text(word, lower=lower))))
+        if self._to_proxy:
+            return to_proxy(normalize_text(word, lower=lower))
+        if self._from_proxy:
+            return from_proxy(normalize_text(word, lower=lower))
         if _is_english_word(word):
             return word
         word = normalize_text(word, lower=lower)
@@ -488,7 +743,7 @@ class GraphemeConverter:
         prev_g, prev_ipa, run_converted = None, None, False
         for ipa in units:
             g, converted = self._map(ipa)
-            alternatives = (_UNIVERSAL_VOWEL_ALTERNATIVES if self.target == UNIVERSAL
+            alternatives = (_UNIVERSAL_VOWEL_ALTERNATIVES if self.target in _VIRTUAL
                             else _VOWEL_ALTERNATIVES)
             if converted and len(g) >= 2 and len(set(g)) == 1 and g[0] in _VOWELS:
                 alt = alternatives.get(g[0], "u" if g[0] in "oɔ" else "i")
@@ -522,7 +777,7 @@ class GraphemeConverter:
         #    target with no /tʰ/ at all uses its /t/ reading). For the virtual
         #    "universal" target this step is identical to the majority step below.
         relaxed = _relax_aspiration(ipa) if self.relax_aspiration else ipa
-        if self.target != UNIVERSAL:
+        if self.target not in _VIRTUAL:
             for form in (ipa, relaxed):
                 g = self._reverse.get(form)
                 if g is not None:
@@ -549,7 +804,7 @@ class GraphemeConverter:
         #    stripped the accent, which is exactly the character universal exists to
         #    remove. Retry on the base letter, keeping the mark off: the universal
         #    orthography does not write tone.
-        if g is None and self.target == UNIVERSAL:
+        if g is None and self.target in _VIRTUAL:
             base = _strip_combining(ipa)
             # A unit that is nothing but modifiers — a lone tone bar or ˤ emitted as
             # its own unit — writes as nothing, the same as the other phonemes the

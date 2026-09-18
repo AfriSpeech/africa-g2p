@@ -96,12 +96,17 @@ def clean_ipa(text: str) -> str:
 
 
 def normalize_text(text: str, *, lower: bool = True) -> str:
-    """Unicode-normalize (NFC), fold confusables, and optionally case-fold."""
-    text = unicodedata.normalize("NFC", text)
-    text = fold_confusables(text)
+    """Fold confusables, optionally case-fold, and Unicode-normalize (NFC).
+
+    NFC comes last. Folding and lowercasing can both leave a string denormalised
+    again -- Avokaya text came back with i plus a combining dot below where NFC
+    composes ị -- so normalising first meant the output was not reliably NFC and
+    two canonically identical strings could compare unequal.
+    """
+    text = fold_confusables(unicodedata.normalize("NFC", text))
     if lower:
         text = text.lower()
-    return text
+    return unicodedata.normalize("NFC", text)
 
 
 def tokenize(text: str) -> List[Token]:
