@@ -1,7 +1,7 @@
 """africa-g2p: rule-based grapheme-to-phoneme conversion for African languages."""
-from .convert import (GraphemeConverter, UNIVERSAL, UniversalUnsupported,
-                      convert_lang, convert_to_ipa, from_ipa, roundtrip,
-                      universal_languages, universal_supported)
+from .convert import (GraphemeConverter, UNIVERSAL, convert_lang,
+                      convert_to_ipa, from_ipa, roundtrip,
+                      universal_fallback)
 from .english import ENGLISH_CODES, EnglishG2P, EspeakUnavailable
 from .g2p import G2P, g2p
 from .pipeline import AfricaPipeline
@@ -28,9 +28,7 @@ __all__ = [
     "convert_lang",
     "convert_to_ipa",
     "UNIVERSAL",
-    "UniversalUnsupported",
-    "universal_supported",
-    "universal_languages",
+    "universal_fallback",
     "EnglishG2P",
     "EspeakUnavailable",
     "ENGLISH_CODES",

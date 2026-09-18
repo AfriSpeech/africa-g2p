@@ -30,7 +30,7 @@ from .loader import load_rules
 from .normalizer import normalize_text, tie_affricates, tokenize
 
 _DATA = Path(__file__).resolve().parent / "data"
-_BLOCKED_FILE = _DATA / "universal_blocked.json"
+_FALLBACK_FILE = _DATA / "universal_fallback.json"
 _UNIVERSAL_FILE = _DATA / "ipa_universal_graphemes.json"
 
 # Virtual language code: "write every phoneme with the grapheme most languages use".
@@ -336,49 +336,45 @@ def is_plain_latin_language(code: str) -> bool:
     return _alphabet_is_plain_latin(alphabet)
 
 
-class UniversalUnsupported(ValueError):
-    """Raised for a language whose text cannot be written in universal yet."""
-
-
 @lru_cache(maxsize=1)
-def _blocked() -> Dict[str, dict]:
-    try:
-        return json.loads(_BLOCKED_FILE.read_text(encoding="utf-8"))["languages"]
-    except Exception:
-        return {}
+def _fallback() -> Tuple[Dict[str, str], frozenset]:
+    """How the corpus as a whole writes a letter, for tables that omit it.
 
-
-def universal_supported(code: str) -> bool:
-    """False when ``code``'s text cannot be written in the universal orthography.
-
-    A handful of languages have a rule table for a different script than they are
-    actually written in -- Tarifit and Tashelhiyt are written in Arabic but
-    tabled in Latin, and the Omotic languages are written in Ethiopic. Their text
-    matches no grapheme, so it used to pass through and universal "output" was
-    the source script, verbatim and unconverted.
+    A letter a language's own table does not list used to survive into universal
+    output verbatim, so universal text came back with ŋ, ɔ, ɛ and ʃ still in it.
+    Every other table is evidence for how to write it: ŋ is spelt ng by 346 of
+    them, ɔ is spelt o by 295. One table's opinion is not a consensus, so a
+    spelling needs a quorum before it is used here.
     """
-    return code not in _blocked()
+    try:
+        d = json.loads(_FALLBACK_FILE.read_text(encoding="utf-8"))
+        return d.get("spell", {}), frozenset(d.get("drop", []))
+    except Exception:
+        return {}, frozenset()
 
 
-def universal_languages() -> List[str]:
-    """Languages that can be written in the universal orthography."""
-    from .loader import available_languages
-    codes = set(available_languages()) | set(plain_latin_languages())
-    return sorted(c for c in codes if universal_supported(c))
+def universal_fallback(ch: str) -> str | None:
+    """Spelling for a single letter no table of this language covers."""
+    spell, drop = _fallback()
+    if ch in drop:
+        return ""
+    return spell.get(ch)
 
 
-def _check_universal(code: str) -> None:
-    info = _blocked().get(code)
-    if info is None:
-        return
-    table = ("has no rule table" if info.get("table_is") == "none"
-             else f"is tabled in {info['table_is']}")
-    raise UniversalUnsupported(
-        f"{code} ({info['name']}) is written in {info['written_in']} but {table}, "
-        f"so its text cannot be written in the universal orthography yet and would "
-        f"pass through as {info['written_in']} unchanged. "
-        f"Use africa_g2p.universal_supported({code!r}) to test this, or "
-        f"universal_languages() for the ones that work.")
+def _apply_fallback(text: str) -> str:
+    """Spell any leftover non a-z letter the way most tables spell it."""
+    spell, drop = _fallback()
+    if not spell:
+        return text
+    out = []
+    for ch in text:
+        if ch in drop:
+            continue
+        if ch.isalpha() and not ("a" <= ch <= "z"):
+            out.append(spell.get(ch, ch))
+        else:
+            out.append(ch)
+    return "".join(out)
 
 
 def strip_apostrophes(text: str) -> str:
@@ -417,10 +413,6 @@ class GraphemeConverter:
                     target does mark aspiration. Default True.
         """
         forward, reverse = _universal_tables()
-        if target == UNIVERSAL and source != UNIVERSAL:
-            _check_universal(source)
-        elif source == UNIVERSAL and target != UNIVERSAL:
-            _check_universal(target)
         self.source = source
         self.target = target
         self.relax_aspiration = relax_aspiration
@@ -455,7 +447,7 @@ class GraphemeConverter:
         separate token (the phoneme-sequence view)."""
         text = normalize_text(text, lower=lower)
         if self.passthrough:
-            return strip_apostrophes(_drop_marks(text))
+            return _apply_fallback(strip_apostrophes(_drop_marks(text)))
         out: list = []
         for tok in tokenize(text):
             if not tok.is_word or _is_english_word(tok.text):
@@ -471,19 +463,21 @@ class GraphemeConverter:
         # universal value contains an apostrophe, so removing them here cannot
         # corrupt a mapping.
         if self.target == UNIVERSAL:
-            result = strip_apostrophes(result)
+            result = _apply_fallback(strip_apostrophes(result))
         return result
 
     def convert_word(self, word: str, *, sep: str = "", lower: bool = True) -> str:
         """Convert a single word (no tokenization)."""
         if self.passthrough:
-            return strip_apostrophes(_drop_marks(normalize_text(word, lower=lower)))
+            return _apply_fallback(
+                strip_apostrophes(_drop_marks(normalize_text(word, lower=lower))))
         if _is_english_word(word):
             return word
         word = normalize_text(word, lower=lower)
         units = self._forward.convert_word(word, sep=" ", lower=False).split(" ")
         out = sep.join(self._map_units(units))
-        return strip_apostrophes(out) if self.target == UNIVERSAL else out
+        return (_apply_fallback(strip_apostrophes(out))
+                if self.target == UNIVERSAL else out)
 
     def _map_units(self, units: list) -> list:
         """Map each phoneme to a target grapheme, replacing the existing (preceding)
