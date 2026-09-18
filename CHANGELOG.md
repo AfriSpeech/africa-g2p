@@ -1,5 +1,47 @@
 # Changelog
 
+## 0.3.0
+
+### `proxy`: write any orthography in plain a-z, and read it back exactly
+
+`universal` spells a sound the way most languages spell it, which makes text
+from different languages comparable and loses the difference between Twi `/o/`
+and `/ɔ/`. The new `proxy` target keeps everything, by one rule that is the
+same in every language: an a-z letter stands for itself, a literal `x` doubles
+to `xx`, and anything else is written `x…x`.
+
+```python
+convert_lang("Onyankopɔn", "twi", PROXY)    # 'onyankopxoxn'
+convert_lang("onyankopxoxn", PROXY, "twi")  # 'onyankopɔn'
+```
+
+Reading it back is a scan, so nothing can be misread: 565 of 565 languages
+round-trip exactly, every character, measured on real corpus text. A character
+with no table entry encodes from its codepoint, so even a letter no rule table
+lists still comes back.
+
+### Non-Latin scripts are romanised by uroman
+
+Deriving a whole script letter by letter from our own tables produced a
+romanisation nobody uses — Amharic `ክርስቶስ` came out `kirisitosi`. uroman is
+context-free over these scripts, so its output is baked into a lookup table and
+the library still installs with no dependencies.
+
+```
+0.2.4   ወንጌል ማቴዎስ ሦራ፣ ልጆች።  ->  wenugelu matewosi sora፣ lujochi።
+0.3.0   ወንጌል ማቴዎስ ሦራ፣ ልጆች።  ->  wanegeele maateewose soraa, lejoche.
+```
+
+This also fixes Ethiopic punctuation passing through unconverted, and the
+Arabic vowel points being dropped — `يَوْم` was `ywm`, now `yawm`. They are
+vowels rather than tone marks, and uroman writes them as letters.
+
+### `normalize_text` normalises last
+
+It applied NFC first and then folded confusables and lowercased, either of
+which can leave a string denormalised again, so two canonically identical
+strings could compare unequal. This affects every caller.
+
 ## 0.2.4
 
 ### Collision avoidance no longer injects a schwa

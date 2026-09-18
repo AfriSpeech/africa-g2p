@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "africa-g2p"
-version = "0.2.4"
+version = "0.3.0"
 description = "Rule-based grapheme-to-phoneme (G2P) conversion for African languages, based on Hartell's Alphabets of Africa (UNESCO, 1993)."
 readme = "README.md"
 requires-python = ">=3.9"
