@@ -298,31 +298,43 @@ def test_passthrough_drops_tone_but_keeps_letters():
     assert convert_lang("kúu", "bez", UNIVERSAL) == "kuu"
 
 
-def test_wrong_script_languages_are_blocked_from_universal():
-    """A table for the wrong script does not convert, it passes text through.
+def test_unlisted_letters_are_spelt_the_way_most_tables_spell_them():
+    """A letter a language's own table omits used to survive into universal.
 
-    Tarifit and Tashelhiyt are written in Arabic but tabled in Latin; the Omotic
-    languages are written in Ethiopic and had been declared plain-Latin
-    passthrough. Either way every letter matched no grapheme, so "universal"
-    output was the source script returned verbatim. Refusing is more useful than
-    handing back Arabic and calling it universal."""
-    from africa_g2p import UniversalUnsupported, universal_supported
+    Every other table is evidence for how to write it: ŋ is spelt ng by 346 of
+    them, ɔ is spelt o by 295. Falling back on that consensus is what keeps
+    universal plain a-z when a table has a gap."""
+    from africa_g2p import universal_fallback
 
-    for code in ("rif", "shi", "apd", "fuv", "ttq", "dwr", "gof", "mfx", "oyd"):
-        assert not universal_supported(code)
-        with pytest.raises(UniversalUnsupported) as err:
-            convert_lang("test", code, UNIVERSAL)
-        assert code in str(err.value)
-        # and the other direction
-        with pytest.raises(UniversalUnsupported):
-            convert_lang("test", UNIVERSAL, code)
+    assert universal_fallback("ŋ") == "ng"
+    assert universal_fallback("ɔ") == "o"
+    assert universal_fallback("ɛ") == "e"
+    assert universal_fallback("ɓ") == "b"
+    # length and modifier marks are not written at all
+    assert universal_fallback("ː") == ""
+    assert universal_fallback("ʰ") == ""
+    # one table's opinion is not a consensus
+    assert universal_fallback("\u00fe") in (None, "") or universal_fallback("\u00fe").isascii()
 
 
-def test_working_languages_are_not_blocked():
-    from africa_g2p import universal_supported, universal_languages
+def test_latin_orthographies_of_arabic_script_languages_still_work():
+    """These have a Latin table and a Latin orthography, and convert cleanly.
 
-    for code in ("twi", "ewe", "gaa", "dag", "amh", "vai", "arq", "swh"):
-        assert universal_supported(code), code
-    langs = universal_languages()
-    assert "twi" in langs and "rif" not in langs
-    assert len(langs) > 800
+    They also have an Arabic-script corpus their table cannot read. Refusing the
+    whole language over that was wrong -- it would have broken the orthography
+    the table is actually for."""
+    cases = [("rif", "Ɣarwem aḏ teggem"), ("shi", "ġ-uwssan-an isfld"),
+             ("apd", "Kitaab miilaad"), ("fuv", "Gaɗa duuɓi ɗuɗɗi"),
+             ("ttq", "Ǝntanay da esmawan")]
+    for code, text in cases:
+        out = convert_lang(text, code, UNIVERSAL)
+        bad = [c for c in out if c.isalpha() and not ("a" <= c <= "z")]
+        assert not bad, f"{code}: {out!r} has {bad}"
+
+
+def test_universal_is_plain_a_z_even_with_table_gaps():
+    for code, text in [("ary", "æ"), ("naq", "ǃgâbi"), ("yal", "ɔɛ"),
+                       ("knf", "ŋŧ"), ("swb", "ɓɗ"), ("bwr", "ʒɬʃ")]:
+        out = convert_lang(text, code, UNIVERSAL)
+        bad = [c for c in out if c.isalpha() and not ("a" <= c <= "z")]
+        assert not bad, f"{code}: {out!r} has {bad}"
