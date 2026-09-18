@@ -379,3 +379,34 @@ def test_proxy_output_is_ascii_and_reversible():
         p = convert_lang(text, code, PROXY)
         assert all(ord(c) < 128 for c in p), f"{code}: {p!r} is not ASCII"
         assert convert_lang(p, PROXY, code) == normalize_text(text)
+
+
+def test_no_mark_spells_its_own_unicode_name():
+    """A mark with no phonetic value must not fall back on its own name.
+
+    uroman returns the character's name when it has nothing better: U+065C
+    ARABIC VOWEL SIGN DOT BELOW romanised to "dot" and U+0653 MADDAH ABOVE to
+    "maddah", so a TTS engine would say "dot" aloud in the middle of a Fulfulde
+    sentence. U+065B INVERTED SMALL V ABOVE gave "v", which reads as a
+    plausible letter but is the word V from its name.
+
+    The real Arabic vowel points are not affected -- fatha gives "a", and "a"
+    is not a word in "ARABIC FATHA"."""
+    import unicodedata
+    from africa_g2p.convert import _fallback
+
+    spell, _ = _fallback()
+    for ch, value in spell.items():
+        if not (unicodedata.combining(ch) or unicodedata.category(ch) in ("Mn", "Me")):
+            continue
+        try:
+            words = set(unicodedata.name(ch).lower().split())
+        except ValueError:
+            continue
+        assert value not in words, (
+            f"U+{ord(ch):04X} {unicodedata.name(ch, '?')} spells its own name: {value!r}")
+
+    # the vowel points keep their values
+    assert spell.get("َ") == "a"
+    assert spell.get("ُ") == "u"
+    assert spell.get("ِ") == "i"
