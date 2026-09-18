@@ -143,10 +143,22 @@ def main():
             # shadda or a tone accent. Dropping them all cost vocalised Arabic
             # its vowels: يَوْم came out "ywm" instead of "yawm".
             keep = "".join(c for c in r if "a" <= c <= "z")
-            if keep:
+            # A mark with no phonetic value gets its own name back: U+065C
+            # ARABIC VOWEL SIGN DOT BELOW romanised to "dot", U+0653 MADDAH
+            # ABOVE to "maddah", and U+065B INVERTED SMALL V ABOVE to "v" --
+            # which reads as a plausible letter but is the word V from the
+            # name. A TTS engine then says "dot" aloud mid-sentence. The real
+            # vowel points do not do this: fatha gives "a", and "a" is not a
+            # word in "ARABIC FATHA".
+            try:
+                name_words = set(unicodedata.name(ch).lower().split())
+            except ValueError:
+                name_words = set()
+            if keep and keep not in name_words:
                 spell[ch] = keep
                 drop.discard(ch)
             else:
+                spell.pop(ch, None)
                 drop.add(ch)
             continue
         r = "".join(c for c in r if "a" <= c <= "z")
