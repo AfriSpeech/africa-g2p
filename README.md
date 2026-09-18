@@ -1,13 +1,20 @@
 # africa-g2p
 
-Segment written text in **750 African languages** into phonemes — for text-to-speech, ASR,
-pronunciation lexicons, and linguistic tooling. Many languages support **multiple scripts**
-(e.g. Vai syllabary and Latin), and non-Latin scripts can be **transliterated to Latin** too.
+Work with the writing systems of **869 African languages** — for text-to-speech, ASR,
+pronunciation lexicons, and linguistic tooling. Four things, from one set of rule tables:
 
-By default the output is in each language's **native writing system** (the actual alphabet,
-with multigraphs like `ny`, `kp`, `gb` kept as single units) — which trains TTS/ASR models
-better than IPA. [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
-transcription is available with one option.
+- **Phonemes.** Segment text into the language's own alphabet (multigraphs like `ny`, `kp`,
+  `gb` kept as single units), which trains TTS/ASR models better than
+  [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) — or IPA, with one option.
+- **Between languages.** Write one language's text in another's orthography.
+- **One shared spelling.** `universal` writes each sound the way most languages write it, so
+  text from different languages lines up in a single column.
+- **A reversible plain-ASCII form.** `proxy` writes any orthography in a–z and reads back
+  exactly — 565 of 565 languages round-trip every character.
+
+Many languages support **multiple scripts** (e.g. Vai syllabary and Latin), and non-Latin
+scripts are **romanised** with [uroman](https://github.com/isi-nlp/uroman), baked into a table
+so the package still installs with no dependencies.
 
 ```python
 from africa_g2p import AfricaPipeline

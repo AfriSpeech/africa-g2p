@@ -2,7 +2,7 @@
 
 The rule tables cannot represent English: they map through/though/tough/thought to one
 identical string. These tests pin the behaviour that makes English usable, and the symbol
-conventions that keep it in the same phoneme space as the 400 rule-based languages.
+conventions that keep it in the same phoneme space as the rule-based languages.
 """
 from __future__ import annotations
 
