@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "africa-g2p"
-version = "0.3.1"
+version = "0.3.2"
 description = "Text and orthography toolkit for 869 African languages: grapheme-to-phoneme (native spelling or IPA), conversion between any two languages' orthographies, one shared cross-language spelling, and a reversible plain-ASCII form."
 readme = "README.md"
 requires-python = ">=3.9"

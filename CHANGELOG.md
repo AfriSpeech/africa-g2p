@@ -1,5 +1,27 @@
 # Changelog
 
+## 0.3.2
+
+### A mark no longer falls back on its own Unicode name
+
+uroman returns a character's name when it has nothing phonetic to give, and
+three Arabic marks took it:
+
+    U+065C  ARABIC VOWEL SIGN DOT BELOW            -> "dot"
+    U+0653  ARABIC MADDAH ABOVE                    -> "maddah"
+    U+065B  ARABIC VOWEL SIGN INVERTED SMALL V     -> "v"
+
+A Fulfulde sentence came out `asamanji dot ldotsdi`, so a TTS engine would read
+"dot" aloud mid-sentence.
+
+A mark is now rejected when its romanisation is a word from its own name --
+exactly the wrong cases and none of the right ones, since fatha still gives
+"a", damma "u" and kasra "i". The check is asserted over the whole table, so
+regenerating cannot reintroduce the class.
+
+It applies to marks only: for a letter, spelling a word from its own name is
+usually correct, and applying it there would have rejected 729 good entries.
+
 ## 0.3.1
 
 ### Universal output is ASCII, not merely free of non-ASCII letters
