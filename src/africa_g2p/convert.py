@@ -99,13 +99,46 @@ try:
 except ImportError:
     _spell = None
 
+_system_dict = None
+
+
+def _load_system_dict() -> set:
+    global _system_dict
+    if _system_dict is not None:
+        return _system_dict
+    _system_dict = set()
+    for path in ("/usr/share/dict/british-english", "/usr/share/dict/words", "/usr/share/dict/american-english"):
+        try:
+            with open(path) as f:
+                _system_dict = {line.strip().lower() for line in f if len(line.strip()) >= 3}
+                if _system_dict:
+                    break
+        except Exception:
+            pass
+    return _system_dict
+
 
 def _is_english_word(word: str) -> bool:
-    if _spell is None or len(word) < 3:
+    if len(word) < 3 or not word.isalpha() or not word.isascii():
         return False
-    if not word.isalpha() or not word.isascii():
-        return False
-    return word.lower() in _spell
+    w_low = word.lower()
+    if _spell is not None and w_low in _spell:
+        return True
+    return w_low in _load_system_dict()
+
+
+_eng_g2p_gb = None
+
+
+def _get_eng_g2p():
+    global _eng_g2p_gb
+    if _eng_g2p_gb is None:
+        try:
+            from .english import EnglishG2P
+            _eng_g2p_gb = EnglishG2P("eng-gb")
+        except Exception:
+            _eng_g2p_gb = False
+    return _eng_g2p_gb if _eng_g2p_gb is not False else None
 _SKIP_CATEGORIES = frozenset(("Mn", "Lm", "Cn", "Pc", "Pe", "Pf", "Po", "Ps", "Sm"))
 _TIE_SPLIT = re.compile("[\u0361\u035C]")
 
@@ -884,7 +917,25 @@ def convert_to_ipa(text: str, source: str, *, sep: str = "") -> str:
     (Gemini-normalised spellings and aspiration relaxation included). Lossy by design:
     two phonemes the universal set writes alike (e.g. /ɔ/ and /o/ both <o>) read back
     as the single winner phoneme. ``sep=" "`` prints per-unit phonemes; the default
-    ``sep=""`` emits continuous IPA."""
+    ``sep=""`` emits continuous IPA. Embedded English words are phonemised via
+    British English (eng-gb)."""
+    eng = _get_eng_g2p()
+    if eng:
+        out: list = []
+        for tok in tokenize(text):
+            if not tok.is_word:
+                out.append(tok.text)
+            elif _is_english_word(tok.text):
+                try:
+                    out.append(eng.convert(tok.text, sep=sep).strip())
+                except Exception:
+                    univ = GraphemeConverter(source, UNIVERSAL).convert(tok.text)
+                    out.append(_universal_g2p_engine().convert(univ, sep=sep))
+            else:
+                univ = GraphemeConverter(source, UNIVERSAL).convert(tok.text)
+                out.append(_universal_g2p_engine().convert(univ, sep=sep))
+        return "".join(out)
+
     universal = GraphemeConverter(source, UNIVERSAL).convert(text)
     return _universal_g2p_engine().convert(universal, sep=sep)
 

@@ -112,6 +112,14 @@ def test_english_words_skipped():
     assert convert_lang("Google is great", "twi", UNIVERSAL) == "google is great"
 
 
+def test_convert_to_ipa_preserves_english_phonetics():
+    # English words in African text are phonemised via British English
+    out = convert_to_ipa("Akwaaba and welcome to our university in Accra", "twi")
+    assert "wɛlkʌm" in out
+    assert "juːnɪvɜːsɪti" in out
+    assert "akʷaːba" in out
+
+
 def test_missing_language_raises():
     with pytest.raises(LanguageNotFoundError):
         GraphemeConverter("nope-not-a-lang", "ewe")
