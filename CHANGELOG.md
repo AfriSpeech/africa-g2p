@@ -2,6 +2,27 @@
 
 ## Unreleased
 
+### Native C library, kept identical to Python by CI
+
+`native/` is a C port of the universal and IPA conversion paths for on-device use (no
+Python, no dictionary, no GPL dependencies; Unicode via vendored utf8proc). It does not
+carry its own copy of the data: `native/tools/export_tables.py` exports every language's
+finished tables from this package, and the new CI workflow builds the library, exports all
+869 languages and checks on every pull request that C and Python output are byte-identical
+(804,532 comparisons), plus an AddressSanitizer/UBSan pass. A change to the tables flows to
+C by re-exporting; a change to the conversion logic fails CI until the C engine matches.
+
+The repository had no test CI before; `.github/workflows/ci.yml` now also runs the Python
+test suite on every pull request.
+
+### Ghanaian grapheme units follow the corrected tables
+
+The TTS-convention fix below corrected `graphemes` but left each table's `alphabet`, which
+is what the default grapheme output segments by. Fante `no`, `so`, `tu` and Twi `ia`, `ao`
+therefore stayed single units in grapheme mode (`Me no so tu` -> `m e no so tu`). The
+alphabets of the five reviewed tables now list exactly their graphemes, and a test keeps
+them in step. The README and showcase examples for these languages are regenerated.
+
 ### Ghanaian tables follow one TTS phoneme convention
 
 The Twi, Fante, Ewe, Ga and Dagbani tables were auto-extracted from Omniglot charts and
