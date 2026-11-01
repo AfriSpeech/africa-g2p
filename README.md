@@ -89,7 +89,7 @@ Want IPA instead?
 
 ```python
 AfricaPipeline(lang="twi", output="ipa").run("Onyankopɔn", sep=" ")
-# 'o ɲ a n kʰ o pʰ ɔ n'
+# 'o ɲ a n k o p ɔ n'
 ```
 
 One-shot helper and CLI:
@@ -106,6 +106,13 @@ africa-g2p aka "Akwaaba" --sep " "     # space-separated units
 africa-g2p --list                      # list all supported languages
 echo "Akwaaba" | africa-g2p aka        # read from stdin
 ```
+
+## Native C library (on-device)
+
+[`native/`](native/README.md) is a dependency-free C port of the universal and IPA paths, for
+mobile and embedded use (e.g. alongside sherpa-onnx). Its tables are exported from this package
+and CI checks on every pull request that its output is byte-identical to the Python converter
+for every language, so the two cannot drift apart.
 
 ## Output modes
 
@@ -191,9 +198,9 @@ convert_lang("kpako", UNIVERSAL, "dyu")                # -> 'kpako' (universal -
 
 When a target language has no entry for a source phoneme it is mapped via the universal set. By
 default, aspiration is **relaxed** during this matching: a target that spells /tʰ/ as `<th>` keeps
-it, but a target with no /tʰ/ at all writes it as its /t/ (e.g. Twi `k` `/kʰ/` → Ewe/Swahili `k`),
-and rare aspirated phonemes like /tɕʰ/ take the majority grapheme of their plain counterpart (Twi
-`ky` `/tɕʰ/` → `ch`). Pass `relax_aspiration=False` to keep strict exact-value matching.
+it, but a target with no /tʰ/ at all writes it as its /t/ (e.g. Kisi `k` `/kʰ/` → Ewe/Swahili `k`),
+and rare aspirated phonemes like /tɕʰ/ take the majority grapheme of their plain counterpart
+(/tɕʰ/ → `ch`, like /tɕ/). Pass `relax_aspiration=False` to keep strict exact-value matching.
 
 The per-IPA winners start from the majority survey `scripts/ipa_universal_graphemes.py`, then
 `scripts/build_universal_from_gemini.py` replaces each winner with the Latin/English-style spelling
@@ -794,12 +801,12 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 <summary><b>Dagbani</b> (<code>dag</code> · GH)</summary>
 
 > **Text:** ni zuɣulaannim mini tɔbbihi ni sariakaritiba ni anabinima ni baɣisi ni kpamba.  
-> **Phonemes:** `n i z u ɣ u l aa n n i m m i n i t ɔ b b i h i n i s a r i a k a r i t i b a n i a n a b i n i m a n i b a ɣ i s i n i kp a m b a.`  
-> **IPA:** `n i z u ɣ u l aː n n i m m i n i t ɔ b b i h i n i s a r i a k a r i t i b a n i a n a b i n i m a n i b a ɣ i s i n i k͡p a m b a.`
+> **Phonemes:** `n i z u ɣ u l a a n n i m m i n i t ɔ b b i h i n i s a r i a k a r i t i b a n i a n a b i n i m a n i b a ɣ i s i n i kp a m b a.`  
+> **IPA:** `n i z u ɣ u l a a n n i m m i n i t ɔ b b i h i n i s a r i a k a r i t i b a n i a n a b i n i m a n i b a ɣ i s i n i k͡p a m b a.`
 
 > **Text:** ka bi tɛhi ni napɔŋ ni tooi no ŋ-ŋma li, ka mɔɣu ni biŋkɔbiri gba ni tooi no li.  
 > **Phonemes:** `k a b i t ɛ h i n i n a p ɔ ŋ n i t o o i n o ŋ-ŋm a l i, k a m ɔ ɣ u n i b i ŋ k ɔ b i r i gb a n i t o o i n o l i.`  
-> **IPA:** `k a b i t ɛ h i n i n a p ɔ ŋ n i t oː oː i n oː ŋ-ŋ͡m a l i, k a m ɔ ɣ u n i b i ŋ k ɔ b i r i ɡ͡b a n i t oː oː i n oː l i.`
+> **IPA:** `k a b i t ɛ h i n i n a p ɔ ŋ n i t o o i n o ŋ-ŋ͡m a l i, k a m ɔ ɣ u n i b i ŋ k ɔ b i r i ɡ͡b a n i t o o i n o l i.`
 
 </details>
 
@@ -912,11 +919,11 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 
 > **Text:** agbadɔ ŋu tsyotiwo kple kpɔ ŋu tsyotiwo kpakple woƒe atagbiawo;.  
 > **Phonemes:** `a gb a d ɔ ŋ u ts y o t i w o kp l e kp ɔ ŋ u ts y o t i w o kp a kp l e w o ƒ e a t a gb i a w o;.`  
-> **IPA:** `a ɡ͡b a d ɔ ŋ u ts y o t i w o k͡p l e k͡p ɔ ŋ u ts y o t i w o k͡p a k͡p l e w o ɸ e a t a ɡ͡b i a w o;.`
+> **IPA:** `a ɡ͡b a d ɔ ŋ u t͡s j o t i w o k͡p l e k͡p ɔ ŋ u t͡s j o t i w o k͡p a k͡p l e w o ɸ e a t a ɡ͡b i a w o;.`
 
 > **Text:** Yosua, Nun vi, ame si nye Mose ƒe kpeɖeŋutɔ tso ɖekakpuime ke la, gblɔ na Mose be: Nye Aƒetɔ Mose, gbe na wo.  
-> **Phonemes:** `y o s u a, n u n v i, a m e si ny e m o s e ƒ e kp e ɖ e ŋ u t ɔ ts o ɖ e k a kp u i m e k e l a, gb l ɔ n a m o s e b e: ny e a ƒ e t ɔ m o s e, gb e n a w o.`  
-> **IPA:** `y o s u a, n u n v i, a m e ʃi ɲ e m o s e ɸ e k͡p e ɖ e ŋ u t ɔ ts o ɖ e k a k͡p u i m e k e l a, ɡ͡b l ɔ n a m o s e b e: ɲ e a ɸ e t ɔ m o s e, ɡ͡b e n a w o.`
+> **Phonemes:** `y o s u a, n u n v i, a m e s i ny e m o s e ƒ e kp e ɖ e ŋ u t ɔ ts o ɖ e k a kp u i m e k e l a, gb l ɔ n a m o s e b e: ny e a ƒ e t ɔ m o s e, gb e n a w o.`  
+> **IPA:** `j o s u a, n u n v i, a m e s i ɲ e m o s e ɸ e k͡p e ɖ e ŋ u t ɔ t͡s o ɖ e k a k͡p u i m e k e l a, ɡ͡b l ɔ n a m o s e b e: ɲ e a ɸ e t ɔ m o s e, ɡ͡b e n a w o.`
 
 </details>
 
@@ -937,12 +944,12 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 <summary><b>Fante</b> (<code>fat</code> · GH)</summary>
 
 > **Text:** Ɛno enti na apam a ɛdi ɛkan no wɔnam mogya so na wɔhyɛɛ no den no.  
-> **Phonemes:** `ɛ no e n t i n a a p a m a ɛ d i ɛ k a n no w ɔ n a m m o gy a so n a w ɔ hy ɛ ɛ no d e n no.`  
-> **IPA:** `ɛ nʷ e n t i n a a p a m a ɛ d i ɛ k a n nʷ w ɔ n a m m o dʒ a sʷ n a w ɔ ɕʷ ɛ ɛ nʷ d e n nʷ.`
+> **Phonemes:** `ɛ n o e n t i n a a p a m a ɛ d i ɛ k a n n o w ɔ n a m m o gy a s o n a w ɔ hy ɛ ɛ n o d e n n o.`  
+> **IPA:** `ɛ n o e n t i n a a p a m a ɛ d i ɛ k a n n o w ɔ n a m m o d͡ʑ a s o n a w ɔ ç ɛ ɛ n o d e n n o.`
 
 > **Text:** Ɛkorɔn sene ɔsoro, ɛdeɛn na wobɛtumi ayɛ? Emu dɔ sene damena ase tɔnn, ɛdeɛn na wobɛtumi ahunu?.  
-> **Phonemes:** `ɛ k o r ɔ n s e n e ɔ so r o, ɛ d e ɛ n n a w o b ɛ tu m i a y ɛ? e m u d ɔ s e n e d a m e n a a s e t ɔ n n, ɛ d e ɛ n n a w o b ɛ tu m i a h u nu?.`  
-> **IPA:** `ɛ k o r ɔ n s e n e ɔ sʷ r o, ɛ d e ɛ n n a w o b ɛ tʷ m i a j ɛ? e m u d ɔ s e n e d a m e n a a s e t ɔ n n, ɛ d e ɛ n n a w o b ɛ tʷ m i a h u nʷ?.`
+> **Phonemes:** `ɛ k o r ɔ n s e n e ɔ s o r o, ɛ d e ɛ n n a w o b ɛ t u m i a y ɛ? e m u d ɔ s e n e d a m e n a a s e t ɔ n n, ɛ d e ɛ n n a w o b ɛ t u m i a h u n u?.`  
+> **IPA:** `ɛ k o ɾ ɔ n s e n e ɔ s o ɾ o, ɛ d e ɛ n n a w o b ɛ t u m i a j ɛ? e m u d ɔ s e n e d a m e n a a s e t ɔ n n, ɛ d e ɛ n n a w o b ɛ t u m i a h u n u?.`
 
 </details>
 
@@ -990,7 +997,7 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 
 > **Text:** kɛ gɔji grɔŋŋi lɛ fɛɛ kɛ gɔŋkpɔi ni kwɔlɔ lɛ fɛɛ.  
 > **Phonemes:** `k ɛ g ɔ j i g r ɔ ŋ ŋ i l ɛ f ɛ ɛ k ɛ g ɔ ŋ kp ɔ i n i kw ɔ l ɔ l ɛ f ɛ ɛ.`  
-> **IPA:** `k ε ɡ ɔ ʤ i ɡ r ɔ ŋ ŋ i l ε f ε ε k ε ɡ ɔ ŋ kp ɔ i n i kʷ ɔ l ɔ l ε f ε ε.`
+> **IPA:** `k ɛ ɡ ɔ d͡ʒ i ɡ r ɔ ŋ ŋ i l ɛ f ɛ ɛ k ɛ ɡ ɔ ŋ k͡p ɔ i n i kʷ ɔ l ɔ l ɛ f ɛ ɛ.`
 
 > **Text:** Te̱sā mli ehĩo̱ ni dše̱i ewo̱ö̱, te̱sā le̱ nā šõšō̃šõ heni tamo̱ mō̃ le̱ no̱.  
 > **Phonemes:** `t e̱ s ā m l i e h ĩ o̱ n i d š e̱ i e w o̱ ö̱, t e̱ s ā l e̱ n ā š õ š ō̃ š õ h e n i t a m o̱ m ō̃ l e̱ n o̱.`  
@@ -2647,11 +2654,11 @@ Real sentences from the [africa-corpus](https://github.com/AfriSpeech/africa-cor
 
 > **Text:** Ɔsɔfo no bɛhwɛ no na sɛ ɔhonam no fa hɔ ayɛ fitaa de a, ɔsɔfo no bɛpae mu aka sɛ ne ho atɔ no.  
 > **Phonemes:** `ɔ s ɔ f o n o b ɛ hw ɛ n o n a s ɛ ɔ h o n a m n o f a h ɔ a y ɛ f i t a a d e a, ɔ s ɔ f o n o b ɛ p a e m u a k a s ɛ n e h o a t ɔ n o.`  
-> **IPA:** `ɔ s ɔ f o n o b ɛ hʷ ɛ n o n a s ɛ ɔ h o n a m n o f a h ɔ a j ɛ f ɪ tʰ a a d e a, ɔ s ɔ f o n o b ɛ pʰ a e m u a kʰ a s ɛ n e h o a tʰ ɔ n o.`
+> **IPA:** `ɔ s ɔ f o n o b ɛ hʷ ɛ n o n a s ɛ ɔ h o n a m n o f a h ɔ a j ɛ f i t a a d e a, ɔ s ɔ f o n o b ɛ p a e m u a k a s ɛ n e h o a t ɔ n o.`
 
 > **Text:** ne Miklot a ɔyɛ Simea agya. Na saa abusuafo yi tete bemmɛn wɔn ho wɔn ho wɔ Yerusalem.  
 > **Phonemes:** `n e m i k l o t a ɔ y ɛ s i m e a a gy a. n a s a a a b u s u a f o y i t e t e b e m m ɛ n w ɔ n h o w ɔ n h o w ɔ y e r u s a l e m.`  
-> **IPA:** `n e m ɪ kʰ l o tʰ a ɔ j ɛ s ɪ m e a a dʑ a. n a s a a a b u s u a f o j ɪ tʰ e tʰ e b e m m ɛ n w ɔ n h o w ɔ n h o w ɔ j e ɾ u s a l e m.`
+> **IPA:** `n e m i k l o t a ɔ j ɛ s i m e a a d͡ʑ a. n a s a a a b u s u a f o j i t e t e b e m m ɛ n w ɔ n h o w ɔ n h o w ɔ j e ɾ u s a l e m.`
 
 </details>
 

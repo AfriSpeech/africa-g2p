@@ -70,3 +70,22 @@ def test_ipa_examples(lang, text, ipa):
 def test_twi_dw_universal_is_ascii(monkeypatch):
     monkeypatch.setattr(C, "_is_english_word", lambda w: False)
     assert GraphemeConverter("twi", UNIVERSAL).convert("dwuma Kwadwo") == "jwuma kwajwo"
+
+
+@pytest.mark.parametrize("lang", REVIEWED)
+def test_alphabet_units_match_the_table(lang):
+    """Grapheme output segments by `alphabet`; it must not keep units the table removed
+    (Fante `no`/`tu` used to stay single units in grapheme mode after the IPA fix)."""
+    rules = json.loads((LANG_DIR / f"{lang}.json").read_text(encoding="utf-8"))
+    assert set(rules["alphabet"]) == set(rules["graphemes"])
+    assert set(rules["scripts"]["latin"]) == set(rules["graphemes"])
+
+
+@pytest.mark.parametrize("lang,text,units", [
+    ("fat", "Me no so tu", "m e n o s o t u"),
+    ("twi", "Kwasia ao", "kw a s i a a o"),
+    ("ewe", "si", "s i"),
+    ("gaa", "ɔ̃", "ɔ̃"),
+])
+def test_grapheme_mode_examples(lang, text, units):
+    assert G2P(lang).convert(text, sep=" ") == units
