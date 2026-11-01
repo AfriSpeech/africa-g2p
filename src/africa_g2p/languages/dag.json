@@ -3,8 +3,8 @@
   "name": "Dagbani",
   "country": "GH",
   "family": "Atlantic-Congo",
-  "source": "Omniglot chart (dagbani.xls), © Simon Ager, https://omniglot.com",
-  "confidence": "omniglot",
+  "source": "Omniglot chart (dagbani.xls), © Simon Ager, https://omniglot.com; corrected to docs/IPA_CONVENTION.md v1 (proposed by gemini-pro-latest, reviewed 2026-11-01; not yet verified by a native speaker)",
+  "confidence": "tts-reviewed",
   "scripts": {
     "native": [],
     "latin": [
@@ -55,7 +55,7 @@
     "b": "b",
     "ch": "t͡ʃ",
     "d": "d",
-    "e": "eː",
+    "e": "e",
     "ɛ": "ɛ",
     "f": "f",
     "g": "ɡ",
@@ -72,7 +72,8 @@
     "n": "n",
     "ny": "ɲ",
     "ŋ": "ŋ",
-    "o": "oː",
+    "ŋm": "ŋ͡m",
+    "o": "o",
     "ɔ": "ɔ",
     "p": "p",
     "r": "r",
@@ -85,17 +86,19 @@
     "y": "j",
     "z": "z",
     "ʒ": "ʒ",
-    "’": "ʔ",
-    "aa": "aː",
-    "ii": "iː",
-    "uu": "uː",
-    "nny": "ɲ̩ɲ",
-    "ŋm": "ŋ͡m"
+    "’": "ʔ"
   },
   "romanization": {},
-  "diacritics": {},
+  "diacritics": {
+    "̃": "̃",
+    "́": "",
+    "̀": "",
+    "̂": "",
+    "̌": "",
+    "̄": ""
+  },
   "tones": {},
-  "notes": "Where multiple allophones/alternatives were listed in slash notation, the first IPA option was selected as per guidelines.",
+  "notes": "One phoneme per entry, broad transcription (docs/IPA_CONVENTION.md). Vowel sequences, doubled vowels and context-dependent spellings are read letter by letter. Original chart notes: Where multiple allophones/alternatives were listed in slash notation, the first IPA option was selected as per guidelines.",
   "alphabet": [
     "a",
     "aa",

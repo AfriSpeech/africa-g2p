@@ -111,7 +111,7 @@ def test_orthographic_y_is_palatal_glide():
 def test_twi_unaffected_by_composed_matching():
     """Regression guard: languages without composed keys must be untouched."""
     assert G2P("twi", output="ipa").phonemes("Onyankopɔn") == [
-        "o", "ɲ", "a", "n", "kʰ", "o", "pʰ", "ɔ", "n",
+        "o", "ɲ", "a", "n", "k", "o", "p", "ɔ", "n",
     ]
 
 

@@ -1,5 +1,42 @@
 # Changelog
 
+## Unreleased
+
+### Ghanaian tables follow one TTS phoneme convention
+
+The Twi, Fante, Ewe, Ga and Dagbani tables were auto-extracted from Omniglot charts and
+each used its own notation: syllables and diphthongs as single units, aspiration in one
+language but not the next, ligature and untied affricates, and symbols that are not IPA
+at all. A multilingual TTS model trained on them sees the same sound as several symbols.
+Some entries were also simply wrong for speech:
+
+    fat  no -> nʷ   so -> sʷ   tu -> tʷ        the vowel was swallowed
+    fat  ua -> ʷia  ue -> ʷei̭                  modifier before the letter
+    ewe  ty -> ƫ    dy -> d̡    ŋw -> ŋw͡       not IPA / dangling tie bar
+    ewe  si -> ʃi   tsi -> ʧi                  syllables as one unit
+    dag  e -> eː    o -> oː                    every e and o long
+    twi  k -> kʰ    i -> ɪ     dw -> dʒ        phonetic detail; wrong affricate
+
+All five now follow `docs/IPA_CONVENTION.md`: one phoneme per entry, broad
+transcription (no aspiration, written vowel values, no tone), tie bars on affricates
+and labial-velars, `ɡ` not `g`, nasal vowels through the tilde, and the same symbol for
+the same sound in every language (`ny` is `ɲ`, `kp` is `k͡p` everywhere). Vowel
+sequences, doubled vowels and context-dependent spellings are read letter by letter.
+
+The corrections were proposed by gemini-pro-latest against the convention and reviewed
+entry by entry; they have not yet been checked by native speakers, so the files carry
+the new confidence value `"tts-reviewed"`. `build_rules.py` and `omniglot_build_rules.py`
+now protect `tts-reviewed` files from regeneration, as they already did `hand-verified`.
+
+- `d͡ʑʷ` (Akan `dw`) was missing from the universal survey, so `dwuma` came out
+  `dʑuma` with an IPA letter in it. It is now spelled `jw`, like its neighbours
+  `t͡ɕ -> ch`, `t͡ɕʷ -> chw`, `d͡ʑ -> j`.
+- `scripts/validate_tts_convention.py` checks any rule file against the convention, and
+  `tests/test_tts_convention.py` asserts it for every `tts-reviewed` table, including
+  that each phoneme has a plain a-z universal spelling.
+- The aspiration-relaxation tests used Twi as their aspirated example; they now use
+  Kisi, whose chart still transcribes aspiration.
+
 ## 0.3.2
 
 ### A mark no longer falls back on its own Unicode name

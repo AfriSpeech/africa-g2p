@@ -5,8 +5,8 @@ per-language rule files (src/africa_g2p/languages/*.json) and the registry.
 Usage:
     python scripts/build_rules.py [--raw extraction/raw] [--force]
 
-Skips pages flagged `is_language_page: false`. Hand-verified rule files (confidence
-"hand-verified") are never overwritten unless --force is given.
+Skips pages flagged `is_language_page: false`. Curated rule files (confidence
+"hand-verified" or "tts-reviewed") are never overwritten unless --force is given.
 """
 from __future__ import annotations
 
@@ -16,6 +16,9 @@ import re
 import unicodedata
 from collections import Counter
 from pathlib import Path
+
+# Rule files with these confidence values are curated by hand and never regenerated.
+PROTECTED_CONFIDENCE = {"hand-verified", "tts-reviewed"}
 
 ROOT = Path(__file__).resolve().parent.parent
 LANG_DIR = ROOT / "src" / "africa_g2p" / "languages"
@@ -138,7 +141,7 @@ def main() -> int:
         out = LANG_DIR / f"{code}.json"
         if out.exists() and not args.force:
             existing = json.loads(out.read_text(encoding="utf-8"))
-            if existing.get("confidence") == "hand-verified":
+            if existing.get("confidence") in PROTECTED_CONFIDENCE:
                 skipped += 1
                 continue
 

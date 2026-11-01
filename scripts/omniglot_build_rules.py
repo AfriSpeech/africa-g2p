@@ -16,6 +16,9 @@ import re
 import sys
 from pathlib import Path
 
+# Rule files with these confidence values are curated by hand and never regenerated.
+PROTECTED_CONFIDENCE = {"hand-verified", "tts-reviewed"}
+
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 sys.path.insert(0, str(ROOT / "src"))
@@ -99,7 +102,7 @@ def main() -> int:
     protected: set[str] = set()  # filenames we never delete/overwrite
     for p in LANG_DIR.glob("*.json"):
         d = json.loads(p.read_text(encoding="utf-8"))
-        if d.get("confidence") == "hand-verified":
+        if d.get("confidence") in PROTECTED_CONFIDENCE:
             protected.add(p.name)
         iso = d.get("iso639_3") or _canon_iso(d.get("name", ""))
         if iso:
