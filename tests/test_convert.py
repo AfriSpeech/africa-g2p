@@ -62,13 +62,15 @@ def test_aspiration_relaxed_for_target_without_aspiration():
 
 
 def test_target_exact_aspiration_still_wins():
-    # Duruma marks aspiration (kʰ -> <k'>), so its exact reading beats the relaxed one
-    assert convert_lang("ka", "twi", "dug", sep=" ") == "k' a"
+    # Duruma marks aspiration (kʰ -> <k'>), so its exact reading beats the relaxed one.
+    # Kisi's chart transcribes <k> as aspirated kʰ. (Twi used to, but its table now
+    # follows the broad TTS convention in docs/IPA_CONVENTION.md, without aspiration.)
+    assert convert_lang("ka", "kiz", "dug", sep=" ") == "k' a"
 
 
 def test_relax_aspiration_can_be_disabled():
-    conv = GraphemeConverter("twi", "ewe", relax_aspiration=False)
-    assert conv.convert_word("Onyankopɔn", sep=" ") == "o ny a n kh o ph ɔ n"
+    conv = GraphemeConverter("kiz", "ewe", relax_aspiration=False)
+    assert conv.convert_word("kapa", sep=" ") == "kh a ph a"
 
 
 def test_universal_as_source():

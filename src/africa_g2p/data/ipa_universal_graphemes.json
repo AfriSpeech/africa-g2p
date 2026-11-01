@@ -2,7 +2,7 @@
  "meta": {
   "description": "Universal grapheme set: for each IPA value, the grapheme most commonly used to write it across the language charts in this package.",
   "language_files": 400,
-  "phonemes": 2063,
+  "phonemes": 2064,
   "method": "one vote per language per distinct (grapheme, IPA) pair; ties broken by raw row count then lexicographically",
   "grapheme_source": "gemini-3.6-flash verbatim picks per IPA value (English/Latin-style spelling); votes/lang counts from the 400-language ipa survey",
   "revision": {
@@ -30327,6 +30327,19 @@
     "vh": 1
    },
    "base_grapheme": "vb"
+  },
+  "d͡ʑʷ": {
+   "grapheme": "jw",
+   "grapheme_langs": 2,
+   "langs": 2,
+   "votes": {
+    "dw": 2
+   },
+   "base": {
+    "dw": 2
+   },
+   "base_grapheme": "dw",
+   "grapheme_note": "added 2026-11-01 for Akan (twi, fat) dw after the TTS-convention correction; spelled like its neighbours t͡ɕ->ch, t͡ɕʷ->chw, d͡ʑ->j, d͡ʒʷ->jw"
   }
  }
 }

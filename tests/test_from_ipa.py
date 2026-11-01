@@ -17,7 +17,7 @@ def _skip_unless(code):
 
 @pytest.mark.parametrize("lang,ipa,expected", [
     ("twi", "ɔdɔ", "ɔdɔ"),
-    ("twi", "oɲankʰopʰɔn", "onyankopɔn"),
+    ("twi", "oɲankopɔn", "onyankopɔn"),
     ("bwu", "tɛŋka", "tɛŋka"),
 ])
 def test_from_ipa_writes_the_language_orthography(lang, ipa, expected):
