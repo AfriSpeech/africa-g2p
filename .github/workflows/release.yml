@@ -50,9 +50,12 @@ jobs:
       # Run the suite against the *installed wheel*, from outside the source tree: the
       # data files are the thing most likely to be missing from a build, and a test run
       # from the repo root would find them on disk whether or not they were packaged.
+      # Same environment as ci.yml: English loanword handling needs espeak-ng, the english
+      # extra (phonemizer) and an English word list.
       - name: Test the installed wheel
         run: |
-          pip install pytest
+          sudo apt-get update -q && sudo apt-get install -y -q espeak-ng
+          pip install pytest pyspellchecker "$(ls dist/*.whl)[english]"
           cd /tmp && python -m pytest "$GITHUB_WORKSPACE/tests" -q
 
       - uses: actions/upload-artifact@v4
