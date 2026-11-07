@@ -9,7 +9,7 @@ description = "Text and orthography toolkit for 869 African languages: grapheme-
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "Apache-2.0" }
-authors = [{ name = "Ghana NLP" }]
+authors = [{ name = "AfriSpeech" }]
 keywords = ["g2p", "phoneme", "ipa", "african-languages", "tts", "asr", "phonemizer",
             "orthography", "romanization", "transliteration", "text-normalization"]
 dependencies = []
