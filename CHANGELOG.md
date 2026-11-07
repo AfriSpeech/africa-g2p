@@ -1,6 +1,11 @@
 # Changelog
 
-## 0.3.3 (2026-11-07)
+## 0.3.4 (2026-11-07)
+
+Same package as 0.3.3, which was tagged but never reached PyPI: the release workflow tested the
+wheel without espeak-ng and the english extra. It now installs them, as CI does.
+
+## 0.3.3 (2026-11-07, not published)
 
 ### Native C library, kept identical to Python by CI
 
