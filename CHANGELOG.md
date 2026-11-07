@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.3.3 (2026-11-07)
 
 ### Native C library, kept identical to Python by CI
 
