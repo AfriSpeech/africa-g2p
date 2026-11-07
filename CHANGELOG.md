@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.5 (2026-11-07)
+
+Package metadata: the author is AfriSpeech (africa-g2p is an AfriSpeech project). No code changes.
+
 ## 0.3.4 (2026-11-07)
 
 Same package as 0.3.3, which was tagged but never reached PyPI: the release workflow tested the
