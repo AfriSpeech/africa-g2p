@@ -21,7 +21,8 @@ class G2P:
 
     def __init__(self, code: str, *, output: str = "grapheme",
                  unknown: str = "passthrough", clean: bool = True,
-                 strip_diacritics: bool = False, fallback: bool = True):
+                 strip_diacritics: bool = False, fallback: bool = True,
+                 codeswitch: bool | dict[str, str] = False):
         """
         Args:
             code: ISO 639-3 language code with a rule file.
@@ -35,7 +36,7 @@ class G2P:
                     "latin": romanise a non-Latin script to its Latin form (uses the
                     language's script→Latin map; Latin input passes through unchanged).
             unknown: how to treat a grapheme with no mapping —
-                     "passthrough" (keep the character), "drop", or "mark" (�).
+                     "passthrough" (keep the character), "drop", or "mark" ().
             clean: IPA mode only — if True (default), guarantee the output holds only
                    phoneme symbols and IPA diacritics (strips any leaked orthographic
                    tone/accent marks).
@@ -49,6 +50,9 @@ class G2P:
                    always complete (naw has no p, bud no e or o), and losing a phoneme
                    silently is worse than an error because the output still looks
                    plausible. The language's own rules always take precedence.
+            codeswitch: when True (or a dict), convert embedded English loanwords,
+                   nouns and named entities via the code-switching lexicon (espeak-ng IPA)
+                   while preserving surrounding words in native African G2P.
         """
         if output not in ("ipa", "grapheme", "latin"):
             raise ValueError("output must be 'ipa', 'grapheme', or 'latin'")
@@ -58,12 +62,14 @@ class G2P:
         self.clean = clean
         self.strip_diacritics = strip_diacritics
         self.fallback = fallback
+        self.codeswitch = codeswitch
         self._build_tables(load_rules(code))
 
     @classmethod
     def from_rules(cls, rules: Dict, *, output: str = "ipa",
                    unknown: str = "passthrough", clean: bool = True,
-                   strip_diacritics: bool = False, fallback: bool = True) -> "G2P":
+                   strip_diacritics: bool = False, fallback: bool = True,
+                   codeswitch: bool | dict[str, str] = False) -> "G2P":
         """Build a G2P from an in-memory rules dict rather than a language file.
 
         Used by the cross-language converter for its virtual ``"universal"`` language
@@ -78,6 +84,7 @@ class G2P:
         self.clean = clean
         self.strip_diacritics = strip_diacritics
         self.fallback = fallback
+        self.codeswitch = codeswitch
         self._build_tables(rules)
         return self
 
@@ -117,8 +124,19 @@ class G2P:
         self.diacritics: Dict[str, str] = dict(rules.get("diacritics", {}))
 
     # ------------------------------------------------------------------ public
-    def convert(self, text: str, *, sep: str = "", lower: bool = True) -> str:
+    def convert(self, text: str, *, sep: str = "", lower: bool = True,
+                codeswitch: bool | dict[str, str] | None = None) -> str:
         """Convert a full text string to an IPA string."""
+        cs = getattr(self, "codeswitch", False) if codeswitch is None else codeswitch
+        if cs and self.output == "ipa":
+            from .codeswitch import convert_codeswitch, load_codeswitch_dict
+            lexicon = cs if isinstance(cs, dict) else load_codeswitch_dict()
+            if lexicon:
+                return convert_codeswitch(
+                    text, self.code, lexicon,
+                    lambda w, l: self._convert_word(normalize_text(w, lower=lower), sep=sep)
+                )
+
         text = normalize_text(text, lower=lower)
         out: List[str] = []
         for tok in tokenize(text):
@@ -260,10 +278,11 @@ class G2P:
 
 def g2p(text: str, lang: str, *, output: str = "grapheme",
         unknown: str = "passthrough", clean: bool = True,
-        strip_diacritics: bool = False, **kwargs) -> str:
+        strip_diacritics: bool = False,
+        codeswitch: bool | dict[str, str] = False, **kwargs) -> str:
     """One-shot convenience wrapper: ``g2p("akwaaba", "aka")``.
 
-    Constructor options (output/unknown/clean/strip_diacritics) are accepted here;
+    Constructor options (output/unknown/clean/strip_diacritics/codeswitch) are accepted here;
     remaining keyword arguments (sep, lower) are passed to ``convert``.
 
     English routes to espeak — see AfricaPipeline for why the eng.json rule table must not be
@@ -276,4 +295,5 @@ def g2p(text: str, lang: str, *, output: str = "grapheme",
         return EnglishG2P(
             lang, output="ipa" if output == "grapheme" else output).convert(text, **kwargs)
     return G2P(lang, output=output, unknown=unknown, clean=clean,
-               strip_diacritics=strip_diacritics).convert(text, **kwargs)
+               strip_diacritics=strip_diacritics, codeswitch=codeswitch).convert(
+                   text, codeswitch=codeswitch, **kwargs)

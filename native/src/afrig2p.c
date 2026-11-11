@@ -533,20 +533,28 @@ int afrig2p_set_english_words(afrig2p *g, const char *data, size_t len) {
   size_t pos = 0;
   while (pos < len) {
     size_t end = pos;
-    while (end < len && data[end] != '\n') end++;
+    while (end < len && data[end] != '\n' && data[end] != '\r') end++;
+    size_t tab = pos;
+    while (tab < end && data[tab] != '\t') tab++;
     cps w = {0};
-    if (utf8_decode(data + pos, end - pos, &w) == 0) {
+    if (utf8_decode(data + pos, (tab < end ? tab - pos : end - pos), &w) == 0) {
       size_t a = 0, b = w.n;
       while (a < b && is_py_space(w.v[a])) a++;
       while (b > a && is_py_space(w.v[b - 1])) b--;
-      if (b - a >= 3) { /* convert._load_system_dict keeps len >= 3 */
+      if (b - a >= 2) {
         cps lw = lower_of(w.v + a, b - a);
-        map_put(&g->english, lw.v, lw.n, NULL, 0);
+        cps val = {0};
+        if (tab < end && end > tab + 1) {
+          utf8_decode(data + tab + 1, end - (tab + 1), &val);
+        }
+        map_put(&g->english, lw.v, lw.n, val.v, val.n);
         cps_free(&lw);
+        cps_free(&val);
       }
     }
     cps_free(&w);
-    pos = end + 1;
+    pos = end;
+    while (pos < len && (data[pos] == '\n' || data[pos] == '\r')) pos++;
   }
   g->has_english = 1;
   return 0;
@@ -1074,19 +1082,49 @@ char *afrig2p_to_ipa(const afrig2p *g, const char *text, const char *sep) {
   cps_free(&in);
   cps out = {0};
   tokens toks = tokenize(&t);
-  for (size_t k = 0; k < toks.n; k++) {
-    const int32_t *v = t.v + toks.v[k].start;
-    size_t n = toks.v[k].end - toks.v[k].start;
+  size_t k = 0;
+  while (k < toks.n) {
     if (!toks.v[k].is_word) {
-      cps_append(&out, v, n);
+      cps_append(&out, t.v + toks.v[k].start, toks.v[k].end - toks.v[k].start);
+      k++;
       continue;
     }
+    int matched = 0;
+    if (g->has_english) {
+      for (int step = 3; step >= 1; step--) {
+        size_t last_word_idx = k + (step - 1) * 2;
+        if (last_word_idx < toks.n && toks.v[last_word_idx].is_word) {
+          int all_words = 1;
+          for (size_t wi = 1; wi < (size_t)step; wi++) {
+            if (!toks.v[k + wi * 2].is_word) { all_words = 0; break; }
+          }
+          if (all_words) {
+            size_t phrase_start = toks.v[k].start;
+            size_t phrase_len = toks.v[last_word_idx].end - phrase_start;
+            cps phrase_cps = lower_of(t.v + phrase_start, phrase_len);
+            const entry *e = map_get(&g->english, phrase_cps.v, phrase_cps.n);
+            cps_free(&phrase_cps);
+            if (e && e->vn > 0) {
+              cps_append(&out, e->val, e->vn);
+              k = last_word_idx + 1;
+              matched = 1;
+              break;
+            }
+          }
+        }
+      }
+    }
+    if (matched) continue;
+
+    const int32_t *v = t.v + toks.v[k].start;
+    size_t n = toks.v[k].end - toks.v[k].start;
     cpslist seg = {0};
     segment(g, v, n, &seg);
     cps j = list_join(&seg, &sp);
     cps_cat(&out, &j);
     cps_free(&j);
     list_free(&seg);
+    k++;
   }
   free(toks.v);
   cps_free(&t);

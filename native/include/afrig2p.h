@@ -53,14 +53,13 @@ AFRIG2P_API const char *afrig2p_language(const afrig2p *g);
  * rule file support universal output only; afrig2p_to_ipa returns NULL for them. */
 AFRIG2P_API int afrig2p_has_ipa(const afrig2p *g);
 
-/* English-loanword skip for universal output.
+/* English-loanword skip for universal output, and code-switching dictionary for IPA output.
  *
- * The Python package leaves a word unconverted when it is an English word,
- * judged against whatever dictionary happens to be installed (pyspellchecker
- * or /usr/share/dict/words). That is machine-dependent, so here it is explicit:
- * pass a newline-separated word list (same rule as Python: a word counts when
- * it is ASCII, alphabetic, >= 3 letters and in the list). Pass NULL to disable
- * (the default). Returns 0 on success. Not thread-safe w.r.t. conversions. */
+ * Pass a TSV formatted list ("word\tipa\n...") or newline-separated word list ("word\n...").
+ * In IPA mode (afrig2p_to_ipa), any word or phrase matching an entry with an IPA value is
+ * replaced with its English IPA.
+ * In universal mode (afrig2p_to_universal), words matching the list are left unconverted.
+ * Pass NULL to disable (the default). Returns 0 on success. Not thread-safe w.r.t. conversions. */
 AFRIG2P_API int afrig2p_set_english_words(afrig2p *g, const char *data, size_t len);
 
 /* Convert UTF-8 text. `sep` (UTF-8, may be NULL meaning "") joins the units
