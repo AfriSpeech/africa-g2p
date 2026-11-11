@@ -124,7 +124,13 @@ def _is_english_word(word: str) -> bool:
     w_low = word.lower()
     if _spell is not None and w_low in _spell:
         return True
-    return w_low in _load_system_dict()
+    if w_low in _load_system_dict():
+        return True
+    try:
+        from .codeswitch import load_codeswitch_dict
+        return w_low in load_codeswitch_dict()
+    except Exception:
+        return False
 
 
 _eng_g2p_gb = None

@@ -1,4 +1,5 @@
 """africa-g2p: rule-based grapheme-to-phoneme conversion for African languages."""
+from .codeswitch import convert_codeswitch, load_codeswitch_dict
 from .convert import (GraphemeConverter, UNIVERSAL, PROXY, convert_lang,
                       convert_to_ipa, from_ipa, roundtrip,
                       universal_fallback, to_proxy, from_proxy)
